@@ -1,0 +1,63 @@
+{
+  "aisaikesi": {
+    "7": {
+      "layers": [
+        {
+          "name": "base",
+          "atlas": "ship/aisaikesi/aisaikesi_7/aisaikesi_7B.atlas",
+          "skel": "ship/aisaikesi/aisaikesi_7/aisaikesi_7B.skel",
+          "images": [
+            "ship/aisaikesi/aisaikesi_7/aisaikesi_7B.png",
+            "ship/aisaikesi/aisaikesi_7/aisaikesi_7BG.png"
+          ]
+        },
+        {
+          "name": "top",
+          "atlas": "ship/aisaikesi/aisaikesi_7/aisaikesi_7T.atlas",
+          "skel": "ship/aisaikesi/aisaikesi_7/aisaikesi_7T.skel",
+          "images": ["ship/aisaikesi/aisaikesi_7/aisaikesi_7T.png"]
+        }
+      ]
+    },
+    "9": {
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/aisaikesi/aisaikesi_9/aisaikesi_9.atlas",
+          "skel": "ship/aisaikesi/aisaikesi_9/aisaikesi_9.skel",
+          "images": [
+            "ship/aisaikesi/aisaikesi_9/aisaikesi_9.png",
+            "ship/aisaikesi/aisaikesi_9/aisaikesi_92.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/aisaikesi/aisaikesi_g/aisaikesi_g.atlas",
+          "skel": "ship/aisaikesi/aisaikesi_g/aisaikesi_g.skel",
+          "images": [
+            "ship/aisaikesi/aisaikesi_g/aisaikesi_g.png",
+            "ship/aisaikesi/aisaikesi_g/aisaikesi_g2.png",
+            "ship/aisaikesi/aisaikesi_g/aisaikesi_g3.png",
+            "ship/aisaikesi/aisaikesi_g/aisaikesi_g4.png"
+          ]
+        }
+      ]
+    }
+  },
+  "buli_super": {
+    "default": {
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/buli_super/buli_super/buli_super.atlas",
+          "skel": "ship/buli_super/buli_super/buli_super.skel",
+          "images": ["ship/buli_super/buli_super/buli_super.png"]
+        }
+      ]
+    }
+  }
+}

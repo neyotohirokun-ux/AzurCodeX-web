@@ -21,7 +21,7 @@
         "icon": "img/skin/10709/107090/icon.png",
         "qicon": "img/skin/10709/107090/qicon.png",
         "shipyard": "img/skin/10709/107090/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi",
         "spine": null,
         "live2d": null
       },
@@ -48,7 +48,7 @@
         "icon": "img/skin/10709/107091/icon.png",
         "qicon": "img/skin/10709/107091/qicon.png",
         "shipyard": "img/skin/10709/107091/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_3",
         "spine": null,
         "live2d": null
       },
@@ -76,7 +76,7 @@
         "icon": "img/skin/10709/107092/icon.png",
         "qicon": "img/skin/10709/107092/qicon.png",
         "shipyard": "img/skin/10709/107092/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_4",
         "spine": null,
         "live2d": null
       },
@@ -103,7 +103,7 @@
         "icon": "img/skin/10709/107093/icon.png",
         "qicon": "img/skin/10709/107093/qicon.png",
         "shipyard": "img/skin/10709/107093/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_5",
         "spine": null,
         "live2d": null
       },
@@ -130,7 +130,7 @@
         "icon": "img/skin/10709/107094/icon.png",
         "qicon": "img/skin/10709/107094/qicon.png",
         "shipyard": "img/skin/10709/107094/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_6",
         "spine": null,
         "live2d": null
       },
@@ -158,7 +158,7 @@
         "icon": "img/skin/10709/107095/icon.png",
         "qicon": "img/skin/10709/107095/qicon.png",
         "shipyard": "img/skin/10709/107095/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_7",
         "spine": "spine/ship/aisaikesi/aisaikesi_7",
         "live2d": null
       },
@@ -183,7 +183,7 @@
         "icon": "img/skin/10709/107096/icon.png",
         "qicon": "img/skin/10709/107096/qicon.png",
         "shipyard": "img/skin/10709/107096/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_8",
         "spine": null,
         "live2d": null
       },
@@ -211,7 +211,7 @@
         "icon": "img/skin/10709/107097/icon.png",
         "qicon": "img/skin/10709/107097/qicon.png",
         "shipyard": "img/skin/10709/107097/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_9",
         "spine": "spine/ship/aisaikesi/aisaikesi_9",
         "live2d": null
       },
@@ -236,7 +236,7 @@
         "icon": "img/skin/10709/107099/icon.png",
         "qicon": "img/skin/10709/107099/qicon.png",
         "shipyard": "img/skin/10709/107099/shipyard.png",
-        "spine_chibi": null,
+        "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_g",
         "spine": "spine/ship/aisaikesi/aisaikesi_g",
         "live2d": null
       }
