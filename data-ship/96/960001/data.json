@@ -1,0 +1,159 @@
+{
+    "id": 571,
+    "gid": 960001,
+    "cid": 1,
+    "sid": [
+      9600011,
+      9600012,
+      9600013,
+      9600014
+    ],
+    "name": "Royal Fortune",
+    "codename": "MOT Royal Fortune",
+    "class": "Royal Fortune",
+    "nationality": 96,
+    "obtain": [
+      "Event: Halloween Hijinks",
+      "Core Data Shop"
+    ],
+    "type": 22,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Main gun efficiency +10%",
+        "Improve Hunting range"
+      ],
+      [
+        "Improve All Out Assault",
+        "Main gun efficiency +10%",
+        "Main gun base +1",
+        "Improve Hunting range"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "2": {
+        "default": 100,
+        "slot": 2,
+        "type": [
+          1
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "3": {
+        "default": 100,
+        "slot": 3,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+        "health": 388,
+        "firepower": 37,
+        "torpedo": 0,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 66,
+        "accuracy": 57,
+        "evasion": 31,
+        "speed": 18,
+        "luck": 51,
+        "asw": 0
+    },
+    "growth": {
+        "health": 2317,
+        "firepower": 201,
+        "torpedo": 0,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 183,
+        "accuracy": 169,
+        "evasion": 102,
+        "speed": 18,
+        "luck": 51,
+        "asw": 0
+    },
+    "enhance": {
+      "firepower": 36,
+      "reload": 50
+    },
+    "skill": {
+      "16180": {
+        "id": 16180,
+        "parent": 16180,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "16190": {
+        "id": 16190,
+        "parent": 16190,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "29961": {
+        "id": 29961,
+        "parent": 29961,
+        "upgrade": 29962,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "29962": {
+        "id": 29962,
+        "parent": 29961,
+        "upgrade": null,
+        "downgrade": 29961,
+        "requirement": "Limit Break 3"
+      }
+    }
+  }

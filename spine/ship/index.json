@@ -1,6 +1,10 @@
 {
   "aisaikesi": {
     "7": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0 },
+        "scale": 1.0
+      },
       "layers": [
         {
           "name": "base",
@@ -20,6 +24,10 @@
       ]
     },
     "9": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0 },
+        "scale": 1.6
+      },
       "layers": [
         {
           "name": "default",
@@ -33,6 +41,10 @@
       ]
     },
     "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.5 },
+        "scale": 3.0
+      },
       "layers": [
         {
           "name": "default",
@@ -50,12 +62,74 @@
   },
   "buli_super": {
     "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1 },
+        "scale": 1
+      },
       "layers": [
         {
           "name": "default",
           "atlas": "ship/buli_super/buli_super/buli_super.atlas",
           "skel": "ship/buli_super/buli_super/buli_super.skel",
           "images": ["ship/buli_super/buli_super/buli_super.png"]
+        }
+      ]
+    }
+  },
+  "hesitiya": {
+    "2": {
+      "config": {
+        "pivot": { "x": 0.48, "y": 0.93 },
+        "scale": 1.15
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/hesitiya/hesitiya_2/hesitiya_2.atlas",
+          "skel": "ship/hesitiya/hesitiya_2/hesitiya_2.skel",
+          "images": ["ship/hesitiya/hesitiya_2/hesitiya_2.png",
+            "ship/hesitiya/hesitiya_2/hesitiya_22.png",
+            "ship/hesitiya/hesitiya_2/hesitiya_23.png"]
+        }
+      ]
+    }
+  },
+  "liuliang": {
+    "2": {
+      "config": {
+        "pivot": { "x": 0.48, "y": 1 },
+        "scale": 1.1
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/liuliang/liuliang_2/liuliang_2.atlas",
+          "skel": "ship/liuliang/liuliang_2/liuliang_2.skel",
+          "images": ["ship/liuliang/liuliang_2/liuliang_2.png"]
+        }
+      ]
+    }
+  },
+  "huangjiacaifu": {
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.7 },
+        "scale": 0.8
+      },
+      "layers": [
+        {
+          "name": "base",
+          "atlas": "ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3B.atlas",
+          "skel": "ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3B.skel",
+          "images": [
+            "ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3B.png"
+          ]
+        },
+        {
+          "name": "top",
+          "atlas": "ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3T.atlas",
+          "skel": "ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3T.skel",
+          "images": ["ship/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3T.png"]
         }
       ]
     }

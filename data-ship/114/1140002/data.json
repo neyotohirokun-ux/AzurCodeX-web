@@ -1,0 +1,144 @@
+{
+    "id": 10142,
+    "gid": 1140002,
+    "cid": 1,
+    "sid": [
+      11400021,
+      11400022,
+      11400023,
+      11400024
+    ],
+    "name": "Ryu Lion",
+    "codename": "Ryu Lion",
+    "class": "Unknown",
+    "nationality": 114,
+    "obtain": [
+      "Event: An Encounter Beneath Clear Skies"
+    ],
+    "type": 2,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "B",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Torpedo efficiency +10%"
+      ],
+      [
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 101,
+        "slot": 1,
+        "type": [
+          2
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.55
+      },
+      "2": {
+        "default": 106,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.4
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.1
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+        "health": 785,
+        "firepower": 34,
+        "torpedo": 63,
+        "antiair": 67,
+        "aviation": 0,
+        "reload": 75,
+        "accuracy": 57,
+        "evasion": 36,
+        "speed": 32,
+        "luck": 65,
+        "asw": 38
+    },
+    "growth": {
+        "health": 4989,
+        "firepower": 188,
+        "torpedo": 340,
+        "antiair": 361,
+        "aviation": 0,
+        "reload": 207,
+        "accuracy": 167,
+        "evasion": 127,
+        "speed": 32,
+        "luck": 65,
+        "asw": 158
+    },
+    "enhance": {
+      "firepower": 34,
+      "torpedo": 62,
+      "reload": 56
+    },
+    "skill": {
+      "114100": {
+        "id": 114100,
+        "parent": 114100,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "114110": {
+        "id": 114110,
+        "parent": 114110,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  }

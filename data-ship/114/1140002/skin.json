@@ -1,0 +1,58 @@
+{
+    "skins": [
+        {
+        "id": 11400020,
+        "gid": 1140002,
+        "name": "Ryu Lion",
+        "type": "Default",
+        "desc": "Who are you? No – Where am I? This doesn't look like Orario. You must be the one who saved me, so thank you. My name is Ryu Lion, and I work as a waitress at the Hostess of Fertility pub in Orario.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "img/skin/1140002/11400020/painting.png",
+        "painting_n": "img/skin/1140002/11400020/painting_n.png",
+        "banner": "img/skin/1140002/11400020/banner.png",
+        "chibi": "img/skin/1140002/11400020/chibi.png",
+        "icon": "img/skin/1140002/11400020/icon.png",
+        "qicon": "img/skin/1140002/11400020/qicon.png",
+        "shipyard": "img/skin/1140002/11400020/shipyard.png",
+        "spine_chibi": "spine/chibi/liuliang/liuliang",
+        "spine": null,
+        "live2d": null
+      },
+      {
+        "id": 11400021,
+        "gid": 1140002,
+        "name": "Night at the Pub",
+        "type": "Maid",
+        "desc": "W-welcome... Don't stare at me, please. This pub's uniforms are a little revealing, so I'm nervous. I-if you insist, though, I can make time to chat after closing time.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": "audio/bgm/danmachi-az-story.ogg",
+        "background": "img/bgii/163.png",
+        "background2": null,
+        "painting": "img/skin/1140002/11400021/painting.png",
+        "painting_n": "img/skin/1140002/11400021/painting_n.png",
+        "banner": "img/skin/1140002/11400021/banner.png",
+        "chibi": "img/skin/1140002/11400021/chibi.png",
+        "icon": "img/skin/1140002/11400021/icon.png",
+        "qicon": "img/skin/1140002/11400021/qicon.png",
+        "shipyard": "img/skin/1140002/11400021/shipyard.png",
+        "spine_chibi": "spine/chibi/liuliang/liuliang_2",
+        "spine": "spine/ship/liuliang/liuliang_2",
+        "live2d": null
+      }
+    ]
+  }

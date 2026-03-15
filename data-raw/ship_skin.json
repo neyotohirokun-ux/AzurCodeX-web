@@ -1,5 +1,4 @@
 {
-  
   "10115": {
     "gid": 10115,
     "name": "Spence",
@@ -41661,83 +41660,7 @@
       }
     }
   },
-  "960001": {
-    "gid": 960001,
-    "name": "Royal Fortune",
-    "skins": {
-      "9600010": {
-        "id": 9600010,
-        "gid": 960001,
-        "name": "Royal Fortune",
-        "type": "Default",
-        "desc": "Sailing frigate – Royal Fortune.",
-        "tag": [],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 346,
-        "voice_actor2": -1,
-        "bgm": null,
-        "background": null,
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/painting.png",
-        "painting_n": null,
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/shipyard.png"
-      },
-      "9600011": {
-        "id": 9600011,
-        "gid": 960001,
-        "name": "Treats from the Deep",
-        "type": "Halloween",
-        "desc": "Tonight's dessert is not a cake or a pastry... What are you looking around for? YOU'RE my dessert! Heheh, scared you, didn't I?",
-        "tag": [
-          "bg"
-        ],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 346,
-        "voice_actor2": -1,
-        "bgm": null,
-        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/shipyard.png"
-      },
-      "9600012": {
-        "id": 9600012,
-        "gid": 960001,
-        "name": "Eyes on the Prize",
-        "type": "Swimsuits",
-        "desc": "Hell of a proposition, this. Keeping an eye on your booty for the whole day so nobody steals it. But I said I'd do it, and a real Tempesta always keeps her word. You're all mine for today♪",
-        "tag": [
-          "bg",
-          "dynamic"
-        ],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 346,
-        "voice_actor2": -1,
-        "bgm": null,
-        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/168.png",
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/shipyard.png"
-      }
-    }
-  },
+  
   "10712": {
     "gid": 10712,
     "name": "Hornet II",
@@ -55398,114 +55321,8 @@
       }
     }
   },
-  "1140001": {
-    "gid": 1140001,
-    "name": "Hestia",
-    "skins": {
-      "11400010": {
-        "id": 11400010,
-        "gid": 1140001,
-        "name": "Hestia",
-        "type": "Default",
-        "desc": "I'm Hestia, the Patron Goddess of Hestia Familia, believe it or not! What? That doesn't surprise you at all? Hmm. You're nothing like the kiddos I've seen before.",
-        "tag": [],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 157,
-        "voice_actor2": -1,
-        "bgm": null,
-        "background": null,
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/shipyard.png"
-      },
-      "11400011": {
-        "id": 11400011,
-        "gid": 1140001,
-        "name": "Godly Vacation!",
-        "type": "Swimsuits",
-        "desc": "Hey-hey, Commander! You're finally here. I've been waiting my butt off! I've already had the full beach experience... Ah, wait, I still have things I wanna do, so do me a solid and stick around!",
-        "tag": [
-          "dynamic",
-          "bg",
-          "bgm"
-        ],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 157,
-        "voice_actor2": -1,
-        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
-        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/539.png",
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/shipyard.png"
-      }
-    }
-  },
-  "1140002": {
-    "gid": 1140002,
-    "name": "Ryu Lion",
-    "skins": {
-      "11400020": {
-        "id": 11400020,
-        "gid": 1140002,
-        "name": "Ryu Lion",
-        "type": "Default",
-        "desc": "Who are you? No – Where am I? This doesn't look like Orario. You must be the one who saved me, so thank you. My name is Ryu Lion, and I work as a waitress at the Hostess of Fertility pub in Orario.",
-        "tag": [],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 284,
-        "voice_actor2": -1,
-        "bgm": null,
-        "background": null,
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/shipyard.png"
-      },
-      "11400021": {
-        "id": 11400021,
-        "gid": 1140002,
-        "name": "Night at the Pub",
-        "type": "Maid",
-        "desc": "W-welcome... Don't stare at me, please. This pub's uniforms are a little revealing, so I'm nervous. I-if you insist, though, I can make time to chat after closing time.",
-        "tag": [
-          "dynamic",
-          "bg",
-          "bgm"
-        ],
-        "illustrator": -1,
-        "illustrator2": -1,
-        "voice_actor": 284,
-        "voice_actor2": -1,
-        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
-        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/163.png",
-        "background2": null,
-        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting.png",
-        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting_n.png",
-        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/banner.png",
-        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/chibi.png",
-        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/icon.png",
-        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/qicon.png",
-        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/shipyard.png"
-      }
-    }
-  },
+  
+  
   "1150001": {
     "gid": 1150001,
     "name": "Tohka Yatogami",
