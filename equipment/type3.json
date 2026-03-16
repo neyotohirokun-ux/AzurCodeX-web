@@ -1,0 +1,5450 @@
+{
+  "7300": {
+    "name": "Prototype Triple 203mm AA Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/7300.png",
+    "stats": {
+      "1": {
+        "id": 7300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7300
+        ]
+      },
+      "2": {
+        "id": 7301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7301
+        ]
+      },
+      "3": {
+        "id": 7302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7302
+        ]
+      },
+      "4": {
+        "id": 7303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7303
+        ]
+      },
+      "5": {
+        "id": 7304,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7304
+        ]
+      },
+      "6": {
+        "id": 7305,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7305
+        ]
+      },
+      "7": {
+        "id": 7306,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7306
+        ]
+      },
+      "8": {
+        "id": 7307,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "44 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7307
+        ]
+      },
+      "9": {
+        "id": 7308,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "46 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7308
+        ]
+      },
+      "10": {
+        "id": 7309,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "49 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7309
+        ]
+      },
+      "11": {
+        "id": 7310,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "52 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          7310
+        ]
+      },
+      "12": {
+        "id": 7311,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "52 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          7311
+        ]
+      },
+      "13": {
+        "id": 7312,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "52 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          7312
+        ]
+      },
+      "14": {
+        "id": 7313,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "52 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          7313
+        ]
+      }
+    }
+  },
+  "7340": {
+    "name": "Twin 203mm Mle 1924 Submarine Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "SS",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/7340.png",
+    "stats": {
+      "1": {
+        "id": 7340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "22 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7340
+        ]
+      },
+      "2": {
+        "id": 7341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "24 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7341
+        ]
+      },
+      "3": {
+        "id": 7342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7342
+        ]
+      },
+      "4": {
+        "id": 7343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "28 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7343
+        ]
+      },
+      "5": {
+        "id": 7344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "30 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7344
+        ]
+      },
+      "6": {
+        "id": 7345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "32 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7345
+        ]
+      },
+      "7": {
+        "id": 7346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7346
+        ]
+      },
+      "8": {
+        "id": 7347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7347
+        ]
+      }
+    }
+  },
+  "13000": {
+    "name": "Triple 203mm Main Gun Mount (Improved)",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13000.png",
+    "stats": {
+      "1": {
+        "id": 13000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "22 x 3",
+        "weapon_id": [
+          13000
+        ]
+      },
+      "2": {
+        "id": 13001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "24 x 3",
+        "weapon_id": [
+          13001
+        ]
+      },
+      "3": {
+        "id": 13002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 3",
+        "weapon_id": [
+          13002
+        ]
+      },
+      "4": {
+        "id": 13003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "28 x 3",
+        "weapon_id": [
+          13003
+        ]
+      }
+    }
+  },
+  "13020": {
+    "name": "Triple 203mm Main Gun Mount (Improved)",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13000.png",
+    "stats": {
+      "1": {
+        "id": 13020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13020
+        ]
+      },
+      "2": {
+        "id": 13021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13021
+        ]
+      },
+      "3": {
+        "id": 13022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13022
+        ]
+      },
+      "4": {
+        "id": 13023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13023
+        ]
+      }
+    }
+  },
+  "13040": {
+    "name": "Triple 203mm Main Gun Mount (Improved)",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13000.png",
+    "stats": {
+      "1": {
+        "id": 13040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13040
+        ]
+      },
+      "2": {
+        "id": 13041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13041
+        ]
+      },
+      "3": {
+        "id": 13042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13042
+        ]
+      },
+      "4": {
+        "id": 13043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13043
+        ]
+      },
+      "5": {
+        "id": 13044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13044
+        ]
+      },
+      "6": {
+        "id": 13045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13045
+        ]
+      },
+      "7": {
+        "id": 13046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "39 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13046
+        ]
+      },
+      "8": {
+        "id": 13047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "39 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13047
+        ]
+      }
+    }
+  },
+  "13060": {
+    "name": "Triple 203mm Mk 13 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13060.png",
+    "stats": {
+      "1": {
+        "id": 13060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "23 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13060
+        ]
+      },
+      "2": {
+        "id": 13061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13061
+        ]
+      },
+      "3": {
+        "id": 13062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "29 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13062
+        ]
+      },
+      "4": {
+        "id": 13063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13063
+        ]
+      },
+      "5": {
+        "id": 13064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13064
+        ]
+      },
+      "6": {
+        "id": 13065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13065
+        ]
+      },
+      "7": {
+        "id": 13066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "44 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13066
+        ]
+      },
+      "8": {
+        "id": 13067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "44 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13067
+        ]
+      }
+    }
+  },
+  "13080": {
+    "name": "Triple 203mm Mk14 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13080.png",
+    "stats": {
+      "1": {
+        "id": 13080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "29 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13080
+        ]
+      },
+      "2": {
+        "id": 13081,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "31 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13081
+        ]
+      },
+      "3": {
+        "id": 13082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "33 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13082
+        ]
+      },
+      "4": {
+        "id": 13083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "35 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13083
+        ]
+      },
+      "5": {
+        "id": 13084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "37 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13084
+        ]
+      },
+      "6": {
+        "id": 13085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "39 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13085
+        ]
+      },
+      "7": {
+        "id": 13086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "41 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13086
+        ]
+      },
+      "8": {
+        "id": 13087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "43 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13087
+        ]
+      },
+      "9": {
+        "id": 13088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "45 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13088
+        ]
+      },
+      "10": {
+        "id": 13089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "47 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13089
+        ]
+      },
+      "11": {
+        "id": 13090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "49 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          13090
+        ]
+      },
+      "12": {
+        "id": 13091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "49 x 6",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          13091
+        ]
+      }
+    }
+  },
+  "13100": {
+    "name": "Triple 203mm Improved Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13100.png",
+    "stats": {
+      "1": {
+        "id": 13100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13100
+        ]
+      },
+      "2": {
+        "id": 13101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13101
+        ]
+      },
+      "3": {
+        "id": 13102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13102
+        ]
+      },
+      "4": {
+        "id": 13103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          13103
+        ]
+      }
+    }
+  },
+  "13120": {
+    "name": "Triple 203mm Improved Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13100.png",
+    "stats": {
+      "1": {
+        "id": 13120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13120
+        ]
+      },
+      "2": {
+        "id": 13121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "29 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13121
+        ]
+      },
+      "3": {
+        "id": 13122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "31 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13122
+        ]
+      },
+      "4": {
+        "id": 13123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "33 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13123
+        ]
+      },
+      "5": {
+        "id": 13124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "35 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13124
+        ]
+      },
+      "6": {
+        "id": 13125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "37 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13125
+        ]
+      },
+      "7": {
+        "id": 13126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          13126
+        ]
+      }
+    }
+  },
+  "13140": {
+    "name": "Triple 203mm Improved Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13100.png",
+    "stats": {
+      "1": {
+        "id": 13140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13140
+        ]
+      },
+      "2": {
+        "id": 13141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "31 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13141
+        ]
+      },
+      "3": {
+        "id": 13142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13142
+        ]
+      },
+      "4": {
+        "id": 13143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13143
+        ]
+      },
+      "5": {
+        "id": 13144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13144
+        ]
+      },
+      "6": {
+        "id": 13145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13145
+        ]
+      },
+      "7": {
+        "id": 13146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "43 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13146
+        ]
+      },
+      "8": {
+        "id": 13147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "46 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13147
+        ]
+      },
+      "9": {
+        "id": 13148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "48 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13148
+        ]
+      },
+      "10": {
+        "id": 13149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "50 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13149
+        ]
+      },
+      "11": {
+        "id": 13150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "52 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          13150
+        ]
+      },
+      "12": {
+        "id": 13151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "52 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          13151
+        ]
+      }
+    }
+  },
+  "13160": {
+    "name": "Triple 203mm Mk 15 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/13160.png",
+    "stats": {
+      "1": {
+        "id": 13160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "27 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13160
+        ]
+      },
+      "2": {
+        "id": 13161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13161
+        ]
+      },
+      "3": {
+        "id": 13162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "33 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13162
+        ]
+      },
+      "4": {
+        "id": 13163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "35 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13163
+        ]
+      },
+      "5": {
+        "id": 13164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "37 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13164
+        ]
+      },
+      "6": {
+        "id": 13165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "39 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13165
+        ]
+      },
+      "7": {
+        "id": 13166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13166
+        ]
+      },
+      "8": {
+        "id": 13167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "45 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13167
+        ]
+      },
+      "9": {
+        "id": 13168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "47 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13168
+        ]
+      },
+      "10": {
+        "id": 13169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13169
+        ]
+      },
+      "11": {
+        "id": 13170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          13170
+        ]
+      },
+      "12": {
+        "id": 13171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          13171
+        ]
+      },
+      "13": {
+        "id": 13172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          13172
+        ]
+      },
+      "14": {
+        "id": 13173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          13173
+        ]
+      }
+    }
+  },
+  "23000": {
+    "name": "Twin 203mm Mk VIII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23000.png",
+    "stats": {
+      "1": {
+        "id": 23000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          23000
+        ]
+      },
+      "2": {
+        "id": 23001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          23001
+        ]
+      },
+      "3": {
+        "id": 23002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          23002
+        ]
+      },
+      "4": {
+        "id": 23003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          23003
+        ]
+      }
+    }
+  },
+  "23020": {
+    "name": "Twin 203mm Mk VIII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23000.png",
+    "stats": {
+      "1": {
+        "id": 23020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23020
+        ]
+      },
+      "2": {
+        "id": 23021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23021
+        ]
+      },
+      "3": {
+        "id": 23022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23022
+        ]
+      },
+      "4": {
+        "id": 23023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23023
+        ]
+      },
+      "5": {
+        "id": 23024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23024
+        ]
+      },
+      "6": {
+        "id": 23025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23025
+        ]
+      },
+      "7": {
+        "id": 23026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "38 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          23026
+        ]
+      }
+    }
+  },
+  "23040": {
+    "name": "Twin 203mm Mk VIII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23000.png",
+    "stats": {
+      "1": {
+        "id": 23040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23040
+        ]
+      },
+      "2": {
+        "id": 23041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23041
+        ]
+      },
+      "3": {
+        "id": 23042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23042
+        ]
+      },
+      "4": {
+        "id": 23043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23043
+        ]
+      },
+      "5": {
+        "id": 23044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23044
+        ]
+      },
+      "6": {
+        "id": 23045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23045
+        ]
+      },
+      "7": {
+        "id": 23046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23046
+        ]
+      },
+      "8": {
+        "id": 23047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23047
+        ]
+      },
+      "9": {
+        "id": 23048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23048
+        ]
+      },
+      "10": {
+        "id": 23049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23049
+        ]
+      },
+      "11": {
+        "id": 23050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          23050
+        ]
+      },
+      "12": {
+        "id": 23051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          23051
+        ]
+      }
+    }
+  },
+  "23100": {
+    "name": "Prototype Twin 234mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23100.png",
+    "stats": {
+      "1": {
+        "id": 23100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "35 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23100
+        ]
+      },
+      "2": {
+        "id": 23101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "36 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23101
+        ]
+      },
+      "3": {
+        "id": 23102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "38 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23102
+        ]
+      },
+      "4": {
+        "id": 23103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "40 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23103
+        ]
+      },
+      "5": {
+        "id": 23104,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "42 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23104
+        ]
+      },
+      "6": {
+        "id": 23105,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "44 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23105
+        ]
+      },
+      "7": {
+        "id": 23106,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "46 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23106
+        ]
+      },
+      "8": {
+        "id": 23107,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "48 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23107
+        ]
+      },
+      "9": {
+        "id": 23108,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "50 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23108
+        ]
+      },
+      "10": {
+        "id": 23109,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "52 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23109
+        ]
+      },
+      "11": {
+        "id": 23110,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "54 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          23110
+        ]
+      },
+      "12": {
+        "id": 23111,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "54 x 4",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          23111
+        ]
+      },
+      "13": {
+        "id": 23112,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "54 x 4",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          23112
+        ]
+      },
+      "14": {
+        "id": 23113,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "54 x 4",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          23113
+        ]
+      }
+    }
+  },
+  "23120": {
+    "name": "Prototype Triple 234mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 6,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23120.png",
+    "stats": {
+      "1": {
+        "id": 23120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "35 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23120
+        ]
+      },
+      "2": {
+        "id": 23121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "36 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23121
+        ]
+      },
+      "3": {
+        "id": 23122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "38 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23122
+        ]
+      },
+      "4": {
+        "id": 23123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "40 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23123
+        ]
+      },
+      "5": {
+        "id": 23124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "42 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23124
+        ]
+      },
+      "6": {
+        "id": 23125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "44 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23125
+        ]
+      },
+      "7": {
+        "id": 23126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "46 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23126
+        ]
+      },
+      "8": {
+        "id": 23127,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "48 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23127
+        ]
+      },
+      "9": {
+        "id": 23128,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23128
+        ]
+      },
+      "10": {
+        "id": 23129,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "52 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23129
+        ]
+      },
+      "11": {
+        "id": 23130,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          23130
+        ]
+      },
+      "12": {
+        "id": 23131,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          23131
+        ]
+      },
+      "13": {
+        "id": 23132,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          23132
+        ]
+      },
+      "14": {
+        "id": 23133,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          23133
+        ]
+      }
+    }
+  },
+  "23200": {
+    "name": "Prototype Triple 203mm Mk IX Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23200.png",
+    "stats": {
+      "1": {
+        "id": 23200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23200
+        ]
+      },
+      "2": {
+        "id": 23201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23201
+        ]
+      },
+      "3": {
+        "id": 23202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23202
+        ]
+      },
+      "4": {
+        "id": 23203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23203
+        ]
+      },
+      "5": {
+        "id": 23204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23204
+        ]
+      },
+      "6": {
+        "id": 23205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23205
+        ]
+      },
+      "7": {
+        "id": 23206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23206
+        ]
+      },
+      "8": {
+        "id": 23207,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23207
+        ]
+      },
+      "9": {
+        "id": 23208,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23208
+        ]
+      },
+      "10": {
+        "id": 23209,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23209
+        ]
+      },
+      "11": {
+        "id": 23210,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23210
+        ]
+      },
+      "12": {
+        "id": 23211,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          23211
+        ]
+      },
+      "13": {
+        "id": 23212,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          23212
+        ]
+      },
+      "14": {
+        "id": 23213,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          23213
+        ]
+      }
+    }
+  },
+  "23220": {
+    "name": "Prototype Triple 203mm Mk X Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/23220.png",
+    "stats": {
+      "1": {
+        "id": 23220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23220
+        ]
+      },
+      "2": {
+        "id": 23221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23221
+        ]
+      },
+      "3": {
+        "id": 23222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23222
+        ]
+      },
+      "4": {
+        "id": 23223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23223
+        ]
+      },
+      "5": {
+        "id": 23224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23224
+        ]
+      },
+      "6": {
+        "id": 23225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23225
+        ]
+      },
+      "7": {
+        "id": 23226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23226
+        ]
+      },
+      "8": {
+        "id": 23227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23227
+        ]
+      },
+      "9": {
+        "id": 23228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23228
+        ]
+      },
+      "10": {
+        "id": 23229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23229
+        ]
+      },
+      "11": {
+        "id": 23230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          23230
+        ]
+      },
+      "12": {
+        "id": 23231,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          23231
+        ]
+      },
+      "13": {
+        "id": 23232,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          23232
+        ]
+      },
+      "14": {
+        "id": 23233,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          23233
+        ]
+      }
+    }
+  },
+  "33000": {
+    "name": "Twin 203mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33000.png",
+    "stats": {
+      "1": {
+        "id": 33000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "22 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          33000
+        ]
+      },
+      "2": {
+        "id": 33001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "24 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          33001
+        ]
+      },
+      "3": {
+        "id": 33002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          33002
+        ]
+      },
+      "4": {
+        "id": 33003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "28 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          33003
+        ]
+      }
+    }
+  },
+  "33020": {
+    "name": "Twin 203mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33000.png",
+    "stats": {
+      "1": {
+        "id": 33020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33020
+        ]
+      },
+      "2": {
+        "id": 33021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33021
+        ]
+      },
+      "3": {
+        "id": 33022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33022
+        ]
+      },
+      "4": {
+        "id": 33023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33023
+        ]
+      },
+      "5": {
+        "id": 33024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "32 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33024
+        ]
+      },
+      "6": {
+        "id": 33025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33025
+        ]
+      },
+      "7": {
+        "id": 33026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "36 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          33026
+        ]
+      }
+    }
+  },
+  "33040": {
+    "name": "Twin 203mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33000.png",
+    "stats": {
+      "1": {
+        "id": 33040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33040
+        ]
+      },
+      "2": {
+        "id": 33041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33041
+        ]
+      },
+      "3": {
+        "id": 33042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33042
+        ]
+      },
+      "4": {
+        "id": 33043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33043
+        ]
+      },
+      "5": {
+        "id": 33044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33044
+        ]
+      },
+      "6": {
+        "id": 33045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33045
+        ]
+      },
+      "7": {
+        "id": 33046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "38 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33046
+        ]
+      },
+      "8": {
+        "id": 33047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "40 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33047
+        ]
+      },
+      "9": {
+        "id": 33048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "42 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33048
+        ]
+      },
+      "10": {
+        "id": 33049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "44 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33049
+        ]
+      },
+      "11": {
+        "id": 33050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33050
+        ]
+      },
+      "12": {
+        "id": 33051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          33051
+        ]
+      }
+    }
+  },
+  "33060": {
+    "name": "Prototype 203mm No. 3 Naval Gun Mount",
+    "desc": "An enhanced prototype 203mm mounted gun issued in small quantities by the Department of Munitions.",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33060.png",
+    "stats": {
+      "1": {
+        "id": 33060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33060
+        ]
+      },
+      "2": {
+        "id": 33061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33061
+        ]
+      },
+      "3": {
+        "id": 33062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33062
+        ]
+      },
+      "4": {
+        "id": 33063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33063
+        ]
+      },
+      "5": {
+        "id": 33064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33064
+        ]
+      },
+      "6": {
+        "id": 33065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33065
+        ]
+      },
+      "7": {
+        "id": 33066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33066
+        ]
+      },
+      "8": {
+        "id": 33067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33067
+        ]
+      },
+      "9": {
+        "id": 33068,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33068
+        ]
+      },
+      "10": {
+        "id": 33069,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33069
+        ]
+      },
+      "11": {
+        "id": 33070,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "48 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          33070
+        ]
+      },
+      "12": {
+        "id": 33071,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "48 x 4",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          33071
+        ]
+      },
+      "13": {
+        "id": 33072,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "48 x 4",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          33072
+        ]
+      },
+      "14": {
+        "id": 33073,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "48 x 4",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          33073
+        ]
+      }
+    }
+  },
+  "33080": {
+    "name": "Twin 203mm No. 2 Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33080.png",
+    "stats": {
+      "1": {
+        "id": 33080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33080
+        ]
+      },
+      "2": {
+        "id": 33081,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33081
+        ]
+      },
+      "3": {
+        "id": 33082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33082
+        ]
+      },
+      "4": {
+        "id": 33083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33083
+        ]
+      },
+      "5": {
+        "id": 33084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33084
+        ]
+      },
+      "6": {
+        "id": 33085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33085
+        ]
+      },
+      "7": {
+        "id": 33086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33086
+        ]
+      },
+      "8": {
+        "id": 33087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33087
+        ]
+      },
+      "9": {
+        "id": 33088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33088
+        ]
+      },
+      "10": {
+        "id": 33089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33089
+        ]
+      },
+      "11": {
+        "id": 33090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          33090
+        ]
+      },
+      "12": {
+        "id": 33091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          33091
+        ]
+      }
+    }
+  },
+  "33120": {
+    "name": "Prototype Triple 203mm/55 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Sakura Empire.",
+    "label": [
+      "IJN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 6,
+    "nationality": 3,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/33120.png",
+    "stats": {
+      "1": {
+        "id": 33120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33120
+        ]
+      },
+      "2": {
+        "id": 33121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "32 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33121
+        ]
+      },
+      "3": {
+        "id": 33122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33122
+        ]
+      },
+      "4": {
+        "id": 33123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33123
+        ]
+      },
+      "5": {
+        "id": 33124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33124
+        ]
+      },
+      "6": {
+        "id": 33125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33125
+        ]
+      },
+      "7": {
+        "id": 33126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33126
+        ]
+      },
+      "8": {
+        "id": 33127,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "44 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33127
+        ]
+      },
+      "9": {
+        "id": 33128,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "46 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33128
+        ]
+      },
+      "10": {
+        "id": 33129,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "48 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33129
+        ]
+      },
+      "11": {
+        "id": 33130,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          33130
+        ]
+      },
+      "12": {
+        "id": 33131,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          33131
+        ]
+      },
+      "13": {
+        "id": 33132,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          33132
+        ]
+      },
+      "14": {
+        "id": 33133,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          33133
+        ]
+      }
+    }
+  },
+  "43000": {
+    "name": "Twin 203mm (SK C/34)",
+    "desc": "The Twin 203mm (SK C/34) is the main gun of Admiral Hipper class cruisers. May be used by heavy cruisers.",
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43000.png",
+    "stats": {
+      "1": {
+        "id": 43000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "25 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43000
+        ]
+      },
+      "2": {
+        "id": 43001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "27 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43001
+        ]
+      },
+      "3": {
+        "id": 43002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "29 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43002
+        ]
+      },
+      "4": {
+        "id": 43003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "31 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43003
+        ]
+      },
+      "5": {
+        "id": 43004,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "33 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43004
+        ]
+      },
+      "6": {
+        "id": 43005,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "35 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43005
+        ]
+      },
+      "7": {
+        "id": 43006,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "37 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43006
+        ]
+      }
+    }
+  },
+  "43020": {
+    "name": "Twin 203mm (SK C/34)",
+    "desc": "The Twin 203mm (SK C/34) is the main gun of Admiral Hipper class cruisers. May be used by heavy cruisers.",
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43000.png",
+    "stats": {
+      "1": {
+        "id": 43020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "27 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43020
+        ]
+      },
+      "2": {
+        "id": 43021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "29 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43021
+        ]
+      },
+      "3": {
+        "id": 43022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "31 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43022
+        ]
+      },
+      "4": {
+        "id": 43023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "33 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43023
+        ]
+      },
+      "5": {
+        "id": 43024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "35 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43024
+        ]
+      },
+      "6": {
+        "id": 43025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "37 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43025
+        ]
+      },
+      "7": {
+        "id": 43026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "39 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43026
+        ]
+      },
+      "8": {
+        "id": 43027,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "41 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43027
+        ]
+      },
+      "9": {
+        "id": 43028,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "43 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43028
+        ]
+      },
+      "10": {
+        "id": 43029,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "45 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43029
+        ]
+      },
+      "11": {
+        "id": 43030,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "47 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43030
+        ]
+      }
+    }
+  },
+  "43040": {
+    "name": "Twin 203mm (SK C/34)",
+    "desc": "The Twin 203mm (SK C/34) is the main gun of Admiral Hipper class cruisers. May be used by heavy cruisers.",
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43000.png",
+    "stats": {
+      "1": {
+        "id": 43040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43040
+        ]
+      },
+      "2": {
+        "id": 43041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "32 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43041
+        ]
+      },
+      "3": {
+        "id": 43042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43042
+        ]
+      },
+      "4": {
+        "id": 43043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43043
+        ]
+      },
+      "5": {
+        "id": 43044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43044
+        ]
+      },
+      "6": {
+        "id": 43045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43045
+        ]
+      },
+      "7": {
+        "id": 43046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43046
+        ]
+      },
+      "8": {
+        "id": 43047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43047
+        ]
+      },
+      "9": {
+        "id": 43048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43048
+        ]
+      },
+      "10": {
+        "id": 43049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "48 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43049
+        ]
+      },
+      "11": {
+        "id": 43050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43050
+        ]
+      },
+      "12": {
+        "id": 43051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          43051
+        ]
+      },
+      "13": {
+        "id": 43052,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          43052
+        ]
+      },
+      "14": {
+        "id": 43053,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          43053
+        ]
+      }
+    }
+  },
+  "43060": {
+    "name": "Prototype Triple 203mm SK C/34 Main Gun Mount",
+    "desc": "The Twin 203mm Main Gun (SK C) is the main gun of Admiral Hipper class cruisers. May be used by heavy cruisers.",
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43060.png",
+    "stats": {
+      "1": {
+        "id": 43060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43060
+        ]
+      },
+      "2": {
+        "id": 43061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "32 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43061
+        ]
+      },
+      "3": {
+        "id": 43062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43062
+        ]
+      },
+      "4": {
+        "id": 43063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43063
+        ]
+      },
+      "5": {
+        "id": 43064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43064
+        ]
+      },
+      "6": {
+        "id": 43065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43065
+        ]
+      },
+      "7": {
+        "id": 43066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43066
+        ]
+      },
+      "8": {
+        "id": 43067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43067
+        ]
+      },
+      "9": {
+        "id": 43068,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43068
+        ]
+      },
+      "10": {
+        "id": 43069,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "48 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43069
+        ]
+      },
+      "11": {
+        "id": 43070,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43070
+        ]
+      },
+      "12": {
+        "id": 43071,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          43071
+        ]
+      },
+      "13": {
+        "id": 43072,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          43072
+        ]
+      },
+      "14": {
+        "id": 43073,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          43073
+        ]
+      }
+    }
+  },
+  "43080": {
+    "name": "Twin 203mm SKC (Improved)",
+    "desc": "An improved model of the 203mm SKC main gun developed by the Iron Blood.",
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43080.png",
+    "stats": {
+      "1": {
+        "id": 43080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "33 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43080
+        ]
+      },
+      "2": {
+        "id": 43081,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "35 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43081
+        ]
+      },
+      "3": {
+        "id": 43082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "37 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43082
+        ]
+      },
+      "4": {
+        "id": 43083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "39 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43083
+        ]
+      },
+      "5": {
+        "id": 43084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "41 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43084
+        ]
+      },
+      "6": {
+        "id": 43085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "43 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43085
+        ]
+      },
+      "7": {
+        "id": 43086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "45 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43086
+        ]
+      },
+      "8": {
+        "id": 43087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "47 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43087
+        ]
+      },
+      "9": {
+        "id": 43088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43088
+        ]
+      },
+      "10": {
+        "id": 43089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43089
+        ]
+      },
+      "11": {
+        "id": 43090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "53 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          43090
+        ]
+      },
+      "12": {
+        "id": 43091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "53 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          43091
+        ]
+      },
+      "13": {
+        "id": 43092,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "53 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          43092
+        ]
+      },
+      "14": {
+        "id": 43093,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "53 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          43093
+        ]
+      }
+    }
+  },
+  "43160": {
+    "name": "Prototype Triple 203mm SKC Main Gun Mount",
+    "desc": null,
+    "label": [
+      "KMS",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 4,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/43160.png",
+    "stats": {
+      "1": {
+        "id": 43160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "33 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43160
+        ]
+      },
+      "2": {
+        "id": 43161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "35 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43161
+        ]
+      },
+      "3": {
+        "id": 43162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "37 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43162
+        ]
+      },
+      "4": {
+        "id": 43163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "39 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43163
+        ]
+      },
+      "5": {
+        "id": 43164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "41 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43164
+        ]
+      },
+      "6": {
+        "id": 43165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "43 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43165
+        ]
+      },
+      "7": {
+        "id": 43166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "45 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43166
+        ]
+      },
+      "8": {
+        "id": 43167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "47 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43167
+        ]
+      },
+      "9": {
+        "id": 43168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "49 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43168
+        ]
+      },
+      "10": {
+        "id": 43169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "51 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43169
+        ]
+      },
+      "11": {
+        "id": 43170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "53 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          43170
+        ]
+      },
+      "12": {
+        "id": 43171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "53 x 6",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          43171
+        ]
+      },
+      "13": {
+        "id": 43172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "53 x 6",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          43172
+        ]
+      },
+      "14": {
+        "id": 43173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "53 x 6",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          43173
+        ]
+      }
+    }
+  },
+  "85580": {
+    "name": "Prototype Triple 240mm Main Gun Mount",
+    "desc": "Prototype 240mm main guns to be installed on Project X heavy cruisers.",
+    "label": [
+      "SN",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/85580.png",
+    "stats": {
+      "1": {
+        "id": 85580,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "35 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85580
+        ]
+      },
+      "2": {
+        "id": 85581,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "37 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85581
+        ]
+      },
+      "3": {
+        "id": 85582,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "39 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85582
+        ]
+      },
+      "4": {
+        "id": 85583,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "41 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85583
+        ]
+      },
+      "5": {
+        "id": 85584,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "43 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85584
+        ]
+      },
+      "6": {
+        "id": 85585,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "45 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85585
+        ]
+      },
+      "7": {
+        "id": 85586,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "47 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85586
+        ]
+      },
+      "8": {
+        "id": 85587,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "49 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85587
+        ]
+      },
+      "9": {
+        "id": 85588,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "51 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85588
+        ]
+      },
+      "10": {
+        "id": 85589,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "53 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85589
+        ]
+      },
+      "11": {
+        "id": 85590,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "55 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85590
+        ]
+      },
+      "12": {
+        "id": 85591,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "55 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85591
+        ]
+      },
+      "13": {
+        "id": 85592,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "55 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85592
+        ]
+      },
+      "14": {
+        "id": 85593,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "55 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85593
+        ]
+      }
+    }
+  },
+  "85800": {
+    "name": "SM-40 Prototype Triple 220mm Main Gun Mount",
+    "desc": "A prototype triple 220mm main gun mount that was planned to be mounted on the Project 66 heavy cruisers.",
+    "label": [
+      "SN",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 7,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/85800.png",
+    "stats": {
+      "1": {
+        "id": 85800,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "34 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85800
+        ]
+      },
+      "2": {
+        "id": 85801,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "36 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85801
+        ]
+      },
+      "3": {
+        "id": 85802,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "38 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85802
+        ]
+      },
+      "4": {
+        "id": 85803,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "40 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85803
+        ]
+      },
+      "5": {
+        "id": 85804,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "42 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85804
+        ]
+      },
+      "6": {
+        "id": 85805,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "44 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85805
+        ]
+      },
+      "7": {
+        "id": 85806,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "46 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85806
+        ]
+      },
+      "8": {
+        "id": 85807,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "48 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85807
+        ]
+      },
+      "9": {
+        "id": 85808,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85808
+        ]
+      },
+      "10": {
+        "id": 85809,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "52 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85809
+        ]
+      },
+      "11": {
+        "id": 85810,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85810
+        ]
+      },
+      "12": {
+        "id": 85811,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          85811
+        ]
+      },
+      "13": {
+        "id": 85812,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          85812
+        ]
+      },
+      "14": {
+        "id": 85813,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          85813
+        ]
+      }
+    }
+  },
+  "90860": {
+    "name": "Twin 203mm Mle 1931 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/50860.png",
+    "stats": {
+      "1": {
+        "id": 90860,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90860
+        ]
+      },
+      "2": {
+        "id": 90861,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90861
+        ]
+      },
+      "3": {
+        "id": 90862,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90862
+        ]
+      },
+      "4": {
+        "id": 90863,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90863
+        ]
+      },
+      "5": {
+        "id": 90864,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90864
+        ]
+      },
+      "6": {
+        "id": 90865,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90865
+        ]
+      },
+      "7": {
+        "id": 90866,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "38 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90866
+        ]
+      }
+    }
+  },
+  "90880": {
+    "name": "Twin 203mm Mle 1931 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/50860.png",
+    "stats": {
+      "1": {
+        "id": 90880,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90880
+        ]
+      },
+      "2": {
+        "id": 90881,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90881
+        ]
+      },
+      "3": {
+        "id": 90882,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90882
+        ]
+      },
+      "4": {
+        "id": 90883,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90883
+        ]
+      },
+      "5": {
+        "id": 90884,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90884
+        ]
+      },
+      "6": {
+        "id": 90885,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90885
+        ]
+      },
+      "7": {
+        "id": 90886,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90886
+        ]
+      },
+      "8": {
+        "id": 90887,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90887
+        ]
+      },
+      "9": {
+        "id": 90888,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90888
+        ]
+      },
+      "10": {
+        "id": 90889,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90889
+        ]
+      },
+      "11": {
+        "id": 90890,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90890
+        ]
+      }
+    }
+  },
+  "90900": {
+    "name": "Twin 203mm Mle 1931 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/50860.png",
+    "stats": {
+      "1": {
+        "id": 90900,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90900
+        ]
+      },
+      "2": {
+        "id": 90901,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "33 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90901
+        ]
+      },
+      "3": {
+        "id": 90902,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "35 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90902
+        ]
+      },
+      "4": {
+        "id": 90903,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "37 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90903
+        ]
+      },
+      "5": {
+        "id": 90904,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "39 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90904
+        ]
+      },
+      "6": {
+        "id": 90905,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "41 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90905
+        ]
+      },
+      "7": {
+        "id": 90906,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "43 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90906
+        ]
+      },
+      "8": {
+        "id": 90907,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "45 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90907
+        ]
+      },
+      "9": {
+        "id": 90908,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "47 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90908
+        ]
+      },
+      "10": {
+        "id": 90909,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "49 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90909
+        ]
+      },
+      "11": {
+        "id": 90910,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "52 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90910
+        ]
+      },
+      "12": {
+        "id": 90911,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "52 x 4",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          90911
+        ]
+      },
+      "13": {
+        "id": 90912,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "52 x 4",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          90912
+        ]
+      },
+      "14": {
+        "id": 90913,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "52 x 4",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          90913
+        ]
+      }
+    }
+  },
+  "91100": {
+    "name": "Twin 203mm Mle 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/51100.png",
+    "stats": {
+      "1": {
+        "id": 91100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          91100
+        ]
+      },
+      "2": {
+        "id": 91101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          91101
+        ]
+      },
+      "3": {
+        "id": 91102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          91102
+        ]
+      },
+      "4": {
+        "id": 91103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          91103
+        ]
+      }
+    }
+  },
+  "91120": {
+    "name": "Twin 203mm Mle 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/51100.png",
+    "stats": {
+      "1": {
+        "id": 91120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91120
+        ]
+      },
+      "2": {
+        "id": 91121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91121
+        ]
+      },
+      "3": {
+        "id": 91122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91122
+        ]
+      },
+      "4": {
+        "id": 91123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91123
+        ]
+      },
+      "5": {
+        "id": 91124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91124
+        ]
+      },
+      "6": {
+        "id": 91125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91125
+        ]
+      },
+      "7": {
+        "id": 91126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "38 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          91126
+        ]
+      }
+    }
+  },
+  "91140": {
+    "name": "Twin 203mm Mle 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/51100.png",
+    "stats": {
+      "1": {
+        "id": 91140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91140
+        ]
+      },
+      "2": {
+        "id": 91141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91141
+        ]
+      },
+      "3": {
+        "id": 91142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91142
+        ]
+      },
+      "4": {
+        "id": 91143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91143
+        ]
+      },
+      "5": {
+        "id": 91144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91144
+        ]
+      },
+      "6": {
+        "id": 91145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "38 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91145
+        ]
+      },
+      "7": {
+        "id": 91146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "40 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91146
+        ]
+      },
+      "8": {
+        "id": 91147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91147
+        ]
+      },
+      "9": {
+        "id": 91148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "44 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91148
+        ]
+      },
+      "10": {
+        "id": 91149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "46 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91149
+        ]
+      },
+      "11": {
+        "id": 91150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          91150
+        ]
+      },
+      "12": {
+        "id": 91151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "48 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          91151
+        ]
+      }
+    }
+  },
+  "95200": {
+    "name": "Twin 203mm Model 1927 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55200.png",
+    "stats": {
+      "1": {
+        "id": 95200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "19 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95200
+        ]
+      },
+      "2": {
+        "id": 95201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "20 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95201
+        ]
+      },
+      "3": {
+        "id": 95202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "21 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95202
+        ]
+      },
+      "4": {
+        "id": 95203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "22 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95203
+        ]
+      },
+      "5": {
+        "id": 95204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "23 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95204
+        ]
+      },
+      "6": {
+        "id": 95205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "24 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95205
+        ]
+      },
+      "7": {
+        "id": 95206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "25 x 8",
+        "cannon": 12,
+        "weapon_id": [
+          95206
+        ]
+      }
+    }
+  },
+  "95220": {
+    "name": "Twin 203mm Model 1927 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55200.png",
+    "stats": {
+      "1": {
+        "id": 95220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95220
+        ]
+      },
+      "2": {
+        "id": 95221,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          95221
+        ]
+      },
+      "3": {
+        "id": 95222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "27 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95222
+        ]
+      },
+      "4": {
+        "id": 95223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "28 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95223
+        ]
+      },
+      "5": {
+        "id": 95224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "29 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95224
+        ]
+      },
+      "6": {
+        "id": 95225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "30 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95225
+        ]
+      },
+      "7": {
+        "id": 95226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "31 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95226
+        ]
+      },
+      "8": {
+        "id": 95227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "32 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95227
+        ]
+      },
+      "9": {
+        "id": 95228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "33 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95228
+        ]
+      },
+      "10": {
+        "id": 95229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "34 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95229
+        ]
+      },
+      "11": {
+        "id": 95230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "35 x 8",
+        "cannon": 25,
+        "weapon_id": [
+          95230
+        ]
+      }
+    }
+  },
+  "95240": {
+    "name": "Twin 203mm Model 1927 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55200.png",
+    "stats": {
+      "1": {
+        "id": 95240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "36 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95240
+        ]
+      },
+      "2": {
+        "id": 95241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "37 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95241
+        ]
+      },
+      "3": {
+        "id": 95242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "37 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95242
+        ]
+      },
+      "4": {
+        "id": 95243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "38 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95243
+        ]
+      },
+      "5": {
+        "id": 95244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "38 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95244
+        ]
+      },
+      "6": {
+        "id": 95245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "39 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95245
+        ]
+      },
+      "7": {
+        "id": 95246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "39 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95246
+        ]
+      },
+      "8": {
+        "id": 95247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "40 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95247
+        ]
+      },
+      "9": {
+        "id": 95248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "41 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95248
+        ]
+      },
+      "10": {
+        "id": 95249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "42 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95249
+        ]
+      },
+      "11": {
+        "id": 95250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "43 x 8",
+        "cannon": 45,
+        "weapon_id": [
+          95250
+        ]
+      },
+      "12": {
+        "id": 95251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "43 x 8",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          95251
+        ]
+      },
+      "13": {
+        "id": 95252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "43 x 8",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          95252
+        ]
+      },
+      "14": {
+        "id": 95253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "43 x 8",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          95253
+        ]
+      }
+    }
+  },
+  "95300": {
+    "name": "Twin 203mm Model 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55300.png",
+    "stats": {
+      "1": {
+        "id": 95300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "22 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          95300
+        ]
+      },
+      "2": {
+        "id": 95301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "24 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          95301
+        ]
+      },
+      "3": {
+        "id": 95302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          95302
+        ]
+      },
+      "4": {
+        "id": 95303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "28 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          95303
+        ]
+      }
+    }
+  },
+  "95320": {
+    "name": "Twin 203mm Model 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55300.png",
+    "stats": {
+      "1": {
+        "id": 95320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95320
+        ]
+      },
+      "2": {
+        "id": 95321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95321
+        ]
+      },
+      "3": {
+        "id": 95322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95322
+        ]
+      },
+      "4": {
+        "id": 95323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95323
+        ]
+      },
+      "5": {
+        "id": 95324,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "32 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95324
+        ]
+      },
+      "6": {
+        "id": 95325,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "34 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95325
+        ]
+      },
+      "7": {
+        "id": 95326,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "36 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95326
+        ]
+      }
+    }
+  },
+  "95340": {
+    "name": "Twin 203mm Model 1924 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/55300.png",
+    "stats": {
+      "1": {
+        "id": 95340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "26 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95340
+        ]
+      },
+      "2": {
+        "id": 95341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "28 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95341
+        ]
+      },
+      "3": {
+        "id": 95342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "30 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95342
+        ]
+      },
+      "4": {
+        "id": 95343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "32 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95343
+        ]
+      },
+      "5": {
+        "id": 95344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "34 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95344
+        ]
+      },
+      "6": {
+        "id": 95345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95345
+        ]
+      },
+      "7": {
+        "id": 95346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "38 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95346
+        ]
+      },
+      "8": {
+        "id": 95347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "40 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95347
+        ]
+      },
+      "9": {
+        "id": 95348,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "42 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95348
+        ]
+      },
+      "10": {
+        "id": 95349,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "44 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95349
+        ]
+      },
+      "11": {
+        "id": 95350,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "46 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95350
+        ]
+      },
+      "12": {
+        "id": 95351,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "46 x 6",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          95351
+        ]
+      }
+    }
+  },
+  "96120": {
+    "name": "Prototype Triple 254mm Model 1939 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 3,
+    "skill": {},
+    "icon": "img/equipment/56120.png",
+    "stats": {
+      "1": {
+        "id": 96120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96120
+        ]
+      },
+      "2": {
+        "id": 96121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96121
+        ]
+      },
+      "3": {
+        "id": 96122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96122
+        ]
+      },
+      "4": {
+        "id": 96123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96123
+        ]
+      },
+      "5": {
+        "id": 96124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96124
+        ]
+      },
+      "6": {
+        "id": 96125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96125
+        ]
+      },
+      "7": {
+        "id": 96126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "48 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96126
+        ]
+      },
+      "8": {
+        "id": 96127,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96127
+        ]
+      },
+      "9": {
+        "id": 96128,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "52 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96128
+        ]
+      },
+      "10": {
+        "id": 96129,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "54 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96129
+        ]
+      },
+      "11": {
+        "id": 96130,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          96130
+        ]
+      },
+      "12": {
+        "id": 96131,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96131
+        ]
+      },
+      "13": {
+        "id": 96132,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96132
+        ]
+      },
+      "14": {
+        "id": 96133,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96133
+        ]
+      }
+    }
+  }
+}

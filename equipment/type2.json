@@ -1,0 +1,8108 @@
+{
+  "7000": {
+    "name": "Single 152mm Mk XII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7000.png",
+    "stats": {
+      "1": {
+        "id": 7000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "21 x 3",
+        "weapon_id": [
+          7000
+        ]
+      },
+      "2": {
+        "id": 7001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "23 x 3",
+        "weapon_id": [
+          7001
+        ]
+      },
+      "3": {
+        "id": 7002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "25 x 3",
+        "weapon_id": [
+          7002
+        ]
+      },
+      "4": {
+        "id": 7003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "27 x 3",
+        "weapon_id": [
+          7003
+        ]
+      }
+    }
+  },
+  "7020": {
+    "name": "Single 152mm Mk XII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7000.png",
+    "stats": {
+      "1": {
+        "id": 7020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "23 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7020
+        ]
+      },
+      "2": {
+        "id": 7021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "25 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7021
+        ]
+      },
+      "3": {
+        "id": 7022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "27 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7022
+        ]
+      },
+      "4": {
+        "id": 7023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "29 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7023
+        ]
+      }
+    }
+  },
+  "7040": {
+    "name": "Single 152mm Mk XII Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7000.png",
+    "stats": {
+      "1": {
+        "id": 7040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "28 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7040
+        ]
+      },
+      "2": {
+        "id": 7041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7041
+        ]
+      },
+      "3": {
+        "id": 7042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "32 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7042
+        ]
+      },
+      "4": {
+        "id": 7043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "34 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7043
+        ]
+      },
+      "5": {
+        "id": 7044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "36 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7044
+        ]
+      },
+      "6": {
+        "id": 7045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "40 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7045
+        ]
+      },
+      "7": {
+        "id": 7046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "42 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7046
+        ]
+      },
+      "8": {
+        "id": 7047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "42 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7047
+        ]
+      }
+    }
+  },
+  "7100": {
+    "name": "Single 150mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "PRAN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 5,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7100.png",
+    "stats": {
+      "1": {
+        "id": 7100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "18 x 3",
+        "weapon_id": [
+          7100
+        ]
+      },
+      "2": {
+        "id": 7101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "20 x 3",
+        "weapon_id": [
+          7101
+        ]
+      },
+      "3": {
+        "id": 7102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22 x 3",
+        "weapon_id": [
+          7102
+        ]
+      },
+      "4": {
+        "id": 7103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "24 x 3",
+        "weapon_id": [
+          7103
+        ]
+      }
+    }
+  },
+  "7120": {
+    "name": "Single 150mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "PRAN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 5,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7100.png",
+    "stats": {
+      "1": {
+        "id": 7120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "21 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7120
+        ]
+      },
+      "2": {
+        "id": 7121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "23 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7121
+        ]
+      },
+      "3": {
+        "id": 7122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "25 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7122
+        ]
+      },
+      "4": {
+        "id": 7123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "27 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7123
+        ]
+      }
+    }
+  },
+  "7140": {
+    "name": "Single 150mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "PRAN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 5,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/7100.png",
+    "stats": {
+      "1": {
+        "id": 7140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "25 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7140
+        ]
+      },
+      "2": {
+        "id": 7141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "27 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7141
+        ]
+      },
+      "3": {
+        "id": 7142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "29 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7142
+        ]
+      },
+      "4": {
+        "id": 7143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "31 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7143
+        ]
+      },
+      "5": {
+        "id": 7144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "33 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7144
+        ]
+      },
+      "6": {
+        "id": 7145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "35 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7145
+        ]
+      },
+      "7": {
+        "id": 7146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "39 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7146
+        ]
+      },
+      "8": {
+        "id": 7147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "39 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7147
+        ]
+      }
+    }
+  },
+  "12000": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12000.png",
+    "stats": {
+      "1": {
+        "id": 12000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 4",
+        "weapon_id": [
+          12000
+        ]
+      },
+      "2": {
+        "id": 12001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 4",
+        "weapon_id": [
+          12001
+        ]
+      },
+      "3": {
+        "id": 12002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 4",
+        "weapon_id": [
+          12002
+        ]
+      },
+      "4": {
+        "id": 12003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 4",
+        "weapon_id": [
+          12003
+        ]
+      }
+    }
+  },
+  "12020": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12000.png",
+    "stats": {
+      "1": {
+        "id": 12020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          12020
+        ]
+      },
+      "2": {
+        "id": 12021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          12021
+        ]
+      },
+      "3": {
+        "id": 12022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          12022
+        ]
+      },
+      "4": {
+        "id": 12023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          12023
+        ]
+      }
+    }
+  },
+  "12040": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12000.png",
+    "stats": {
+      "1": {
+        "id": 12040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12040
+        ]
+      },
+      "2": {
+        "id": 12041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12041
+        ]
+      },
+      "3": {
+        "id": 12042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12042
+        ]
+      },
+      "4": {
+        "id": 12043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12043
+        ]
+      },
+      "5": {
+        "id": 12044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12044
+        ]
+      },
+      "6": {
+        "id": 12045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12045
+        ]
+      },
+      "7": {
+        "id": 12046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12046
+        ]
+      },
+      "8": {
+        "id": 12047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12047
+        ]
+      }
+    }
+  },
+  "12060": {
+    "name": "Twin 152mm Mk 15 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12060.png",
+    "stats": {
+      "1": {
+        "id": 12060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12060
+        ]
+      },
+      "2": {
+        "id": 12061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12061
+        ]
+      },
+      "3": {
+        "id": 12062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12062
+        ]
+      },
+      "4": {
+        "id": 12063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12063
+        ]
+      },
+      "5": {
+        "id": 12064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12064
+        ]
+      },
+      "6": {
+        "id": 12065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12065
+        ]
+      },
+      "7": {
+        "id": 12066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12066
+        ]
+      },
+      "8": {
+        "id": 12067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          12067
+        ]
+      }
+    }
+  },
+  "12100": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12100.png",
+    "stats": {
+      "1": {
+        "id": 12100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          12100
+        ]
+      },
+      "2": {
+        "id": 12101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          12101
+        ]
+      },
+      "3": {
+        "id": 12102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          12102
+        ]
+      },
+      "4": {
+        "id": 12103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          12103
+        ]
+      }
+    }
+  },
+  "12120": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12100.png",
+    "stats": {
+      "1": {
+        "id": 12120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12120
+        ]
+      },
+      "2": {
+        "id": 12121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12121
+        ]
+      },
+      "3": {
+        "id": 12122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12122
+        ]
+      },
+      "4": {
+        "id": 12123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12123
+        ]
+      },
+      "5": {
+        "id": 12124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12124
+        ]
+      },
+      "6": {
+        "id": 12125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12125
+        ]
+      },
+      "7": {
+        "id": 12126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          12126
+        ]
+      }
+    }
+  },
+  "12140": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12100.png",
+    "stats": {
+      "1": {
+        "id": 12140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "13 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12140
+        ]
+      },
+      "2": {
+        "id": 12141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "14 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12141
+        ]
+      },
+      "3": {
+        "id": 12142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "15 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12142
+        ]
+      },
+      "4": {
+        "id": 12143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12143
+        ]
+      },
+      "5": {
+        "id": 12144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12144
+        ]
+      },
+      "6": {
+        "id": 12145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12145
+        ]
+      },
+      "7": {
+        "id": 12146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12146
+        ]
+      },
+      "8": {
+        "id": 12147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "20 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12147
+        ]
+      },
+      "9": {
+        "id": 12148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "21 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12148
+        ]
+      },
+      "10": {
+        "id": 12149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "22 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12149
+        ]
+      },
+      "11": {
+        "id": 12150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "23 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          12150
+        ]
+      },
+      "12": {
+        "id": 12151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "23 x 6",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          12151
+        ]
+      }
+    }
+  },
+  "12160": {
+    "name": "Triple 152mm Mk 16 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12160.png",
+    "stats": {
+      "1": {
+        "id": 12160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12160
+        ]
+      },
+      "2": {
+        "id": 12161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12161
+        ]
+      },
+      "3": {
+        "id": 12162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12162
+        ]
+      },
+      "4": {
+        "id": 12163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12163
+        ]
+      },
+      "5": {
+        "id": 12164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12164
+        ]
+      },
+      "6": {
+        "id": 12165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12165
+        ]
+      },
+      "7": {
+        "id": 12166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12166
+        ]
+      },
+      "8": {
+        "id": 12167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12167
+        ]
+      },
+      "9": {
+        "id": 12168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12168
+        ]
+      },
+      "10": {
+        "id": 12169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12169
+        ]
+      },
+      "11": {
+        "id": 12170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "24 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          12170
+        ]
+      },
+      "12": {
+        "id": 12171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "24 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          12171
+        ]
+      },
+      "13": {
+        "id": 12172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "24 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          12172
+        ]
+      },
+      "14": {
+        "id": 12173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "24 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          12173
+        ]
+      }
+    }
+  },
+  "12200": {
+    "name": "Prototype Triple 152mm DP Mk 17 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/12200.png",
+    "stats": {
+      "1": {
+        "id": 12200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12200
+        ]
+      },
+      "2": {
+        "id": 12201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12201
+        ]
+      },
+      "3": {
+        "id": 12202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12202
+        ]
+      },
+      "4": {
+        "id": 12203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12203
+        ]
+      },
+      "5": {
+        "id": 12204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12204
+        ]
+      },
+      "6": {
+        "id": 12205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12205
+        ]
+      },
+      "7": {
+        "id": 12206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12206
+        ]
+      },
+      "8": {
+        "id": 12207,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12207
+        ]
+      },
+      "9": {
+        "id": 12208,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12208
+        ]
+      },
+      "10": {
+        "id": 12209,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12209
+        ]
+      },
+      "11": {
+        "id": 12210,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          12210
+        ]
+      },
+      "12": {
+        "id": 12211,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          12211
+        ]
+      },
+      "13": {
+        "id": 12212,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "18 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          12212
+        ]
+      },
+      "14": {
+        "id": 12213,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "18 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          12213
+        ]
+      }
+    }
+  },
+  "22000": {
+    "name": "Single 152mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22000.png",
+    "stats": {
+      "1": {
+        "id": 22000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 3",
+        "weapon_id": [
+          22000
+        ]
+      },
+      "2": {
+        "id": 22001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 3",
+        "weapon_id": [
+          22001
+        ]
+      },
+      "3": {
+        "id": 22002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 3",
+        "weapon_id": [
+          22002
+        ]
+      },
+      "4": {
+        "id": 22003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 3",
+        "weapon_id": [
+          22003
+        ]
+      }
+    }
+  },
+  "22020": {
+    "name": "Single 152mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22000.png",
+    "stats": {
+      "1": {
+        "id": 22020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          22020
+        ]
+      },
+      "2": {
+        "id": 22021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          22021
+        ]
+      },
+      "3": {
+        "id": 22022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          22022
+        ]
+      },
+      "4": {
+        "id": 22023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          22023
+        ]
+      }
+    }
+  },
+  "22040": {
+    "name": "Single 152mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22000.png",
+    "stats": {
+      "1": {
+        "id": 22040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "13 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22040
+        ]
+      },
+      "2": {
+        "id": 22041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "14 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22041
+        ]
+      },
+      "3": {
+        "id": 22042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "15 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22042
+        ]
+      },
+      "4": {
+        "id": 22043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22043
+        ]
+      },
+      "5": {
+        "id": 22044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22044
+        ]
+      },
+      "6": {
+        "id": 22045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22045
+        ]
+      },
+      "7": {
+        "id": 22046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22046
+        ]
+      },
+      "8": {
+        "id": 22047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          22047
+        ]
+      }
+    }
+  },
+  "22060": {
+    "name": "Twin 152mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22060.png",
+    "stats": {
+      "1": {
+        "id": 22060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22060
+        ]
+      },
+      "2": {
+        "id": 22061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22061
+        ]
+      },
+      "3": {
+        "id": 22062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22062
+        ]
+      },
+      "4": {
+        "id": 22063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22063
+        ]
+      },
+      "5": {
+        "id": 22064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22064
+        ]
+      },
+      "6": {
+        "id": 22065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22065
+        ]
+      },
+      "7": {
+        "id": 22066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22066
+        ]
+      },
+      "8": {
+        "id": 22067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22067
+        ]
+      }
+    }
+  },
+  "22100": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22100.png",
+    "stats": {
+      "1": {
+        "id": 22100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          22100
+        ]
+      },
+      "2": {
+        "id": 22101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          22101
+        ]
+      },
+      "3": {
+        "id": 22102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          22102
+        ]
+      },
+      "4": {
+        "id": 22103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          22103
+        ]
+      }
+    }
+  },
+  "22120": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22100.png",
+    "stats": {
+      "1": {
+        "id": 22120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22120
+        ]
+      },
+      "2": {
+        "id": 22121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22121
+        ]
+      },
+      "3": {
+        "id": 22122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22122
+        ]
+      },
+      "4": {
+        "id": 22123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22123
+        ]
+      },
+      "5": {
+        "id": 22124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22124
+        ]
+      },
+      "6": {
+        "id": 22125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22125
+        ]
+      },
+      "7": {
+        "id": 22126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          22126
+        ]
+      }
+    }
+  },
+  "22140": {
+    "name": "Twin 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22100.png",
+    "stats": {
+      "1": {
+        "id": 22140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22140
+        ]
+      },
+      "2": {
+        "id": 22141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22141
+        ]
+      },
+      "3": {
+        "id": 22142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22142
+        ]
+      },
+      "4": {
+        "id": 22143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22143
+        ]
+      },
+      "5": {
+        "id": 22144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22144
+        ]
+      },
+      "6": {
+        "id": 22145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "20 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22145
+        ]
+      },
+      "7": {
+        "id": 22146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22146
+        ]
+      },
+      "8": {
+        "id": 22147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "22 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22147
+        ]
+      },
+      "9": {
+        "id": 22148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "23 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22148
+        ]
+      },
+      "10": {
+        "id": 22149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "25 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22149
+        ]
+      },
+      "11": {
+        "id": 22150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "27 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          22150
+        ]
+      },
+      "12": {
+        "id": 22151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "27 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          22151
+        ]
+      }
+    }
+  },
+  "22200": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22200.png",
+    "stats": {
+      "1": {
+        "id": 22200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          22200
+        ]
+      },
+      "2": {
+        "id": 22201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          22201
+        ]
+      },
+      "3": {
+        "id": 22202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          22202
+        ]
+      },
+      "4": {
+        "id": 22203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          22203
+        ]
+      }
+    }
+  },
+  "22220": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22200.png",
+    "stats": {
+      "1": {
+        "id": 22220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22220
+        ]
+      },
+      "2": {
+        "id": 22221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22221
+        ]
+      },
+      "3": {
+        "id": 22222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22222
+        ]
+      },
+      "4": {
+        "id": 22223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22223
+        ]
+      },
+      "5": {
+        "id": 22224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22224
+        ]
+      },
+      "6": {
+        "id": 22225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22225
+        ]
+      },
+      "7": {
+        "id": 22226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          22226
+        ]
+      }
+    }
+  },
+  "22240": {
+    "name": "Triple 152mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22200.png",
+    "stats": {
+      "1": {
+        "id": 22240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "15 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22240
+        ]
+      },
+      "2": {
+        "id": 22241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "16 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22241
+        ]
+      },
+      "3": {
+        "id": 22242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "17 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22242
+        ]
+      },
+      "4": {
+        "id": 22243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "18 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22243
+        ]
+      },
+      "5": {
+        "id": 22244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "19 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22244
+        ]
+      },
+      "6": {
+        "id": 22245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "20 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22245
+        ]
+      },
+      "7": {
+        "id": 22246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "21 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22246
+        ]
+      },
+      "8": {
+        "id": 22247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "22 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22247
+        ]
+      },
+      "9": {
+        "id": 22248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "23 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22248
+        ]
+      },
+      "10": {
+        "id": 22249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "25 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22249
+        ]
+      },
+      "11": {
+        "id": 22250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "27 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          22250
+        ]
+      },
+      "12": {
+        "id": 22251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "27 x 6",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          22251
+        ]
+      }
+    }
+  },
+  "22260": {
+    "name": "Prototype Triple 152mm Mk XXV Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22260.png",
+    "stats": {
+      "1": {
+        "id": 22260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "16 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22260
+        ]
+      },
+      "2": {
+        "id": 22261,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "17 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22261
+        ]
+      },
+      "3": {
+        "id": 22262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "18 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22262
+        ]
+      },
+      "4": {
+        "id": 22263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "19 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22263
+        ]
+      },
+      "5": {
+        "id": 22264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "20 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22264
+        ]
+      },
+      "6": {
+        "id": 22265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "21 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22265
+        ]
+      },
+      "7": {
+        "id": 22266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "22 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22266
+        ]
+      },
+      "8": {
+        "id": 22267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "23 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22267
+        ]
+      },
+      "9": {
+        "id": 22268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "25 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22268
+        ]
+      },
+      "10": {
+        "id": 22269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22269
+        ]
+      },
+      "11": {
+        "id": 22270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          22270
+        ]
+      },
+      "12": {
+        "id": 22271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          22271
+        ]
+      },
+      "13": {
+        "id": 22272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          22272
+        ]
+      },
+      "14": {
+        "id": 22273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          22273
+        ]
+      }
+    }
+  },
+  "22280": {
+    "name": "Prototype Quadruple 152mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 2,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/22280.png",
+    "stats": {
+      "1": {
+        "id": 22280,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "17 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22280
+        ]
+      },
+      "2": {
+        "id": 22281,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "18 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22281
+        ]
+      },
+      "3": {
+        "id": 22282,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "19 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22282
+        ]
+      },
+      "4": {
+        "id": 22283,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22283
+        ]
+      },
+      "5": {
+        "id": 22284,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "21 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22284
+        ]
+      },
+      "6": {
+        "id": 22285,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "22 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22285
+        ]
+      },
+      "7": {
+        "id": 22286,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "23 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22286
+        ]
+      },
+      "8": {
+        "id": 22287,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "24 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22287
+        ]
+      },
+      "9": {
+        "id": 22288,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "26 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22288
+        ]
+      },
+      "10": {
+        "id": 22289,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "28 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22289
+        ]
+      },
+      "11": {
+        "id": 22290,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "30 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          22290
+        ]
+      },
+      "12": {
+        "id": 22291,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "30 x 4",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          22291
+        ]
+      },
+      "13": {
+        "id": 22292,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "30 x 4",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          22292
+        ]
+      },
+      "14": {
+        "id": 22293,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "30 x 4",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          22293
+        ]
+      }
+    }
+  },
+  "32000": {
+    "name": "Single 140mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32000.png",
+    "stats": {
+      "1": {
+        "id": 32000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 3",
+        "weapon_id": [
+          32000
+        ]
+      },
+      "2": {
+        "id": 32001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 3",
+        "weapon_id": [
+          32001
+        ]
+      },
+      "3": {
+        "id": 32002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 3",
+        "weapon_id": [
+          32002
+        ]
+      },
+      "4": {
+        "id": 32003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 3",
+        "weapon_id": [
+          32003
+        ]
+      }
+    }
+  },
+  "32020": {
+    "name": "Single 140mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32000.png",
+    "stats": {
+      "1": {
+        "id": 32020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          32020
+        ]
+      },
+      "2": {
+        "id": 32021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          32021
+        ]
+      },
+      "3": {
+        "id": 32022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          32022
+        ]
+      },
+      "4": {
+        "id": 32023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          32023
+        ]
+      }
+    }
+  },
+  "32040": {
+    "name": "Single 140mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32000.png",
+    "stats": {
+      "1": {
+        "id": 32040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32040
+        ]
+      },
+      "2": {
+        "id": 32041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32041
+        ]
+      },
+      "3": {
+        "id": 32042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32042
+        ]
+      },
+      "4": {
+        "id": 32043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32043
+        ]
+      },
+      "5": {
+        "id": 32044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "14 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32044
+        ]
+      },
+      "6": {
+        "id": 32045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "15 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32045
+        ]
+      },
+      "7": {
+        "id": 32046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "16 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32046
+        ]
+      },
+      "8": {
+        "id": 32047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "16 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32047
+        ]
+      }
+    }
+  },
+  "32060": {
+    "name": "Single 152mm Pattern 1892 Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32060.png",
+    "stats": {
+      "1": {
+        "id": 32060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32060
+        ]
+      },
+      "2": {
+        "id": 32061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32061
+        ]
+      },
+      "3": {
+        "id": 32062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32062
+        ]
+      },
+      "4": {
+        "id": 32063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32063
+        ]
+      },
+      "5": {
+        "id": 32064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32064
+        ]
+      },
+      "6": {
+        "id": 32065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32065
+        ]
+      },
+      "7": {
+        "id": 32066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32066
+        ]
+      },
+      "8": {
+        "id": 32067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          32067
+        ]
+      }
+    }
+  },
+  "32100": {
+    "name": "Twin 140mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32100.png",
+    "stats": {
+      "1": {
+        "id": 32100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32100
+        ]
+      },
+      "2": {
+        "id": 32101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32101
+        ]
+      },
+      "3": {
+        "id": 32102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32102
+        ]
+      },
+      "4": {
+        "id": 32103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32103
+        ]
+      }
+    }
+  },
+  "32120": {
+    "name": "Twin 140mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32100.png",
+    "stats": {
+      "1": {
+        "id": 32120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32120
+        ]
+      },
+      "2": {
+        "id": 32121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32121
+        ]
+      },
+      "3": {
+        "id": 32122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32122
+        ]
+      },
+      "4": {
+        "id": 32123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32123
+        ]
+      },
+      "5": {
+        "id": 32124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32124
+        ]
+      },
+      "6": {
+        "id": 32125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32125
+        ]
+      },
+      "7": {
+        "id": 32126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32126
+        ]
+      }
+    }
+  },
+  "32140": {
+    "name": "Twin 140mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32100.png",
+    "stats": {
+      "1": {
+        "id": 32140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32140
+        ]
+      },
+      "2": {
+        "id": 32141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32141
+        ]
+      },
+      "3": {
+        "id": 32142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32142
+        ]
+      },
+      "4": {
+        "id": 32143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32143
+        ]
+      },
+      "5": {
+        "id": 32144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32144
+        ]
+      },
+      "6": {
+        "id": 32145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32145
+        ]
+      },
+      "7": {
+        "id": 32146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32146
+        ]
+      },
+      "8": {
+        "id": 32147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32147
+        ]
+      },
+      "9": {
+        "id": 32148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32148
+        ]
+      },
+      "10": {
+        "id": 32149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "20 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32149
+        ]
+      },
+      "11": {
+        "id": 32150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32150
+        ]
+      },
+      "12": {
+        "id": 32151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          32151
+        ]
+      }
+    }
+  },
+  "32200": {
+    "name": "Triple 155mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32200.png",
+    "stats": {
+      "1": {
+        "id": 32200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32200
+        ]
+      },
+      "2": {
+        "id": 32201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32201
+        ]
+      },
+      "3": {
+        "id": 32202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32202
+        ]
+      },
+      "4": {
+        "id": 32203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32203
+        ]
+      },
+      "5": {
+        "id": 32204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32204
+        ]
+      },
+      "6": {
+        "id": 32205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32205
+        ]
+      },
+      "7": {
+        "id": 32206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          32206
+        ]
+      }
+    }
+  },
+  "32220": {
+    "name": "Triple 155mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32200.png",
+    "stats": {
+      "1": {
+        "id": 32220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32220
+        ]
+      },
+      "2": {
+        "id": 32221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32221
+        ]
+      },
+      "3": {
+        "id": 32222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32222
+        ]
+      },
+      "4": {
+        "id": 32223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32223
+        ]
+      },
+      "5": {
+        "id": 32224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32224
+        ]
+      },
+      "6": {
+        "id": 32225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32225
+        ]
+      },
+      "7": {
+        "id": 32226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32226
+        ]
+      },
+      "8": {
+        "id": 32227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "18 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32227
+        ]
+      },
+      "9": {
+        "id": 32228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "19 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32228
+        ]
+      },
+      "10": {
+        "id": 32229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "20 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32229
+        ]
+      },
+      "11": {
+        "id": 32230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "21 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          32230
+        ]
+      }
+    }
+  },
+  "32240": {
+    "name": "Triple 155mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32200.png",
+    "stats": {
+      "1": {
+        "id": 32240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32240
+        ]
+      },
+      "2": {
+        "id": 32241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32241
+        ]
+      },
+      "3": {
+        "id": 32242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32242
+        ]
+      },
+      "4": {
+        "id": 32243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32243
+        ]
+      },
+      "5": {
+        "id": 32244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32244
+        ]
+      },
+      "6": {
+        "id": 32245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32245
+        ]
+      },
+      "7": {
+        "id": 32246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32246
+        ]
+      },
+      "8": {
+        "id": 32247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32247
+        ]
+      },
+      "9": {
+        "id": 32248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "20 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32248
+        ]
+      },
+      "10": {
+        "id": 32249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32249
+        ]
+      },
+      "11": {
+        "id": 32250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32250
+        ]
+      },
+      "12": {
+        "id": 32251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          32251
+        ]
+      },
+      "13": {
+        "id": 32252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          32252
+        ]
+      },
+      "14": {
+        "id": 32253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          32253
+        ]
+      }
+    }
+  },
+  "32260": {
+    "name": "Prototype Triple 155mm Kai Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32260.png",
+    "stats": {
+      "1": {
+        "id": 32260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "13 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32260
+        ]
+      },
+      "2": {
+        "id": 32261,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32261
+        ]
+      },
+      "3": {
+        "id": 32262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32262
+        ]
+      },
+      "4": {
+        "id": 32263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32263
+        ]
+      },
+      "5": {
+        "id": 32264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32264
+        ]
+      },
+      "6": {
+        "id": 32265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32265
+        ]
+      },
+      "7": {
+        "id": 32266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32266
+        ]
+      },
+      "8": {
+        "id": 32267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "20 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32267
+        ]
+      },
+      "9": {
+        "id": 32268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32268
+        ]
+      },
+      "10": {
+        "id": 32269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32269
+        ]
+      },
+      "11": {
+        "id": 32270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          32270
+        ]
+      },
+      "12": {
+        "id": 32271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          32271
+        ]
+      },
+      "13": {
+        "id": 32272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          32272
+        ]
+      },
+      "14": {
+        "id": 32273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          32273
+        ]
+      }
+    }
+  },
+  "32300": {
+    "name": "Twin 152mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32300.png",
+    "stats": {
+      "1": {
+        "id": 32300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32300
+        ]
+      },
+      "2": {
+        "id": 32301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32301
+        ]
+      },
+      "3": {
+        "id": 32302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32302
+        ]
+      },
+      "4": {
+        "id": 32303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          32303
+        ]
+      }
+    }
+  },
+  "32320": {
+    "name": "Twin 152mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32300.png",
+    "stats": {
+      "1": {
+        "id": 32320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32320
+        ]
+      },
+      "2": {
+        "id": 32321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32321
+        ]
+      },
+      "3": {
+        "id": 32322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32322
+        ]
+      },
+      "4": {
+        "id": 32323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32323
+        ]
+      },
+      "5": {
+        "id": 32324,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32324
+        ]
+      },
+      "6": {
+        "id": 32325,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32325
+        ]
+      },
+      "7": {
+        "id": 32326,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          32326
+        ]
+      }
+    }
+  },
+  "32340": {
+    "name": "Twin 152mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/32300.png",
+    "stats": {
+      "1": {
+        "id": 32340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32340
+        ]
+      },
+      "2": {
+        "id": 32341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32341
+        ]
+      },
+      "3": {
+        "id": 32342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32342
+        ]
+      },
+      "4": {
+        "id": 32343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32343
+        ]
+      },
+      "5": {
+        "id": 32344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32344
+        ]
+      },
+      "6": {
+        "id": 32345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32345
+        ]
+      },
+      "7": {
+        "id": 32346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32346
+        ]
+      },
+      "8": {
+        "id": 32347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32347
+        ]
+      },
+      "9": {
+        "id": 32348,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "20 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32348
+        ]
+      },
+      "10": {
+        "id": 32349,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32349
+        ]
+      },
+      "11": {
+        "id": 32350,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "22 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          32350
+        ]
+      },
+      "12": {
+        "id": 32351,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "22 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          32351
+        ]
+      }
+    }
+  },
+  "32360": {
+    "name": "Prototype Triple 150mm Type 5 High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CL",
+      "MG",
+      "HE",
+      "ShimantoMG"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 2,
+    "skill": {
+      "[60390, 1]": null
+    },
+    "icon": "img/equipment/32360.png",
+    "stats": {
+      "1": {
+        "id": 32360,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32360
+        ]
+      },
+      "2": {
+        "id": 32361,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32361
+        ]
+      },
+      "3": {
+        "id": 32362,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32362
+        ]
+      },
+      "4": {
+        "id": 32363,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32363
+        ]
+      },
+      "5": {
+        "id": 32364,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "14 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32364
+        ]
+      },
+      "6": {
+        "id": 32365,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32365
+        ]
+      },
+      "7": {
+        "id": 32366,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "16 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32366
+        ]
+      },
+      "8": {
+        "id": 32367,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "17 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32367
+        ]
+      },
+      "9": {
+        "id": 32368,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "18 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32368
+        ]
+      },
+      "10": {
+        "id": 32369,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "19 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32369
+        ]
+      },
+      "11": {
+        "id": 32370,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "20 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          32370
+        ]
+      },
+      "12": {
+        "id": 32371,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "20 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          32371
+        ]
+      },
+      "13": {
+        "id": 32372,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "20 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          32372
+        ]
+      },
+      "14": {
+        "id": 32373,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "20 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          32373
+        ]
+      }
+    }
+  },
+  "42000": {
+    "name": "Single 150mm SK C/28 Main Gun Mount",
+    "desc": "The Single 150mm SK C/28 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42000.png",
+    "stats": {
+      "1": {
+        "id": 42000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          42000
+        ]
+      },
+      "2": {
+        "id": 42001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          42001
+        ]
+      },
+      "3": {
+        "id": 42002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          42002
+        ]
+      },
+      "4": {
+        "id": 42003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          42003
+        ]
+      }
+    }
+  },
+  "42020": {
+    "name": "Single 150mm SK C/28 Main Gun Mount",
+    "desc": "The Single 150mm SK C/28 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42000.png",
+    "stats": {
+      "1": {
+        "id": 42020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42020
+        ]
+      },
+      "2": {
+        "id": 42021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42021
+        ]
+      },
+      "3": {
+        "id": 42022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42022
+        ]
+      },
+      "4": {
+        "id": 42023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42023
+        ]
+      },
+      "5": {
+        "id": 42024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42024
+        ]
+      },
+      "6": {
+        "id": 42025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42025
+        ]
+      },
+      "7": {
+        "id": 42026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          42026
+        ]
+      }
+    }
+  },
+  "42040": {
+    "name": "Single 150mm SK C/28 Main Gun Mount",
+    "desc": "The Single 150mm SK C/28 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42000.png",
+    "stats": {
+      "1": {
+        "id": 42040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42040
+        ]
+      },
+      "2": {
+        "id": 42041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42041
+        ]
+      },
+      "3": {
+        "id": 42042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42042
+        ]
+      },
+      "4": {
+        "id": 42043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42043
+        ]
+      },
+      "5": {
+        "id": 42044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42044
+        ]
+      },
+      "6": {
+        "id": 42045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42045
+        ]
+      },
+      "7": {
+        "id": 42046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42046
+        ]
+      },
+      "8": {
+        "id": 42047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42047
+        ]
+      },
+      "9": {
+        "id": 42048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42048
+        ]
+      },
+      "10": {
+        "id": 42049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "24 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42049
+        ]
+      },
+      "11": {
+        "id": 42050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "26 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          42050
+        ]
+      },
+      "12": {
+        "id": 42051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "26 x 1",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42051
+        ]
+      }
+    }
+  },
+  "42060": {
+    "name": "Twin 150mm SK C/28 Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42060.png",
+    "stats": {
+      "1": {
+        "id": 42060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42060
+        ]
+      },
+      "2": {
+        "id": 42061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42061
+        ]
+      },
+      "3": {
+        "id": 42062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42062
+        ]
+      },
+      "4": {
+        "id": 42063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42063
+        ]
+      },
+      "5": {
+        "id": 42064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42064
+        ]
+      },
+      "6": {
+        "id": 42065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42065
+        ]
+      },
+      "7": {
+        "id": 42066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42066
+        ]
+      },
+      "8": {
+        "id": 42067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42067
+        ]
+      },
+      "9": {
+        "id": 42068,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42068
+        ]
+      },
+      "10": {
+        "id": 42069,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "24 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42069
+        ]
+      },
+      "11": {
+        "id": 42070,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "26 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42070
+        ]
+      },
+      "12": {
+        "id": 42071,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "26 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42071
+        ]
+      }
+    }
+  },
+  "42080": {
+    "name": "Prototype Twin 150mm SK C/28 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42080.png",
+    "stats": {
+      "1": {
+        "id": 42080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42080
+        ]
+      },
+      "2": {
+        "id": 42081,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42081
+        ]
+      },
+      "3": {
+        "id": 42082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42082
+        ]
+      },
+      "4": {
+        "id": 42083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42083
+        ]
+      },
+      "5": {
+        "id": 42084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42084
+        ]
+      },
+      "6": {
+        "id": 42085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "22 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42085
+        ]
+      },
+      "7": {
+        "id": 42086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "23 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42086
+        ]
+      },
+      "8": {
+        "id": 42087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "24 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42087
+        ]
+      },
+      "9": {
+        "id": 42088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "25 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42088
+        ]
+      },
+      "10": {
+        "id": 42089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "26 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42089
+        ]
+      },
+      "11": {
+        "id": 42090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "27 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          42090
+        ]
+      },
+      "12": {
+        "id": 42091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "27 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          42091
+        ]
+      },
+      "13": {
+        "id": 42092,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "27 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          42092
+        ]
+      },
+      "14": {
+        "id": 42093,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "27 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          42093
+        ]
+      }
+    }
+  },
+  "42100": {
+    "name": "Triple 150mm SK C/25 Main Gun Mount",
+    "desc": "The Triple 150mm SK C/25 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42100.png",
+    "stats": {
+      "1": {
+        "id": 42100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42100
+        ]
+      },
+      "2": {
+        "id": 42101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42101
+        ]
+      },
+      "3": {
+        "id": 42102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42102
+        ]
+      },
+      "4": {
+        "id": 42103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42103
+        ]
+      }
+    }
+  },
+  "42120": {
+    "name": "Triple 150mm SK C/25 Main Gun Mount",
+    "desc": "The Triple 150mm SK C/25 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42100.png",
+    "stats": {
+      "1": {
+        "id": 42120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42120
+        ]
+      },
+      "2": {
+        "id": 42121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42121
+        ]
+      },
+      "3": {
+        "id": 42122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42122
+        ]
+      },
+      "4": {
+        "id": 42123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42123
+        ]
+      },
+      "5": {
+        "id": 42124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42124
+        ]
+      },
+      "6": {
+        "id": 42125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42125
+        ]
+      },
+      "7": {
+        "id": 42126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          42126
+        ]
+      }
+    }
+  },
+  "42140": {
+    "name": "Triple 150mm SK C/25 Main Gun Mount",
+    "desc": "The Triple 150mm SK C/25 Main Gun Mount may be used by light cruisers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42100.png",
+    "stats": {
+      "1": {
+        "id": 42140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42140
+        ]
+      },
+      "2": {
+        "id": 42141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42141
+        ]
+      },
+      "3": {
+        "id": 42142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42142
+        ]
+      },
+      "4": {
+        "id": 42143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42143
+        ]
+      },
+      "5": {
+        "id": 42144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42144
+        ]
+      },
+      "6": {
+        "id": 42145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42145
+        ]
+      },
+      "7": {
+        "id": 42146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42146
+        ]
+      },
+      "8": {
+        "id": 42147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42147
+        ]
+      },
+      "9": {
+        "id": 42148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42148
+        ]
+      },
+      "10": {
+        "id": 42149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "24 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42149
+        ]
+      },
+      "11": {
+        "id": 42150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "26 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42150
+        ]
+      },
+      "12": {
+        "id": 42151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "26 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42151
+        ]
+      }
+    }
+  },
+  "42160": {
+    "name": "Triple 150mm SK C/25 Main Gun Mount (Improved)",
+    "desc": null,
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42160.png",
+    "stats": {
+      "1": {
+        "id": 42160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42160
+        ]
+      },
+      "2": {
+        "id": 42161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42161
+        ]
+      },
+      "3": {
+        "id": 42162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42162
+        ]
+      },
+      "4": {
+        "id": 42163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42163
+        ]
+      },
+      "5": {
+        "id": 42164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42164
+        ]
+      },
+      "6": {
+        "id": 42165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42165
+        ]
+      },
+      "7": {
+        "id": 42166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42166
+        ]
+      },
+      "8": {
+        "id": 42167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42167
+        ]
+      },
+      "9": {
+        "id": 42168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42168
+        ]
+      },
+      "10": {
+        "id": 42169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "24 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42169
+        ]
+      },
+      "11": {
+        "id": 42170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "26 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42170
+        ]
+      },
+      "12": {
+        "id": 42171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "26 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42171
+        ]
+      }
+    }
+  },
+  "42200": {
+    "name": "Twin 150mm TbtsK C/36 Main Gun Mount",
+    "desc": "The Twin 150mm TbtsK C/36 Main Gun Mount is a 1936A type destroyer gun which may be used by light carriers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42200.png",
+    "stats": {
+      "1": {
+        "id": 42200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          42200
+        ]
+      },
+      "2": {
+        "id": 42201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          42201
+        ]
+      },
+      "3": {
+        "id": 42202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          42202
+        ]
+      },
+      "4": {
+        "id": 42203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          42203
+        ]
+      }
+    }
+  },
+  "42220": {
+    "name": "Twin 150mm TbtsK C/36 Main Gun Mount",
+    "desc": "The Twin 150mm TbtsK C/36 Main Gun Mount is a 1936A type destroyer gun which may be used by light carriers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42200.png",
+    "stats": {
+      "1": {
+        "id": 42220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42220
+        ]
+      },
+      "2": {
+        "id": 42221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42221
+        ]
+      },
+      "3": {
+        "id": 42222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42222
+        ]
+      },
+      "4": {
+        "id": 42223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42223
+        ]
+      },
+      "5": {
+        "id": 42224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42224
+        ]
+      },
+      "6": {
+        "id": 42225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42225
+        ]
+      },
+      "7": {
+        "id": 42226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          42226
+        ]
+      }
+    }
+  },
+  "42240": {
+    "name": "Twin 150mm TbtsK C/36 Main Gun Mount",
+    "desc": "The Twin 150mm TbtsK C/36 Main Gun Mount is a 1936A type destroyer gun which may be used by light carriers and most destroyers.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42200.png",
+    "stats": {
+      "1": {
+        "id": 42240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42240
+        ]
+      },
+      "2": {
+        "id": 42241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42241
+        ]
+      },
+      "3": {
+        "id": 42242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42242
+        ]
+      },
+      "4": {
+        "id": 42243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42243
+        ]
+      },
+      "5": {
+        "id": 42244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42244
+        ]
+      },
+      "6": {
+        "id": 42245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42245
+        ]
+      },
+      "7": {
+        "id": 42246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "20 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42246
+        ]
+      },
+      "8": {
+        "id": 42247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "21 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42247
+        ]
+      },
+      "9": {
+        "id": 42248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "22 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42248
+        ]
+      },
+      "10": {
+        "id": 42249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "24 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42249
+        ]
+      },
+      "11": {
+        "id": 42250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "26 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          42250
+        ]
+      },
+      "12": {
+        "id": 42251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "26 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42251
+        ]
+      }
+    }
+  },
+  "42300": {
+    "name": "Single 150mm TbtsK C/36 Main Gun Mount",
+    "desc": "Single-barreled 150mm gun that was used on the Type 1936A destroyer class. Can be equipped by CLs and some DDs.",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42300.png",
+    "stats": {
+      "1": {
+        "id": 42300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42300
+        ]
+      },
+      "2": {
+        "id": 42301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42301
+        ]
+      },
+      "3": {
+        "id": 42302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42302
+        ]
+      },
+      "4": {
+        "id": 42303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          42303
+        ]
+      }
+    }
+  },
+  "42340": {
+    "name": "Single 150mm TbtsK C/36 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/42300.png",
+    "stats": {
+      "1": {
+        "id": 42340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42340
+        ]
+      },
+      "2": {
+        "id": 42341,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          42341
+        ]
+      },
+      "3": {
+        "id": 42342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42342
+        ]
+      },
+      "4": {
+        "id": 42343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42343
+        ]
+      },
+      "5": {
+        "id": 42344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42344
+        ]
+      },
+      "6": {
+        "id": 42345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42345
+        ]
+      },
+      "7": {
+        "id": 42346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42346
+        ]
+      },
+      "8": {
+        "id": 42347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42347
+        ]
+      },
+      "9": {
+        "id": 42348,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42348
+        ]
+      },
+      "10": {
+        "id": 42349,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42349
+        ]
+      },
+      "11": {
+        "id": 42350,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          42350
+        ]
+      },
+      "12": {
+        "id": 42351,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          42351
+        ]
+      }
+    }
+  },
+  "42360": {
+    "name": "Prototype Twin 150mm TbtsK C42T Main Gun Mount",
+    "desc": null,
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP",
+      "SKC42T"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 2,
+    "skill": {
+      "[60400, 1]": null
+    },
+    "icon": "img/equipment/42360.png",
+    "stats": {
+      "1": {
+        "id": 42360,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "15 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42360
+        ]
+      },
+      "2": {
+        "id": 42361,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "17 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42361
+        ]
+      },
+      "3": {
+        "id": 42362,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "19 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42362
+        ]
+      },
+      "4": {
+        "id": 42363,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42363
+        ]
+      },
+      "5": {
+        "id": 42364,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "21 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42364
+        ]
+      },
+      "6": {
+        "id": 42365,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "22 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42365
+        ]
+      },
+      "7": {
+        "id": 42366,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "23 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42366
+        ]
+      },
+      "8": {
+        "id": 42367,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "24 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42367
+        ]
+      },
+      "9": {
+        "id": 42368,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "25 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42368
+        ]
+      },
+      "10": {
+        "id": 42369,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "26 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42369
+        ]
+      },
+      "11": {
+        "id": 42370,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "27 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          42370
+        ]
+      },
+      "12": {
+        "id": 42371,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "27 x 4",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          42371
+        ]
+      },
+      "13": {
+        "id": 42372,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "27 x 4",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          42372
+        ]
+      },
+      "14": {
+        "id": 42373,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "27 x 4",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          42373
+        ]
+      }
+    }
+  },
+  "85120": {
+    "name": "Triple 152mm B-38 MK 5 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85120.png",
+    "stats": {
+      "1": {
+        "id": 85120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "7 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85120
+        ]
+      },
+      "2": {
+        "id": 85121,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          85121
+        ]
+      },
+      "3": {
+        "id": 85122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85122
+        ]
+      },
+      "4": {
+        "id": 85123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85123
+        ]
+      },
+      "5": {
+        "id": 85124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85124
+        ]
+      },
+      "6": {
+        "id": 85125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85125
+        ]
+      },
+      "7": {
+        "id": 85126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85126
+        ]
+      }
+    }
+  },
+  "85140": {
+    "name": "Triple 152mm B-38 MK 5 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85120.png",
+    "stats": {
+      "1": {
+        "id": 85140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85140
+        ]
+      },
+      "2": {
+        "id": 85141,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85141
+        ]
+      },
+      "3": {
+        "id": 85142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85142
+        ]
+      },
+      "4": {
+        "id": 85143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85143
+        ]
+      },
+      "5": {
+        "id": 85144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85144
+        ]
+      },
+      "6": {
+        "id": 85145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85145
+        ]
+      },
+      "7": {
+        "id": 85146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85146
+        ]
+      },
+      "8": {
+        "id": 85147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85147
+        ]
+      },
+      "9": {
+        "id": 85148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85148
+        ]
+      },
+      "10": {
+        "id": 85149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85149
+        ]
+      },
+      "11": {
+        "id": 85150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          85150
+        ]
+      }
+    }
+  },
+  "85160": {
+    "name": "Triple 152mm B-38 MK 5 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Northern Parliament.",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85120.png",
+    "stats": {
+      "1": {
+        "id": 85160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85160
+        ]
+      },
+      "2": {
+        "id": 85161,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "weapon_id": [
+          85161
+        ]
+      },
+      "3": {
+        "id": 85162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85162
+        ]
+      },
+      "4": {
+        "id": 85163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85163
+        ]
+      },
+      "5": {
+        "id": 85164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "13 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85164
+        ]
+      },
+      "6": {
+        "id": 85165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85165
+        ]
+      },
+      "7": {
+        "id": 85166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85166
+        ]
+      },
+      "8": {
+        "id": 85167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85167
+        ]
+      },
+      "9": {
+        "id": 85168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85168
+        ]
+      },
+      "10": {
+        "id": 85169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85169
+        ]
+      },
+      "11": {
+        "id": 85170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          85170
+        ]
+      },
+      "12": {
+        "id": 85171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85171
+        ]
+      },
+      "13": {
+        "id": 85172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85172
+        ]
+      },
+      "14": {
+        "id": 85173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85173
+        ]
+      }
+    }
+  },
+  "85440": {
+    "name": "Twin 152mm Pattern 1892 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85440.png",
+    "stats": {
+      "1": {
+        "id": 85440,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85440
+        ]
+      },
+      "2": {
+        "id": 85441,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85441
+        ]
+      },
+      "3": {
+        "id": 85442,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85442
+        ]
+      },
+      "4": {
+        "id": 85443,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85443
+        ]
+      },
+      "5": {
+        "id": 85444,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85444
+        ]
+      },
+      "6": {
+        "id": 85445,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85445
+        ]
+      },
+      "7": {
+        "id": 85446,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85446
+        ]
+      },
+      "8": {
+        "id": 85447,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "17 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          85447
+        ]
+      }
+    }
+  },
+  "85460": {
+    "name": "Triple 180mm B-1-P Pattern 1932 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Northern Parliament, boasting excellent range.",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85460.png",
+    "stats": {
+      "1": {
+        "id": 85460,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "21 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85460
+        ]
+      },
+      "2": {
+        "id": 85461,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          85461
+        ]
+      },
+      "3": {
+        "id": 85462,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85462
+        ]
+      },
+      "4": {
+        "id": 85463,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "23 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85463
+        ]
+      },
+      "5": {
+        "id": 85464,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "24 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85464
+        ]
+      },
+      "6": {
+        "id": 85465,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "25 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85465
+        ]
+      },
+      "7": {
+        "id": 85466,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "26 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85466
+        ]
+      }
+    }
+  },
+  "85480": {
+    "name": "Triple 180mm B-1-P Pattern 1932 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Northern Parliament, boasting excellent range.",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85460.png",
+    "stats": {
+      "1": {
+        "id": 85480,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "23 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85480
+        ]
+      },
+      "2": {
+        "id": 85481,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85481
+        ]
+      },
+      "3": {
+        "id": 85482,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "25 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85482
+        ]
+      },
+      "4": {
+        "id": 85483,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "26 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85483
+        ]
+      },
+      "5": {
+        "id": 85484,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "27 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85484
+        ]
+      },
+      "6": {
+        "id": 85485,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "28 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85485
+        ]
+      },
+      "7": {
+        "id": 85486,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "29 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85486
+        ]
+      },
+      "8": {
+        "id": 85487,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "30 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85487
+        ]
+      },
+      "9": {
+        "id": 85488,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "31 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85488
+        ]
+      },
+      "10": {
+        "id": 85489,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "32 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85489
+        ]
+      },
+      "11": {
+        "id": 85490,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "33 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85490
+        ]
+      }
+    }
+  },
+  "85500": {
+    "name": "Triple 180mm B-1-P Pattern 1932 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Northern Parliament, boasting excellent range.",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85460.png",
+    "stats": {
+      "1": {
+        "id": 85500,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85500
+        ]
+      },
+      "2": {
+        "id": 85501,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "weapon_id": [
+          85501
+        ]
+      },
+      "3": {
+        "id": 85502,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85502
+        ]
+      },
+      "4": {
+        "id": 85503,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85503
+        ]
+      },
+      "5": {
+        "id": 85504,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85504
+        ]
+      },
+      "6": {
+        "id": 85505,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85505
+        ]
+      },
+      "7": {
+        "id": 85506,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85506
+        ]
+      },
+      "8": {
+        "id": 85507,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "31 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85507
+        ]
+      },
+      "9": {
+        "id": 85508,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85508
+        ]
+      },
+      "10": {
+        "id": 85509,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "33 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85509
+        ]
+      },
+      "11": {
+        "id": 85510,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85510
+        ]
+      },
+      "12": {
+        "id": 85511,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85511
+        ]
+      },
+      "13": {
+        "id": 85512,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85512
+        ]
+      },
+      "14": {
+        "id": 85513,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85513
+        ]
+      }
+    }
+  },
+  "85640": {
+    "name": "Prototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85640.png",
+    "stats": {
+      "1": {
+        "id": 85640,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85640
+        ]
+      },
+      "2": {
+        "id": 85641,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85641
+        ]
+      },
+      "3": {
+        "id": 85642,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85642
+        ]
+      },
+      "4": {
+        "id": 85643,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85643
+        ]
+      },
+      "5": {
+        "id": 85644,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85644
+        ]
+      },
+      "6": {
+        "id": 85645,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "31 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85645
+        ]
+      },
+      "7": {
+        "id": 85646,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85646
+        ]
+      },
+      "8": {
+        "id": 85647,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "33 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85647
+        ]
+      },
+      "9": {
+        "id": 85648,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85648
+        ]
+      },
+      "10": {
+        "id": 85649,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "35 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85649
+        ]
+      },
+      "11": {
+        "id": 85650,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85650
+        ]
+      },
+      "12": {
+        "id": 85651,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85651
+        ]
+      },
+      "13": {
+        "id": 85652,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85652
+        ]
+      },
+      "14": {
+        "id": 85653,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85653
+        ]
+      }
+    }
+  },
+  "85680": {
+    "name": "Single 180mm B-1-K Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85680.png",
+    "stats": {
+      "1": {
+        "id": 85680,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "20 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85680
+        ]
+      },
+      "2": {
+        "id": 85681,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85681
+        ]
+      },
+      "3": {
+        "id": 85682,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85682
+        ]
+      },
+      "4": {
+        "id": 85683,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "23 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85683
+        ]
+      },
+      "5": {
+        "id": 85684,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "24 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85684
+        ]
+      },
+      "6": {
+        "id": 85685,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "25 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85685
+        ]
+      },
+      "7": {
+        "id": 85686,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "26 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85686
+        ]
+      },
+      "8": {
+        "id": 85687,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "27 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85687
+        ]
+      },
+      "9": {
+        "id": 85688,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "28 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85688
+        ]
+      },
+      "10": {
+        "id": 85689,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "29 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85689
+        ]
+      },
+      "11": {
+        "id": 85690,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "30 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85690
+        ]
+      },
+      "12": {
+        "id": 85691,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "30 x 1",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85691
+        ]
+      }
+    }
+  },
+  "85700": {
+    "name": "Twin 152mm B-38 MK17 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/85700.png",
+    "stats": {
+      "1": {
+        "id": 85700,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85700
+        ]
+      },
+      "2": {
+        "id": 85701,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85701
+        ]
+      },
+      "3": {
+        "id": 85702,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85702
+        ]
+      },
+      "4": {
+        "id": 85703,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85703
+        ]
+      },
+      "5": {
+        "id": 85704,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85704
+        ]
+      },
+      "6": {
+        "id": 85705,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85705
+        ]
+      },
+      "7": {
+        "id": 85706,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85706
+        ]
+      },
+      "8": {
+        "id": 85707,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85707
+        ]
+      },
+      "9": {
+        "id": 85708,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85708
+        ]
+      },
+      "10": {
+        "id": 85709,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85709
+        ]
+      },
+      "11": {
+        "id": 85710,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85710
+        ]
+      },
+      "12": {
+        "id": 85711,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85711
+        ]
+      }
+    }
+  },
+  "90200": {
+    "name": "Triple 152mm Mle 1930 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50200.png",
+    "stats": {
+      "1": {
+        "id": 90200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 6",
+        "weapon_id": [
+          90200
+        ]
+      },
+      "2": {
+        "id": 90201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10 x 6",
+        "weapon_id": [
+          90201
+        ]
+      },
+      "3": {
+        "id": 90202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11 x 6",
+        "weapon_id": [
+          90202
+        ]
+      },
+      "4": {
+        "id": 90203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12 x 6",
+        "weapon_id": [
+          90203
+        ]
+      }
+    }
+  },
+  "90220": {
+    "name": "Triple 152mm Mle 1930 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50200.png",
+    "stats": {
+      "1": {
+        "id": 90220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          90220
+        ]
+      },
+      "2": {
+        "id": 90221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "11 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          90221
+        ]
+      },
+      "3": {
+        "id": 90222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "12 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          90222
+        ]
+      },
+      "4": {
+        "id": 90223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "13 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          90223
+        ]
+      }
+    }
+  },
+  "90240": {
+    "name": "Triple 152mm Mle 1930 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50200.png",
+    "stats": {
+      "1": {
+        "id": 90240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90240
+        ]
+      },
+      "2": {
+        "id": 90241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "13 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90241
+        ]
+      },
+      "3": {
+        "id": 90242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90242
+        ]
+      },
+      "4": {
+        "id": 90243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "15 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90243
+        ]
+      },
+      "5": {
+        "id": 90244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "16 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90244
+        ]
+      },
+      "6": {
+        "id": 90245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "17 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90245
+        ]
+      },
+      "7": {
+        "id": 90246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "18 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90246
+        ]
+      },
+      "8": {
+        "id": 90247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "18 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          90247
+        ]
+      }
+    }
+  },
+  "90260": {
+    "name": "Triple 152mm Mle1930 Main Gun Mount (HE)",
+    "desc": "An Iris Orthodoxy-developed 152mm light cruiser main gun, modified to fire HE ammunition.",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50200.png",
+    "stats": {
+      "1": {
+        "id": 90260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "12 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90260
+        ]
+      },
+      "2": {
+        "id": 90261,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "weapon_id": [
+          90261
+        ]
+      },
+      "3": {
+        "id": 90262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "13 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90262
+        ]
+      },
+      "4": {
+        "id": 90263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90263
+        ]
+      },
+      "5": {
+        "id": 90264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90264
+        ]
+      },
+      "6": {
+        "id": 90265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90265
+        ]
+      },
+      "7": {
+        "id": 90266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90266
+        ]
+      },
+      "8": {
+        "id": 90267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90267
+        ]
+      },
+      "9": {
+        "id": 90268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "19 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90268
+        ]
+      },
+      "10": {
+        "id": 90269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "20 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90269
+        ]
+      },
+      "11": {
+        "id": 90270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          90270
+        ]
+      },
+      "12": {
+        "id": 90271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          90271
+        ]
+      },
+      "13": {
+        "id": 90272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          90272
+        ]
+      },
+      "14": {
+        "id": 90273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "21 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          90273
+        ]
+      }
+    }
+  },
+  "90780": {
+    "name": "Twin 155mm Mle 1920 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "AP",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50780.png",
+    "stats": {
+      "1": {
+        "id": 90780,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90780
+        ]
+      },
+      "2": {
+        "id": 90781,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90781
+        ]
+      },
+      "3": {
+        "id": 90782,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90782
+        ]
+      },
+      "4": {
+        "id": 90783,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90783
+        ]
+      },
+      "5": {
+        "id": 90784,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "21 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90784
+        ]
+      },
+      "6": {
+        "id": 90785,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "22 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90785
+        ]
+      },
+      "7": {
+        "id": 90786,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "23 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90786
+        ]
+      },
+      "8": {
+        "id": 90787,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "23 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90787
+        ]
+      }
+    }
+  },
+  "90800": {
+    "name": "Single 155mm Mle 1920 Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CL",
+      "MG",
+      "AP",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/50800.png",
+    "stats": {
+      "1": {
+        "id": 90800,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90800
+        ]
+      },
+      "2": {
+        "id": 90801,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "16 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90801
+        ]
+      },
+      "3": {
+        "id": 90802,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "18 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90802
+        ]
+      },
+      "4": {
+        "id": 90803,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90803
+        ]
+      },
+      "5": {
+        "id": 90804,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "21 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90804
+        ]
+      },
+      "6": {
+        "id": 90805,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "22 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90805
+        ]
+      },
+      "7": {
+        "id": 90806,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "23 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90806
+        ]
+      },
+      "8": {
+        "id": 90807,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "23 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90807
+        ]
+      }
+    }
+  },
+  "95600": {
+    "name": "Triple 152mm Model 1934 Main Gun Mount",
+    "desc": "撒丁帝国制造的改良型轻巡洋舰主炮",
+    "label": [
+      "RN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/55600.png",
+    "stats": {
+      "1": {
+        "id": 95600,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "7 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95600
+        ]
+      },
+      "2": {
+        "id": 95601,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95601
+        ]
+      },
+      "3": {
+        "id": 95602,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95602
+        ]
+      },
+      "4": {
+        "id": 95603,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95603
+        ]
+      },
+      "5": {
+        "id": 95604,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95604
+        ]
+      },
+      "6": {
+        "id": 95605,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95605
+        ]
+      },
+      "7": {
+        "id": 95606,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          95606
+        ]
+      }
+    }
+  },
+  "95620": {
+    "name": "Triple 152mm Model 1934 Main Gun Mount",
+    "desc": "撒丁帝国制造的改良型轻巡洋舰主炮",
+    "label": [
+      "RN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/55600.png",
+    "stats": {
+      "1": {
+        "id": 95620,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95620
+        ]
+      },
+      "2": {
+        "id": 95621,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "8 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95621
+        ]
+      },
+      "3": {
+        "id": 95622,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "9 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95622
+        ]
+      },
+      "4": {
+        "id": 95623,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "10 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95623
+        ]
+      },
+      "5": {
+        "id": 95624,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "11 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95624
+        ]
+      },
+      "6": {
+        "id": 95625,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "12 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95625
+        ]
+      },
+      "7": {
+        "id": 95626,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "13 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95626
+        ]
+      },
+      "8": {
+        "id": 95627,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "14 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95627
+        ]
+      },
+      "9": {
+        "id": 95628,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "15 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95628
+        ]
+      },
+      "10": {
+        "id": 95629,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "16 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95629
+        ]
+      },
+      "11": {
+        "id": 95630,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          95630
+        ]
+      }
+    }
+  },
+  "95640": {
+    "name": "Triple 152mm Model 1934 Main Gun Mount",
+    "desc": "撒丁帝国制造的改良型轻巡洋舰主炮",
+    "label": [
+      "RN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/55600.png",
+    "stats": {
+      "1": {
+        "id": 95640,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95640
+        ]
+      },
+      "2": {
+        "id": 95641,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95641
+        ]
+      },
+      "3": {
+        "id": 95642,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95642
+        ]
+      },
+      "4": {
+        "id": 95643,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95643
+        ]
+      },
+      "5": {
+        "id": 95644,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95644
+        ]
+      },
+      "6": {
+        "id": 95645,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95645
+        ]
+      },
+      "7": {
+        "id": 95646,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95646
+        ]
+      },
+      "8": {
+        "id": 95647,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95647
+        ]
+      },
+      "9": {
+        "id": 95648,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95648
+        ]
+      },
+      "10": {
+        "id": 95649,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95649
+        ]
+      },
+      "11": {
+        "id": 95650,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          95650
+        ]
+      },
+      "12": {
+        "id": 95651,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          95651
+        ]
+      },
+      "13": {
+        "id": 95652,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          95652
+        ]
+      },
+      "14": {
+        "id": 95653,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "18 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          95653
+        ]
+      }
+    }
+  },
+  "95660": {
+    "name": "Prototype Triple 152mm Model 1936 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "CL",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 2,
+    "skill": {},
+    "icon": "img/equipment/55660.png",
+    "stats": {
+      "1": {
+        "id": 95660,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "23 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95660
+        ]
+      },
+      "2": {
+        "id": 95661,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "weapon_id": [
+          95661
+        ]
+      },
+      "3": {
+        "id": 95662,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "24 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95662
+        ]
+      },
+      "4": {
+        "id": 95663,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "25 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95663
+        ]
+      },
+      "5": {
+        "id": 95664,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "26 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95664
+        ]
+      },
+      "6": {
+        "id": 95665,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95665
+        ]
+      },
+      "7": {
+        "id": 95666,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95666
+        ]
+      },
+      "8": {
+        "id": 95667,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95667
+        ]
+      },
+      "9": {
+        "id": 95668,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95668
+        ]
+      },
+      "10": {
+        "id": 95669,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "31 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95669
+        ]
+      },
+      "11": {
+        "id": 95670,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          95670
+        ]
+      },
+      "12": {
+        "id": 95671,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          95671
+        ]
+      },
+      "13": {
+        "id": 95672,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          95672
+        ]
+      },
+      "14": {
+        "id": 95673,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          95673
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "96000": {
+    "name": "SY-1 Missile",
+    "desc": "SY-1 Anti-Ship Missile",
+    "label": [
+      "PRAN",
+      "DD",
+      "WP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 5,
+    "type": 20,
+    "skill": {},
+    "icon": "img/equipment/56000.png",
+    "stats": {
+      "1": {
+        "id": 96000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "100 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96000,
+          96020
+        ]
+      },
+      "2": {
+        "id": 96001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "110 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96001,
+          96021
+        ]
+      },
+      "3": {
+        "id": 96002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "120 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96002,
+          96022
+        ]
+      },
+      "4": {
+        "id": 96003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "138 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96003,
+          96023
+        ]
+      },
+      "5": {
+        "id": 96004,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "156 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96004,
+          96024
+        ]
+      },
+      "6": {
+        "id": 96005,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "176 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96005,
+          96025
+        ]
+      },
+      "7": {
+        "id": 96006,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "192 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96006,
+          96026
+        ]
+      },
+      "8": {
+        "id": 96007,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "210 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96007,
+          96027
+        ]
+      },
+      "9": {
+        "id": 96008,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "228 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96008,
+          96028
+        ]
+      },
+      "10": {
+        "id": 96009,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "246 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96009,
+          96029
+        ]
+      },
+      "11": {
+        "id": 96010,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "264 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96010,
+          96030
+        ]
+      },
+      "12": {
+        "id": 96011,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "264 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96011,
+          96031
+        ]
+      },
+      "13": {
+        "id": 96012,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "264 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96012,
+          96032
+        ]
+      },
+      "14": {
+        "id": 96013,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "264 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96013,
+          96033
+        ]
+      }
+    }
+  },
+  "96020": {
+    "name": "SY-1A",
+    "desc": "SY-1A Missile",
+    "label": [
+      "PRAN",
+      "DD",
+      "WP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 5,
+    "type": 20,
+    "skill": {},
+    "icon": "img/equipment/56020.png",
+    "stats": {
+      "1": {
+        "id": 96020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "120 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96040,
+          96060
+        ]
+      },
+      "2": {
+        "id": 96021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "132 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96041,
+          96061
+        ]
+      },
+      "3": {
+        "id": 96022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "144 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96042,
+          96062
+        ]
+      },
+      "4": {
+        "id": 96023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "166 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96043,
+          96063
+        ]
+      },
+      "5": {
+        "id": 96024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "188 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96044,
+          96064
+        ]
+      },
+      "6": {
+        "id": 96025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "209 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96045,
+          96065
+        ]
+      },
+      "7": {
+        "id": 96026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "231 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96046,
+          96066
+        ]
+      },
+      "8": {
+        "id": 96027,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "252 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96047,
+          96067
+        ]
+      },
+      "9": {
+        "id": 96028,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "274 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96048,
+          96068
+        ]
+      },
+      "10": {
+        "id": 96029,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "296 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96049,
+          96069
+        ]
+      },
+      "11": {
+        "id": 96030,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "317 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96050,
+          96070
+        ]
+      },
+      "12": {
+        "id": 96031,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "317 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96051,
+          96071
+        ]
+      },
+      "13": {
+        "id": 96032,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "317 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96052,
+          96072
+        ]
+      },
+      "14": {
+        "id": 96033,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "317 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96053,
+          96073
+        ]
+      }
+    }
+  }
+}
