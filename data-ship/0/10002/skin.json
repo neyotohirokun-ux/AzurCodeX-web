@@ -21,7 +21,7 @@
       "icon": "img/skin/10002/100020/icon.png",
       "qicon": "img/skin/10002/100020/qicon.png",
       "shipyard": "img/skin/10002/100020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/buli_super/buli_super",
       "spine": "spine/ship/buli_super/buli_super",
       "live2d": null
     },
@@ -48,7 +48,7 @@
       "icon": "img/skin/10002/100021/icon.png",
       "qicon": "img/skin/10002/100021/qicon.png",
       "shipyard": "img/skin/10002/100021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/buli_super/buli_super_2",
       "spine": null,
       "live2d": null
     }

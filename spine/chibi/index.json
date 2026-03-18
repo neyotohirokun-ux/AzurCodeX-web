@@ -1,0 +1,776 @@
+{
+  "aisaikesi": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi/aisaikesi.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi/aisaikesi.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi/aisaikesi.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_2/aisaikesi_2.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_2/aisaikesi_2.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_2/aisaikesi_2.png"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_3/aisaikesi_3.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_3/aisaikesi_3.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_3/aisaikesi_3.png"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_4/aisaikesi_4.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_4/aisaikesi_4.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_4/aisaikesi_4.png"
+          ]
+        }
+      ]
+    },
+    "5": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_5/aisaikesi_5.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_5/aisaikesi_5.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_5/aisaikesi_5.png"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_6/aisaikesi_6.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_6/aisaikesi_6.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_6/aisaikesi_6.png"
+          ]
+        }
+      ]
+    },
+    "7": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_7/aisaikesi_7.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_7/aisaikesi_7.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_7/aisaikesi_7.png"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_8/aisaikesi_8.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_8/aisaikesi_8.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_8/aisaikesi_8.png"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_9/aisaikesi_9.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_9/aisaikesi_9.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_9/aisaikesi_9.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_g/aisaikesi_g.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_g/aisaikesi_g.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_g/aisaikesi_g.png"
+          ]
+        }
+      ]
+    },
+    "xiaoyouxi": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aisaikesi/aisaikesi_xiaoyouxi/aisaikesi_xiaoyouxi.atlas",
+          "skel": "chibi/aisaikesi/aisaikesi_xiaoyouxi/aisaikesi_xiaoyouxi.skel",
+          "images": [
+            "chibi/aisaikesi/aisaikesi_xiaoyouxi/aisaikesi_xiaoyouxi.png"
+          ]
+        }
+      ]
+    }
+  },
+  "aolike": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aolike/aolike/aolike.atlas",
+          "skel": "chibi/aolike/aolike/aolike.skel",
+          "images": [
+            "chibi/aolike/aolike/aolike.png"
+          ]
+        }
+      ]
+    }
+  },
+  "aosiben": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aosiben/aosiben/aosiben.atlas",
+          "skel": "chibi/aosiben/aosiben/aosiben.skel",
+          "images": [
+            "chibi/aosiben/aosiben/aosiben.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/aosiben/aosiben_g/aosiben_g.atlas",
+          "skel": "chibi/aosiben/aosiben_g/aosiben_g.skel",
+          "images": [
+            "chibi/aosiben/aosiben_g/aosiben_g.png"
+          ]
+        }
+      ]
+    }
+  },
+  "bote": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/bote/bote/bote.atlas",
+          "skel": "chibi/bote/bote/bote.skel",
+          "images": [
+            "chibi/bote/bote/bote.png"
+          ]
+        }
+      ]
+    },
+    "2":{
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/bote/bote_2/bote_2.atlas",
+          "skel": "chibi/bote/bote_2/bote_2.skel",
+          "images": [
+            "chibi/bote/bote_2/bote_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "buli_super": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/buli_super/buli_super/buli_super.atlas",
+          "skel": "chibi/buli_super/buli_super/buli_super.skel",
+          "images": [
+            "chibi/buli_super/buli_super/buli_super.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/buli_super/buli_super_2/buli_super_2.atlas",
+          "skel": "chibi/buli_super/buli_super_2/buli_super_2.skel",
+          "images": [
+            "chibi/buli_super/buli_super_2/buli_super_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "duwei": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/duwei/duwei/duwei.atlas",
+          "skel": "chibi/duwei/duwei/duwei.skel",
+          "images": [
+            "chibi/duwei/duwei/duwei.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/duwei/duwei_2/duwei_2.atlas",
+          "skel": "chibi/duwei/duwei_2/duwei_2.skel",
+          "images": [
+            "chibi/duwei/duwei_2/duwei_2.png"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/duwei/duwei_3/duwei_3.atlas",
+          "skel": "chibi/duwei/duwei_3/duwei_3.skel",
+          "images": [
+            "chibi/duwei/duwei_3/duwei_3.png"
+          ]
+        }
+      ]
+    },
+    "alter": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/duwei/duwei_alter/duwei_alter.atlas",
+          "skel": "chibi/duwei/duwei_alter/duwei_alter.skel",
+          "images": [
+            "chibi/duwei/duwei_alter/duwei_alter.png"
+          ]
+        }
+      ]
+    }
+  },
+  "fulaiche": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/fulaiche/fulaiche/fulaiche.atlas",
+          "skel": "chibi/fulaiche/fulaiche/fulaiche.skel",
+          "images": [
+            "chibi/fulaiche/fulaiche/fulaiche.png"
+          ]
+        }
+      ]
+    }
+  },
+  "fute": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/fute/fute/fute.atlas",
+          "skel": "chibi/fute/fute/fute.skel",
+          "images": [
+            "chibi/fute/fute/fute.png"
+          ]
+        }
+      ]
+    }
+  },
+  "gelideli": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/gelideli/gelideli/gelideli.atlas",
+          "skel": "chibi/gelideli/gelideli/gelideli.skel",
+          "images": [
+            "chibi/gelideli/gelideli/gelideli.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/gelideli/gelideli_2/gelideli_2.atlas",
+          "skel": "chibi/gelideli/gelideli_2/gelideli_2.skel",
+          "images": [
+            "chibi/gelideli/gelideli_2/gelideli_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "hesitiya": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/hesitiya/hesitiya/hesitiya.atlas",
+          "skel": "chibi/hesitiya/hesitiya/hesitiya.skel",
+          "images": [
+            "chibi/hesitiya/hesitiya/hesitiya.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/hesitiya/hesitiya_2/hesitiya_2.atlas",
+          "skel": "chibi/hesitiya/hesitiya_2/hesitiya_2.skel",
+          "images": [
+            "chibi/hesitiya/hesitiya_2/hesitiya_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "huangjiacaifu": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/huangjiacaifu/huangjiacaifu/huangjiacaifu.atlas",
+          "skel": "chibi/huangjiacaifu/huangjiacaifu/huangjiacaifu.skel",
+          "images": [
+            "chibi/huangjiacaifu/huangjiacaifu/huangjiacaifu.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/huangjiacaifu/huangjiacaifu_2/huangjiacaifu_2.atlas",
+          "skel": "chibi/huangjiacaifu/huangjiacaifu_2/huangjiacaifu_2.skel",
+          "images": [
+            "chibi/huangjiacaifu/huangjiacaifu_2/huangjiacaifu_2.png"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3.atlas",
+          "skel": "chibi/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3.skel",
+          "images": [
+            "chibi/huangjiacaifu/huangjiacaifu_3/huangjiacaifu_3.png"
+          ]
+        }
+      ]
+    }
+  },
+  "kaxin": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/kaxin/kaxin/kaxin.atlas",
+          "skel": "chibi/kaxin/kaxin/kaxin.skel",
+          "images": [
+            "chibi/kaxin/kaxin/kaxin.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/kaxin/kaxin_2/kaxin_2.atlas",
+          "skel": "chibi/kaxin/kaxin_2/kaxin_2.skel",
+          "images": [
+            "chibi/kaxin/kaxin_2/kaxin_2.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/kaxin/kaxin_g/kaxin_g.atlas",
+          "skel": "chibi/kaxin/kaxin_g/kaxin_g.skel",
+          "images": [
+            "chibi/kaxin/kaxin_g/kaxin_g.png"
+          ]
+        }
+      ]
+    }
+  },
+  "keleiwen": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/keleiwen/keleiwen/keleiwen.atlas",
+          "skel": "chibi/keleiwen/keleiwen/keleiwen.skel",
+          "images": [
+            "chibi/keleiwen/keleiwen/keleiwen.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/keleiwen/keleiwen_2/keleiwen_2.atlas",
+          "skel": "chibi/keleiwen/keleiwen_2/keleiwen_2.skel",
+          "images": [
+            "chibi/keleiwen/keleiwen_2/keleiwen_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "liuliang": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/liuliang/liuliang/liuliang.atlas",
+          "skel": "chibi/liuliang/liuliang/liuliang.skel",
+          "images": [
+            "chibi/liuliang/liuliang/liuliang.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/liuliang/liuliang_2/liuliang_2.atlas",
+          "skel": "chibi/liuliang/liuliang_2/liuliang_2.skel",
+          "images": [
+            "chibi/liuliang/liuliang_2/liuliang_2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "maikaoer": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/maikaoer/maikaoer/maikaoer.atlas",
+          "skel": "chibi/maikaoer/maikaoer/maikaoer.skel",
+          "images": [
+            "chibi/maikaoer/maikaoer/maikaoer.png"
+          ]
+        }
+      ]
+    }
+  },
+  "moli": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/moli/moli/moli.atlas",
+          "skel": "chibi/moli/moli/moli.skel",
+          "images": [
+            "chibi/moli/moli/moli.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/moli/moli_g/moli_g.atlas",
+          "skel": "chibi/moli/moli_g/moli_g.skel",
+          "images": [
+            "chibi/moli/moli_g/moli_g.png"
+          ]
+        }
+      ]
+    }
+  },
+  "saqieer": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/saqieer/saqieer/saqieer.atlas",
+          "skel": "chibi/saqieer/saqieer/saqieer.skel",
+          "images": [
+            "chibi/saqieer/saqieer/saqieer.png"
+          ]
+        }
+      ]
+    }
+  },
+  "sipengsi": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/sipengsi/sipengsi/sipengsi.atlas",
+          "skel": "chibi/sipengsi/sipengsi/sipengsi.skel",
+          "images": [
+            "chibi/sipengsi/sipengsi/sipengsi.png"
+          ]
+        }
+      ]
+    }
+  },
+  "tangsi": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/tangsi/tangsi/tangsi.atlas",
+          "skel": "chibi/tangsi/tangsi/tangsi.skel",
+          "images": [
+            "chibi/tangsi/tangsi/tangsi.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/tangsi/tangsi_2/tangsi_2.atlas",
+          "skel": "chibi/tangsi/tangsi_2/tangsi_2.skel",
+          "images": [
+            "chibi/tangsi/tangsi_2/tangsi_2.png"
+          ]
+        }
+      ]
+    },
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.6 },
+        "scale": 0.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "chibi/tangsi/tangsi_g/tangsi_g.atlas",
+          "skel": "chibi/tangsi/tangsi_g/tangsi_g.skel",
+          "images": [
+            "chibi/tangsi/tangsi_g/tangsi_g.png"
+          ]
+        }
+      ]
+    }
+  }
+}

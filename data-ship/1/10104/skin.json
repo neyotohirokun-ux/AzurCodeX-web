@@ -21,7 +21,10 @@
         "chibi": "img/skin/10104/101040/chibi.png",
         "icon": "img/skin/10104/101040/icon.png",
         "qicon": "img/skin/10104/101040/qicon.png",
-        "shipyard": "img/skin/10104/101040/shipyard.png"
+        "shipyard": "img/skin/10104/101040/shipyard.png",
+        "spine_chibi": "spine/chibi/tangsi/tangsi",
+        "spine": null,
+        "live2d": null
       },
       {
         "id": 101041,
@@ -45,7 +48,10 @@
         "chibi": "img/skin/10104/101041/chibi.png",
         "icon": "img/skin/10104/101041/icon.png",
         "qicon": "img/skin/10104/101041/qicon.png",
-        "shipyard": "img/skin/10104/101041/shipyard.png"
+        "shipyard": "img/skin/10104/101041/shipyard.png",
+        "spine_chibi": "spine/chibi/tangsi/tangsi_2",
+        "spine": null,
+        "live2d": null
       },
       {
         "id": 101049,
@@ -67,7 +73,10 @@
         "chibi": "img/skin/10104/101049/chibi.png",
         "icon": "img/skin/10104/101049/icon.png",
         "qicon": "img/skin/10104/101049/qicon.png",
-        "shipyard": "img/skin/10104/101049/shipyard.png"
+        "shipyard": "img/skin/10104/101049/shipyard.png",
+        "spine_chibi": "spine/chibi/tangsi/tangsi_g",
+        "spine": null,
+        "live2d": null
       }
     ]
   }

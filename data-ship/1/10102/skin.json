@@ -20,7 +20,10 @@
       "chibi": "img/skin/10102/101020/chibi.png",
       "icon": "img/skin/10102/101020/icon.png",
       "qicon": "img/skin/10102/101020/qicon.png",
-      "shipyard": "img/skin/10102/101020/shipyard.png"
+      "shipyard": "img/skin/10102/101020/shipyard.png",
+      "spine_chibi": "spine/chibi/duwei/duwei",
+      "spine": null,
+      "live2d": null
     },
     {
       "id": 101021,
@@ -36,7 +39,7 @@
       "voice_actor": 178,
       "voice_actor2": -1,
       "bgm": null,
-      "background": "img/back/10102ground/106.png",
+      "background": "img/bgii/106.png",
       "background2": null,
       "painting": "img/skin/10102/101021/painting.png",
       "painting_n": null,
@@ -45,7 +48,7 @@
       "icon": "img/skin/10102/101021/icon.png",
       "qicon": "img/skin/10102/101021/qicon.png",
       "shipyard": "img/skin/10102/101021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/duwei/duwei_2",
       "spine": null,
       "live2d": null
     },
@@ -63,7 +66,7 @@
       "voice_actor": 178,
       "voice_actor2": -1,
       "bgm": null,
-      "background": "img/back/10102ground/125.png",
+      "background": "img/bgii/125.png",
       "background2": null,
       "painting": "img/skin/10102/101022/painting.png",
       "painting_n": null,
@@ -72,7 +75,7 @@
       "icon": "img/skin/10102/101022/icon.png",
       "qicon": "img/skin/10102/101022/qicon.png",
       "shipyard": "img/skin/10102/101022/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/duwei/duwei_3",
       "spine": null,
       "live2d": null
     }

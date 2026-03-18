@@ -20,7 +20,10 @@
         "chibi": "img/skin/10112/101120/chibi.png",
         "icon": "img/skin/10112/101120/icon.png",
         "qicon": "img/skin/10112/101120/qicon.png",
-        "shipyard": "img/skin/10112/101120/shipyard.png"
+        "shipyard": "img/skin/10112/101120/shipyard.png",
+        "spine_chibi": "spine/chibi/saqieer/saqieer",
+        "spine": null,
+        "live2d": null
       }
     ]
   }
