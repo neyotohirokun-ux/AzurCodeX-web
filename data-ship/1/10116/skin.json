@@ -1,0 +1,56 @@
+{
+  "skins": [
+    {
+      "id": 101160,
+      "gid": 10116,
+      "name": "Benson",
+      "type": "Default",
+      "desc": "Benson-class Destroyer - Benson, Hull Number DD-421!",
+      "tag": [],
+      "illustrator": 8,
+      "illustrator2": -1,
+      "voice_actor": 85,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10116/101160/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10116/101160/banner.png",
+      "chibi": "img/skin/10116/101160/chibi.png",
+      "icon": "img/skin/10116/101160/icon.png",
+      "qicon": "img/skin/10116/101160/qicon.png",
+      "shipyard": "img/skin/10116/101160/shipyard.png",
+      "spine_chibi": "spine/chibi/bensen/bensen",
+      "spine": null,
+      "live2d": null
+    },
+    {
+      "id": 101161,
+      "gid": 10116,
+      "name": "Cutie Pumpkin Pie",
+      "type": "Halloween",
+      "desc": "Fighting for love and peace this Halloween night, it's none other than the pumpkin-style Planet Bunny cutie pie, Benson!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 8,
+      "illustrator2": -1,
+      "voice_actor": 85,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/119.png",
+      "background2": null,
+      "painting": "img/skin/10116/101161/painting.png",
+      "painting_n": "img/skin/10116/101161/painting_n.png",
+      "banner": "img/skin/10116/101161/banner.png",
+      "chibi": "img/skin/10116/101161/chibi.png",
+      "icon": "img/skin/10116/101161/icon.png",
+      "qicon": "img/skin/10116/101161/qicon.png",
+      "shipyard": "img/skin/10116/101161/shipyard.png",
+      "spine_chibi": "spine/chibi/bensen/bensen_2",
+      "spine": null,
+      "live2d": null
+    }
+  ]
+}
