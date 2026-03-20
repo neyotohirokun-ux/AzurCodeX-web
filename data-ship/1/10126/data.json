@@ -1,0 +1,197 @@
+{
+  "id": 28,
+  "gid": 10126,
+  "cid": 1,
+  "sid": [
+    101261,
+    101262,
+    101263,
+    101264,
+    101994
+  ],
+  "name": "Eldridge",
+  "codename": "USS Eldridge",
+  "class": "Cannon Class",
+  "nationality": 1,
+  "obtain": [
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "S",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 101994,
+    "level": 90,
+    "bonus": {
+      "health": 165,
+      "evasion": 20,
+      "equipment_proficiency_1": 0.25,
+      "firepower": 60,
+      "antiair": 60
+    },
+    "skill": 2812,
+    "skin": 101269,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "B",
+      "E",
+      "S",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 277,
+    "firepower": 15,
+    "torpedo": 72,
+    "antiair": 34,
+    "aviation": 0,
+    "reload": 85,
+    "accuracy": 71,
+    "evasion": 78,
+    "speed": 25.2,
+    "luck": 75,
+    "asw": 56
+  },
+  "growth": {
+    "health": 1762,
+    "firepower": 82,
+    "torpedo": 386,
+    "antiair": 187,
+    "aviation": 0,
+    "reload": 234,
+    "accuracy": 218,
+    "evasion": 271,
+    "speed": 25,
+    "luck": 75,
+    "asw": 299
+  },
+  "enhance": {
+    "firepower": 15,
+    "torpedo": 72,
+    "reload": 63
+  },
+  "skill": {
+    "2812": {
+      "id": 2812,
+      "parent": 2812,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "10050": {
+      "id": 10050,
+      "parent": 10050,
+      "upgrade": 150310,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29021": {
+      "id": 29021,
+      "parent": 29021,
+      "upgrade": 29022,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29022": {
+      "id": 29022,
+      "parent": 29021,
+      "upgrade": 29023,
+      "downgrade": 29021,
+      "requirement": "Limit Break 3"
+    },
+    "29023": {
+      "id": 29023,
+      "parent": 29021,
+      "upgrade": null,
+      "downgrade": 29022,
+      "requirement": "Retrofit"
+    },
+    "150310": {
+      "id": 150310,
+      "parent": 10050,
+      "upgrade": null,
+      "downgrade": 10050,
+      "requirement": "Retrofit"
+    }
+  }
+}

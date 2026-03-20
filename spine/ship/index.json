@@ -60,6 +60,24 @@
       ]
     }
   },
+  "aierdeliqi": {
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.5 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/aierdeliqi/aierdeliqi_g/aierdeliqi_g.atlas",
+          "skel": "ship/aierdeliqi/aierdeliqi_g/aierdeliqi_g.skel",
+          "images": [
+            "ship/aierdeliqi/aierdeliqi_g/aierdeliqi_g.png",
+            "ship/aierdeliqi/aierdeliqi_g/aierdeliqi_g2.png"]
+        }
+      ]
+    }
+  },
   "buli_super": {
     "default": {
       "config": {

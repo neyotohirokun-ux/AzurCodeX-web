@@ -1,5 +1,26 @@
-{ 
+{
   "10000": "Universal Bulin",
   "10001": "Prototype Bulin MKII",
-  "10002": "Specialized Bulin Custom MKIII"
+  "10002": "Specialized Bulin Custom MKIII",
+  "10102": "Dewey",
+  "10103": "Cassin",
+  "10104": "Downes",
+  "10105": "Gridley",
+  "10106": "Craven",
+  "10107": "McCall",
+  "10108": "Maury",
+  "10109": "Fletcher",
+  "10110": "William D. Porter",
+  "10111": "Charles Ausburne",
+  "10112": "Tatcher",
+  "10113": "Aulick",
+  "10114": "Foote",
+  "10115": "Spence",
+  "10116": "Benson",
+  "10117": "Laffey",
+  "10124": "Sims",
+  "10125": "Hammann",
+  "10126": "Eldridge",
+  "10709": "Essex",
+  "19904": "Kearsarge"
 }

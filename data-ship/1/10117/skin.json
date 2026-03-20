@@ -23,7 +23,7 @@
       "shipyard": "img/skin/10117/101170/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei",
       "spine": null,
-      "live2d": null
+      "live2d": "live2d/lafei/lafei"
     },
     {
       "id": 101172,
@@ -78,7 +78,7 @@
       "shipyard": "img/skin/10117/101173/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_4",
       "spine": null,
-      "live2d": null
+      "live2d": "live2d/lafei/lafei_4"
     },
     {
       "id": 101174,
@@ -263,7 +263,7 @@
       "shared": "10151",
       "spine_chibi": "spine/chibi/lafeiII/lafeiII_3",
       "spine": null,
-      "live2d": null
+      "live2d": "live2d/lafeiii/lafeiii_3"
     },
     {
       "id": 101512,
