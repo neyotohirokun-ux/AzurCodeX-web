@@ -252,5 +252,23 @@
         }
       ]
     }
+  },
+  "hailunna": {
+    "5": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/hailunna/hailunna_5/hailunna_5.atlas",
+          "skel": "ship/hailunna/hailunna_5/hailunna_5.skel",
+          "images": [
+            "ship/hailunna/hailunna_5/hailunna_5.png",
+            "ship/hailunna/hailunna_5/hailunna_52.png"]
+        }
+      ]
+    }
   }
 }

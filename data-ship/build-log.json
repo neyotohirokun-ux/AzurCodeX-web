@@ -1,5 +1,45 @@
 [
   {
+    "name": "Columbia",
+    "time": "4:09:06 PM"
+  },
+  {
+    "name": "Cleveland",
+    "time": "4:08:58 PM"
+  },
+  {
+    "name": "San Diego",
+    "time": "4:08:49 PM"
+  },
+  {
+    "name": "Juneau",
+    "time": "4:08:42 PM"
+  },
+  {
+    "name": "Atlanta",
+    "time": "4:08:12 PM"
+  },
+  {
+    "name": "Helena",
+    "time": "8:23:20 PM"
+  },
+  {
+    "name": "Phoenix",
+    "time": "8:23:10 PM"
+  },
+  {
+    "name": "Brooklyn",
+    "time": "8:22:32 PM"
+  },
+  {
+    "name": "Raleigh",
+    "time": "8:22:27 PM"
+  },
+  {
+    "name": "Omaha",
+    "time": "8:15:31 PM"
+  },
+  {
     "name": "Eldridge",
     "time": "8:43:54 PM"
   },
