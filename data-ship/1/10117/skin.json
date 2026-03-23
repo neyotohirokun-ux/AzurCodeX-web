@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10117/101170/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei",
       "spine": null,
-      "live2d": "live2d/lafei/lafei"
+      "live2d": "live2d/lafei/lafei",
+      "cost": null
     },
     {
       "id": 101172,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10117/101172/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_3",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 680
     },
     {
       "id": 101173,
@@ -78,7 +80,8 @@
       "shipyard": "img/skin/10117/101173/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_4",
       "spine": null,
-      "live2d": "live2d/lafei/lafei_4"
+      "live2d": "live2d/lafei/lafei_4",
+      "cost": 1080
     },
     {
       "id": 101174,
@@ -103,7 +106,8 @@
       "shipyard": "img/skin/10117/101174/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_5",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 700
     },
     {
       "id": 101175,
@@ -130,7 +134,8 @@
       "shipyard": "img/skin/10117/101175/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_8",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101176,
@@ -157,7 +162,8 @@
       "shipyard": "img/skin/10117/101176/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_6",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 800
     },
     {
       "id": 101177,
@@ -184,7 +190,8 @@
       "shipyard": "img/skin/10117/101177/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_9",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101178,
@@ -209,7 +216,8 @@
       "shipyard": "img/skin/10117/101178/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_h",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101179,
@@ -234,7 +242,8 @@
       "shipyard": "img/skin/10117/101179/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_g",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101511,
@@ -263,7 +272,8 @@
       "shared": "10151",
       "spine_chibi": "spine/chibi/lafeiII/lafeiII_3",
       "spine": null,
-      "live2d": "live2d/lafeiii/lafeiii_3"
+      "live2d": "live2d/lafeiii/lafeiii_3",
+      "cost": 1180
     },
     {
       "id": 101512,
@@ -292,7 +302,8 @@
       "shared": "10151",
       "spine_chibi": "spine/chibi/lafeiII/lafeiII_4",
       "spine": "spine/ship/lafeiII/lafeiII_4",
-      "live2d": null
+      "live2d": null,
+      "cost": 980
     },
     {
       "id": 131170,
@@ -317,7 +328,8 @@
       "shipyard": "img/skin/13117/131170/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_11",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 700
     },
     {
       "id": 131171,
@@ -344,7 +356,8 @@
       "shipyard": "img/skin/13117/131171/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_10",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 131172,
@@ -371,7 +384,8 @@
       "shipyard": "img/skin/13117/131172/shipyard.png",
       "spine_chibi": "spine/chibi/lafei/lafei_12",
       "spine": "spine/ship/lafei/lafei_12",
-      "live2d": null
+      "live2d": null,
+      "cost": 800
     }
   ]
 }

@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10209/102090/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 102091,
@@ -48,7 +49,8 @@
       "shipyard": "img/skin/10209/102091/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 800
     },
     {
       "id": 102092,
@@ -76,7 +78,8 @@
       "shipyard": "img/skin/10209/102092/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_3",
       "spine": null,
-      "live2d": "live2d/kelifulan/kelifulan_3"
+      "live2d": "live2d/kelifulan/kelifulan_3",
+      "cost": 1080
     },
     {
       "id": 102093,
@@ -103,7 +106,8 @@
       "shipyard": "img/skin/10209/102093/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_4",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 102094,
@@ -130,7 +134,8 @@
       "shipyard": "img/skin/10209/102094/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_5",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 102095,
@@ -157,7 +162,8 @@
       "shipyard": "img/skin/10209/102095/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_6",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 880
     },
     {
       "id": 102096,
@@ -184,7 +190,8 @@
       "shipyard": "img/skin/10209/102096/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_7",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 102097,
@@ -212,7 +219,8 @@
       "shipyard": "img/skin/10209/102097/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_8",
       "spine": null,
-      "live2d": "live2d/kelifulan/kelifulan_8"
+      "live2d": "live2d/kelifulan/kelifulan_8",
+      "cost": 1080
     },
     {
       "id": 102098,
@@ -237,7 +245,8 @@
       "shipyard": "img/skin/10209/102098/shipyard.png",
       "spine_chibi": "spine/chibi/kelifulan/kelifulan_h",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

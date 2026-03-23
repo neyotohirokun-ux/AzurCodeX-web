@@ -22,8 +22,9 @@
         "qicon": "img/skin/10110/101100/qicon.png",
         "shipyard": "img/skin/10110/101100/shipyard.png",
         "spine_chibi": "spine/chibi/bote/bote",
-        "spine": null,
-        "live2d": null
+        "spine": "spine/ship/bote/bote",
+        "live2d": null,
+        "cost": null
       },
       {
         "id": 101101,
@@ -50,8 +51,9 @@
         "qicon": "img/skin/10110/101101/qicon.png",
         "shipyard": "img/skin/10110/101101/shipyard.png",
         "spine_chibi": "spine/chibi/bote/bote_2",
-        "spine": null,
-        "live2d": null
+        "spine": "spine/ship/bote/bote_2",
+        "live2d": null,
+        "cost": 1030
       }
     ]
   }

@@ -23,7 +23,8 @@
         "shipyard": "img/skin/10109/101090/shipyard.png",
         "spine_chibi": "spine/chibi/fulaiche/fulaiche",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       }
     ]
   }

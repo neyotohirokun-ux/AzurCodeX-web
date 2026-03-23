@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 103020,
+      "gid": 10302,
+      "name": "Salt Lake City",
+      "type": "Default",
+      "desc": "Pensacola-class Heavy Cruiser – Salt Lake City, Hull Number CA-25!",
+      "tag": [],
+      "illustrator": 9,
+      "illustrator2": -1,
+      "voice_actor": 56,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10302/103020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10302/103020/banner.png",
+      "chibi": "img/skin/10302/103020/chibi.png",
+      "icon": "img/skin/10302/103020/icon.png",
+      "qicon": "img/skin/10302/103020/qicon.png",
+      "shipyard": "img/skin/10302/103020/shipyard.png",
+      "spine_chibi": "spine/chibi/yanhucheng/yanhucheng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

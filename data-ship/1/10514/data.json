@@ -1,0 +1,143 @@
+{
+  "id": 65,
+  "gid": 10514,
+  "cid": 1,
+  "sid": [
+    105141,
+    105142,
+    105143,
+    105144
+  ],
+  "name": "South Dakota",
+  "codename": "USS South Dakota",
+  "class": "South Dakota Class",
+  "nationality": 1,
+  "obtain": [
+    "Merit Shop"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1345,
+    "firepower": 80,
+    "torpedo": 0,
+    "antiair": 79,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 23,
+    "evasion": 7,
+    "speed": 27.8,
+    "luck": 76,
+    "asw": 0
+  },
+  "growth": {
+    "health": 35832,
+    "firepower": 945,
+    "torpedo": 0,
+    "antiair": 1540,
+    "aviation": 0,
+    "reload": 406,
+    "accuracy": 378,
+    "evasion": 205,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 80,
+    "reload": 44
+  },
+  "skill": {
+    "2041": {
+      "id": 2041,
+      "parent": 2041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10160": {
+      "id": 10160,
+      "parent": 10160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

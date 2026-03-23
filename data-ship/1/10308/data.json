@@ -1,0 +1,157 @@
+{
+  "id": 46,
+  "gid": 10308,
+  "cid": 1,
+  "sid": [
+    103081,
+    103082,
+    103083,
+    103084
+  ],
+  "name": "Astoria",
+  "codename": "USS Astoria",
+  "class": "New Orleans Class",
+  "nationality": 1,
+  "obtain": [
+    "Event: Moonlit Overture",
+    "Core Data Shop"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Main gun base +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 670,
+    "firepower": 40,
+    "torpedo": 0,
+    "antiair": 42,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 40,
+    "evasion": 9,
+    "speed": 26.16,
+    "luck": 15,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3971,
+    "firepower": 221,
+    "torpedo": 0,
+    "antiair": 231,
+    "aviation": 0,
+    "reload": 163,
+    "accuracy": 125,
+    "evasion": 59,
+    "speed": 26.16,
+    "luck": 15,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 40,
+    "reload": 44
+  },
+  "skill": {
+    "4121": {
+      "id": 4121,
+      "parent": 4121,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11470": {
+      "id": 11470,
+      "parent": 11470,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20241": {
+      "id": 20241,
+      "parent": 20241,
+      "upgrade": 20242,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20242": {
+      "id": 20242,
+      "parent": 20241,
+      "upgrade": null,
+      "downgrade": 20241,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

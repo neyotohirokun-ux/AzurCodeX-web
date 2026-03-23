@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10116/101160/shipyard.png",
       "spine_chibi": "spine/chibi/bensen/bensen",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101161,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10116/101161/shipyard.png",
       "spine_chibi": "spine/chibi/bensen/bensen_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     }
   ]
 }

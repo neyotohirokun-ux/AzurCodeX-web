@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 105080,
+      "gid": 10508,
+      "name": "California",
+      "type": "Default",
+      "desc": "Tennessee-class battleship – California, Hull Number BB-44!",
+      "tag": [],
+      "illustrator": 12,
+      "illustrator2": -1,
+      "voice_actor": 65,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10508/105080/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10508/105080/banner.png",
+      "chibi": "img/skin/10508/105080/chibi.png",
+      "icon": "img/skin/10508/105080/icon.png",
+      "qicon": "img/skin/10508/105080/qicon.png",
+      "shipyard": "img/skin/10508/105080/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

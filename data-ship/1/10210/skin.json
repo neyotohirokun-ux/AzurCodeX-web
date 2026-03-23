@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10210/102100/shipyard.png",
       "spine_chibi": "spine/chibi/gelunbiya/gelunbiya",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 102101,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10210/102101/shipyard.png",
       "spine_chibi": "spine/chibi/gelunbiya/gelunbiya_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 102102,
@@ -77,7 +79,8 @@
       "shipyard": "img/skin/10210/102102/shipyard.png",
       "spine_chibi": "spine/chibi/gelunbiya/gelunbiya_3",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 880
     }
   ]
 }

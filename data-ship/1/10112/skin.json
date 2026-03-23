@@ -23,7 +23,8 @@
         "shipyard": "img/skin/10112/101120/shipyard.png",
         "spine_chibi": "spine/chibi/saqieer/saqieer",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+      "cost": null
       }
     ]
   }

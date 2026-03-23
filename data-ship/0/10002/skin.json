@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10002/100020/shipyard.png",
       "spine_chibi": "spine/chibi/buli_super/buli_super",
       "spine": "spine/ship/buli_super/buli_super",
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 100021,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10002/100021/shipyard.png",
       "spine_chibi": "spine/chibi/buli_super/buli_super_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

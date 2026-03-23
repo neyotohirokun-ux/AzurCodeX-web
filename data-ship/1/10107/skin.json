@@ -23,7 +23,8 @@
         "shipyard": "img/skin/10107/101070/shipyard.png",
         "spine_chibi": "spine/chibi/maikaoer/maikaoer",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       }
     ]
   }

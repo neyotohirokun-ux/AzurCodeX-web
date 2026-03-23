@@ -270,5 +270,53 @@
         }
       ]
     }
+  },
+  "shengdiyage": {
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/shengdiyage/shengdiyage_g/shengdiyage_g.atlas",
+          "skel": "ship/shengdiyage/shengdiyage_g/shengdiyage_g.skel",
+          "images": ["ship/shengdiyage/shengdiyage_g/shengdiyage_g.png"]
+        }
+      ]
+    }
+  },
+  "bote": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8 },
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/bote/bote/bote.atlas",
+          "skel": "ship/bote/bote/bote.skel",
+          "images": ["ship/bote/bote/bote.png"]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/bote/bote_2/bote_2.atlas",
+          "skel": "ship/bote/bote_2/bote_2.skel",
+          "images": [
+            "ship/bote/bote_2/bote_2.png",
+            "ship/bote/bote_2/bote_22.png"]
+        }
+      ]
+    }
   }
 }

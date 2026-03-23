@@ -24,7 +24,8 @@
         "shipyard": "img/skin/10104/101040/shipyard.png",
         "spine_chibi": "spine/chibi/tangsi/tangsi",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       },
       {
         "id": 101041,
@@ -51,7 +52,8 @@
         "shipyard": "img/skin/10104/101041/shipyard.png",
         "spine_chibi": "spine/chibi/tangsi/tangsi_2",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": 780
       },
       {
         "id": 101049,
@@ -76,7 +78,8 @@
         "shipyard": "img/skin/10104/101049/shipyard.png",
         "spine_chibi": "spine/chibi/tangsi/tangsi_g",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       }
     ]
   }

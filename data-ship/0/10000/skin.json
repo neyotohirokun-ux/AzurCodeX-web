@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10000/100000/shipyard.png",
       "spine_chibi": null,
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 100001,
@@ -48,7 +49,8 @@
       "shipyard": "img/skin/10000/100001/shipyard.png",
       "spine_chibi": null,
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 103050,
+      "gid": 10305,
+      "name": "Houston",
+      "type": "Default",
+      "desc": "Northampton-class Heavy Cruiser – Houston, Hull Number CA-30!",
+      "tag": [],
+      "illustrator": 7,
+      "illustrator2": -1,
+      "voice_actor": 7,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10305/103050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10305/103050/banner.png",
+      "chibi": "img/skin/10305/103050/chibi.png",
+      "icon": "img/skin/10305/103050/icon.png",
+      "qicon": "img/skin/10305/103050/qicon.png",
+      "shipyard": "img/skin/10305/103050/shipyard.png",
+      "spine_chibi": "spine/chibi/xiusidun/xiusidun",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 102311,
+      "gid": 10231,
+      "name": "Ready to Serve!",
+      "type": "Bunny Girl",
+      "desc": "Thank you for waiting! Houston is here and ready to serve! Mm... I've never worn a costume like this. It's kind of embarrassing... And is it just me, or is it a size or two too small?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 7,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/145.png",
+      "background2": null,
+      "painting": "img/skin/10231/102311/painting.png",
+      "painting_n": "img/skin/10231/102311/painting_n.png",
+      "banner": "img/skin/10231/102311/banner.png",
+      "chibi": "img/skin/10231/102311/chibi.png",
+      "icon": "img/skin/10231/102311/icon.png",
+      "qicon": "img/skin/10231/102311/qicon.png",
+      "shipyard": "img/skin/10231/102311/shipyard.png",
+      "shared": "10231",
+      "spine_chibi": "spine/chibi/xiusidunII/xiusidunII",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

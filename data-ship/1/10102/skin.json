@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10102/101020/shipyard.png",
       "spine_chibi": "spine/chibi/duwei/duwei",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+        "cost": null
     },
     {
       "id": 101021,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10102/101021/shipyard.png",
       "spine_chibi": "spine/chibi/duwei/duwei_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+        "cost": 780
     },
     {
       "id": 101022,
@@ -77,7 +79,8 @@
       "shipyard": "img/skin/10102/101022/shipyard.png",
       "spine_chibi": "spine/chibi/duwei/duwei_3",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+        "cost": 800
     }
   ]
 }

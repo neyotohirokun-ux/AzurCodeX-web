@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10201/102010/shipyard.png",
       "spine_chibi": "spine/chibi/aomaha/aomaha",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

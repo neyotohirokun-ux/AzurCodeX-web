@@ -22,7 +22,8 @@
         "shipyard": "img/skin/10106/101060/shipyard.png",
         "spine_chibi": "spine/chibi/keleiwen/keleiwen",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       },
       {
         "id": 101061,
@@ -49,7 +50,8 @@
         "shipyard": "img/skin/10106/101061/shipyard.png",
         "spine_chibi": "spine/chibi/keleiwen/keleiwen_2",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       }
     ]
   }

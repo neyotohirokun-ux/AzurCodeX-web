@@ -1,0 +1,170 @@
+{
+  "id": 70,
+  "gid": 10601,
+  "cid": 1,
+  "sid": [
+    106011,
+    106012,
+    106013,
+    106014
+  ],
+  "name": "Long Island",
+  "codename": "USS Long Island",
+  "class": "Long Island Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 1-4",
+    "Light/Special Construction"
+  ],
+  "type": 6,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Fighters +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Dive Bomber efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 106014,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "aviation": 60,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 35
+    },
+    "skill": 7008,
+    "skin": 106019,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "B",
+      "D",
+      "A",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 109,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 111,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 782,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 48,
+    "aviation": 52,
+    "reload": 67,
+    "accuracy": 28,
+    "evasion": 15,
+    "speed": 16.5,
+    "luck": 68,
+    "asw": 24
+  },
+  "growth": {
+    "health": 20999,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1044,
+    "aviation": 707,
+    "reload": 465,
+    "accuracy": 447,
+    "evasion": 400,
+    "speed": 0,
+    "luck": 0,
+    "asw": 295
+  },
+  "enhance": {
+    "aviation": 52,
+    "reload": 50
+  },
+  "skill": {
+    "3001": {
+      "id": 3001,
+      "parent": 3001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "7008": {
+      "id": 7008,
+      "parent": 7008,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10115/101150/shipyard.png",
       "spine_chibi": "spine/chibi/sipengsi/sipengsi",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

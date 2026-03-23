@@ -1,0 +1,169 @@
+{
+  "id": 53,
+  "gid": 10502,
+  "cid": 1,
+  "sid": [
+    105021,
+    105022,
+    105023,
+    105024
+  ],
+  "name": "Oklahoma",
+  "codename": "USS Oklahoma",
+  "class": "Nevada Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-2",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 2,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 105024,
+    "level": 80,
+    "bonus": {
+      "health": 240,
+      "reload": 20,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 10,
+      "equipment_proficiency_2": 0.15,
+      "antiair": 45,
+      "accuracy": 10
+    },
+    "skill": 5308,
+    "skin": 105029,
+    "armor": 3,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "D",
+      "C",
+      "A"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1153,
+    "firepower": 72,
+    "torpedo": 0,
+    "antiair": 38,
+    "aviation": 0,
+    "reload": 49,
+    "accuracy": 20,
+    "evasion": 4,
+    "speed": 20.5,
+    "luck": 38,
+    "asw": 0
+  },
+  "growth": {
+    "health": 31281,
+    "firepower": 912,
+    "torpedo": 0,
+    "antiair": 821,
+    "aviation": 0,
+    "reload": 338,
+    "accuracy": 375,
+    "evasion": 173,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 71,
+    "reload": 36
+  },
+  "skill": {
+    "4021": {
+      "id": 4021,
+      "parent": 4021,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "5308": {
+      "id": 5308,
+      "parent": 5308,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

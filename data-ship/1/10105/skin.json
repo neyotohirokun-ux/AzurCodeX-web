@@ -22,7 +22,8 @@
         "shipyard": "img/skin/10105/101050/shipyard.png",
         "spine_chibi": "spine/chibi/gelideli/gelideli",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       },
       {
         "id": 101051,
@@ -49,7 +50,8 @@
         "shipyard": "img/skin/10105/101051/shipyard.png",
         "spine_chibi": "spine/chibi/gelideli/gelideli_2",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+        "cost": null
       }
     ]
   }

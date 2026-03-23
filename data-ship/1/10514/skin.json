@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 105140,
+      "gid": 10514,
+      "name": "South Dakota",
+      "type": "Default",
+      "desc": "South Dakota-class battleship – South Dakota, Hull Number BB-57!",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": 19,
+      "voice_actor": 19,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10514/105140/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10514/105140/banner.png",
+      "chibi": "img/skin/10514/105140/chibi.png",
+      "icon": "img/skin/10514/105140/icon.png",
+      "qicon": "img/skin/10514/105140/qicon.png",
+      "shipyard": "img/skin/10514/105140/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105141,
+      "gid": 10514,
+      "name": "Solo Concert",
+      "type": "Party Dress",
+      "desc": "Massachusetts suggested I learn something useful that's unrelated to combat, so I started playing the piano... It seemed impossible at first, but after actually trying it, I've developed a pretty good feel for it.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": 19,
+      "voice_actor": 19,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/107.png",
+      "background2": null,
+      "painting": "img/skin/10514/105141/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10514/105141/banner.png",
+      "chibi": "img/skin/10514/105141/chibi.png",
+      "icon": "img/skin/10514/105141/icon.png",
+      "qicon": "img/skin/10514/105141/qicon.png",
+      "shipyard": "img/skin/10514/105141/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

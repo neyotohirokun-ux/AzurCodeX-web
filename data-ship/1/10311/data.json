@@ -1,0 +1,156 @@
+{
+  "id": 49,
+  "gid": 10311,
+  "cid": 1,
+  "sid": [
+    103111,
+    103112,
+    103113,
+    103114
+  ],
+  "name": "Wichita",
+  "codename": "USS Wichita",
+  "class": "Wichita Class",
+  "nationality": 1,
+  "obtain": [
+    "Unlocked in collection"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 638,
+    "firepower": 49,
+    "torpedo": 0,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 43,
+    "evasion": 9,
+    "speed": 26.4,
+    "luck": 70,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3795,
+    "firepower": 271,
+    "torpedo": 0,
+    "antiair": 227,
+    "aviation": 0,
+    "reload": 182,
+    "accuracy": 135,
+    "evasion": 51,
+    "speed": 26.4,
+    "luck": 70,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 49,
+    "reload": 49
+  },
+  "skill": {
+    "1002": {
+      "id": 1002,
+      "parent": 1002,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "2061": {
+      "id": 2061,
+      "parent": 2061,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20251": {
+      "id": 20251,
+      "parent": 20251,
+      "upgrade": 20252,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20252": {
+      "id": 20252,
+      "parent": 20251,
+      "upgrade": null,
+      "downgrade": 20251,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

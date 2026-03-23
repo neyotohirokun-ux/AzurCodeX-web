@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 105150,
+      "gid": 10515,
+      "name": "Indiana",
+      "type": "Default",
+      "desc": "South Dakota-class battleship – Indiana, Hull Number BB-58.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 422,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10515/105150/painting.png",
+      "painting_n": "img/skin/10515/105150/painting_n.png",
+      "banner": "img/skin/10515/105150/banner.png",
+      "chibi": "img/skin/10515/105150/chibi.png",
+      "icon": "img/skin/10515/105150/icon.png",
+      "qicon": "img/skin/10515/105150/qicon.png",
+      "shipyard": "img/skin/10515/105150/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105151,
+      "gid": 10515,
+      "name": "High Noon Arrest",
+      "type": "Wild West",
+      "desc": "Oh, look who's here. What am I doing here? Well, I figured through the roof was the fastest way in, so I punched a hole through the ceiling. The bandits are all down for the count, so let me take it from here.",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 422,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/176.png",
+      "background2": null,
+      "painting": "img/skin/10515/105151/painting.png",
+      "painting_n": "img/skin/10515/105151/painting_n.png",
+      "banner": "img/skin/10515/105151/banner.png",
+      "chibi": "img/skin/10515/105151/chibi.png",
+      "icon": "img/skin/10515/105151/icon.png",
+      "qicon": "img/skin/10515/105151/qicon.png",
+      "shipyard": "img/skin/10515/105151/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

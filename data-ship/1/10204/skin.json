@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10204/102040/shipyard.png",
       "spine_chibi": "spine/chibi/feinikesi/feinikesi",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

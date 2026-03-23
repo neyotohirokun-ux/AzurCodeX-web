@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10206/102060/shipyard.png",
       "spine_chibi": "spine/chibi/yatelanda/yatelanda",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

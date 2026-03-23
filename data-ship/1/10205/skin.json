@@ -23,8 +23,8 @@
       "shipyard": "img/skin/10205/102050/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna",
       "spine": null,
-      "live2d": null
-      
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 102051,
@@ -51,7 +51,8 @@
       "shipyard": "img/skin/10205/102051/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 102052,
@@ -78,7 +79,8 @@
       "shipyard": "img/skin/10205/102052/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_3",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 780
     },
     {
       "id": 102053,
@@ -106,7 +108,8 @@
       "shipyard": "img/skin/10205/102053/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_4",
       "spine": null,
-      "live2d": "live2d/hailunna/hailunna_4"
+      "live2d": "live2d/hailunna/hailunna_4",
+      "cost": 1080
     },
     {
       "id": 102054,
@@ -134,7 +137,8 @@
       "shipyard": "img/skin/10205/102054/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_5",
       "spine": "spine/ship/hailunna/hailunna_5",
-      "live2d": null
+      "live2d": null,
+      "cost": 880
     },
     {
       "id": 102058,
@@ -159,7 +163,8 @@
       "shipyard": "img/skin/10205/102058/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_h",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 102059,
@@ -184,7 +189,8 @@
       "shipyard": "img/skin/10205/102059/shipyard.png",
       "spine_chibi": "spine/chibi/hailunna/hailunna_g",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

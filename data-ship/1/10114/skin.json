@@ -22,7 +22,8 @@
         "shipyard": "img/skin/10114/101140/shipyard.png",
         "spine_chibi": "spine/chibi/fute/fute",
         "spine": null,
-        "live2d": null
+        "live2d": null,
+      "cost": null
       }
     ]
   }

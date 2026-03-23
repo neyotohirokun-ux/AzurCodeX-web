@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 105030,
+      "gid": 10503,
+      "name": "Pennsylvania",
+      "type": "Default",
+      "desc": "Pennsylvania-class battleship – Pennsylvania, Hull Number BB-38!",
+      "tag": [],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 23,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10503/105030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10503/105030/banner.png",
+      "chibi": "img/skin/10503/105030/chibi.png",
+      "icon": "img/skin/10503/105030/icon.png",
+      "qicon": "img/skin/10503/105030/qicon.png",
+      "shipyard": "img/skin/10503/105030/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105031,
+      "gid": 10503,
+      "name": "The Keystone General",
+      "type": "Empery'S Fineries",
+      "desc": "Halt! Who are you?! ...Oh, it's you, Commander. I briefly mistook you for a spy there. Why are you here? To spectate? Or, God forbid, to gather intel on my army?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 23,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/153.png",
+      "background2": null,
+      "painting": "img/skin/10503/105031/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10503/105031/banner.png",
+      "chibi": "img/skin/10503/105031/chibi.png",
+      "icon": "img/skin/10503/105031/icon.png",
+      "qicon": "img/skin/10503/105031/qicon.png",
+      "shipyard": "img/skin/10503/105031/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

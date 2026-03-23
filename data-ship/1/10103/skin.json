@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10103/101030/shipyard.png",
       "spine_chibi": "spine/chibi/kaxin/kaxin",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 101031,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10103/101031/shipyard.png",
       "spine_chibi": "spine/chibi/kaxin/kaxin_2",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+        "cost": 780
     },
     {
       "id": 101039,
@@ -75,7 +77,8 @@
       "shipyard": "img/skin/10103/101039/shipyard.png",
       "spine_chibi": "spine/chibi/kaxin/kaxin_g",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+        "cost": null
     }
   ]
 }

@@ -1,0 +1,183 @@
+{
+  "id": 44,
+  "gid": 10306,
+  "cid": 1,
+  "sid": [
+    103061,
+    103062,
+    103063,
+    103064
+  ],
+  "name": "Portland",
+  "codename": "USS Portland",
+  "class": "Portland Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 4-1",
+    "Heavy/Special Construction",
+    "Guild Shop"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Main gun base +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 103064,
+    "level": 85,
+    "bonus": {
+      "health": 790,
+      "evasion": 20,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 30,
+      "equipment_proficiency_2": 0.05,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15
+    },
+    "skill": 0,
+    "skin": 103069,
+    "armor": 2,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "B",
+      "A"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 788,
+    "firepower": 38,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 41,
+    "evasion": 10,
+    "speed": 26.16,
+    "luck": 78,
+    "asw": 0
+  },
+  "growth": {
+    "health": 4671,
+    "firepower": 237,
+    "torpedo": 0,
+    "antiair": 266,
+    "aviation": 0,
+    "reload": 172,
+    "accuracy": 129,
+    "evasion": 81,
+    "speed": 26.16,
+    "luck": 78,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 37,
+    "reload": 47
+  },
+  "skill": {
+    "4011": {
+      "id": 4011,
+      "parent": 4011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10110": {
+      "id": 10110,
+      "parent": 10110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20231": {
+      "id": 20231,
+      "parent": 20231,
+      "upgrade": 20232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20232": {
+      "id": 20232,
+      "parent": 20231,
+      "upgrade": null,
+      "downgrade": 20231,
+      "requirement": "Limit Break 3"
+    }
+  }
+}
