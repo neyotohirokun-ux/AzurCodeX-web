@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 112010,
+      "gid": 11201,
+      "name": "Vestal",
+      "type": "Default",
+      "desc": "Repair ship ー Vestal, Hull Number AR-4!",
+      "tag": [],
+      "illustrator": 10,
+      "illustrator2": -1,
+      "voice_actor": 1,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/11201/112010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/11201/112010/banner.png",
+      "chibi": "img/skin/11201/112010/chibi.png",
+      "icon": "img/skin/11201/112010/icon.png",
+      "qicon": "img/skin/11201/112010/qicon.png",
+      "shipyard": "img/skin/11201/112010/shipyard.png",
+      "spine_chibi": "spine/chibi/zaoshen/zaoshen",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 112011,
+      "gid": 11201,
+      "name": "Revigorating Hestia",
+      "type": "Swimsuits",
+      "desc": "Listen, everyone~! Playing by the beach is fun, but please keep safety in mind! If you begin to feel ill, come see me~!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 10,
+      "illustrator2": -1,
+      "voice_actor": 1,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/11201/112011/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/11201/112011/banner.png",
+      "chibi": "img/skin/11201/112011/chibi.png",
+      "icon": "img/skin/11201/112011/icon.png",
+      "qicon": "img/skin/11201/112011/qicon.png",
+      "shipyard": "img/skin/11201/112011/shipyard.png",
+      "spine_chibi": "spine/chibi/zaoshen/zaoshen_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

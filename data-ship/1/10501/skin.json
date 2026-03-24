@@ -21,7 +21,7 @@
       "icon": "img/skin/10501/105010/icon.png",
       "qicon": "img/skin/10501/105010/qicon.png",
       "shipyard": "img/skin/10501/105010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/neihuada/neihuada",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,7 +49,7 @@
       "icon": "img/skin/10501/105011/icon.png",
       "qicon": "img/skin/10501/105011/qicon.png",
       "shipyard": "img/skin/10501/105011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/neihuada/neihuada_2",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -75,7 +75,7 @@
       "icon": "img/skin/10501/105019/icon.png",
       "qicon": "img/skin/10501/105019/qicon.png",
       "shipyard": "img/skin/10501/105019/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/neihuada/neihuada_g",
       "spine": null,
       "live2d": null,
       "cost": null

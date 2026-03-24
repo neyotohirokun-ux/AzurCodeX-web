@@ -1,0 +1,170 @@
+{
+  "id": 71,
+  "gid": 10602,
+  "cid": 1,
+  "sid": [
+    106021,
+    106022,
+    106023,
+    106024
+  ],
+  "name": "Bogue",
+  "codename": "USS Bogue",
+  "class": "Bogue Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-1",
+    "Light/Special Construction"
+  ],
+  "type": 6,
+  "rarity": 2,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Fighters +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Dive Bomber efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 106024,
+    "level": 80,
+    "bonus": {
+      "health": 210,
+      "reload": 5,
+      "equipment_proficiency_2": 0.15,
+      "aviation": 60,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 35
+    },
+    "skill": 7108,
+    "skin": 106029,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "B",
+      "D",
+      "A",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 109,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 111,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 654,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 47,
+    "aviation": 52,
+    "reload": 66,
+    "accuracy": 28,
+    "evasion": 15,
+    "speed": 18,
+    "luck": 78,
+    "asw": 36
+  },
+  "growth": {
+    "health": 4048,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 282,
+    "aviation": 257,
+    "reload": 181,
+    "accuracy": 88,
+    "evasion": 69,
+    "speed": 18,
+    "luck": 78,
+    "asw": 150
+  },
+  "enhance": {
+    "aviation": 51,
+    "reload": 49
+  },
+  "skill": {
+    "3001": {
+      "id": 3001,
+      "parent": 3001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "7108": {
+      "id": 7108,
+      "parent": 7108,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

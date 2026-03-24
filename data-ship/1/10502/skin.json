@@ -21,7 +21,7 @@
       "icon": "img/skin/10502/105020/icon.png",
       "qicon": "img/skin/10502/105020/qicon.png",
       "shipyard": "img/skin/10502/105020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ekelahema/ekelahema",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/10502/105021/icon.png",
       "qicon": "img/skin/10502/105021/qicon.png",
       "shipyard": "img/skin/10502/105021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ekelahema/ekelahema_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 105029,
@@ -75,7 +75,7 @@
       "icon": "img/skin/10502/105029/icon.png",
       "qicon": "img/skin/10502/105029/qicon.png",
       "shipyard": "img/skin/10502/105029/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ekelahema/ekelahema_g",
       "spine": null,
       "live2d": null,
       "cost": null

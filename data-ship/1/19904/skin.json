@@ -23,7 +23,8 @@
       "shipyard": "img/skin/19904/199040/shipyard.png",
       "spine_chibi": "spine/chibi/qiershazhi/qiershazhi",
       "spine": "spine/ship/qiershazhi/qiershazhi",
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 199041,
@@ -51,7 +52,8 @@
       "shipyard": "img/skin/19904/199041/shipyard.png",
       "spine_chibi": "spine/chibi/qiershazhi/qiershazhi_2",
       "spine": null,
-      "live2d": "live2d/qiershazhi/qiershazhi_2"
+      "live2d": "live2d/qiershazhi/qiershazhi_2",
+      "cost": 1180
     },
     {
       "id": 199042,
@@ -79,7 +81,8 @@
       "shipyard": "img/skin/19904/199042/shipyard.png",
       "spine_chibi": "spine/chibi/qiershazhi/qiershazhi_3",
       "spine": "spine/ship/qiershazhi/qiershazhi_3",
-      "live2d": null
+      "live2d": null,
+      "cost": 980
     }
   ]
 }

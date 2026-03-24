@@ -21,7 +21,7 @@
       "icon": "img/skin/10512/105120/icon.png",
       "qicon": "img/skin/10512/105120/qicon.png",
       "shipyard": "img/skin/10512/105120/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beikaluolaina/beikaluolaina",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/10512/105121/icon.png",
       "qicon": "img/skin/10512/105121/qicon.png",
       "shipyard": "img/skin/10512/105121/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beikaluolaina/beikaluolaina_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/beikaluolaina/beikaluolaina_2",
+      "cost": 1180
     }
   ]
 }

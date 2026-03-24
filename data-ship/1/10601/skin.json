@@ -21,7 +21,7 @@
       "icon": "img/skin/10601/106010/icon.png",
       "qicon": "img/skin/10601/106010/qicon.png",
       "shipyard": "img/skin/10601/106010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changdao/changdao",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,7 +47,7 @@
       "icon": "img/skin/10601/106011/icon.png",
       "qicon": "img/skin/10601/106011/qicon.png",
       "shipyard": "img/skin/10601/106011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changdao/changdao_2",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -75,10 +75,10 @@
       "icon": "img/skin/10601/106013/icon.png",
       "qicon": "img/skin/10601/106013/qicon.png",
       "shipyard": "img/skin/10601/106013/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changdao/changdao_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 106014,
@@ -103,7 +103,7 @@
       "icon": "img/skin/10601/106014/icon.png",
       "qicon": "img/skin/10601/106014/qicon.png",
       "shipyard": "img/skin/10601/106014/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changdao/changdao_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -134,7 +134,7 @@
       "spine_chibi": null,
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": "Event Reward"
     },
     {
       "id": 106019,
@@ -157,7 +157,7 @@
       "icon": "img/skin/10601/106019/icon.png",
       "qicon": "img/skin/10601/106019/qicon.png",
       "shipyard": "img/skin/10601/106019/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changdao/changdao_g",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -1,0 +1,138 @@
+{
+  "id": 77,
+  "gid": 10706,
+  "cid": 1,
+  "sid": [
+    107061,
+    107062,
+    107063,
+    107064
+  ],
+  "name": "Enterprise",
+  "codename": "USS Enterprise",
+  "class": "Yorktown Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Special Ship Construction",
+    "Medal Shop (when listed)"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All fighters +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 109,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 111,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 110,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1042,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 62,
+    "aviation": 83,
+    "reload": 49,
+    "accuracy": 37,
+    "evasion": 19,
+    "speed": 32.5,
+    "luck": 93,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6339,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 435,
+    "aviation": 337,
+    "reload": 134,
+    "accuracy": 110,
+    "evasion": 64,
+    "speed": 32.5,
+    "luck": 93,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 83,
+    "reload": 36
+  },
+  "skill": {
+    "10200": {
+      "id": 10200,
+      "parent": 10200,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

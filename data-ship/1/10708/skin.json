@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 107080,
+      "gid": 10708,
+      "name": "Wasp",
+      "type": "Default",
+      "desc": "Wasp-class aircraft carrier, Wasp. Hull Number CV-7.",
+      "tag": [],
+      "illustrator": 8,
+      "illustrator2": -1,
+      "voice_actor": 102,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10708/107080/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10708/107080/banner.png",
+      "chibi": "img/skin/10708/107080/chibi.png",
+      "icon": "img/skin/10708/107080/icon.png",
+      "qicon": "img/skin/10708/107080/qicon.png",
+      "shipyard": "img/skin/10708/107080/shipyard.png",
+      "spine_chibi": "spine/chibi/hufeng/hufeng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       "icon": "img/skin/10508/105080/icon.png",
       "qicon": "img/skin/10508/105080/qicon.png",
       "shipyard": "img/skin/10508/105080/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jialifuniya/jialifuniya",
       "spine": null,
       "live2d": null,
       "cost": null

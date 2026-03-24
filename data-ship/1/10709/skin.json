@@ -23,7 +23,8 @@
       "shipyard": "img/skin/10709/107090/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": null
     },
     {
       "id": 107091,
@@ -50,7 +51,8 @@
       "shipyard": "img/skin/10709/107091/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_3",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 880
     },
     {
       "id": 107092,
@@ -78,7 +80,8 @@
       "shipyard": "img/skin/10709/107092/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_4",
       "spine": null,
-      "live2d": "live2d/aisaikesi/aisaikesi_4"
+      "live2d": "live2d/aisaikesi/aisaikesi_4",
+      "cost": 1200
     },
     {
       "id": 107093,
@@ -105,7 +108,8 @@
       "shipyard": "img/skin/10709/107093/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_5",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 900
     },
     {
       "id": 107094,
@@ -132,7 +136,8 @@
       "shipyard": "img/skin/10709/107094/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_6",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 880
     },
     {
       "id": 107095,
@@ -160,7 +165,8 @@
       "shipyard": "img/skin/10709/107095/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_7",
       "spine": "spine/ship/aisaikesi/aisaikesi_7",
-      "live2d": null
+      "live2d": null,
+      "cost": 980
     },
     {
       "id": 107096,
@@ -185,7 +191,8 @@
       "shipyard": "img/skin/10709/107096/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_8",
       "spine": null,
-      "live2d": null
+      "live2d": null,
+      "cost": 800
     },
     {
       "id": 107097,
@@ -213,7 +220,8 @@
       "shipyard": "img/skin/10709/107097/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_9",
       "spine": "spine/ship/aisaikesi/aisaikesi_9",
-      "live2d": null
+      "live2d": null,
+      "cost": 980
     },
     {
       "id": 107099,
@@ -238,7 +246,8 @@
       "shipyard": "img/skin/10709/107099/shipyard.png",
       "spine_chibi": "spine/chibi/aisaikesi/aisaikesi_g",
       "spine": "spine/ship/aisaikesi/aisaikesi_g",
-      "live2d": null
+      "live2d": null,
+      "cost": null
     }
   ]
 }

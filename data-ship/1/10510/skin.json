@@ -21,7 +21,7 @@
       "icon": "img/skin/10510/105100/icon.png",
       "qicon": "img/skin/10510/105100/qicon.png",
       "shipyard": "img/skin/10510/105100/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/malilan/malilan",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/10510/105102/icon.png",
       "qicon": "img/skin/10510/105102/qicon.png",
       "shipyard": "img/skin/10510/105102/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/malilan/malilan_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 105109,
@@ -75,7 +75,7 @@
       "icon": "img/skin/10510/105109/icon.png",
       "qicon": "img/skin/10510/105109/qicon.png",
       "shipyard": "img/skin/10510/105109/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/malilan/malilan_g",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -21,7 +21,7 @@
       "icon": "img/skin/10515/105150/icon.png",
       "qicon": "img/skin/10515/105150/qicon.png",
       "shipyard": "img/skin/10515/105150/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yindianna/yindianna",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/10515/105151/icon.png",
       "qicon": "img/skin/10515/105151/qicon.png",
       "shipyard": "img/skin/10515/105151/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/yindianna/yindianna_2",
+      "spine": "spine/ship/yindianna/yindianna_2",
       "live2d": null,
-      "cost": null
+      "cost": 980
     }
   ]
 }
