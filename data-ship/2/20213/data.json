@@ -1,0 +1,154 @@
+{
+  "id": 116,
+  "gid": 20213,
+  "cid": 1,
+  "sid": [
+    202131,
+    202132,
+    202133,
+    202134
+  ],
+  "name": "Arethusa",
+  "codename": "HMS Arethusa",
+  "class": "Arethusa Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 3-2"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 482,
+    "firepower": 29,
+    "torpedo": 50,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 58,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 69,
+    "asw": 28
+  },
+  "growth": {
+    "health": 12457,
+    "firepower": 398,
+    "torpedo": 683,
+    "antiair": 1303,
+    "aviation": 0,
+    "reload": 478,
+    "accuracy": 864,
+    "evasion": 672,
+    "speed": 0,
+    "luck": 0,
+    "asw": 337
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 50,
+    "reload": 51
+  },
+  "skill": {
+    "2021": {
+      "id": 2021,
+      "parent": 2021,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21131": {
+      "id": 21131,
+      "parent": 21131,
+      "upgrade": 21132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21132": {
+      "id": 21132,
+      "parent": 21131,
+      "upgrade": null,
+      "downgrade": 21131,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

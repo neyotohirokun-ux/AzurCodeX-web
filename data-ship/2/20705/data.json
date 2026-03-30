@@ -1,0 +1,156 @@
+{
+  "id": 147,
+  "gid": 20705,
+  "cid": 1,
+  "sid": [
+    207051,
+    207052,
+    207053,
+    207054
+  ],
+  "name": "Formidable",
+  "codename": "HMS Formidable",
+  "class": "Illustrious Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Empyreal Tragicomedy",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [
+    20714
+  ],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +2%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Fighters +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +5%",
+      "Can equip Dive Bombers in Fighter Slot"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7,
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 114,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1090,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 54,
+    "aviation": 79,
+    "reload": 43,
+    "accuracy": 31,
+    "evasion": 12,
+    "speed": 30,
+    "luck": 75,
+    "asw": 0
+  },
+  "growth": {
+    "health": 28824,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1167,
+    "aviation": 979,
+    "reload": 301,
+    "accuracy": 456,
+    "evasion": 309,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 78,
+    "reload": 32
+  },
+  "skill": {
+    "12570": {
+      "id": 12570,
+      "parent": 12570,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12580": {
+      "id": 12580,
+      "parent": 12580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12590": {
+      "id": 12590,
+      "parent": 12590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

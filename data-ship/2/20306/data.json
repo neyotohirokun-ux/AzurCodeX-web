@@ -1,0 +1,151 @@
+{
+  "id": 124,
+  "gid": 20306,
+  "cid": 1,
+  "sid": [
+    203061,
+    203062,
+    203063,
+    203064
+  ],
+  "name": "Dorsetshire",
+  "codename": "HMS Dorsetshire",
+  "class": "Norfolk Class",
+  "nationality": 2,
+  "obtain": [
+    "Unlocked in collection"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 821,
+    "firepower": 34,
+    "torpedo": 45,
+    "antiair": 47,
+    "aviation": 0,
+    "reload": 61,
+    "accuracy": 38,
+    "evasion": 9,
+    "speed": 25.2,
+    "luck": 33,
+    "asw": 0
+  },
+  "growth": {
+    "health": 20703,
+    "firepower": 467,
+    "torpedo": 624,
+    "antiair": 1016,
+    "aviation": 0,
+    "reload": 422,
+    "accuracy": 607,
+    "evasion": 470,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 33,
+    "torpedo": 45,
+    "reload": 45
+  },
+  "skill": {
+    "10560": {
+      "id": 10560,
+      "parent": 10560,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21231": {
+      "id": 21231,
+      "parent": 21231,
+      "upgrade": 21232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21232": {
+      "id": 21232,
+      "parent": 21231,
+      "upgrade": null,
+      "downgrade": 21231,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

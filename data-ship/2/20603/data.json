@@ -1,0 +1,180 @@
+{
+  "id": 142,
+  "gid": 20603,
+  "cid": 1,
+  "sid": [
+    206031,
+    206032,
+    206033,
+    206034,
+    206134
+  ],
+  "name": "Unicorn",
+  "codename": "HMS Unicorn",
+  "class": "Unicorn Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 4-4",
+    "Light/Special Construction",
+    "Guild Shop"
+  ],
+  "type": 6,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Fighters +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 206134,
+    "level": 90,
+    "bonus": {
+      "health": 210,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "antiair": 70,
+      "equipment_proficiency_2": 0.05,
+      "aviation": 45,
+      "accuracy": 5
+    },
+    "skill": 0,
+    "skin": 206039,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "B",
+      "D",
+      "B",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 4,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 890,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 50,
+    "aviation": 57,
+    "reload": 66,
+    "accuracy": 27,
+    "evasion": 18,
+    "speed": 24,
+    "luck": 78,
+    "asw": 26
+  },
+  "growth": {
+    "health": 23893,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1085,
+    "aviation": 763,
+    "reload": 462,
+    "accuracy": 441,
+    "evasion": 375,
+    "speed": 0,
+    "luck": 0,
+    "asw": 318
+  },
+  "enhance": {
+    "aviation": 57,
+    "reload": 50
+  },
+  "skill": {
+    "1034": {
+      "id": 1034,
+      "parent": 1034,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "3031": {
+      "id": 3031,
+      "parent": 3031,
+      "upgrade": 15670,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15670": {
+      "id": 15670,
+      "parent": 3031,
+      "upgrade": null,
+      "downgrade": 3031,
+      "requirement": "Retrofit"
+    }
+  }
+}

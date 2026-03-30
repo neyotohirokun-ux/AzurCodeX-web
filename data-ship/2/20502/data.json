@@ -1,0 +1,179 @@
+{
+  "id": 131,
+  "gid": 20502,
+  "cid": 1,
+  "sid": [
+    205021,
+    205022,
+    205023,
+    205024,
+    205124
+  ],
+  "name": "Warspite",
+  "codename": "HMS Warspite",
+  "class": "Queen Elizabeth Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Heavy Ship Construction",
+    "Medal Shop (when listed)"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 205124,
+    "level": 90,
+    "bonus": {
+      "health": 240,
+      "reload": 20,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 70,
+      "equipment_proficiency_1": 0.1,
+      "firepower": 20,
+      "accuracy": 25
+    },
+    "skill": 13112,
+    "skin": 205029,
+    "armor": 3,
+    "hexagon": [
+      "S",
+      "E",
+      "E",
+      "D",
+      "C",
+      "S"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1298,
+    "firepower": 84,
+    "torpedo": 0,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 24,
+    "evasion": 6,
+    "speed": 24,
+    "luck": 90,
+    "asw": 0
+  },
+  "growth": {
+    "health": 34842,
+    "firepower": 925,
+    "torpedo": 0,
+    "antiair": 896,
+    "aviation": 0,
+    "reload": 406,
+    "accuracy": 400,
+    "evasion": 217,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 83,
+    "reload": 44
+  },
+  "skill": {
+    "10310": {
+      "id": 10310,
+      "parent": 10310,
+      "upgrade": 11870,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11870": {
+      "id": 11870,
+      "parent": 10310,
+      "upgrade": null,
+      "downgrade": 10310,
+      "requirement": "Retrofit"
+    },
+    "13112": {
+      "id": 13112,
+      "parent": 13112,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

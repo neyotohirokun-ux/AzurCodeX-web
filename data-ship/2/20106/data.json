@@ -1,0 +1,155 @@
+{
+  "id": 86,
+  "gid": 20106,
+  "cid": 1,
+  "sid": [
+    201061,
+    201062,
+    201063,
+    201064
+  ],
+  "name": "Beagle",
+  "codename": "HMS Beagle",
+  "class": "B Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-4",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "B",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 218,
+    "firepower": 12,
+    "torpedo": 67,
+    "antiair": 28,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 64,
+    "evasion": 78,
+    "speed": 42,
+    "luck": 71,
+    "asw": 47
+  },
+  "growth": {
+    "health": 1382,
+    "firepower": 66,
+    "torpedo": 359,
+    "antiair": 153,
+    "aviation": 0,
+    "reload": 193,
+    "accuracy": 197,
+    "evasion": 269,
+    "speed": 42,
+    "luck": 71,
+    "asw": 195
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 66,
+    "reload": 52
+  },
+  "skill": {
+    "4071": {
+      "id": 4071,
+      "parent": 4071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21021": {
+      "id": 21021,
+      "parent": 21021,
+      "upgrade": 21022,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21022": {
+      "id": 21022,
+      "parent": 21021,
+      "upgrade": null,
+      "downgrade": 21021,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

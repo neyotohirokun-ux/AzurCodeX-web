@@ -1,0 +1,145 @@
+{
+  "id": 136,
+  "gid": 20507,
+  "cid": 1,
+  "sid": [
+    205071,
+    205072,
+    205073,
+    205074
+  ],
+  "name": "Duke of York",
+  "codename": "HMS Duke of York",
+  "class": "King George V Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Merit Shop"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1334,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 42,
+    "aviation": 0,
+    "reload": 56,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 28.3,
+    "luck": 73,
+    "asw": 0
+  },
+  "growth": {
+    "health": 35548,
+    "firepower": 956,
+    "torpedo": 0,
+    "antiair": 916,
+    "aviation": 0,
+    "reload": 391,
+    "accuracy": 371,
+    "evasion": 222,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 42
+  },
+  "skill": {
+    "11100": {
+      "id": 11100,
+      "parent": 11100,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11110": {
+      "id": 11110,
+      "parent": 11110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 127,
+  "gid": 20401,
+  "cid": 1,
+  "sid": [
+    204011,
+    204012,
+    204013,
+    204014
+  ],
+  "name": "Renown",
+  "codename": "HMS Renown",
+  "class": "Renown Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 1-4",
+    "Heavy Ship Construction"
+  ],
+  "type": 4,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1022,
+    "firepower": 71,
+    "torpedo": 0,
+    "antiair": 52,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 23,
+    "evasion": 9,
+    "speed": 32.58,
+    "luck": 85,
+    "asw": 0
+  },
+  "growth": {
+    "health": 28062,
+    "firepower": 908,
+    "torpedo": 0,
+    "antiair": 1116,
+    "aviation": 0,
+    "reload": 400,
+    "accuracy": 382,
+    "evasion": 224,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 70,
+    "reload": 43
+  },
+  "skill": {
+    "10270": {
+      "id": 10270,
+      "parent": 10270,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

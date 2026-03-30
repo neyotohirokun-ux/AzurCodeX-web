@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 201200,
+      "gid": 20120,
+      "name": "Hunter",
+      "type": "Default",
+      "desc": "H-class destroyer – Hunter (H35)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 170,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20120/201200/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20120/201200/banner.png",
+      "chibi": "img/skin/20120/201200/chibi.png",
+      "icon": "img/skin/20120/201200/icon.png",
+      "qicon": "img/skin/20120/201200/qicon.png",
+      "shipyard": "img/skin/20120/201200/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

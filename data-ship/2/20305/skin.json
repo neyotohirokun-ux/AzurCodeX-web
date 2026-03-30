@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 203050,
+      "gid": 20305,
+      "name": "Norfolk",
+      "type": "Default",
+      "desc": "Norfolk-class heavy cruiser - Norfolk, Hull Number 78!",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 20,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20305/203050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20305/203050/banner.png",
+      "chibi": "img/skin/20305/203050/chibi.png",
+      "icon": "img/skin/20305/203050/icon.png",
+      "qicon": "img/skin/20305/203050/qicon.png",
+      "shipyard": "img/skin/20305/203050/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

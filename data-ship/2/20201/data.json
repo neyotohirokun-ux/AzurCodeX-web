@@ -1,0 +1,185 @@
+{
+  "id": 104,
+  "gid": 20201,
+  "cid": 1,
+  "sid": [
+    202011,
+    202012,
+    202013,
+    202014
+  ],
+  "name": "Leander",
+  "codename": "HMS Leander",
+  "class": "Leander Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 1-4",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 202014,
+    "level": 80,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 50,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 35
+    },
+    "skill": 10408,
+    "skin": 202019,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "B",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 558,
+    "firepower": 27,
+    "torpedo": 50,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 63,
+    "accuracy": 50,
+    "evasion": 30,
+    "speed": 32.5,
+    "luck": 44,
+    "asw": 30
+  },
+  "growth": {
+    "health": 14187,
+    "firepower": 373,
+    "torpedo": 683,
+    "antiair": 1292,
+    "aviation": 0,
+    "reload": 440,
+    "accuracy": 732,
+    "evasion": 737,
+    "speed": 0,
+    "luck": 0,
+    "asw": 364
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 50,
+    "reload": 47
+  },
+  "skill": {
+    "1002": {
+      "id": 1002,
+      "parent": 1002,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10408": {
+      "id": 10408,
+      "parent": 10408,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "21111": {
+      "id": 21111,
+      "parent": 21111,
+      "upgrade": 21112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21112": {
+      "id": 21112,
+      "parent": 21111,
+      "upgrade": null,
+      "downgrade": 21111,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

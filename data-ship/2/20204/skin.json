@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 202040,
+      "gid": 20204,
+      "name": "Dido",
+      "type": "Default",
+      "desc": "Dido-class light cruiser – Dido (HMS Dido.)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 169,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20204/202040/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20204/202040/banner.png",
+      "chibi": "img/skin/20204/202040/chibi.png",
+      "icon": "img/skin/20204/202040/icon.png",
+      "qicon": "img/skin/20204/202040/qicon.png",
+      "shipyard": "img/skin/20204/202040/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 202041,
+      "gid": 20204,
+      "name": "Anxious Bisque Doll",
+      "type": "Party Dress",
+      "desc": "It is so audacious for a lowly maid to dress herself in such finery and stand at her master's side... Still, I will go to my master and... M-M-Master...?!",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 169,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/135.png",
+      "background2": null,
+      "painting": "img/skin/20204/202041/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20204/202041/banner.png",
+      "chibi": "img/skin/20204/202041/chibi.png",
+      "icon": "img/skin/20204/202041/icon.png",
+      "qicon": "img/skin/20204/202041/qicon.png",
+      "shipyard": "img/skin/20204/202041/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

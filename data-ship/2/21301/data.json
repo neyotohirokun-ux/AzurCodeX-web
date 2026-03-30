@@ -1,0 +1,137 @@
+{
+  "id": 149,
+  "gid": 21301,
+  "cid": 1,
+  "sid": [
+    213011,
+    213012,
+    213013,
+    213014
+  ],
+  "name": "Erebus",
+  "codename": "HMS Erebus",
+  "class": "Erebus Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 4-3",
+    "Light/Heavy Construction"
+  ],
+  "type": 13,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "E",
+    "D",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Secondary Gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Secondary Gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 587,
+    "firepower": 52,
+    "torpedo": 0,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 28,
+    "evasion": 11,
+    "speed": 12,
+    "luck": 91,
+    "asw": 0
+  },
+  "growth": {
+    "health": 16726,
+    "firepower": 709,
+    "torpedo": 0,
+    "antiair": 696,
+    "aviation": 0,
+    "reload": 372,
+    "accuracy": 408,
+    "evasion": 393,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 52,
+    "reload": 40
+  },
+  "skill": {
+    "10350": {
+      "id": 10350,
+      "parent": 10350,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

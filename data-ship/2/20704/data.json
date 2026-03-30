@@ -1,0 +1,144 @@
+{
+  "id": 146,
+  "gid": 20704,
+  "cid": 1,
+  "sid": [
+    207041,
+    207042,
+    207043,
+    207044
+  ],
+  "name": "Victorious",
+  "codename": "HMS Victorious",
+  "class": "Illustrious Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Special Ship Construction"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +2%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 115,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 114,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1053,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 54,
+    "aviation": 78,
+    "reload": 38,
+    "accuracy": 31,
+    "evasion": 13,
+    "speed": 30.5,
+    "luck": 82,
+    "asw": 0
+  },
+  "growth": {
+    "health": 27848,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1167,
+    "aviation": 975,
+    "reload": 266,
+    "accuracy": 456,
+    "evasion": 316,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 77,
+    "reload": 29
+  },
+  "skill": {
+    "3011": {
+      "id": 3011,
+      "parent": 3011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11120": {
+      "id": 11120,
+      "parent": 11120,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

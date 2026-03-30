@@ -1,0 +1,185 @@
+{
+  "id": 120,
+  "gid": 20302,
+  "cid": 1,
+  "sid": [
+    203021,
+    203022,
+    203023,
+    203024,
+    203124
+  ],
+  "name": "Shropshire",
+  "codename": "HMS Shropshire",
+  "class": "London Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 5-2",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 203124,
+    "level": 85,
+    "bonus": {
+      "health": 280,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 55,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 30
+    },
+    "skill": 12008,
+    "skin": 203029,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "B",
+      "E",
+      "C",
+      "C",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        1,
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 590,
+    "firepower": 40,
+    "torpedo": 40,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 38,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 75,
+    "asw": 0
+  },
+  "growth": {
+    "health": 15232,
+    "firepower": 557,
+    "torpedo": 551,
+    "antiair": 844,
+    "aviation": 0,
+    "reload": 409,
+    "accuracy": 607,
+    "evasion": 459,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 40,
+    "torpedo": 39,
+    "reload": 44
+  },
+  "skill": {
+    "2061": {
+      "id": 2061,
+      "parent": 2061,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12008": {
+      "id": 12008,
+      "parent": 12008,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "21211": {
+      "id": 21211,
+      "parent": 21211,
+      "upgrade": 21212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21212": {
+      "id": 21212,
+      "parent": 21211,
+      "upgrade": null,
+      "downgrade": 21211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

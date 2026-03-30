@@ -1,0 +1,138 @@
+{
+  "id": 129,
+  "gid": 20403,
+  "cid": 1,
+  "sid": [
+    204031,
+    204032,
+    204033,
+    204034
+  ],
+  "name": "Hood",
+  "codename": "HMS Hood",
+  "class": "Admiral Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Heavy Ship Construction",
+    "Medal Shop (when listed)"
+  ],
+  "type": 4,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1485,
+    "firepower": 66,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 22,
+    "evasion": 9,
+    "speed": 31,
+    "luck": 38,
+    "asw": 0
+  },
+  "growth": {
+    "health": 36215,
+    "firepower": 792,
+    "torpedo": 0,
+    "antiair": 1299,
+    "aviation": 0,
+    "reload": 406,
+    "accuracy": 360,
+    "evasion": 224,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 66,
+    "reload": 44
+  },
+  "skill": {
+    "10290": {
+      "id": 10290,
+      "parent": 10290,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

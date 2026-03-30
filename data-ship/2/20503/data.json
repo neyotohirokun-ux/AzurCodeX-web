@@ -1,0 +1,178 @@
+{
+  "id": 132,
+  "gid": 20503,
+  "cid": 1,
+  "sid": [
+    205031,
+    205032,
+    205033,
+    205034,
+    205154
+  ],
+  "name": "Nelson",
+  "codename": "HMS Nelson",
+  "class": "Nelson Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-3",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 205154,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 20,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 30,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 30,
+      "accuracy": 25
+    },
+    "skill": 13212,
+    "skin": 205039,
+    "armor": 3,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "D",
+      "C",
+      "S"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1276,
+    "firepower": 79,
+    "torpedo": 0,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 22,
+    "evasion": 6,
+    "speed": 23.5,
+    "luck": 66,
+    "asw": 0
+  },
+  "growth": {
+    "health": 34264,
+    "firepower": 928,
+    "torpedo": 0,
+    "antiair": 888,
+    "aviation": 0,
+    "reload": 381,
+    "accuracy": 371,
+    "evasion": 217,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 78,
+    "reload": 41
+  },
+  "skill": {
+    "10320": {
+      "id": 10320,
+      "parent": 10320,
+      "upgrade": 16690,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13212": {
+      "id": 13212,
+      "parent": 13212,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "16690": {
+      "id": 16690,
+      "parent": 10320,
+      "upgrade": null,
+      "downgrade": 10320,
+      "requirement": "Retrofit"
+    }
+  }
+}

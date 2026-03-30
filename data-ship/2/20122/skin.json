@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 201220,
+      "gid": 20122,
+      "name": "Juno",
+      "type": "Default",
+      "desc": "J-class destroyer ー Juno, Hull Number F46!",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 37,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20122/201220/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20122/201220/banner.png",
+      "chibi": "img/skin/20122/201220/chibi.png",
+      "icon": "img/skin/20122/201220/icon.png",
+      "qicon": "img/skin/20122/201220/qicon.png",
+      "shipyard": "img/skin/20122/201220/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 201221,
+      "gid": 20122,
+      "name": "Fairly Flavourful Festival",
+      "type": "Summer Fest",
+      "desc": "I love the bustle of a Sakura festival! Commander, care to try some of Akashi's takoyaki? I've heard their taste is out of this world!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 37,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/114.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/20122/201221/painting.png",
+      "painting_n": "img/skin/20122/201221/painting_n.png",
+      "banner": "img/skin/20122/201221/banner.png",
+      "chibi": "img/skin/20122/201221/chibi.png",
+      "icon": "img/skin/20122/201221/icon.png",
+      "qicon": "img/skin/20122/201221/qicon.png",
+      "shipyard": "img/skin/20122/201221/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

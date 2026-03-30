@@ -1,0 +1,152 @@
+{
+  "id": 138,
+  "gid": 20516,
+  "cid": 1,
+  "sid": [
+    205161,
+    205162,
+    205163,
+    205164
+  ],
+  "name": "Lion",
+  "codename": "HMS Lion",
+  "class": "Lion Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: A Rose on the High Tower"
+  ],
+  "type": 5,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "A",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Salvo capacity +1",
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 4,
+      "preload": 0,
+      "efficiency": 1.7
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1483,
+    "firepower": 88,
+    "torpedo": 0,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 24,
+    "evasion": 7,
+    "speed": 28.3,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 36160,
+    "firepower": 1060,
+    "torpedo": 0,
+    "antiair": 982,
+    "aviation": 0,
+    "reload": 457,
+    "accuracy": 339,
+    "evasion": 390,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 87,
+    "reload": 49
+  },
+  "skill": {
+    "151220": {
+      "id": 151220,
+      "parent": 151220,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151230": {
+      "id": 151230,
+      "parent": 151230,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151240": {
+      "id": 151240,
+      "parent": 151240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}
