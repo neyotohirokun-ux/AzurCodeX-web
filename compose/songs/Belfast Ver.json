@@ -1,0 +1,411 @@
+{
+  "songTitle": "Yuukyuu no Catharsis (Belfast Ver)",
+  "version": "Full",
+  "lyrics": [
+    {
+      "time": "0:06.567",
+      "end": "0:08",
+      "jp": "悠久のカタルシス",
+      "roma": ".",
+      "en": "."
+    },
+    {
+      "time": "0:09",
+      "end": "0:11",
+      "jp": ".",
+      "roma": "yūkyū no katarushisu",
+      "en": "."
+    },
+    {
+      "time": "0:12",
+      "end": "0:14",
+      "jp": ".",
+      "roma": ".",
+      "en": "Towards eternal catharsis"
+    },
+    {
+      "time": "0:14.863",
+      "end": "0:19",
+      "jp": "悠久のカタルシス",
+      "roma": "yūkyū no katarushisu",
+      "en": "Towards eternal catharsis"
+    },
+    {
+      "time": "0:19.876",
+      "jp": "終わらない旅路を映す",
+      "roma": "owarinai tabiji o utsusu",
+      "en": "Reflecting an endless journey"
+    },
+    {
+      "time": "0:22.663",
+      "end": "0:25",
+      "jp": "蒼穹の光が",
+      "roma": "sōkyū no hikari ga",
+      "en": "The light of the blue sky"
+    },
+    {
+      "time": "0:25.458",
+      "jp": "濁った波間を貫いて",
+      "roma": "nigotta namima o inuite",
+      "en": "Pierces through the muddy waves"
+    },
+    {
+      "time": "0:28.458 ",
+      "end": "0:30.798",
+      "jp": "私を導く",
+      "roma": "watashi o michibiku",
+      "en": "And guides me forward"
+    },
+    {
+      "time": "0:31.863",
+      "jp": "いつからか枝分かれした",
+      "roma": "itsukara ka edawakare shita",
+      "en": "Since when did it branch away?"
+    },
+    {
+      "time": "0:34.458",
+      "end": "0:37",
+      "jp": "憧憬の先は",
+      "roma": "shōkei no saki wa",
+      "en": "The destination of my yearning"
+    },
+    {
+      "time": "0:37.876",
+      "jp": "涙のコントラストさえ",
+      "roma": "namida no kontorasuto sae",
+      "en": "Even the contrast of tears"
+    },
+    {
+      "time": "0:40.576",
+      "end": "0:43.536",
+      "jp": "必要だと言うの",
+      "roma": "hitsuyōda to iuno",
+      "en": "You say it is necessary"
+    },
+    {
+      "time": "0:44",
+      "jp": "あなたの欲しい",
+      "roma": "anata no hoshī",
+      "en": "The world you desire"
+    },
+    {
+      "time": "0:46",
+      "end": "0:49",
+      "jp": "世界に色はない",
+      "roma": "sekai ni iro wa nai",
+      "en": "Has no color at all"
+    },
+    {
+      "time": "0:49.863",
+      "jp": "烟る戦火 揺らめいた",
+      "roma": "kemuru senka yurameita",
+      "en": "Smoldering fires of war flickered"
+    },
+    {
+      "time": "0:52",
+      "jp": "願う未来のため",
+      "roma": "negau mirai no tame",
+      "en": "For the sake of the future I pray for"
+    },
+    {
+      "time": "0:55",
+      "jp": "漕ぎ出せ 遠い彼方",
+      "roma": "kogidase tōi kanata",
+      "en": "Row out into the distant horizon"
+    },
+    {
+      "time": "0:58",
+      "jp": "一つだった私たち",
+      "roma": "hitotsudatta watashitachi",
+      "en": "We who were once one"
+    },
+    {
+      "time": "1:01",
+      "jp": "希望と愛 抱いてる",
+      "roma": "kibō to ai idaiteru",
+      "en": "Embracing hope and love"
+    },
+    {
+      "time": "1:03.896",
+      "jp": "心を持てた器（ひと）よ",
+      "roma": "kokoro o moteta hito yo",
+      "en": "Oh, you who have gained a heart"
+    },
+    {
+      "time": "1:07",
+      "jp": "違えた海路（たびじ）でも",
+      "roma": "tagaeta tabiji demo",
+      "en": "Even on a diverging path"
+    },
+    {
+      "time": "1:10",
+      "jp": "正義を追い求めて",
+      "roma": "seigi o oimotomete",
+      "en": "Keep pursuing justice"
+    },
+    {
+      "time": "1:13",
+      "jp": "歩むこと 止めはしない",
+      "roma": "ayumu koto yame wa shinai",
+      "en": "I will never stop moving forward"
+    },
+    {
+      "time": "1:15.836",
+      "end": "1:19",
+      "jp": "悠久のカタルシス",
+      "roma": "yūkyū no katarushisu",
+      "en": "Towards eternal catharsis"
+    },
+    {
+      "time": "1:33",
+      "jp": "泡沫の夢を想えば",
+      "roma": "utakata no yume o omoeba",
+      "en": "Thinking of a fleeting dream"
+    },
+    {
+      "time": "1:36",
+      "end": "1:38.473",
+      "jp": "ひと匙の救い",
+      "roma": "hito saji no sukui",
+      "en": "A single spoonful of salvation"
+    },
+    {
+      "time": "1:39",
+      "jp": "想いを束ねた犠牲は",
+      "roma": "omoi o tabaneta gisei wa",
+      "en": "Will the sacrifices of gathered feelings"
+    },
+    {
+      "time": "1:42",
+      "end": "1:44.765",
+      "jp": "報われるだろうか",
+      "roma": "mukuwarerudarō ka",
+      "en": "Ever be rewarded?"
+    },
+    {
+      "time": "1:45",
+      "jp": "流れ着く終着点を",
+      "roma": "nagaretsuku shūchakuten o",
+      "en": "The destination where I drift to"
+    },
+    {
+      "time": "1:48",
+      "jp": "委ねはしないさ",
+      "roma": "yudane wa shinaisa",
+      "en": "I will not leave it up to chance"
+    },
+    {
+      "time": "1:51",
+      "jp": "私のこの手で選ぼう",
+      "roma": "watashi no kono te de erabō",
+      "en": "I will choose with my own hands"
+    },
+    {
+      "time": "1:54",
+      "jp": "希望に棹差して",
+      "roma": "kibō ni sao sashite",
+      "en": "As I row toward hope"
+    },
+    {
+      "time": "1:57",
+      "jp": "勇気の意味が",
+      "roma": "yūki no imi ga",
+      "en": "If the meaning of courage"
+    },
+    {
+      "time": "1:59.563",
+      "end": "2:02.563",
+      "jp": "傷つけることなら",
+      "roma": "kizutsukeru kotonara",
+      "en": "Is to cause harm to others"
+    },
+    {
+      "time": "2:03",
+      "jp": "迷い捨てて 閃光のように",
+      "roma": "mayoi sutete senkō no yō ni",
+      "en": "Cast aside doubt, and like a flash"
+    },
+    {
+      "time": "2:06",
+      "end": "2:10.563",
+      "jp": "願う未来 背負っていけ",
+      "roma": "negau mirai seotteike",
+      "en": "Carry the future you wish for"
+    },
+    {
+      "time": "2:11.486",
+      "jp": "響かせ 遥か向こう",
+      "roma": "hibikase haruka mukō",
+      "en": "Let it resonate far beyond"
+    },
+    {
+      "time": "2:14.463",
+      "jp": "現心のあなたに",
+      "roma": "utsutsu kokoro no anata ni",
+      "en": "To you, in my waking heart"
+    },
+    {
+      "time": "2:17.493",
+      "jp": "もう二度と交わらない",
+      "roma": "mō nidoto majiwaranai",
+      "en": "Even if we follow rails"
+    },
+    {
+      "time": "2:20.563",
+      "end": "2:23",
+      "jp": "レールを辿るとしても",
+      "roma": "rēru o tadoru toshite mo",
+      "en": "That will never cross again"
+    },
+    {
+      "time": "2:23.67",
+      "end": "2:26.57",
+      "jp": "溢れて 留め処なく",
+      "roma": "afurete tomedonaku",
+      "en": "Overflowing without end"
+    },
+    {
+      "time": "2:26.273",
+      "jp": "理想に瞬くのは",
+      "roma": "risō ni mabataku no wa",
+      "en": "What flickers in our ideals"
+    },
+    {
+      "time": "2:29.456",
+      "jp": "絶望の光ではない",
+      "roma": "zetsubō no hikari de wa nai",
+      "en": "Is not the light of despair"
+    },
+    {
+      "time": "2:32.654",
+      "end": "2:36",
+      "jp": "のだと知っている",
+      "roma": "nodato shitteiru",
+      "en": "That is what I know"
+    },
+    {
+      "time": "3:00",
+      "end": "3:05.876",
+      "jp": "見つめてる 大空の果て",
+      "roma": "mitsumeteru ōzora no hate",
+      "en": "Gazing at the end of the sky"
+    },
+    {
+      "time": "3:06",
+      "end": "3:10.876",
+      "jp": "聞こえるは 鼓動の音",
+      "roma": "kikoeru wa kodō no oto",
+      "en": "I can hear the sound of a heartbeat"
+    },
+    {
+      "time": "3:12",
+      "jp": "命燃やせ 高く熱く",
+      "roma": "inochi moyase takaku atsuku",
+      "en": "Burn your life, high and hot"
+    },
+    {
+      "time": "3:15",
+      "jp": "火の鳥のように",
+      "roma": "hi no tori no yō ni",
+      "en": "Like a phoenix"
+    },
+    {
+      "time": "3:17.683",
+      "end": "3:23.683",
+      "jp": "何度でも ここに生きる",
+      "roma": "nan do demo koko ni ikiru",
+      "en": "I will live here again and again"
+    },
+    {
+      "time": "3:23.876",
+      "jp": "漕ぎ出せ 遠い彼方",
+      "roma": "kogidase tōi kanata",
+      "en": "Row out into the distant horizon"
+    },
+    {
+      "time": "3:26.476",
+      "jp": "一つだった私たち",
+      "roma": "hitotsudatta watashitachi",
+      "en": "We who were once one"
+    },
+    {
+      "time": "3:29.267",
+      "jp": "希望と愛 抱いてる",
+      "roma": "kibō to ai idaiteru",
+      "en": "Embracing hope and love"
+    },
+    {
+      "time": "3:32.576",
+      "end": "3:35.234",
+      "jp": "心を信じた器（ひと）よ",
+      "roma": "kokoro o shinjita hito yo",
+      "en": "Oh, you who believed in your heart"
+    },
+    {
+      "time": "3:35.765",
+      "end": "3:38.456",
+      "jp": "違えた海路（たびじ）でも",
+      "roma": "tagaeta tabiji demo",
+      "en": "Even on a diverging path"
+    },
+    {
+      "time": "3:38.600",
+      "jp": "正義を追い求めて",
+      "roma": "seigi o oimotomete",
+      "en": "Keep pursuing justice"
+    },
+    {
+      "time": "3:41",
+      "jp": "歩むこと 止めはしない",
+      "roma": "ayumu koto yame wa shinai",
+      "en": "I will never stop moving forward"
+    },
+    {
+      "time": "3:44",
+      "jp": "悠久のカタルシス",
+      "roma": "yūkyū no katarushisu",
+      "en": "Towards eternal catharsis"
+    },
+    {
+      "time": "3:47",
+      "jp": "碇（いのち）から 解かれたら",
+      "roma": "inochi kara tokaretara",
+      "en": "If ever you are released from your life"
+    },
+    {
+      "time": "3:50.678",
+      "end": "3:54",
+      "jp": "この海で また、逢おう",
+      "roma": "kono umi de mata, aō",
+      "en": "Let us meet again upon this sea"
+    },
+    {
+      "time": "3:57",
+      "end": "3:59.876",
+      "jp": "悠久のカタルシス",
+      "roma": ".",
+      "en": "."
+    },
+    {
+      "time": "4:00",
+      "end": "4:02",
+      "jp": ".",
+      "roma": "yūkyū no katarushisu",
+      "en": "."
+    },
+    {
+      "time": "4:02.986",
+      "end": "4:06",
+      "jp": ".",
+      "roma": ".",
+      "en": "Towards eternal catharsis"
+    },
+    {
+      "time": "4:07.876",
+      "end": "4:10",
+      "jp": "悠久のカタルシス",
+      "roma": "yūkyū no katarushisu",
+      "en": "Towards eternal catharsis"
+    }
+  ]
+}
