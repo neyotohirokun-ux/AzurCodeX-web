@@ -21,7 +21,7 @@
       "icon": "img/skin/20114/201140/icon.png",
       "qicon": "img/skin/20114/201140/qicon.png",
       "shipyard": "img/skin/20114/201140/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yinghuochong/yinghuochong",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20114/201141/icon.png",
       "qicon": "img/skin/20114/201141/qicon.png",
       "shipyard": "img/skin/20114/201141/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yinghuochong/yinghuochong_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 201149,
@@ -75,7 +75,7 @@
       "icon": "img/skin/20114/201149/icon.png",
       "qicon": "img/skin/20114/201149/qicon.png",
       "shipyard": "img/skin/20114/201149/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yinghuochong/yinghuochong_g",
       "spine": null,
       "live2d": null,
       "cost": null

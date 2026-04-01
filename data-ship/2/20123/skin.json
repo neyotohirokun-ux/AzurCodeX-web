@@ -21,7 +21,7 @@
       "icon": "img/skin/20123/201230/icon.png",
       "qicon": "img/skin/20123/201230/qicon.png",
       "shipyard": "img/skin/20123/201230/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20123/201231/icon.png",
       "qicon": "img/skin/20123/201231/qicon.png",
       "shipyard": "img/skin/20123/201231/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 201232,
@@ -75,7 +75,7 @@
       "icon": "img/skin/20123/201232/icon.png",
       "qicon": "img/skin/20123/201232/qicon.png",
       "shipyard": "img/skin/20123/201232/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_3",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -104,10 +104,10 @@
       "icon": "img/skin/20123/201233/icon.png",
       "qicon": "img/skin/20123/201233/qicon.png",
       "shipyard": "img/skin/20123/201233/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_4",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/xixuegui/xixuegui_4",
+      "cost": 1080
     },
     {
       "id": 201234,
@@ -132,10 +132,10 @@
       "icon": "img/skin/20123/201234/icon.png",
       "qicon": "img/skin/20123/201234/qicon.png",
       "shipyard": "img/skin/20123/201234/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 201235,
@@ -160,7 +160,7 @@
       "icon": "img/skin/20123/201235/icon.png",
       "qicon": "img/skin/20123/201235/qicon.png",
       "shipyard": "img/skin/20123/201235/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_6",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -186,7 +186,7 @@
       "icon": "img/skin/20123/201238/icon.png",
       "qicon": "img/skin/20123/201238/qicon.png",
       "shipyard": "img/skin/20123/201238/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xixuegui/xixuegui_h",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -1,0 +1,161 @@
+{
+  "id": 154,
+  "gid": 30104,
+  "cid": 1,
+  "sid": [
+    301041,
+    301042,
+    301043,
+    301044
+  ],
+  "name": "Miyuki",
+  "codename": "IJN Miyuki",
+  "class": "Fubuki Class Type I (Fubuki)",
+  "nationality": 3,
+  "obtain": [
+    "Event: Violet Tempest, Blooming Lycoris",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 290,
+    "firepower": 12,
+    "torpedo": 98,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 78,
+    "accuracy": 67,
+    "evasion": 72,
+    "speed": 45.6,
+    "luck": 10,
+    "asw": 47
+  },
+  "growth": {
+    "health": 8257,
+    "firepower": 166,
+    "torpedo": 1175,
+    "antiair": 598,
+    "aviation": 0,
+    "reload": 546,
+    "accuracy": 1032,
+    "evasion": 1332,
+    "speed": 0,
+    "luck": 0,
+    "asw": 542
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 97,
+    "reload": 59
+  },
+  "skill": {
+    "4071": {
+      "id": 4071,
+      "parent": 4071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15990": {
+      "id": 15990,
+      "parent": 15990,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22021": {
+      "id": 22021,
+      "parent": 22021,
+      "upgrade": 22022,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22022": {
+      "id": 22022,
+      "parent": 22021,
+      "upgrade": null,
+      "downgrade": 22021,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

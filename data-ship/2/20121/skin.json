@@ -21,9 +21,9 @@
       "icon": "img/skin/20121/201210/icon.png",
       "qicon": "img/skin/20121/201210/qicon.png",
       "shipyard": "img/skin/20121/201210/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang",
       "spine": null,
-      "live2d": null,
+      "live2d": "live2d/biaoqiang/biaoqiang",
       "cost": null
     },
     {
@@ -50,10 +50,10 @@
       "icon": "img/skin/20121/201212/icon.png",
       "qicon": "img/skin/20121/201212/qicon.png",
       "shipyard": "img/skin/20121/201212/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_3",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/biaoqiang/biaoqiang_3",
+      "cost": 1080
     },
     {
       "id": 201213,
@@ -76,10 +76,10 @@
       "icon": "img/skin/20121/201213/icon.png",
       "qicon": "img/skin/20121/201213/qicon.png",
       "shipyard": "img/skin/20121/201213/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 201214,
@@ -104,7 +104,7 @@
       "icon": "img/skin/20121/201214/icon.png",
       "qicon": "img/skin/20121/201214/qicon.png",
       "shipyard": "img/skin/20121/201214/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_5",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -132,7 +132,7 @@
       "icon": "img/skin/20121/201215/icon.png",
       "qicon": "img/skin/20121/201215/qicon.png",
       "shipyard": "img/skin/20121/201215/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_7",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -160,10 +160,10 @@
       "icon": "img/skin/20121/201216/icon.png",
       "qicon": "img/skin/20121/201216/qicon.png",
       "shipyard": "img/skin/20121/201216/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_6",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 1200
     },
     {
       "id": 201217,
@@ -188,10 +188,10 @@
       "icon": "img/skin/20121/201217/icon.png",
       "qicon": "img/skin/20121/201217/qicon.png",
       "shipyard": "img/skin/20121/201217/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_8",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 201218,
@@ -214,7 +214,7 @@
       "icon": "img/skin/20121/201218/icon.png",
       "qicon": "img/skin/20121/201218/qicon.png",
       "shipyard": "img/skin/20121/201218/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_h",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -240,7 +240,7 @@
       "icon": "img/skin/20121/201219/icon.png",
       "qicon": "img/skin/20121/201219/qicon.png",
       "shipyard": "img/skin/20121/201219/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_g",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -268,7 +268,7 @@
       "icon": "img/skin/23121/231210/icon.png",
       "qicon": "img/skin/23121/231210/qicon.png",
       "shipyard": "img/skin/23121/231210/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/biaoqiang/biaoqiang_9",
       "spine": null,
       "live2d": null,
       "cost": null

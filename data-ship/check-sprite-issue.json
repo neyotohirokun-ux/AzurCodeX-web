@@ -8,16 +8,25 @@
     "NorthamptonII |Swimming Star {beianpudunII} | Live2d",
     "Saratoga |Silent Night Songstress | WB, WTB",
     "Long Island |Bring on the Red Envelopes! | Chibi",
+    "Ajax |Party Queen | WB",
+
 
     "Chibi, Dynamic, or Live2d that is already in assets",
     "Langley II, Lexington II", "Yorktown II, Hornet II",
 
+
     "Addons hx are censored versions | censored feature will be added later for system build2",
-    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet",
+    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin",
+
 
     "Ship thats has Original art chibi",
     "Colorado, Maryland, West Virginia",
 
-    " Grenville - Terror | Royal Navy | needs to adjust the data, skin/price, animations(spine and live2d)",
-    "Target: Grenville - Javelin | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
+
+    "Skipped Reason: Pinyin cannot be found thus update is stopped",
+    "Hardy, Juno",
+
+
+    " Dido - Terror | Royal Navy | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Dido - Gloucester | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
 ]

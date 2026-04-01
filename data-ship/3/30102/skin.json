@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301020,
+      "gid": 30102,
+      "name": "Shirayuki",
+      "type": "Default",
+      "desc": "Special Type I-class destroyer number two – Shirayuki.",
+      "tag": [],
+      "illustrator": 2,
+      "illustrator2": -1,
+      "voice_actor": 278,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30102/301020/painting.png",
+      "painting_n": "img/skin/30102/301020/painting_n.png",
+      "banner": "img/skin/30102/301020/banner.png",
+      "chibi": "img/skin/30102/301020/chibi.png",
+      "icon": "img/skin/30102/301020/icon.png",
+      "qicon": "img/skin/30102/301020/qicon.png",
+      "shipyard": "img/skin/30102/301020/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301021,
+      "gid": 30102,
+      "name": "Bunny Breeder",
+      "type": "School Girl",
+      "desc": "Whoa now! There's enough food for everyone, so don't fight over it! ...Commander? Don't just stand there, give me a hand, please!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 2,
+      "illustrator2": -1,
+      "voice_actor": 278,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/103.png",
+      "background2": null,
+      "painting": "img/skin/30102/301021/painting.png",
+      "painting_n": "img/skin/30102/301021/painting_n.png",
+      "banner": "img/skin/30102/301021/banner.png",
+      "chibi": "img/skin/30102/301021/chibi.png",
+      "icon": "img/skin/30102/301021/icon.png",
+      "qicon": "img/skin/30102/301021/qicon.png",
+      "shipyard": "img/skin/30102/301021/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}
