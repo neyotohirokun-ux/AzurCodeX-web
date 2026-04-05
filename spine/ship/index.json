@@ -493,5 +493,153 @@
         }
       ]
     }
+  },
+  "geluosite": {
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.5 },
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/geluosite/geluosite_3/geluosite_3.atlas",
+          "skel": "ship/geluosite/geluosite_3/geluosite_3.skel",
+          "images": ["ship/geluosite/geluosite_3/geluosite_3.png"]
+        }
+      ]
+    }
+  },
+  "beierfasite": {
+    "9": {
+      "config": {
+        "pivot": { "x": 0.6, "y": 0.9 },
+        "scale": 1.5
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/beierfasite/beierfasite_9/beierfasite_9.atlas",
+          "skel": "ship/beierfasite/beierfasite_9/beierfasite_9.skel",
+          "images": ["ship/beierfasite/beierfasite_9/beierfasite_9.png"]
+        }
+      ]
+    }
+  },
+  "lundun": {
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.5 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/lundun/lundun_3/lundun_3.atlas",
+          "skel": "ship/lundun/lundun_3/lundun_3.skel",
+          "images": [
+            "ship/lundun/lundun_3/lundun_3.png",
+            "ship/lundun/lundun_3/lundun_3BG.png"
+          ]
+        }
+      ]
+    }
+  },
+  "yanzhan": {
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/yanzhan/yanzhan_g/yanzhan_g.atlas",
+          "skel": "ship/yanzhan/yanzhan_g/yanzhan_g.skel",
+          "images": ["ship/yanzhan/yanzhan_g/yanzhan_g.png"]
+        }
+      ]
+    }
+  },
+  "yuekegongjue": {
+    "4": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8 },
+        "scale": 1.1
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/yuekegongjue/yuekegongjue_4/yuekegongjue_4.atlas",
+          "skel": "ship/yuekegongjue/yuekegongjue_4/yuekegongjue_4.skel",
+          "images": ["ship/yuekegongjue/yuekegongjue_4/yuekegongjue_4.png"]
+        }
+      ]
+    }
+  },
+  "qianwei": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8 },
+        "scale": 1.5
+      },
+      "layers": [
+        {
+          "name": "Base",
+          "scale": 0.6,
+          "atlas": "ship/qianwei/qianwei/qianweiB.atlas",
+          "skel": "ship/qianwei/qianwei/qianweiB.skel",
+          "images": ["ship/qianwei/qianwei/qianweiB.png"]
+        },
+        {
+          "name": "Top",
+          "scale": 0.6,
+          "atlas": "ship/qianwei/qianwei/qianweiT.atlas",
+          "skel": "ship/qianwei/qianwei/qianweiT.skel",
+          "images": ["ship/qianwei/qianwei/qianweiT.png"]
+        }
+      ]
+    }
+  },
+  "shi": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0 },
+        "scale": 1.8
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/shi/shi/shi.atlas",
+          "skel": "ship/shi/shi/shi.skel",
+          "images": [
+            "ship/shi/shi/shi.png",
+            "ship/shi/shi/shi2.png",
+            "ship/shi/shi/shi3.png",
+            "ship/shi/shi/shi4.png"
+          ]
+        }
+      ]
+    }
+  },
+  "guanghui": {
+    "8": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0 },
+        "scale": 1.3
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/guanghui/guanghui_8/guanghui_8.atlas",
+          "skel": "ship/guanghui/guanghui_8/guanghui_8.skel",
+          "images": [
+            "ship/guanghui/guanghui_8/guanghui_8.png",
+            "ship/guanghui/guanghui_8/guanghui_82.png",
+            "ship/guanghui/guanghui_8/guanghui_83.png"
+          ]
+        }
+      ]
+    }
   }
 }

@@ -21,7 +21,7 @@
       "icon": "img/skin/20305/203050/icon.png",
       "qicon": "img/skin/20305/203050/qicon.png",
       "shipyard": "img/skin/20305/203050/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nuofuke/nuofuke",
       "spine": null,
       "live2d": null,
       "cost": null

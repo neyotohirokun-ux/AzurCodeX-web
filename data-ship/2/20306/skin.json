@@ -21,7 +21,7 @@
       "icon": "img/skin/20306/203060/icon.png",
       "qicon": "img/skin/20306/203060/qicon.png",
       "shipyard": "img/skin/20306/203060/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/duosaitejun/duosaitejun",
       "spine": null,
       "live2d": null,
       "cost": null

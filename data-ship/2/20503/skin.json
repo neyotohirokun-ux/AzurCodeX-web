@@ -21,7 +21,7 @@
       "icon": "img/skin/20503/205030/icon.png",
       "qicon": "img/skin/20503/205030/qicon.png",
       "shipyard": "img/skin/20503/205030/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/naerxun/naerxun",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,10 +47,10 @@
       "icon": "img/skin/20503/205031/icon.png",
       "qicon": "img/skin/20503/205031/qicon.png",
       "shipyard": "img/skin/20503/205031/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/naerxun/naerxun_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 205032,
@@ -75,10 +75,10 @@
       "icon": "img/skin/20503/205032/icon.png",
       "qicon": "img/skin/20503/205032/qicon.png",
       "shipyard": "img/skin/20503/205032/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/naerxun/naerxun_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 205039,
@@ -101,7 +101,7 @@
       "icon": "img/skin/20503/205039/icon.png",
       "qicon": "img/skin/20503/205039/qicon.png",
       "shipyard": "img/skin/20503/205039/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/naerxun/naerxun_g",
       "spine": null,
       "live2d": null,
       "cost": null

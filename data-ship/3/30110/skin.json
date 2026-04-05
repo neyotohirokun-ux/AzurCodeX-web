@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301100,
+      "gid": 30110,
+      "name": "Hibiki",
+      "type": "Default",
+      "desc": "Type III Akatsuki-class destroyer number two – Hibiki.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 182,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30110/301100/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30110/301100/banner.png",
+      "chibi": "img/skin/30110/301100/chibi.png",
+      "icon": "img/skin/30110/301100/icon.png",
+      "qicon": "img/skin/30110/301100/qicon.png",
+      "shipyard": "img/skin/30110/301100/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301101,
+      "gid": 30110,
+      "name": "New Year's Little Imp",
+      "type": "New Year Kimono",
+      "desc": "New Year's finally comes to port! I, Hibiki of the 6th DesDiv, will be marking my new arrival in my New Year's attire! Commander, don't you dare change the channel - you've gotta watch my every move~!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 182,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/126.png",
+      "background2": null,
+      "painting": "img/skin/30110/301101/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30110/301101/banner.png",
+      "chibi": "img/skin/30110/301101/chibi.png",
+      "icon": "img/skin/30110/301101/icon.png",
+      "qicon": "img/skin/30110/301101/qicon.png",
+      "shipyard": "img/skin/30110/301101/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

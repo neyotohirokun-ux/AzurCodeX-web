@@ -1,0 +1,162 @@
+{
+  "id": 166,
+  "gid": 30116,
+  "cid": 1,
+  "sid": [
+    301161,
+    301162,
+    301163,
+    301164
+  ],
+  "name": "Yukikaze",
+  "codename": "IJN Yukikaze",
+  "class": "Kagerou Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Visitors Dyed in Red",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 359,
+    "firepower": 13,
+    "torpedo": 101,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 82,
+    "accuracy": 71,
+    "evasion": 71,
+    "speed": 42.6,
+    "luck": 93,
+    "asw": 52
+  },
+  "growth": {
+    "health": 10221,
+    "firepower": 174,
+    "torpedo": 1215,
+    "antiair": 656,
+    "aviation": 0,
+    "reload": 571,
+    "accuracy": 1100,
+    "evasion": 1320,
+    "speed": 0,
+    "luck": 0,
+    "asw": 586
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 100,
+    "reload": 61
+  },
+  "skill": {
+    "11230": {
+      "id": 11230,
+      "parent": 11230,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11240": {
+      "id": 11240,
+      "parent": 11240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29131": {
+      "id": 29131,
+      "parent": 29131,
+      "upgrade": 29132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29132": {
+      "id": 29132,
+      "parent": 29131,
+      "upgrade": null,
+      "downgrade": 29131,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

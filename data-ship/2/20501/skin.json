@@ -21,7 +21,7 @@
       "icon": "img/skin/20501/205010/icon.png",
       "qicon": "img/skin/20501/205010/qicon.png",
       "shipyard": "img/skin/20501/205010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20501/205011/icon.png",
       "qicon": "img/skin/20501/205011/qicon.png",
       "shipyard": "img/skin/20501/205011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 205012,
@@ -77,10 +77,10 @@
       "icon": "img/skin/20501/205012/icon.png",
       "qicon": "img/skin/20501/205012/qicon.png",
       "shipyard": "img/skin/20501/205012/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 205013,
@@ -105,7 +105,7 @@
       "icon": "img/skin/20501/205013/icon.png",
       "qicon": "img/skin/20501/205013/qicon.png",
       "shipyard": "img/skin/20501/205013/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -133,10 +133,10 @@
       "icon": "img/skin/20501/205014/icon.png",
       "qicon": "img/skin/20501/205014/qicon.png",
       "shipyard": "img/skin/20501/205014/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 205015,
@@ -162,10 +162,10 @@
       "icon": "img/skin/20501/205015/icon.png",
       "qicon": "img/skin/20501/205015/qicon.png",
       "shipyard": "img/skin/20501/205015/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_6",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/yilishabai/yilishabai_6",
+      "cost": 1080
     },
     {
       "id": 205016,
@@ -190,7 +190,7 @@
       "icon": "img/skin/20501/205016/icon.png",
       "qicon": "img/skin/20501/205016/qicon.png",
       "shipyard": "img/skin/20501/205016/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yilishabai/yilishabai_7",
       "spine": null,
       "live2d": null,
       "cost": null

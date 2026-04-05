@@ -21,7 +21,7 @@
       "icon": "img/skin/20303/203030/icon.png",
       "qicon": "img/skin/20303/203030/qicon.png",
       "shipyard": "img/skin/20303/203030/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kente/kente",
       "spine": null,
       "live2d": null,
       "cost": null

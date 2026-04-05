@@ -21,7 +21,7 @@
       "icon": "img/skin/20302/203020/icon.png",
       "qicon": "img/skin/20302/203020/qicon.png",
       "shipyard": "img/skin/20302/203020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shiluopujun/shiluopujun",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,7 +47,7 @@
       "icon": "img/skin/20302/203029/icon.png",
       "qicon": "img/skin/20302/203029/qicon.png",
       "shipyard": "img/skin/20302/203029/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shiluopujun/shiluopujun_g",
       "spine": null,
       "live2d": null,
       "cost": null

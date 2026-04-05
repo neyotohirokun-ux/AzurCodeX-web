@@ -21,7 +21,7 @@
       "icon": "img/skin/20403/204030/icon.png",
       "qicon": "img/skin/20403/204030/qicon.png",
       "shipyard": "img/skin/20403/204030/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20403/204031/icon.png",
       "qicon": "img/skin/20403/204031/qicon.png",
       "shipyard": "img/skin/20403/204031/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 204032,
@@ -77,10 +77,10 @@
       "icon": "img/skin/20403/204032/icon.png",
       "qicon": "img/skin/20403/204032/qicon.png",
       "shipyard": "img/skin/20403/204032/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 204033,
@@ -105,10 +105,10 @@
       "icon": "img/skin/20403/204033/icon.png",
       "qicon": "img/skin/20403/204033/qicon.png",
       "shipyard": "img/skin/20403/204033/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 204034,
@@ -133,10 +133,10 @@
       "icon": "img/skin/20403/204034/icon.png",
       "qicon": "img/skin/20403/204034/qicon.png",
       "shipyard": "img/skin/20403/204034/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 204038,
@@ -159,7 +159,7 @@
       "icon": "img/skin/20403/204038/icon.png",
       "qicon": "img/skin/20403/204038/qicon.png",
       "shipyard": "img/skin/20403/204038/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/hude/hude_h",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -21,7 +21,7 @@
       "icon": "img/skin/20212/202120/icon.png",
       "qicon": "img/skin/20212/202120/qicon.png",
       "shipyard": "img/skin/20212/202120/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/20212/202121/icon.png",
       "qicon": "img/skin/20212/202121/qicon.png",
       "shipyard": "img/skin/20212/202121/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/beierfasite/beierfasite_2",
+      "cost": 1180
     },
     {
       "id": 202122,
@@ -76,7 +76,7 @@
       "icon": "img/skin/20212/202122/icon.png",
       "qicon": "img/skin/20212/202122/qicon.png",
       "shipyard": "img/skin/20212/202122/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_5",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -104,10 +104,10 @@
       "icon": "img/skin/20212/202123/icon.png",
       "qicon": "img/skin/20212/202123/qicon.png",
       "shipyard": "img/skin/20212/202123/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 202124,
@@ -132,7 +132,7 @@
       "icon": "img/skin/20212/202124/icon.png",
       "qicon": "img/skin/20212/202124/qicon.png",
       "shipyard": "img/skin/20212/202124/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -158,10 +158,10 @@
       "icon": "img/skin/20212/202125/icon.png",
       "qicon": "img/skin/20212/202125/qicon.png",
       "shipyard": "img/skin/20212/202125/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_7",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 202126,
@@ -186,10 +186,10 @@
       "icon": "img/skin/20212/202126/icon.png",
       "qicon": "img/skin/20212/202126/qicon.png",
       "shipyard": "img/skin/20212/202126/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_8",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 202127,
@@ -215,10 +215,10 @@
       "icon": "img/skin/20212/202127/icon.png",
       "qicon": "img/skin/20212/202127/qicon.png",
       "shipyard": "img/skin/20212/202127/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_9",
+      "spine": "spine/ship/beierfasite/beierfasite_9",
       "live2d": null,
-      "cost": null
+      "cost": 980
     },
     {
       "id": 202128,
@@ -241,7 +241,7 @@
       "icon": "img/skin/20212/202128/icon.png",
       "qicon": "img/skin/20212/202128/qicon.png",
       "shipyard": "img/skin/20212/202128/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/beierfasite/beierfasite_h",
       "spine": null,
       "live2d": null,
       "cost": null

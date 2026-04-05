@@ -21,7 +21,7 @@
       "icon": "img/skin/20204/202040/icon.png",
       "qicon": "img/skin/20204/202040/qicon.png",
       "shipyard": "img/skin/20204/202040/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/daiduo/daiduo",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20204/202041/icon.png",
       "qicon": "img/skin/20204/202041/qicon.png",
       "shipyard": "img/skin/20204/202041/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/daiduo/daiduo_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     }
   ]
 }

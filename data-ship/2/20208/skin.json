@@ -21,7 +21,7 @@
       "icon": "img/skin/20208/202080/icon.png",
       "qicon": "img/skin/20208/202080/qicon.png",
       "shipyard": "img/skin/20208/202080/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,10 +47,10 @@
       "icon": "img/skin/20208/202081/icon.png",
       "qicon": "img/skin/20208/202081/qicon.png",
       "shipyard": "img/skin/20208/202081/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 202082,
@@ -75,10 +75,10 @@
       "icon": "img/skin/20208/202082/icon.png",
       "qicon": "img/skin/20208/202082/qicon.png",
       "shipyard": "img/skin/20208/202082/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 202083,
@@ -103,10 +103,10 @@
       "icon": "img/skin/20208/202083/icon.png",
       "qicon": "img/skin/20208/202083/qicon.png",
       "shipyard": "img/skin/20208/202083/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 202084,
@@ -131,10 +131,10 @@
       "icon": "img/skin/20208/202084/icon.png",
       "qicon": "img/skin/20208/202084/qicon.png",
       "shipyard": "img/skin/20208/202084/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 202085,
@@ -159,10 +159,10 @@
       "icon": "img/skin/20208/202085/icon.png",
       "qicon": "img/skin/20208/202085/qicon.png",
       "shipyard": "img/skin/20208/202085/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xiefeierde/xiefeierde_6",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     }
   ]
 }

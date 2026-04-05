@@ -21,7 +21,7 @@
       "icon": "img/skin/20401/204010/icon.png",
       "qicon": "img/skin/20401/204010/qicon.png",
       "shipyard": "img/skin/20401/204010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengwang/shengwang",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20401/204011/icon.png",
       "qicon": "img/skin/20401/204011/qicon.png",
       "shipyard": "img/skin/20401/204011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengwang/shengwang_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     }
   ]
 }

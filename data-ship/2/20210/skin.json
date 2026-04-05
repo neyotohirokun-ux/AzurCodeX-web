@@ -21,7 +21,7 @@
       "icon": "img/skin/20210/202100/icon.png",
       "qicon": "img/skin/20210/202100/qicon.png",
       "shipyard": "img/skin/20210/202100/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/geluosite/geluosite",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20210/202101/icon.png",
       "qicon": "img/skin/20210/202101/qicon.png",
       "shipyard": "img/skin/20210/202101/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/geluosite/geluosite_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 202102,
@@ -78,10 +78,10 @@
       "icon": "img/skin/20210/202102/icon.png",
       "qicon": "img/skin/20210/202102/qicon.png",
       "shipyard": "img/skin/20210/202102/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/geluosite/geluosite_3",
+      "spine": "spine/ship/geluosite/geluosite_3",
       "live2d": null,
-      "cost": null
+      "cost": 900
     }
   ]
 }
