@@ -1,0 +1,145 @@
+{
+  "id": 230,
+  "gid": 30707,
+  "cid": 1,
+  "sid": [
+    307071,
+    307072,
+    307073,
+    307074
+  ],
+  "name": "Taihou",
+  "codename": "IJN Taihou",
+  "class": "Taihou Class",
+  "nationality": 3,
+  "obtain": [
+    "Special Construction"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "B",
+    "B",
+    "S"
+  ],
+  "share_group": [
+    30711
+  ],
+  "breakout": [
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1240,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 76,
+    "reload": 44,
+    "accuracy": 28,
+    "evasion": 13,
+    "speed": 33.3,
+    "luck": 36,
+    "asw": 0
+  },
+  "growth": {
+    "health": 32283,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1280,
+    "aviation": 953,
+    "reload": 307,
+    "accuracy": 420,
+    "evasion": 327,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 75,
+    "reload": 33
+  },
+  "skill": {
+    "11620": {
+      "id": 11620,
+      "parent": 11620,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11630": {
+      "id": 11630,
+      "parent": 11630,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

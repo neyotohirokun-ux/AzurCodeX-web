@@ -1,0 +1,138 @@
+{
+  "id": 218,
+  "gid": 30601,
+  "cid": 1,
+  "sid": [
+    306011,
+    306012,
+    306013,
+    306014
+  ],
+  "name": "Hiyou",
+  "codename": "IJN Hiyou",
+  "class": "Hiyou Class",
+  "nationality": 3,
+  "obtain": [
+    "Exploring Stage 12-2"
+  ],
+  "type": 6,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All fighters +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All Dive Bombers +2",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 860,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 52,
+    "reload": 58,
+    "accuracy": 25,
+    "evasion": 19,
+    "speed": 25.5,
+    "luck": 43,
+    "asw": 19
+  },
+  "growth": {
+    "health": 23453,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1004,
+    "aviation": 702,
+    "reload": 403,
+    "accuracy": 412,
+    "evasion": 386,
+    "speed": 0,
+    "luck": 0,
+    "asw": 239
+  },
+  "enhance": {
+    "aviation": 51,
+    "reload": 43
+  },
+  "skill": {
+    "11260": {
+      "id": 11260,
+      "parent": 11260,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

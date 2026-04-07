@@ -21,7 +21,7 @@
       "icon": "img/skin/30101/301010/icon.png",
       "qicon": "img/skin/30101/301010/qicon.png",
       "shipyard": "img/skin/30101/301010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30101/301011/icon.png",
       "qicon": "img/skin/30101/301011/qicon.png",
       "shipyard": "img/skin/30101/301011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 301012,
@@ -75,7 +75,7 @@
       "icon": "img/skin/30101/301012/icon.png",
       "qicon": "img/skin/30101/301012/qicon.png",
       "shipyard": "img/skin/30101/301012/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -104,10 +104,10 @@
       "icon": "img/skin/30101/301013/icon.png",
       "qicon": "img/skin/30101/301013/qicon.png",
       "shipyard": "img/skin/30101/301013/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_3",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/chuixue/chuixue_3",
+      "cost": 1080
     },
     {
       "id": 301014,
@@ -132,7 +132,7 @@
       "icon": "img/skin/30101/301014/icon.png",
       "qicon": "img/skin/30101/301014/qicon.png",
       "shipyard": "img/skin/30101/301014/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_5",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -158,7 +158,7 @@
       "icon": "img/skin/30101/301015/icon.png",
       "qicon": "img/skin/30101/301015/qicon.png",
       "shipyard": "img/skin/30101/301015/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_6",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -184,10 +184,10 @@
       "icon": "img/skin/30101/301016/icon.png",
       "qicon": "img/skin/30101/301016/qicon.png",
       "shipyard": "img/skin/30101/301016/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/chuixue/chuixue_7",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     }
   ]
 }

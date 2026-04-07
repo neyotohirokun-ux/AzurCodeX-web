@@ -1,0 +1,138 @@
+{
+  "id": 207,
+  "gid": 30404,
+  "cid": 1,
+  "sid": [
+    304041,
+    304042,
+    304043,
+    304044
+  ],
+  "name": "Kirishima",
+  "codename": "IJN Kirishima",
+  "class": "Kongou Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Kirishima's Ninjutsu Class",
+    "Heavy Ship Construction"
+  ],
+  "type": 4,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1087,
+    "firepower": 69,
+    "torpedo": 0,
+    "antiair": 51,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 21,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 37,
+    "asw": 0
+  },
+  "growth": {
+    "health": 29852,
+    "firepower": 890,
+    "torpedo": 0,
+    "antiair": 1108,
+    "aviation": 0,
+    "reload": 409,
+    "accuracy": 370,
+    "evasion": 229,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 69,
+    "reload": 44
+  },
+  "skill": {
+    "11270": {
+      "id": 11270,
+      "parent": 11270,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

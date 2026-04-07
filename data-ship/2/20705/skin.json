@@ -21,7 +21,7 @@
       "icon": "img/skin/20705/207050/icon.png",
       "qicon": "img/skin/20705/207050/qicon.png",
       "shipyard": "img/skin/20705/207050/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kewei/kewei",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/20705/207051/icon.png",
       "qicon": "img/skin/20705/207051/qicon.png",
       "shipyard": "img/skin/20705/207051/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kewei/kewei_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 207052,
@@ -77,10 +77,10 @@
       "icon": "img/skin/20705/207052/icon.png",
       "qicon": "img/skin/20705/207052/qicon.png",
       "shipyard": "img/skin/20705/207052/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kewei/kewei_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 207053,
@@ -106,10 +106,10 @@
       "icon": "img/skin/20705/207053/icon.png",
       "qicon": "img/skin/20705/207053/qicon.png",
       "shipyard": "img/skin/20705/207053/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kewei/kewei_4",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/kewei/kewei_4",
+      "cost": 1180
     },
     {
       "id": 207054,
@@ -135,10 +135,10 @@
       "icon": "img/skin/20705/207054/icon.png",
       "qicon": "img/skin/20705/207054/qicon.png",
       "shipyard": "img/skin/20705/207054/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/kewei/kewei_5",
+      "spine": "spine/ship/kewei/kewei_5",
       "live2d": null,
-      "cost": null
+      "cost": 980
     },
     {
       "id": 207055,
@@ -164,10 +164,10 @@
       "icon": "img/skin/20705/207055/icon.png",
       "qicon": "img/skin/20705/207055/qicon.png",
       "shipyard": "img/skin/20705/207055/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kewei/kewei_6",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/kewei/kewei_6",
+      "cost": 1180
     }
   ]
 }

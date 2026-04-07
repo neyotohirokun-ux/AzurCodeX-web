@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 303140,
+      "gid": 30314,
+      "name": "Choukai",
+      "type": "Default",
+      "desc": "Takao-class heavy cruiser number four – Choukai.",
+      "tag": [],
+      "illustrator": 21,
+      "illustrator2": -1,
+      "voice_actor": 123,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30314/303140/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30314/303140/banner.png",
+      "chibi": "img/skin/30314/303140/chibi.png",
+      "icon": "img/skin/30314/303140/icon.png",
+      "qicon": "img/skin/30314/303140/qicon.png",
+      "shipyard": "img/skin/30314/303140/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 303141,
+      "gid": 30314,
+      "name": "Tidy Store, Tidy Mind",
+      "type": "Maid",
+      "desc": "There, that's it for the entrance... Oh welcome, Commander! I've been cleaning, so give me a moment... I'll be right with you!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 123,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/150.png",
+      "background2": null,
+      "painting": "img/skin/30314/303141/painting.png",
+      "painting_n": "img/skin/30314/303141/painting_n.png",
+      "banner": "img/skin/30314/303141/banner.png",
+      "chibi": "img/skin/30314/303141/chibi.png",
+      "icon": "img/skin/30314/303141/icon.png",
+      "qicon": "img/skin/30314/303141/qicon.png",
+      "shipyard": "img/skin/30314/303141/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

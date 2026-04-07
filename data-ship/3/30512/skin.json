@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 305120,
+      "gid": 30512,
+      "name": "Kii",
+      "type": "Default",
+      "desc": "Kii-class battleship – Kii.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 204,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30512/305120/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30512/305120/banner.png",
+      "chibi": "img/skin/30512/305120/chibi.png",
+      "icon": "img/skin/30512/305120/icon.png",
+      "qicon": "img/skin/30512/305120/qicon.png",
+      "shipyard": "img/skin/30512/305120/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 305121,
+      "gid": 30512,
+      "name": "Poolside Persuasion",
+      "type": "Swimsuits",
+      "desc": "Refreshing drinks, delicious food, warm sunshine... and a pool to beat the heat? Heh, isn't this the essence of summer?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 204,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/133.png",
+      "background2": null,
+      "painting": "img/skin/30512/305121/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30512/305121/banner.png",
+      "chibi": "img/skin/30512/305121/chibi.png",
+      "icon": "img/skin/30512/305121/icon.png",
+      "qicon": "img/skin/30512/305121/qicon.png",
+      "shipyard": "img/skin/30512/305121/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

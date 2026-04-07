@@ -1,0 +1,159 @@
+{
+  "id": 195,
+  "gid": 30306,
+  "cid": 1,
+  "sid": [
+    303061,
+    303062,
+    303063,
+    303064
+  ],
+  "name": "Chikuma",
+  "codename": "IJN Chikuma",
+  "class": "Tone Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Upon the Shimmering Blue",
+    "Heavy Ship Construction"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 755,
+    "firepower": 49,
+    "torpedo": 46,
+    "antiair": 35,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 40,
+    "evasion": 13,
+    "speed": 28.35,
+    "luck": 42,
+    "asw": 0
+  },
+  "growth": {
+    "health": 19189,
+    "firepower": 667,
+    "torpedo": 633,
+    "antiair": 772,
+    "aviation": 0,
+    "reload": 462,
+    "accuracy": 595,
+    "evasion": 490,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 48,
+    "torpedo": 45,
+    "reload": 50
+  },
+  "skill": {
+    "14780": {
+      "id": 14780,
+      "parent": 14780,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14790": {
+      "id": 14790,
+      "parent": 14790,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22241": {
+      "id": 22241,
+      "parent": 22241,
+      "upgrade": 22242,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22242": {
+      "id": 22242,
+      "parent": 22241,
+      "upgrade": null,
+      "downgrade": 22241,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

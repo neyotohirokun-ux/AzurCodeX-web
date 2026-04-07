@@ -1,0 +1,169 @@
+{
+  "id": 222,
+  "gid": 30605,
+  "cid": 1,
+  "sid": [
+    306051,
+    306052,
+    306053,
+    306054
+  ],
+  "name": "Shouhou",
+  "codename": "IJN Shouhou",
+  "class": "Shouhou Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 2-2",
+    "Guild Shop"
+  ],
+  "type": 6,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "retrofit": {
+    "id": 306054,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "aviation": 60,
+      "equipment_proficiency_2": 0.05,
+      "antiair": 35
+    },
+    "skill": 22208,
+    "skin": 306059,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "A",
+      "D",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 119,
+      "slot": 1,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 118,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 714,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 52,
+    "reload": 65,
+    "accuracy": 25,
+    "evasion": 19,
+    "speed": 28,
+    "luck": 24,
+    "asw": 20
+  },
+  "growth": {
+    "health": 19176,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1011,
+    "aviation": 702,
+    "reload": 454,
+    "accuracy": 412,
+    "evasion": 397,
+    "speed": 0,
+    "luck": 0,
+    "asw": 249
+  },
+  "enhance": {
+    "aviation": 51,
+    "reload": 49
+  },
+  "skill": {
+    "3031": {
+      "id": 3031,
+      "parent": 3031,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22208": {
+      "id": 22208,
+      "parent": 22208,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

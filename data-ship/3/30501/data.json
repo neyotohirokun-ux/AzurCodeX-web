@@ -1,0 +1,170 @@
+{
+  "id": 208,
+  "gid": 30501,
+  "cid": 1,
+  "sid": [
+    305011,
+    305012,
+    305013,
+    305014,
+    310014
+  ],
+  "name": "Fusou",
+  "codename": "IJN Fusou",
+  "class": "Fusou Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 6-3"
+  ],
+  "type": 5,
+  "rarity": 3,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 310014,
+    "level": 85,
+    "bonus": {
+      "health": 350,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 50,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "aviation": 45
+    },
+    "skill": 0,
+    "skin": 305019,
+    "armor": 3,
+    "hexagon": [
+      "B",
+      "E",
+      "C",
+      "D",
+      "C",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        8,
+        9,
+        12
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1143,
+    "firepower": 74,
+    "torpedo": 0,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 20,
+    "evasion": 5,
+    "speed": 23,
+    "luck": 13,
+    "asw": 0
+  },
+  "growth": {
+    "health": 31170,
+    "firepower": 933,
+    "torpedo": 0,
+    "antiair": 905,
+    "aviation": 0,
+    "reload": 353,
+    "accuracy": 358,
+    "evasion": 210,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 73,
+    "reload": 38
+  },
+  "skill": {
+    "2071": {
+      "id": 2071,
+      "parent": 2071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10830": {
+      "id": 10830,
+      "parent": 10830,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

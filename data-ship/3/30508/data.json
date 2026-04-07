@@ -1,0 +1,147 @@
+{
+  "id": 215,
+  "gid": 30508,
+  "cid": 1,
+  "sid": [
+    305081,
+    305082,
+    305083,
+    305084
+  ],
+  "name": "Tosa",
+  "codename": "IJN Tosa",
+  "class": "Tosa Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Crimson Echoes",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1335,
+    "firepower": 81,
+    "torpedo": 40,
+    "antiair": 37,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 26.5,
+    "luck": 12,
+    "asw": 0
+  },
+  "growth": {
+    "health": 36231,
+    "firepower": 999,
+    "torpedo": 554,
+    "antiair": 813,
+    "aviation": 0,
+    "reload": 370,
+    "accuracy": 383,
+    "evasion": 234,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 80,
+    "torpedo": 40,
+    "reload": 40
+  },
+  "skill": {
+    "13160": {
+      "id": 13160,
+      "parent": 13160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13170": {
+      "id": 13170,
+      "parent": 13170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

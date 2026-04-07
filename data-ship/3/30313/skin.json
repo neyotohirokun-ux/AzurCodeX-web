@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 303130,
+      "gid": 30313,
+      "name": "Maya",
+      "type": "Default",
+      "desc": "Third ship of the Takao-class heavy cruisers, Maya.",
+      "tag": [],
+      "illustrator": 21,
+      "illustrator2": -1,
+      "voice_actor": 87,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30313/303130/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30313/303130/banner.png",
+      "chibi": "img/skin/30313/303130/chibi.png",
+      "icon": "img/skin/30313/303130/icon.png",
+      "qicon": "img/skin/30313/303130/qicon.png",
+      "shipyard": "img/skin/30313/303130/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

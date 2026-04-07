@@ -1,0 +1,183 @@
+{
+  "id": 197,
+  "gid": 30308,
+  "cid": 1,
+  "sid": [
+    303081,
+    303082,
+    303083,
+    303084
+  ],
+  "name": "Nachi",
+  "codename": "IJN Nachi",
+  "class": "Myoukou Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 8-3"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 303084,
+    "level": 85,
+    "bonus": {
+      "health": 280,
+      "reload": 5,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 30,
+      "equipment_proficiency_2": 0.1,
+      "torpedo": 45
+    },
+    "skill": 19708,
+    "skin": 303089,
+    "armor": 2,
+    "hexagon": [
+      "B",
+      "C",
+      "E",
+      "C",
+      "C",
+      "A"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 918,
+    "firepower": 36,
+    "torpedo": 28,
+    "antiair": 36,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 43,
+    "evasion": 14,
+    "speed": 32.4,
+    "luck": 58,
+    "asw": 0
+  },
+  "growth": {
+    "health": 22390,
+    "firepower": 501,
+    "torpedo": 384,
+    "antiair": 790,
+    "aviation": 0,
+    "reload": 417,
+    "accuracy": 630,
+    "evasion": 501,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 36,
+    "torpedo": 27,
+    "reload": 45
+  },
+  "skill": {
+    "4041": {
+      "id": 4041,
+      "parent": 4041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "19708": {
+      "id": 19708,
+      "parent": 19708,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22231": {
+      "id": 22231,
+      "parent": 22231,
+      "upgrade": 22232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22232": {
+      "id": 22232,
+      "parent": 22231,
+      "upgrade": null,
+      "downgrade": 22231,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

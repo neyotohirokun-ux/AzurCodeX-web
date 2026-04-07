@@ -1,0 +1,155 @@
+{
+  "id": 231,
+  "gid": 30708,
+  "cid": 1,
+  "sid": [
+    307081,
+    307082,
+    307083,
+    307084
+  ],
+  "name": "Shinano",
+  "codename": "IJN Shinano",
+  "class": "Yamato Class ",
+  "nationality": 3,
+  "obtain": [
+    "Event: Dreamwaker's Butterfly",
+    "Heavy/Special Construction",
+    "UR Exchange"
+  ],
+  "type": 7,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "B",
+    "B",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +5%",
+      "Any plane can be equipped in the Fighter slot"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +2",
+      "Torpedo Bomber efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7,
+        8,
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 4,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1462,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 84,
+    "reload": 46,
+    "accuracy": 27,
+    "evasion": 11,
+    "speed": 28,
+    "luck": 32,
+    "asw": 0
+  },
+  "growth": {
+    "health": 38052,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1276,
+    "aviation": 1024,
+    "reload": 322,
+    "accuracy": 398,
+    "evasion": 297,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 83,
+    "reload": 35
+  },
+  "skill": {
+    "13580": {
+      "id": 13580,
+      "parent": 13580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13590": {
+      "id": 13590,
+      "parent": 13590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13600": {
+      "id": 13600,
+      "parent": 13600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

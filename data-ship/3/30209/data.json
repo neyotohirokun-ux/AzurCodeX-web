@@ -1,0 +1,183 @@
+{
+  "id": 187,
+  "gid": 30209,
+  "cid": 1,
+  "sid": [
+    302091,
+    302092,
+    302093,
+    302094
+  ],
+  "name": "Abukuma",
+  "codename": "IJN Abukuma",
+  "class": "Nagara Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 8-1"
+  ],
+  "type": 2,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "AA gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 302094,
+    "level": 80,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_2": 0.15,
+      "torpedo": 65,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 20
+    },
+    "skill": 18708,
+    "skin": 302099,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "A",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 493,
+    "firepower": 26,
+    "torpedo": 52,
+    "antiair": 52,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 50,
+    "evasion": 31,
+    "speed": 36,
+    "luck": 43,
+    "asw": 22
+  },
+  "growth": {
+    "health": 12722,
+    "firepower": 359,
+    "torpedo": 700,
+    "antiair": 1124,
+    "aviation": 0,
+    "reload": 442,
+    "accuracy": 732,
+    "evasion": 755,
+    "speed": 0,
+    "luck": 0,
+    "asw": 274
+  },
+  "enhance": {
+    "firepower": 26,
+    "torpedo": 51,
+    "reload": 47
+  },
+  "skill": {
+    "1011": {
+      "id": 1011,
+      "parent": 1011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "18708": {
+      "id": 18708,
+      "parent": 18708,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22141": {
+      "id": 22141,
+      "parent": 22141,
+      "upgrade": 22142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22142": {
+      "id": 22142,
+      "parent": 22141,
+      "upgrade": null,
+      "downgrade": 22141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

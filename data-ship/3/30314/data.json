@@ -1,0 +1,158 @@
+{
+  "id": 203,
+  "gid": 30314,
+  "cid": 1,
+  "sid": [
+    303141,
+    303142,
+    303143,
+    303144
+  ],
+  "name": "Choukai",
+  "codename": "IJN Choukai",
+  "class": "Takao Class",
+  "nationality": 3,
+  "obtain": [
+    "Exploring Stage 12-4"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "AA gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 738,
+    "firepower": 48,
+    "torpedo": 41,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 46,
+    "evasion": 13,
+    "speed": 31.95,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 18767,
+    "firepower": 662,
+    "torpedo": 565,
+    "antiair": 727,
+    "aviation": 0,
+    "reload": 447,
+    "accuracy": 678,
+    "evasion": 523,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 48,
+    "torpedo": 40,
+    "reload": 48
+  },
+  "skill": {
+    "2041": {
+      "id": 2041,
+      "parent": 2041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11250": {
+      "id": 11250,
+      "parent": 11250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22261": {
+      "id": 22261,
+      "parent": 22261,
+      "upgrade": 22262,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22262": {
+      "id": 22262,
+      "parent": 22261,
+      "upgrade": null,
+      "downgrade": 22261,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

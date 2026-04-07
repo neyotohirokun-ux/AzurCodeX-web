@@ -641,5 +641,32 @@
         }
       ]
     }
+  },
+  "kewei": {
+    "5": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.5 },
+        "scale": 2.0
+      },
+      "layers": [
+        {
+          "name": "base",
+          "scale": 0.6,
+          "atlas": "ship/kewei/kewei_5/kewei_5.atlas",
+          "skel": "ship/kewei/kewei_5/kewei_5.skel",
+          "images": [
+            "ship/kewei/kewei_5/kewei_5.png",
+            "ship/kewei/kewei_5/kewei_52.png"
+          ]
+        },
+        {
+          "name": "top",
+          "scale": 0.6,
+          "atlas": "ship/kewei/kewei_5/kewei_5T.atlas",
+          "skel": "ship/kewei/kewei_5/kewei_5T.skel",
+          "images": ["ship/kewei/kewei_5/kewei_5T.png"]
+        }
+      ]
+    }
   }
 }

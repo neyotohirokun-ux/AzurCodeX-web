@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 306020,
+      "gid": 30602,
+      "name": "Junyou",
+      "type": "Default",
+      "desc": "Hiyou-class aircraft carrier number two – Junyou.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 136,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30602/306020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30602/306020/banner.png",
+      "chibi": "img/skin/30602/306020/chibi.png",
+      "icon": "img/skin/30602/306020/icon.png",
+      "qicon": "img/skin/30602/306020/qicon.png",
+      "shipyard": "img/skin/30602/306020/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

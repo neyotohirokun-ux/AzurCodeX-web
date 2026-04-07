@@ -1,0 +1,10 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Ayanami Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Ayanami Ver.) - 綾波(CV.大地葉).mp3",
+            "lyrics": "compose/songs/Yuukyuu.json",
+            "link": "https://soundcloud.com/fubuki_ayanami/yuukyuu-no-catharsis"
+        }
+    ]
+}

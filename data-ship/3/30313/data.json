@@ -1,0 +1,151 @@
+{
+  "id": 202,
+  "gid": 30313,
+  "cid": 1,
+  "sid": [
+    303131,
+    303132,
+    303133,
+    303134
+  ],
+  "name": "Maya",
+  "codename": "IJN Maya",
+  "class": "Takao Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 8-4"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "AA gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 738,
+    "firepower": 50,
+    "torpedo": 45,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 46,
+    "evasion": 13,
+    "speed": 31.95,
+    "luck": 48,
+    "asw": 0
+  },
+  "growth": {
+    "health": 18767,
+    "firepower": 683,
+    "torpedo": 626,
+    "antiair": 727,
+    "aviation": 0,
+    "reload": 447,
+    "accuracy": 678,
+    "evasion": 523,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 50,
+    "torpedo": 45,
+    "reload": 48
+  },
+  "skill": {
+    "10600": {
+      "id": 10600,
+      "parent": 10600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22261": {
+      "id": 22261,
+      "parent": 22261,
+      "upgrade": 22262,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22262": {
+      "id": 22262,
+      "parent": 22261,
+      "upgrade": null,
+      "downgrade": 22261,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

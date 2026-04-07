@@ -1,0 +1,151 @@
+{
+  "id": 192,
+  "gid": 30303,
+  "cid": 1,
+  "sid": [
+    303031,
+    303032,
+    303033,
+    303034
+  ],
+  "name": "Aoba",
+  "codename": "IJN Aoba",
+  "class": "Aoba Class",
+  "nationality": 3,
+  "obtain": [
+    "Heavy Ship Construction"
+  ],
+  "type": 3,
+  "rarity": 2,
+  "armor": 2,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 601,
+    "firepower": 40,
+    "torpedo": 35,
+    "antiair": 31,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 38,
+    "evasion": 13,
+    "speed": 32.4,
+    "luck": 52,
+    "asw": 0
+  },
+  "growth": {
+    "health": 15523,
+    "firepower": 548,
+    "torpedo": 487,
+    "antiair": 682,
+    "aviation": 0,
+    "reload": 417,
+    "accuracy": 564,
+    "evasion": 495,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 39,
+    "torpedo": 35,
+    "reload": 45
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22221": {
+      "id": 22221,
+      "parent": 22221,
+      "upgrade": 22222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22222": {
+      "id": 22222,
+      "parent": 22221,
+      "upgrade": null,
+      "downgrade": 22221,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

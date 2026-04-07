@@ -1,0 +1,140 @@
+{
+  "id": 204,
+  "gid": 30401,
+  "cid": 1,
+  "sid": [
+    304011,
+    304012,
+    304013,
+    304014
+  ],
+  "name": "Kongou",
+  "codename": "IJN Kongō",
+  "class": "Kongou Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Ink-Stained Steel Sakura",
+    "Core Data Shop"
+  ],
+  "type": 4,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [
+    30408
+  ],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1087,
+    "firepower": 69,
+    "torpedo": 0,
+    "antiair": 51,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 22,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 43,
+    "asw": 0
+  },
+  "growth": {
+    "health": 29852,
+    "firepower": 892,
+    "torpedo": 0,
+    "antiair": 1108,
+    "aviation": 0,
+    "reload": 406,
+    "accuracy": 377,
+    "evasion": 229,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 69,
+    "reload": 44
+  },
+  "skill": {
+    "11330": {
+      "id": 11330,
+      "parent": 11330,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

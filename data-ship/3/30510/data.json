@@ -1,0 +1,153 @@
+{
+  "id": 217,
+  "gid": 30510,
+  "cid": 1,
+  "sid": [
+    305101,
+    305102,
+    305103,
+    305104
+  ],
+  "name": "Musashi",
+  "codename": "IJN Musashi",
+  "class": "Yamato Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Violet Tempest, Blooming Lycoris",
+    "Heavy/Special Construction",
+    "UR Exchange"
+  ],
+  "type": 5,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.55
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1819,
+    "firepower": 91,
+    "torpedo": 0,
+    "antiair": 43,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 26.5,
+    "luck": 33,
+    "asw": 0
+  },
+  "growth": {
+    "health": 48455,
+    "firepower": 1091,
+    "torpedo": 0,
+    "antiair": 933,
+    "aviation": 0,
+    "reload": 394,
+    "accuracy": 388,
+    "evasion": 234,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 91,
+    "reload": 42
+  },
+  "skill": {
+    "16030": {
+      "id": 16030,
+      "parent": 16030,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16040": {
+      "id": 16040,
+      "parent": 16040,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16050": {
+      "id": 16050,
+      "parent": 16050,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

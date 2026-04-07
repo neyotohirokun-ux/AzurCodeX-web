@@ -1,0 +1,153 @@
+{
+  "id": 182,
+  "gid": 30204,
+  "cid": 1,
+  "sid": [
+    302041,
+    302042,
+    302043,
+    302044
+  ],
+  "name": "Nagara",
+  "codename": "IJN Nagara",
+  "class": "Nagara Class",
+  "nationality": 3,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "AA gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 493,
+    "firepower": 26,
+    "torpedo": 52,
+    "antiair": 52,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 50,
+    "evasion": 31,
+    "speed": 36,
+    "luck": 36,
+    "asw": 20
+  },
+  "growth": {
+    "health": 12722,
+    "firepower": 359,
+    "torpedo": 700,
+    "antiair": 1124,
+    "aviation": 0,
+    "reload": 442,
+    "accuracy": 732,
+    "evasion": 755,
+    "speed": 0,
+    "luck": 0,
+    "asw": 250
+  },
+  "enhance": {
+    "firepower": 26,
+    "torpedo": 51,
+    "reload": 47
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22141": {
+      "id": 22141,
+      "parent": 22141,
+      "upgrade": 22142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22142": {
+      "id": 22142,
+      "parent": 22141,
+      "upgrade": null,
+      "downgrade": 22141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

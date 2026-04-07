@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 303030,
+      "gid": 30303,
+      "name": "Aoba",
+      "type": "Default",
+      "desc": "First ship of the Aoba-class heavy cruisers, Aoba.",
+      "tag": [],
+      "illustrator": 20,
+      "illustrator2": -1,
+      "voice_actor": 48,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30303/303030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30303/303030/banner.png",
+      "chibi": "img/skin/30303/303030/chibi.png",
+      "icon": "img/skin/30303/303030/icon.png",
+      "qicon": "img/skin/30303/303030/qicon.png",
+      "shipyard": "img/skin/30303/303030/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}
