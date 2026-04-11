@@ -21,7 +21,7 @@
       "icon": "img/skin/30602/306020/icon.png",
       "qicon": "img/skin/30602/306020/qicon.png",
       "shipyard": "img/skin/30602/306020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/sunying/sunying",
       "spine": null,
       "live2d": null,
       "cost": null

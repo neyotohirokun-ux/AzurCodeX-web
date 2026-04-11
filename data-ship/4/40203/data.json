@@ -1,0 +1,188 @@
+{
+  "id": 240,
+  "gid": 40203,
+  "cid": 1,
+  "sid": [
+    402031,
+    402032,
+    402033,
+    402034,
+    402134
+  ],
+  "name": "Köln",
+  "codename": "KMS Köln",
+  "class": "Konigsberg Class",
+  "nationality": 4,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 5-3",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 402134,
+    "level": 80,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_2": 0.15,
+      "torpedo": 45,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "firepower": 20
+    },
+    "skill": 24011,
+    "skin": 402039,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "B",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14,
+        17
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 578,
+    "firepower": 28,
+    "torpedo": 51,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 51,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 62,
+    "asw": 25
+  },
+  "growth": {
+    "health": 14769,
+    "firepower": 389,
+    "torpedo": 688,
+    "antiair": 1337,
+    "aviation": 0,
+    "reload": 447,
+    "accuracy": 785,
+    "evasion": 730,
+    "speed": 0,
+    "luck": 0,
+    "asw": 306
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 50,
+    "reload": 48
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23111": {
+      "id": 23111,
+      "parent": 23111,
+      "upgrade": 23112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23112": {
+      "id": 23112,
+      "parent": 23111,
+      "upgrade": null,
+      "downgrade": 23111,
+      "requirement": "Limit Break 3"
+    },
+    "24011": {
+      "id": 24011,
+      "parent": 24011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

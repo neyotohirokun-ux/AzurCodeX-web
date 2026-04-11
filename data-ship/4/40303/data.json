@@ -1,0 +1,155 @@
+{
+  "id": 244,
+  "gid": 40303,
+  "cid": 1,
+  "sid": [
+    403031,
+    403032,
+    403033,
+    403034
+  ],
+  "name": "Prinz Eugen",
+  "codename": "KMS Prinz Eugen",
+  "class": "Admiral Hipper Class",
+  "nationality": 4,
+  "obtain": [
+    "Requisition (random chance)",
+    "Heavy Ship Construction",
+    "Medal Shop (when listed)"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "D",
+    "E",
+    "C",
+    "B",
+    "S"
+  ],
+  "share_group": [
+    40315
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1099,
+    "firepower": 43,
+    "torpedo": 28,
+    "antiair": 38,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 44,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 78,
+    "asw": 0
+  },
+  "growth": {
+    "health": 26810,
+    "firepower": 597,
+    "torpedo": 391,
+    "antiair": 838,
+    "aviation": 0,
+    "reload": 467,
+    "accuracy": 648,
+    "evasion": 420,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 36,
+    "torpedo": 28,
+    "reload": 50
+  },
+  "skill": {
+    "10390": {
+      "id": 10390,
+      "parent": 10390,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23211": {
+      "id": 23211,
+      "parent": 23211,
+      "upgrade": 23212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23212": {
+      "id": 23212,
+      "parent": 23211,
+      "upgrade": null,
+      "downgrade": 23211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

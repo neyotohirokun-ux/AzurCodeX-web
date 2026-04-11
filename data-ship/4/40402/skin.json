@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 404020,
+      "gid": 40402,
+      "name": "Gneisenau",
+      "type": "Default",
+      "desc": "Scharnhorst-class battlecruiser, Gneisenau.",
+      "tag": [],
+      "illustrator": 32,
+      "illustrator2": -1,
+      "voice_actor": 26,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/40402/404020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40402/404020/banner.png",
+      "chibi": "img/skin/40402/404020/chibi.png",
+      "icon": "img/skin/40402/404020/icon.png",
+      "qicon": "img/skin/40402/404020/qicon.png",
+      "shipyard": "img/skin/40402/404020/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 404021,
+      "gid": 40402,
+      "name": "Nightmarish Succubus",
+      "type": "Halloween",
+      "desc": "These Halloween festivities are quite interesting, in a good way. Getting dressed up in these costumes isn't such a bad experience either. Commander, what do you think of my costume?",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": 32,
+      "illustrator2": -1,
+      "voice_actor": 26,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/119.png",
+      "background2": null,
+      "painting": "img/skin/40402/404021/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40402/404021/banner.png",
+      "chibi": "img/skin/40402/404021/chibi.png",
+      "icon": "img/skin/40402/404021/icon.png",
+      "qicon": "img/skin/40402/404021/qicon.png",
+      "shipyard": "img/skin/40402/404021/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

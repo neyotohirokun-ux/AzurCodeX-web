@@ -21,7 +21,7 @@
       "icon": "img/skin/30505/305050/icon.png",
       "qicon": "img/skin/30505/305050/qicon.png",
       "shipyard": "img/skin/30505/305050/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30505/305051/icon.png",
       "qicon": "img/skin/30505/305051/qicon.png",
       "shipyard": "img/skin/30505/305051/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 305052,
@@ -77,10 +77,10 @@
       "icon": "img/skin/30505/305052/icon.png",
       "qicon": "img/skin/30505/305052/qicon.png",
       "shipyard": "img/skin/30505/305052/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 305053,
@@ -105,10 +105,10 @@
       "icon": "img/skin/30505/305053/icon.png",
       "qicon": "img/skin/30505/305053/qicon.png",
       "shipyard": "img/skin/30505/305053/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 305054,
@@ -133,10 +133,10 @@
       "icon": "img/skin/30505/305054/icon.png",
       "qicon": "img/skin/30505/305054/qicon.png",
       "shipyard": "img/skin/30505/305054/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 305055,
@@ -162,10 +162,10 @@
       "icon": "img/skin/30505/305055/icon.png",
       "qicon": "img/skin/30505/305055/qicon.png",
       "shipyard": "img/skin/30505/305055/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_6",
+      "spine": "spine/ship/changmen/changmen_6",
       "live2d": null,
-      "cost": null
+      "cost": 1000
     },
     {
       "id": 305058,
@@ -188,7 +188,7 @@
       "icon": "img/skin/30505/305058/icon.png",
       "qicon": "img/skin/30505/305058/qicon.png",
       "shipyard": "img/skin/30505/305058/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/changmen/changmen_h",
       "spine": null,
       "live2d": null,
       "cost": null

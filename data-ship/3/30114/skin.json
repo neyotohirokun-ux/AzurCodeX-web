@@ -21,7 +21,7 @@
       "icon": "img/skin/30114/301140/icon.png",
       "qicon": "img/skin/30114/301140/qicon.png",
       "shipyard": "img/skin/30114/301140/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xili/xili",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30114/301141/icon.png",
       "qicon": "img/skin/30114/301141/qicon.png",
       "shipyard": "img/skin/30114/301141/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xili/xili_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 301143,
@@ -77,10 +77,10 @@
       "icon": "img/skin/30114/301143/icon.png",
       "qicon": "img/skin/30114/301143/qicon.png",
       "shipyard": "img/skin/30114/301143/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xili/xili_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 301144,
@@ -105,10 +105,10 @@
       "icon": "img/skin/30114/301144/icon.png",
       "qicon": "img/skin/30114/301144/qicon.png",
       "shipyard": "img/skin/30114/301144/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xili/xili_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 301148,
@@ -131,7 +131,7 @@
       "icon": "img/skin/30114/301148/icon.png",
       "qicon": "img/skin/30114/301148/qicon.png",
       "shipyard": "img/skin/30114/301148/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xili/xili_h",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -157,8 +157,8 @@
       "icon": "img/skin/30114/301149/icon.png",
       "qicon": "img/skin/30114/301149/qicon.png",
       "shipyard": "img/skin/30114/301149/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/xili/xili_g",
+      "spine": "spine/ship/xili/xili_g",
       "live2d": null,
       "cost": null
     }

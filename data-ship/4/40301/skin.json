@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 403010,
+      "gid": 40301,
+      "name": "Admiral Hipper",
+      "type": "Default",
+      "desc": "Admiral Hipper-class Heavy Cruiser, Admiral Hipper",
+      "tag": [],
+      "illustrator": 29,
+      "illustrator2": -1,
+      "voice_actor": 61,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/40301/403010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40301/403010/banner.png",
+      "chibi": "img/skin/40301/403010/chibi.png",
+      "icon": "img/skin/40301/403010/icon.png",
+      "qicon": "img/skin/40301/403010/qicon.png",
+      "shipyard": "img/skin/40301/403010/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 403012,
+      "gid": 40301,
+      "name": "Sunshine by the Hot Spring",
+      "type": "Summer Fest",
+      "desc": "W-well? Does this kimono look good on me? ...R-really? Duh, I know it looks GREAT on me! Who really cares what you think... C-can't be me... No, I didn't say anything!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 61,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/114.png",
+      "background2": "img/bgii/1101.png",
+      "painting": "img/skin/40301/403012/painting.png",
+      "painting_n": "img/skin/40301/403012/painting_n.png",
+      "banner": "img/skin/40301/403012/banner.png",
+      "chibi": "img/skin/40301/403012/chibi.png",
+      "icon": "img/skin/40301/403012/icon.png",
+      "qicon": "img/skin/40301/403012/qicon.png",
+      "shipyard": "img/skin/40301/403012/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

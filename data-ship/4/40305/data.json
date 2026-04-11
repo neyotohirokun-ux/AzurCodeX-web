@@ -1,0 +1,153 @@
+{
+  "id": 246,
+  "gid": 40305,
+  "cid": 1,
+  "sid": [
+    403051,
+    403052,
+    403053,
+    403054
+  ],
+  "name": "Admiral Graf Spee",
+  "codename": "KMS Admiral Graf Spee",
+  "class": "Deutschland Class",
+  "nationality": 4,
+  "obtain": [
+    "Event: The Pursuit of Graf Spee",
+    "Guild Shop"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3,
+        11
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 750,
+    "firepower": 55,
+    "torpedo": 40,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 43,
+    "evasion": 7,
+    "speed": 22.8,
+    "luck": 36,
+    "asw": 0
+  },
+  "growth": {
+    "health": 19059,
+    "firepower": 741,
+    "torpedo": 548,
+    "antiair": 625,
+    "aviation": 0,
+    "reload": 445,
+    "accuracy": 636,
+    "evasion": 374,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 56,
+    "torpedo": 40,
+    "reload": 48
+  },
+  "skill": {
+    "10650": {
+      "id": 10650,
+      "parent": 10650,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23221": {
+      "id": 23221,
+      "parent": 23221,
+      "upgrade": 23222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23222": {
+      "id": 23222,
+      "parent": 23221,
+      "upgrade": null,
+      "downgrade": 23221,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -21,7 +21,7 @@
       "icon": "img/skin/30125/301250/icon.png",
       "qicon": "img/skin/30125/301250/qicon.png",
       "shipyard": "img/skin/30125/301250/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/youming/youming",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30125/301251/icon.png",
       "qicon": "img/skin/30125/301251/qicon.png",
       "shipyard": "img/skin/30125/301251/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/youming/youming_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 301259,
@@ -75,7 +75,7 @@
       "icon": "img/skin/30125/301259/icon.png",
       "qicon": "img/skin/30125/301259/qicon.png",
       "shipyard": "img/skin/30125/301259/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/youming/youming_g",
       "spine": null,
       "live2d": null,
       "cost": null

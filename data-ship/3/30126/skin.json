@@ -21,7 +21,7 @@
       "icon": "img/skin/30126/301260/icon.png",
       "qicon": "img/skin/30126/301260/qicon.png",
       "shipyard": "img/skin/30126/301260/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30126/301261/icon.png",
       "qicon": "img/skin/30126/301261/qicon.png",
       "shipyard": "img/skin/30126/301261/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 301262,
@@ -77,10 +77,10 @@
       "icon": "img/skin/30126/301262/icon.png",
       "qicon": "img/skin/30126/301262/qicon.png",
       "shipyard": "img/skin/30126/301262/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 301263,
@@ -105,7 +105,7 @@
       "icon": "img/skin/30126/301263/icon.png",
       "qicon": "img/skin/30126/301263/qicon.png",
       "shipyard": "img/skin/30126/301263/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -133,10 +133,10 @@
       "icon": "img/skin/30126/301264/icon.png",
       "qicon": "img/skin/30126/301264/qicon.png",
       "shipyard": "img/skin/30126/301264/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_6",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 301265,
@@ -161,10 +161,10 @@
       "icon": "img/skin/30126/301265/icon.png",
       "qicon": "img/skin/30126/301265/qicon.png",
       "shipyard": "img/skin/30126/301265/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 301269,
@@ -187,7 +187,7 @@
       "icon": "img/skin/30126/301269/icon.png",
       "qicon": "img/skin/30126/301269/qicon.png",
       "shipyard": "img/skin/30126/301269/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ximu/ximu_g",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -21,7 +21,7 @@
       "icon": "img/skin/30312/303120/icon.png",
       "qicon": "img/skin/30312/303120/qicon.png",
       "shipyard": "img/skin/30312/303120/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/30312/303121/icon.png",
       "qicon": "img/skin/30312/303121/qicon.png",
       "shipyard": "img/skin/30312/303121/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/aidang/aidang_2",
+      "cost": 700
     },
     {
       "id": 303122,
@@ -78,10 +78,10 @@
       "icon": "img/skin/30312/303122/icon.png",
       "qicon": "img/skin/30312/303122/qicon.png",
       "shipyard": "img/skin/30312/303122/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 303123,
@@ -106,10 +106,10 @@
       "icon": "img/skin/30312/303123/icon.png",
       "qicon": "img/skin/30312/303123/qicon.png",
       "shipyard": "img/skin/30312/303123/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 303124,
@@ -134,10 +134,10 @@
       "icon": "img/skin/30312/303124/icon.png",
       "qicon": "img/skin/30312/303124/qicon.png",
       "shipyard": "img/skin/30312/303124/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 303125,
@@ -163,10 +163,10 @@
       "icon": "img/skin/30312/303125/icon.png",
       "qicon": "img/skin/30312/303125/qicon.png",
       "shipyard": "img/skin/30312/303125/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_6",
+      "spine": "spine/ship/aidang/aidang_6",
       "live2d": null,
-      "cost": null
+      "cost": 980
     },
     {
       "id": 303128,
@@ -189,7 +189,7 @@
       "icon": "img/skin/30312/303128/icon.png",
       "qicon": "img/skin/30312/303128/qicon.png",
       "shipyard": "img/skin/30312/303128/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/aidang/aidang_h",
       "spine": null,
       "live2d": null,
       "cost": null

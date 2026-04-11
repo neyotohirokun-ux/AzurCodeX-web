@@ -67,7 +67,8 @@
       "D",
       "C",
       "A"
-    ]
+    ],
+    "type": 3
   },
   "equipment": {
     "1": {
@@ -135,17 +136,17 @@
     "asw": 11
   },
   "growth": {
-    "health": 17635,
-    "firepower": 515,
-    "torpedo": 475,
-    "antiair": 759,
+    "health": 4109,
+    "firepower": 204,
+    "torpedo": 188,
+    "antiair": 190,
     "aviation": 0,
-    "reload": 482,
-    "accuracy": 756,
-    "evasion": 535,
-    "speed": 0,
-    "luck": 0,
-    "asw": 137
+    "reload": 191,
+    "accuracy": 153,
+    "evasion": 85,
+    "speed": 29.6,
+    "luck": 14,
+    "asw": 46
   },
   "enhance": {
     "firepower": 37,

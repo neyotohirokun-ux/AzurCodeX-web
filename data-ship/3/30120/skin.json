@@ -21,7 +21,7 @@
       "icon": "img/skin/30120/301200/icon.png",
       "qicon": "img/skin/30120/301200/qicon.png",
       "shipyard": "img/skin/30120/301200/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/yefen/yefen",
       "spine": null,
       "live2d": null,
       "cost": null

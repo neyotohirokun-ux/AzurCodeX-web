@@ -1,0 +1,187 @@
+{
+  "id": 236,
+  "gid": 40123,
+  "cid": 1,
+  "sid": [
+    401231,
+    401232,
+    401233,
+    401234
+  ],
+  "name": "Z23",
+  "codename": "KMS Z23",
+  "class": "Type 1936A",
+  "nationality": 4,
+  "obtain": [
+    "Explore Chapter 10-1",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "B",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 401234,
+    "level": 85,
+    "bonus": {
+      "health": 165,
+      "evasion": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 50,
+      "equipment_proficiency_3": 0.1,
+      "antiair": 65,
+      "torpedo": 20,
+      "asw": 20
+    },
+    "skill": 23612,
+    "skin": 401239,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "C",
+      "E",
+      "B",
+      "B",
+      "D"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 345,
+    "firepower": 22,
+    "torpedo": 61,
+    "antiair": 28,
+    "aviation": 0,
+    "reload": 73,
+    "accuracy": 64,
+    "evasion": 58,
+    "speed": 42,
+    "luck": 65,
+    "asw": 49
+  },
+  "growth": {
+    "health": 9700,
+    "firepower": 309,
+    "torpedo": 808,
+    "antiair": 615,
+    "aviation": 0,
+    "reload": 510,
+    "accuracy": 987,
+    "evasion": 1083,
+    "speed": 0,
+    "luck": 0,
+    "asw": 566
+  },
+  "enhance": {
+    "firepower": 22,
+    "torpedo": 61,
+    "reload": 55
+  },
+  "skill": {
+    "10530": {
+      "id": 10530,
+      "parent": 10530,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23612": {
+      "id": 23612,
+      "parent": 23612,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "29201": {
+      "id": 29201,
+      "parent": 29201,
+      "upgrade": 29202,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29202": {
+      "id": 29202,
+      "parent": 29201,
+      "upgrade": null,
+      "downgrade": 29201,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 401250,
+      "gid": 40125,
+      "name": "Z25",
+      "type": "Default",
+      "desc": "Type 1936A \"Narvik-class\" destroyer – Z25",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 3,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/40125/401250/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40125/401250/banner.png",
+      "chibi": "img/skin/40125/401250/chibi.png",
+      "icon": "img/skin/40125/401250/icon.png",
+      "qicon": "img/skin/40125/401250/qicon.png",
+      "shipyard": "img/skin/40125/401250/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 401251,
+      "gid": 40125,
+      "name": "Hot Summer's Cool Breeze",
+      "type": "Swimsuits",
+      "desc": "Even at the beach, we cannot afford to be careless! Commander, have you adequately prepared for today's activities?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 3,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/40125/401251/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40125/401251/banner.png",
+      "chibi": "img/skin/40125/401251/chibi.png",
+      "icon": "img/skin/40125/401251/icon.png",
+      "qicon": "img/skin/40125/401251/qicon.png",
+      "shipyard": "img/skin/40125/401251/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

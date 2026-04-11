@@ -21,7 +21,7 @@
       "icon": "img/skin/30205/302050/icon.png",
       "qicon": "img/skin/30205/302050/qicon.png",
       "shipyard": "img/skin/30205/302050/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,10 +47,10 @@
       "icon": "img/skin/30205/302051/icon.png",
       "qicon": "img/skin/30205/302051/qicon.png",
       "shipyard": "img/skin/30205/302051/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 302052,
@@ -75,10 +75,10 @@
       "icon": "img/skin/30205/302052/icon.png",
       "qicon": "img/skin/30205/302052/qicon.png",
       "shipyard": "img/skin/30205/302052/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 302053,
@@ -101,10 +101,10 @@
       "icon": "img/skin/30205/302053/icon.png",
       "qicon": "img/skin/30205/302053/qicon.png",
       "shipyard": "img/skin/30205/302053/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 302054,
@@ -129,7 +129,7 @@
       "icon": "img/skin/30205/302054/icon.png",
       "qicon": "img/skin/30205/302054/qicon.png",
       "shipyard": "img/skin/30205/302054/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling_6",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -155,7 +155,7 @@
       "icon": "img/skin/30205/302059/icon.png",
       "qicon": "img/skin/30205/302059/qicon.png",
       "shipyard": "img/skin/30205/302059/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/wushiling/wushiling_g",
       "spine": null,
       "live2d": null,
       "cost": null

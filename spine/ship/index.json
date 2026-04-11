@@ -668,5 +668,176 @@
         }
       ]
     }
+  },
+  "xili": {
+    "g": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.9 },
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/xili/xili_g/xili_g.atlas",
+          "skel": "ship/xili/xili_g/xili_g.skel",
+          "images": [
+            "ship/xili/xili_g/xili_g.png"
+          ]
+        }
+      ]
+    }
+  },
+  "gaoxiong": {
+    "6": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.9},
+        "scale": 2.0
+      },
+      "layers": [
+        {
+          "name": "base",
+          "scale": 1.0,
+          "atlas": "ship/gaoxiong/gaoxiong_6/gaoxiong_6B.atlas",
+          "skel": "ship/gaoxiong/gaoxiong_6/gaoxiong_6B.skel",
+          "images": [
+            "ship/gaoxiong/gaoxiong_6/gaoxiong_6B.png",
+            "ship/gaoxiong/gaoxiong_6/gaoxiong_6BG1.png",
+            "ship/gaoxiong/gaoxiong_6/gaoxiong_6BG2.png"
+          ]
+        },
+        {
+          "name": "top",
+          "scale": 0.6,
+          "atlas": "ship/gaoxiong/gaoxiong_6/gaoxiong_6T.atlas",
+          "skel": "ship/gaoxiong/gaoxiong_6/gaoxiong_6T.skel",
+          "images": [
+            "ship/gaoxiong/gaoxiong_6/gaoxiong_6T.png",
+            "ship/gaoxiong/gaoxiong_6/gaoxiong_6T2.png"
+          ]
+        }
+      ]
+    }
+  },
+  "aidang": {
+    "6": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8},
+        "scale": 1.4
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/aidang/aidang_6/aidang_6.atlas",
+          "skel": "ship/aidang/aidang_6/aidang_6.skel",
+          "images": [
+            "ship/aidang/aidang_6/aidang_6.png",
+            "ship/aidang/aidang_6/aidang_62.png"
+          ]
+        }
+      ]
+    }
+  },
+  "jingang": {
+    "5": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.5},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/jingang/jingang_5/jingang_5.atlas",
+          "skel": "ship/jingang/jingang_5/jingang_5.skel",
+          "images": [
+            "ship/jingang/jingang_5/jingang_5.png",
+            "ship/jingang/jingang_5/jingang_52.png"
+          ]
+        }
+      ]
+    }
+  },
+  "changmen": {
+    "6": {
+      "config": {
+        "pivot": { "x": 0.0, "y": 1.0},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/changmen/changmen_6/changmen_6.atlas",
+          "skel": "ship/changmen/changmen_6/changmen_6.skel",
+          "images": [ "ship/changmen/changmen_6/changmen_6.png" ]
+        }
+      ]
+    }
+  },
+  "tuzuo": {
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.4},
+        "scale": 1.1
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/tuzuo/tuzuo_3/tuzuo_3.atlas",
+          "skel": "ship/tuzuo/tuzuo_3/tuzuo_3.skel",
+          "images": [ "ship/tuzuo/tuzuo_3/tuzuo_3.png", "ship/tuzuo/tuzuo_3/tuzuo_32.png" ]
+        }
+      ]
+    }
+  },
+  "wuzang": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0},
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "backarm",
+          "atlas": "ship/wuzang/wuzang/wuzang7.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang7.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang7.png" ]
+        },
+        {
+          "name": "arm4",
+          "atlas": "ship/wuzang/wuzang/wuzang6.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang6.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang6.png" ]
+        },
+        {
+          "name": "arm3",
+          "atlas": "ship/wuzang/wuzang/wuzang5.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang5.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang5.png" ]
+        },
+        {
+          "name": "musashi1",
+          "atlas": "ship/wuzang/wuzang/wuzang4.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang4.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang4.png" ]
+        },
+        {
+          "name": "musashi",
+          "atlas": "ship/wuzang/wuzang/wuzang3.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang3.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang3.png" ]
+        },
+        {
+          "name": "arm2",
+          "atlas": "ship/wuzang/wuzang/wuzang2.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang2.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang2.png" ]
+        },
+        {
+          "name": "arm1",
+          "atlas": "ship/wuzang/wuzang/wuzang1.atlas",
+          "skel": "ship/wuzang/wuzang/wuzang1.skel",
+          "images": [ "ship/wuzang/wuzang/wuzang1.png" ]
+        }
+      ]
+    }
   }
 }

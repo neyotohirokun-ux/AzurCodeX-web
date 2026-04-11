@@ -21,7 +21,7 @@
       "icon": "img/skin/30601/306010/icon.png",
       "qicon": "img/skin/30601/306010/qicon.png",
       "shipyard": "img/skin/30601/306010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/feiying/feiying",
       "spine": null,
       "live2d": null,
       "cost": null
