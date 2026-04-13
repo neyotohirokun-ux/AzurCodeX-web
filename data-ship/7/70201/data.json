@@ -1,0 +1,153 @@
+{
+  "id": 262,
+  "gid": 70201,
+  "cid": 1,
+  "sid": [
+    702011,
+    702012,
+    702013,
+    702014
+  ],
+  "name": "Avrora",
+  "codename": "SN Avrora",
+  "class": "Pallada Class",
+  "nationality": 7,
+  "obtain": [
+    "CBT reward",
+    "Event: Northern Overture"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "D",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 585,
+    "firepower": 19,
+    "torpedo": 41,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 45,
+    "evasion": 24,
+    "speed": 19,
+    "luck": 55,
+    "asw": 14
+  },
+  "growth": {	
+    "health": 3450,
+    "firepower": 106,
+    "torpedo": 226,
+    "antiair": 163,
+    "aviation": 0,
+    "reload": 152,
+    "accuracy": 134,
+    "evasion": 93,
+    "speed": 19,
+    "luck": 55,
+    "asw": 58
+  },
+  "enhance": {
+    "firepower": 19,
+    "torpedo": 41,
+    "reload": 41
+  },
+  "skill": {
+    "10510": {
+      "id": 10510,
+      "parent": 10510,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29191": {
+      "id": 29191,
+      "parent": 29191,
+      "upgrade": 29192,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29192": {
+      "id": 29192,
+      "parent": 29191,
+      "upgrade": null,
+      "downgrade": 29191,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": 257,
+  "gid": 50201,
+  "cid": 1,
+  "sid": [
+    502011,
+    502012,
+    502013,
+    502014,
+    502114
+  ],
+  "name": "Yat Sen",
+  "codename": "Yat Sen",
+  "class": "Yat Sen Class",
+  "nationality": 5,
+  "obtain": [
+    "Event: Lunar New Year",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "B",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "AA gun base +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 502114,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "equipment_proficiency_2": 0.15,
+      "firepower": 55,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 35,
+      "evasion": 15
+    },
+    "skill": 25712,
+    "skin": 502019,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 328,
+    "firepower": 22,
+    "torpedo": 0,
+    "antiair": 66,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 50,
+    "evasion": 24,
+    "speed": 19,
+    "luck": 64,
+    "asw": 13
+  },
+  "growth": {
+    "health": 1928,
+    "firepower": 122,
+    "torpedo": 0,
+    "antiair": 354,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 150,
+    "evasion": 93,
+    "speed": 19,
+    "luck": 64,
+    "asw": 56
+  },
+  "enhance": {
+    "firepower": 22,
+    "reload": 50
+  },
+  "skill": {
+    "10500": {
+      "id": 10500,
+      "parent": 10500,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10760": {
+      "id": 10760,
+      "parent": 10760,
+      "upgrade": 16430,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16430": {
+      "id": 16430,
+      "parent": 10760,
+      "upgrade": null,
+      "downgrade": 10760,
+      "requirement": "Retrofit"
+    },
+    "24121": {
+      "id": 24121,
+      "parent": 24121,
+      "upgrade": 24122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24122": {
+      "id": 24122,
+      "parent": 24121,
+      "upgrade": null,
+      "downgrade": 24121,
+      "requirement": "Limit Break 3"
+    },
+    "25712": {
+      "id": 25712,
+      "parent": 25712,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

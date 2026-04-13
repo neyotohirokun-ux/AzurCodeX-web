@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301410,
+      "gid": 30141,
+      "name": "Mikazuki",
+      "type": "Default",
+      "desc": "Mutsuki-class destroyer number ten – Mikazuki.",
+      "tag": [],
+      "illustrator": 34,
+      "illustrator2": -1,
+      "voice_actor": 119,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30141/301410/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30141/301410/banner.png",
+      "chibi": "img/skin/30141/301410/chibi.png",
+      "icon": "img/skin/30141/301410/icon.png",
+      "qicon": "img/skin/30141/301410/qicon.png",
+      "shipyard": "img/skin/30141/301410/shipyard.png",
+      "spine_chibi": "spine/chibi/sanriyue/sanriyue",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301411,
+      "gid": 30141,
+      "name": "Sweet Zombie",
+      "type": "Halloween",
+      "desc": "Mikazuki is supposed to be... a jiangshi? Um... hip... hop... Commander, trick or treaaaaat~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 34,
+      "illustrator2": -1,
+      "voice_actor": 119,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/119.png",
+      "background2": null,
+      "painting": "img/skin/30141/301411/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30141/301411/banner.png",
+      "chibi": "img/skin/30141/301411/chibi.png",
+      "icon": "img/skin/30141/301411/icon.png",
+      "qicon": "img/skin/30141/301411/qicon.png",
+      "shipyard": "img/skin/30141/301411/shipyard.png",
+      "spine_chibi": "spine/chibi/sanriyue/sanriyue_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

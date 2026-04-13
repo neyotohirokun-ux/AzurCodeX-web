@@ -1,0 +1,16 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Prinz Eugen x Prince of Wales Ver.",
+            "audio": "audio/songs/Azur Lane _ Buddy Character Song _ Yuukyuu no Catharsis ✦ Prinz Eugen & Prince of Wales - プリンツ・オイゲン(CV_佐倉綾音)、プリンス・オブ・ウェールズ(CV_橋本ちなみ).mp3",
+            "lyrics": "compose/songs/Yuukyuu.json",
+            "link": "https://soundcloud.com/secretadmiral-a/azur-lane-buddy-character-song-yuukyuu-no-catharsis-prinz-eugen-prince-of-wales"
+        },
+        {
+            "name": "Dance in the Naval Engagement, Prinz Eugen - Prince of Wales",
+            "audio": "audio/songs/Azur Lane _ Buddy Character Song _ Dance In The Naval Engagement ✦ Prinz Eugen & Prince of Wales - プリンツ・オイゲン(CV_佐倉綾音)、プリンス・オブ・ウェールズ(CV_橋本ちなみ).mp3",
+            "lyrics": "",
+            "link": "https://soundcloud.com/secretadmiral-a/azur-lane-buddy-character-song-dance-in-the-naval-engagement-prinz-eugen-prince-of-wales"
+        }
+    ]
+}

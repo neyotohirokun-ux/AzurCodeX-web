@@ -1,0 +1,153 @@
+{
+  "id": 303,
+  "gid": 10211,
+  "cid": 1,
+  "sid": [
+    102111,
+    102112,
+    102113,
+    102114
+  ],
+  "name": "Richmond",
+  "codename": "USS Richmond",
+  "class": "Omaha Class",
+  "nationality": 1,
+  "obtain": [
+    "Explore Chapter 8-4"
+  ],
+  "type": 2,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 554,
+    "firepower": 26,
+    "torpedo": 38,
+    "antiair": 53,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 52,
+    "evasion": 30,
+    "speed": 35,
+    "luck": 69,
+    "asw": 22
+  },
+  "growth": {
+    "health": 14197,
+    "firepower": 363,
+    "torpedo": 529,
+    "antiair": 1136,
+    "aviation": 0,
+    "reload": 465,
+    "accuracy": 768,
+    "evasion": 731,
+    "speed": 0,
+    "luck": 0,
+    "asw": 275
+  },
+  "enhance": {
+    "firepower": 26,
+    "torpedo": 38,
+    "reload": 50
+  },
+  "skill": {
+    "1002": {
+      "id": 1002,
+      "parent": 1002,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20111": {
+      "id": 20111,
+      "parent": 20111,
+      "upgrade": 20112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20112": {
+      "id": 20112,
+      "parent": 20111,
+      "upgrade": null,
+      "downgrade": 20111,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -21,9 +21,9 @@
       "icon": "img/skin/40123/401230/icon.png",
       "qicon": "img/skin/40123/401230/qicon.png",
       "shipyard": "img/skin/40123/401230/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23",
       "spine": null,
-      "live2d": null,
+      "live2d": "live2d/z23/z23",
       "cost": null
     },
     {
@@ -47,7 +47,7 @@
       "icon": "img/skin/40123/401231/icon.png",
       "qicon": "img/skin/40123/401231/qicon.png",
       "shipyard": "img/skin/40123/401231/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_2",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -75,10 +75,10 @@
       "icon": "img/skin/40123/401232/icon.png",
       "qicon": "img/skin/40123/401232/qicon.png",
       "shipyard": "img/skin/40123/401232/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_7",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 401233,
@@ -101,10 +101,10 @@
       "icon": "img/skin/40123/401233/icon.png",
       "qicon": "img/skin/40123/401233/qicon.png",
       "shipyard": "img/skin/40123/401233/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 401234,
@@ -129,10 +129,10 @@
       "icon": "img/skin/40123/401234/icon.png",
       "qicon": "img/skin/40123/401234/qicon.png",
       "shipyard": "img/skin/40123/401234/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 401235,
@@ -155,7 +155,7 @@
       "icon": "img/skin/40123/401235/icon.png",
       "qicon": "img/skin/40123/401235/qicon.png",
       "shipyard": "img/skin/40123/401235/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_8",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -183,10 +183,10 @@
       "icon": "img/skin/40123/401236/icon.png",
       "qicon": "img/skin/40123/401236/qicon.png",
       "shipyard": "img/skin/40123/401236/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     },
     {
       "id": 401237,
@@ -209,7 +209,7 @@
       "icon": "img/skin/40123/401237/icon.png",
       "qicon": "img/skin/40123/401237/qicon.png",
       "shipyard": "img/skin/40123/401237/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_6",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -235,7 +235,7 @@
       "icon": "img/skin/40123/401238/icon.png",
       "qicon": "img/skin/40123/401238/qicon.png",
       "shipyard": "img/skin/40123/401238/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_h",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -261,7 +261,7 @@
       "icon": "img/skin/40123/401239/icon.png",
       "qicon": "img/skin/40123/401239/qicon.png",
       "shipyard": "img/skin/40123/401239/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_g",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -289,7 +289,7 @@
       "icon": "img/skin/43123/431230/icon.png",
       "qicon": "img/skin/43123/431230/qicon.png",
       "shipyard": "img/skin/43123/431230/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_9",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -317,10 +317,10 @@
       "icon": "img/skin/43123/431232/icon.png",
       "qicon": "img/skin/43123/431232/qicon.png",
       "shipyard": "img/skin/43123/431232/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_10",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 431233,
@@ -345,10 +345,10 @@
       "icon": "img/skin/43123/431233/icon.png",
       "qicon": "img/skin/43123/431233/qicon.png",
       "shipyard": "img/skin/43123/431233/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_12",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 431234,
@@ -373,10 +373,10 @@
       "icon": "img/skin/43123/431234/icon.png",
       "qicon": "img/skin/43123/431234/qicon.png",
       "shipyard": "img/skin/43123/431234/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/z23/z23_",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 800
     }
   ]
 }

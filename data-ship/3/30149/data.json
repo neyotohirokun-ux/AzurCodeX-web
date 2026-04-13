@@ -1,0 +1,161 @@
+{
+  "id": 288,
+  "gid": 30149,
+  "cid": 1,
+  "sid": [
+    301491,
+    301492,
+    301493,
+    301494
+  ],
+  "name": "Kawakaze",
+  "codename": "IJN Kawakaze",
+  "class": "Shiratsuyu Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Ink-Stained Steel Sakura",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "S",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 295,
+    "firepower": 13,
+    "torpedo": 105,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 80,
+    "accuracy": 70,
+    "evasion": 71,
+    "speed": 40.8,
+    "luck": 38,
+    "asw": 49
+  },
+  "growth": {
+    "health": 1875,
+    "firepower": 70,
+    "torpedo": 551,
+    "antiair": 164,
+    "aviation": 0,
+    "reload": 220,
+    "accuracy": 215,
+    "evasion": 246,
+    "speed": 40.8,
+    "luck": 38,
+    "asw": 203
+  },
+  "enhance": {
+    "firepower": 13,
+    "torpedo": 104,
+    "reload": 59
+  },
+  "skill": {
+    "2151": {
+      "id": 2151,
+      "parent": 2151,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11360": {
+      "id": 11360,
+      "parent": 11360,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29281": {
+      "id": 29281,
+      "parent": 29281,
+      "upgrade": 29282,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29282": {
+      "id": 29282,
+      "parent": 29281,
+      "upgrade": null,
+      "downgrade": 29281,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101300,
+      "gid": 10130,
+      "name": "Jenkins",
+      "type": "Default",
+      "desc": "Fletcher-class destroyer - Jenkins, Hull Number DD-447!",
+      "tag": [],
+      "illustrator": 26,
+      "illustrator2": -1,
+      "voice_actor": 101,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10130/101300/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10130/101300/banner.png",
+      "chibi": "img/skin/10130/101300/chibi.png",
+      "icon": "img/skin/10130/101300/icon.png",
+      "qicon": "img/skin/10130/101300/qicon.png",
+      "shipyard": "img/skin/10130/101300/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101301,
+      "gid": 10130,
+      "name": "Light of the Holiest Star",
+      "type": "Christmas",
+      "desc": "Commander, g-good evening...? Right now, I'm bringing presents to Radford and the others...? Could you give me a hand? Th-thank you... Um, your present.. this apple, do you want it?",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": 26,
+      "illustrator2": -1,
+      "voice_actor": 101,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/125.png",
+      "background2": null,
+      "painting": "img/skin/10130/101301/painting.png",
+      "painting_n": "img/skin/10130/101301/painting_n.png",
+      "banner": "img/skin/10130/101301/banner.png",
+      "chibi": "img/skin/10130/101301/chibi.png",
+      "icon": "img/skin/10130/101301/icon.png",
+      "qicon": "img/skin/10130/101301/qicon.png",
+      "shipyard": "img/skin/10130/101301/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

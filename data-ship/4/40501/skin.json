@@ -21,7 +21,7 @@
       "icon": "img/skin/40501/405010/icon.png",
       "qicon": "img/skin/40501/405010/qicon.png",
       "shipyard": "img/skin/40501/405010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/bisimai/bisimai",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/40501/405011/icon.png",
       "qicon": "img/skin/40501/405011/qicon.png",
       "shipyard": "img/skin/40501/405011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/bisimai/bisimai_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/bisimai/bisimai_2",
+      "cost": 1180
     },
     {
       "id": 405012,
@@ -78,10 +78,10 @@
       "icon": "img/skin/40501/405012/icon.png",
       "qicon": "img/skin/40501/405012/qicon.png",
       "shipyard": "img/skin/40501/405012/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/bisimai/bisimai_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 405013,
@@ -107,10 +107,10 @@
       "icon": "img/skin/40501/405013/icon.png",
       "qicon": "img/skin/40501/405013/qicon.png",
       "shipyard": "img/skin/40501/405013/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/bisimai/bisimai_4",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/bisimai/bisimai_4",
+      "cost": 1180
     },
     {
       "id": 405018,
@@ -133,7 +133,7 @@
       "icon": "img/skin/40501/405018/icon.png",
       "qicon": "img/skin/40501/405018/qicon.png",
       "shipyard": "img/skin/40501/405018/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/bisimai/bisimai_h",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -163,10 +163,10 @@
       "qicon": "img/skin/40505/405051/qicon.png",
       "shipyard": "img/skin/40505/405051/shipyard.png",
       "shared": "40505",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/bisimaiZ/bisimaiZ_2",
+      "spine": "spine/ship/bisimaiZ/bisimaiZ_2",
       "live2d": null,
-      "cost": null
+      "cost": 980
     },
     {
       "id": 405052,
@@ -192,10 +192,10 @@
       "qicon": "img/skin/40505/405052/qicon.png",
       "shipyard": "img/skin/40505/405052/shipyard.png",
       "shared": "40505",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/bisimaiZ/bisimaiZ_3",
+      "spine": "spine/ship/bisimaiZ/bisimaiZ_3",
       "live2d": null,
-      "cost": null
+      "cost": 900
     }
   ]
 }

@@ -137,17 +137,17 @@
     "asw": 49
   },
   "growth": {
-    "health": 9700,
-    "firepower": 309,
-    "torpedo": 808,
-    "antiair": 615,
+    "health": 2177,
+    "firepower": 122,
+    "torpedo": 331,
+    "antiair": 153,
     "aviation": 0,
-    "reload": 510,
-    "accuracy": 987,
-    "evasion": 1083,
-    "speed": 0,
-    "luck": 0,
-    "asw": 566
+    "reload": 202,
+    "accuracy": 197,
+    "evasion": 203,
+    "speed": 42,
+    "luck": 65,
+    "asw": 204
   },
   "enhance": {
     "firepower": 22,
@@ -162,8 +162,8 @@
       "downgrade": null,
       "requirement": "Default"
     },
-    "23612": {
-      "id": 23612,
+    "11320": {
+      "id": 11320,
       "parent": 23612,
       "upgrade": null,
       "downgrade": null,

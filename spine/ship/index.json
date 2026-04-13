@@ -839,5 +839,157 @@
         }
       ]
     }
+  },
+  "xinnong": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.9},
+        "scale": 1.4
+      },
+      "layers": [
+        {
+          "name": "base",
+          "scale": 0.6,
+          "atlas": "ship/xinnong/xinnong/xinnongB.atlas",
+          "skel": "ship/xinnong/xinnong/xinnongB.skel",
+          "images": [
+            "ship/xinnong/xinnong/xinnongB.png"
+          ]
+        },
+        {
+          "name": "top",
+          "scale": 0.6,
+          "atlas": "ship/xinnong/xinnong/xinnongT.atlas",
+          "skel": "ship/xinnong/xinnong/xinnongT.skel",
+          "images": [
+            "ship/xinnong/xinnong/xinnongT.png"
+          ]
+        }
+      ]
+    }
+  },
+  "ougen": {
+    "7": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.5},
+        "scale": 1.8
+      },
+      "layers" : [
+        {
+          "name": "default",
+          "atlas": "ship/ougen/ougen_7/ougen_7.atlas",
+          "skel": "ship/ougen/ougen_7/ougen_7.skel",
+          "images": [
+            "ship/ougen/ougen_7/ougen_7.png",
+            "ship/ougen/ougen_7/ougen_72.png",
+            "ship/ougen/ougen_7/ougen_7BG.png"
+          ]
+        }
+      ]
+    }
+  },
+  "bisimaiZ": {
+    "default": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8},
+        "scale": 1.0
+      },
+      "layers": [
+        {
+          "name": "base",
+          "atlas": "ship/bisimaiZ/bisimaiZ/bisimaiZB.atlas",
+          "skel": "ship/bisimaiZ/bisimaiZ/bisimaiZB.skel",
+          "images": [
+            "ship/bisimaiZ/bisimaiZ/bisimaiZB.png",
+            "ship/bisimaiZ/bisimaiZ/bisimaiZBG.png"
+          ]
+        },
+        {
+          "name": "middle",
+          "atlas": "ship/bisimaiZ/bisimaiZ/bisimaiZM.atlas",
+          "skel": "ship/bisimaiZ/bisimaiZ/bisimaiZM.skel",
+          "images": [
+            "ship/bisimaiZ/bisimaiZ/bisimaiZM.png"
+          ]
+        },
+        {
+          "name": "top",
+          "atlas": "ship/bisimaiZ/bisimaiZ/bisimaiZT.atlas",
+          "skel": "ship/bisimaiZ/bisimaiZ/bisimaiZT.skel",
+          "images": [
+            "ship/bisimaiZ/bisimaiZ/bisimaiZT.png"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.7},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "top",
+          "atlas": "ship/bisimaiZ/bisimaiZ_2/bisimaiZ_2T.atlas",
+          "skel": "ship/bisimaiZ/bisimaiZ_2/bisimaiZ_2T.skel",
+          "images": [
+            "ship/bisimaiZ/bisimaiZ_2/bisimaiZ_2T.png"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.9},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/bisimaiZ/bisimaiZ_3/bisimaiZ_3.atlas",
+          "skel": "ship/bisimaiZ/bisimaiZ_3/bisimaiZ_3.skel",
+          "images": [
+            "ship/bisimaiZ/bisimaiZ_3/bisimaiZ_3.png"
+          ]
+        }
+      ]
+    }
+  },
+  "yixian": {
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1.0},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "base",
+          "scale": 0.6,
+          "atlas": "ship/yixian/yixian_2/yixian_2B.atlas",
+          "skel": "ship/yixian/yixian_2/yixian_2B.skel",
+          "images": [
+            "ship/yixian/yixian_2/yixian_2B.png"
+          ]
+        },
+        {
+          "name": "middle",
+          "scale": 0.6,
+          "atlas": "ship/yixian/yixian_2/yixian_2M.atlas",
+          "skel": "ship/yixian/yixian_2/yixian_2M.skel",
+          "images": [
+            "ship/yixian/yixian_2/yixian_2M.png"
+          ]
+        },
+        {
+          "name": "top",
+          "scale": 0.6,
+          "atlas": "ship/yixian/yixian_2/yixian_2T.atlas",
+          "skel": "ship/yixian/yixian_2/yixian_2T.skel",
+          "images": [
+            "ship/yixian/yixian_2/yixian_2T.png"
+          ]
+        }
+      ]
+    }
   }
 }

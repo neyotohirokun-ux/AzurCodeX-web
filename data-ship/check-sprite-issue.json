@@ -16,27 +16,39 @@
     "Fubuki |Stormy Waitress-in-Training | WB",
     "Shirayuki |Bunny Breeder | WB, WTB",
     "Takao |Divine Exorcist's Blade | Dynamic(Background), Chibi",
+    "Kaga |Dusk-Simurgh's Vigil | Dynamic(missing)",
+    "Shinano |Embrace Upon a Melted Dream | Chibi(missing)",
+    "Z23 |Fries, and smile! | missing in skin.json",
+    "Z23 |Inky Antics | Chibi(missing)",
+    "Admiral Gaf Spee |World's♥Cutest | WB",
+    "Graf Zeppelin |Intoxicating Crimson | Chibi(missing)",
+    "Avrora |Mellow Seaspray | missing in skin.json ",
+    "Shimakaze |The Unmoving Rabbit | Chibi(missing)",
+    "Mutsuki |Mutsuki (Retrofit) | Chibi(region attachment issue)",
+    "Fumuzuki |Default | WB(stretch issue)",
+    "Nagatsuki |Dangerous Kitty Maid? | Chibi(region attachment issue)",
+    "Yamakaze |Default |WB, WTB | Now for a Magic Trick! | WB, WTB",
 
 
     "Chibi, Dynamic, or Live2d that is already in assets",
-    "Langley II, Lexington II", "Yorktown II, Hornet II",
+    "Langley II, Lexington II", "Yorktown II, Hornet II, Bismarck Zwei",
 
 
     "Addons hx are censored versions | censored feature will be added later for system build2. Additionally same goes with CN, TW, JP versions",
-    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi",
+    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze",
 
 
     "Some chibi such as alter, ghost, young and µ(idol) are already added on said shipgirl",
 
 
-    "Ship thats has Original art chibi or special skin",
-    "Colorado, Maryland, West Virginia, Rodney, Yuudachi",
+    "Ship thats has Original art chibi, special skin or extra",
+    "Colorado, Maryland, West Virginia, Rodney, Yuudachi, An Shan",
 
 
     "Skipped Reason: Pinyin cannot be found thus update is stopped",
     "Hardy, Juno, Kako, Kinugasa",
 
 
-    " Zuihou - Akashi | Sakura Empire | needs to adjust the data, skin/price, animations(spine and live2d)",
-    "Target: Zuihou - Kaga | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
+    " Radford - St.Louis | Mixed Nations | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Radford -  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
 ]

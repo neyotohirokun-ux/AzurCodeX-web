@@ -1,0 +1,206 @@
+{
+  "id": 254,
+  "gid": 50102,
+  "cid": 1,
+  "sid": [
+    501021,
+    501022,
+    501023,
+    501024,
+    520024,
+    521024
+  ],
+  "name": "Fu Shun",
+  "codename": "Fu Shun",
+  "class": "An Shan Class",
+  "nationality": 5,
+  "obtain": [
+    "Event: Adventure - Fushun",
+    "Guild Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "B",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +5%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 520024,
+    "level": 85,
+    "bonus": {
+      "health": 165,
+      "torpedo": 80,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 40,
+      "evasion": 30
+    },
+    "skill": 0,
+    "skin": 501029,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "B",
+      "E",
+      "B",
+      "C",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        20
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 367,
+    "firepower": 24,
+    "torpedo": 43,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 68,
+    "evasion": 61,
+    "speed": 45.6,
+    "luck": 51,
+    "asw": 49
+  },
+  "growth": {
+    "health": 2332,
+    "firepower": 130,
+    "torpedo": 234,
+    "antiair": 177,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 209,
+    "evasion": 213,
+    "speed": 45.6,
+    "luck": 51,
+    "asw": 203
+  },
+  "enhance": {
+    "firepower": 23,
+    "torpedo": 42,
+    "reload": 55
+  },
+  "skill": {
+    "11050": {
+      "id": 11050,
+      "parent": 11050,
+      "upgrade": 150860,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "24011": {
+      "id": 24011,
+      "parent": 24011,
+      "upgrade": 24012,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24012": {
+      "id": 24012,
+      "parent": 24011,
+      "upgrade": 30412,
+      "downgrade": 24011,
+      "requirement": "Limit Break 3"
+    },
+    "30411": {
+      "id": 30411,
+      "parent": 24011,
+      "upgrade": null,
+      "downgrade": 24012,
+      "requirement": "Retrofit"
+    },
+    "30412": {
+      "id": 30412,
+      "parent": 24011,
+      "upgrade": null,
+      "downgrade": 24012,
+      "requirement": "Retrofit"
+    },
+    "150860": {
+      "id": 150860,
+      "parent": 11050,
+      "upgrade": null,
+      "downgrade": 11050,
+      "requirement": "Retrofit"
+    },
+    "150870": {
+      "id": 150870,
+      "parent": 150870,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

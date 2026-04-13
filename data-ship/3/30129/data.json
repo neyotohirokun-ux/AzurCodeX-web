@@ -1,0 +1,170 @@
+{
+  "id": 268,
+  "gid": 30129,
+  "cid": 1,
+  "sid": [
+    301291,
+    301292,
+    301293,
+    301294
+  ],
+  "name": "Shimakaze",
+  "codename": "IJN Shimakaze",
+  "class": "Shimakaze Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Upon the Shimmering Blue",
+    "Heavy Ship Construction/Special Construction",
+    "UR Exchange"
+  ],
+  "type": 1,
+  "rarity": 6,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "S",
+    "E",
+    "A",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo preload +1",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "2": {
+      "default": 108,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 2,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 381,
+    "firepower": 14,
+    "torpedo": 116,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 82,
+    "accuracy": 74,
+    "evasion": 86,
+    "speed": 48.72,
+    "luck": 41,
+    "asw": 52
+  },
+  "growth": {
+    "health": 2420,
+    "firepower": 77,
+    "torpedo": 609,
+    "antiair": 165,
+    "aviation": 0,
+    "reload": 228,
+    "accuracy": 228,
+    "evasion": 293,
+    "speed": 48.72,
+    "luck": 41,
+    "asw": 213
+  },
+  "enhance": {
+    "firepower": 14,
+    "torpedo": 115,
+    "reload": 62
+  },
+  "skill": {
+    "14850": {
+      "id": 14850,
+      "parent": 14850,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14860": {
+      "id": 14860,
+      "parent": 14860,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14870": {
+      "id": 14870,
+      "parent": 14870,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29141": {
+      "id": 29141,
+      "parent": 29141,
+      "upgrade": 29142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29142": {
+      "id": 29142,
+      "parent": 29141,
+      "upgrade": null,
+      "downgrade": 29141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

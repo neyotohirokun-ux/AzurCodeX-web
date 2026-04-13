@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 301560,
+      "gid": 30156,
+      "name": "Niizuki",
+      "type": "Default",
+      "desc": "Akizuki-class destroyer number five – Niizuki.",
+      "tag": [],
+      "illustrator": 36,
+      "illustrator2": -1,
+      "voice_actor": 49,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30156/301560/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30156/301560/banner.png",
+      "chibi": "img/skin/30156/301560/chibi.png",
+      "icon": "img/skin/30156/301560/icon.png",
+      "qicon": "img/skin/30156/301560/qicon.png",
+      "shipyard": "img/skin/30156/301560/shipyard.png",
+      "spine_chibi": "spine/chibi/xinyue_jp/xinyue_jp",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

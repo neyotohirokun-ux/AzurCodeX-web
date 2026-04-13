@@ -21,7 +21,7 @@
       "icon": "img/skin/40502/405020/icon.png",
       "qicon": "img/skin/40502/405020/qicon.png",
       "shipyard": "img/skin/40502/405020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/40502/405021/icon.png",
       "qicon": "img/skin/40502/405021/qicon.png",
       "shipyard": "img/skin/40502/405021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/tierbici/tierbici_2",
+      "cost": 1180
     },
     {
       "id": 405022,
@@ -78,10 +78,10 @@
       "icon": "img/skin/40502/405022/icon.png",
       "qicon": "img/skin/40502/405022/qicon.png",
       "shipyard": "img/skin/40502/405022/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 405023,
@@ -106,10 +106,10 @@
       "icon": "img/skin/40502/405023/icon.png",
       "qicon": "img/skin/40502/405023/qicon.png",
       "shipyard": "img/skin/40502/405023/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 405024,
@@ -134,10 +134,10 @@
       "icon": "img/skin/40502/405024/icon.png",
       "qicon": "img/skin/40502/405024/qicon.png",
       "shipyard": "img/skin/40502/405024/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 405025,
@@ -162,7 +162,7 @@
       "icon": "img/skin/40502/405025/icon.png",
       "qicon": "img/skin/40502/405025/qicon.png",
       "shipyard": "img/skin/40502/405025/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/tierbici/tierbici_6",
       "spine": null,
       "live2d": null,
       "cost": null

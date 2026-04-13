@@ -21,7 +21,7 @@
       "icon": "img/skin/40402/404020/icon.png",
       "qicon": "img/skin/40402/404020/qicon.png",
       "shipyard": "img/skin/40402/404020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/genaisennao/genaisennao",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/40402/404021/icon.png",
       "qicon": "img/skin/40402/404021/qicon.png",
       "shipyard": "img/skin/40402/404021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/genaisennao/genaisennao_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/genaisennao/genaisennao_2",
+      "cost": 1080
     }
   ]
 }

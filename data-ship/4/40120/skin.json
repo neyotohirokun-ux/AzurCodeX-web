@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 401200,
+      "gid": 40120,
+      "name": "Karl Galster (Z20)",
+      "type": "Default",
+      "desc": "Type 1936 destroyer – Z20 Karl Galster.",
+      "tag": [],
+      "illustrator": 28,
+      "illustrator2": -1,
+      "voice_actor": 59,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/40120/401200/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40120/401200/banner.png",
+      "chibi": "img/skin/40120/401200/chibi.png",
+      "icon": "img/skin/40120/401200/icon.png",
+      "qicon": "img/skin/40120/401200/qicon.png",
+      "shipyard": "img/skin/40120/401200/shipyard.png",
+      "spine_chibi": "spine/chibi/z20/z20",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

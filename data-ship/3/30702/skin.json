@@ -21,7 +21,7 @@
       "icon": "img/skin/30702/307020/icon.png",
       "qicon": "img/skin/30702/307020/qicon.png",
       "shipyard": "img/skin/30702/307020/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/30702/307021/icon.png",
       "qicon": "img/skin/30702/307021/qicon.png",
       "shipyard": "img/skin/30702/307021/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 600
     },
     {
       "id": 307022,
@@ -77,10 +77,10 @@
       "icon": "img/skin/30702/307022/icon.png",
       "qicon": "img/skin/30702/307022/qicon.png",
       "shipyard": "img/skin/30702/307022/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 307023,
@@ -105,10 +105,10 @@
       "icon": "img/skin/30702/307023/icon.png",
       "qicon": "img/skin/30702/307023/qicon.png",
       "shipyard": "img/skin/30702/307023/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 307024,
@@ -133,10 +133,10 @@
       "icon": "img/skin/30702/307024/icon.png",
       "qicon": "img/skin/30702/307024/qicon.png",
       "shipyard": "img/skin/30702/307024/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 307025,
@@ -161,10 +161,10 @@
       "icon": "img/skin/30702/307025/icon.png",
       "qicon": "img/skin/30702/307025/qicon.png",
       "shipyard": "img/skin/30702/307025/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_6",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 307026,
@@ -189,10 +189,10 @@
       "icon": "img/skin/30702/307026/icon.png",
       "qicon": "img/skin/30702/307026/qicon.png",
       "shipyard": "img/skin/30702/307026/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_7",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 307028,
@@ -215,7 +215,7 @@
       "icon": "img/skin/30702/307028/icon.png",
       "qicon": "img/skin/30702/307028/qicon.png",
       "shipyard": "img/skin/30702/307028/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/jiahe/jiahe_h",
       "spine": null,
       "live2d": null,
       "cost": null

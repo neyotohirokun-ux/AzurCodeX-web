@@ -1,0 +1,159 @@
+{
+  "id": 305,
+  "gid": 10213,
+  "cid": 1,
+  "sid": [
+    102131,
+    102132,
+    102133,
+    102134
+  ],
+  "name": "St. Louis",
+  "codename": "USS St.Louis",
+  "class": "Brooklyn Class",
+  "nationality": 1,
+  "obtain": [
+    "Explore Chapter 10-3",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 620,
+    "firepower": 32,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 57,
+    "evasion": 28,
+    "speed": 32.5,
+    "luck": 65,
+    "asw": 24
+  },
+  "growth": {
+    "health": 15745,
+    "firepower": 437,
+    "torpedo": 0,
+    "antiair": 1269,
+    "aviation": 0,
+    "reload": 475,
+    "accuracy": 840,
+    "evasion": 587,
+    "speed": 0,
+    "luck": 0,
+    "asw": 299
+  },
+  "enhance": {
+    "firepower": 31,
+    "reload": 51
+  },
+  "skill": {
+    "4091": {
+      "id": 4091,
+      "parent": 4091,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10880": {
+      "id": 10880,
+      "parent": 10880,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20121": {
+      "id": 20121,
+      "parent": 20121,
+      "upgrade": 20122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20122": {
+      "id": 20122,
+      "parent": 20121,
+      "upgrade": null,
+      "downgrade": 20121,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

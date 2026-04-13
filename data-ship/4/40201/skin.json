@@ -21,7 +21,7 @@
       "icon": "img/skin/40201/402010/icon.png",
       "qicon": "img/skin/40201/402010/qicon.png",
       "shipyard": "img/skin/40201/402010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kenisibao/kenisibao",
       "spine": null,
       "live2d": null,
       "cost": null

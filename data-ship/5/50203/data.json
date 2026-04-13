@@ -1,0 +1,191 @@
+{
+  "id": 259,
+  "gid": 50203,
+  "cid": 1,
+  "sid": [
+    502031,
+    502032,
+    502033,
+    502034
+  ],
+  "name": "Ping Hai",
+  "codename": "Ping Hai",
+  "class": "Ning Hai Class",
+  "nationality": 5,
+  "obtain": [
+    "Guild Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "B",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 502034,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 55,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "evasion": 35
+    },
+    "skill": 25912,
+    "skin": 502039,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "C",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 340,
+    "firepower": 27,
+    "torpedo": 43,
+    "antiair": 48,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 53,
+    "evasion": 25,
+    "speed": 21.3,
+    "luck": 47,
+    "asw": 18
+  },
+  "growth": {
+    "health": 1995,
+    "firepower": 148,
+    "torpedo": 237,
+    "antiair": 263,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 159,
+    "evasion": 85,
+    "speed": 21.3,
+    "luck": 47,
+    "asw": 77
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 43,
+    "reload": 50
+  },
+  "skill": {
+    "10490": {
+      "id": 10490,
+      "parent": 10490,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10500": {
+      "id": 10500,
+      "parent": 10500,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "24111": {
+      "id": 24111,
+      "parent": 24111,
+      "upgrade": 24112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24112": {
+      "id": 24112,
+      "parent": 24111,
+      "upgrade": null,
+      "downgrade": 24111,
+      "requirement": "Limit Break 3"
+    },
+    "25912": {
+      "id": 25912,
+      "parent": 25912,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

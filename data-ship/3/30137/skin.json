@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 301370,
+      "gid": 30137,
+      "name": "Minazuki",
+      "type": "Default",
+      "desc": "Mutsuki-class destroyer number six – Minazuki.",
+      "tag": [],
+      "illustrator": 34,
+      "illustrator2": -1,
+      "voice_actor": 119,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30137/301370/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30137/301370/banner.png",
+      "chibi": "img/skin/30137/301370/chibi.png",
+      "icon": "img/skin/30137/301370/icon.png",
+      "qicon": "img/skin/30137/301370/qicon.png",
+      "shipyard": "img/skin/30137/301370/shipyard.png",
+      "spine_chibi": "spine/chibi/shuiwuyue/shuiwuyue",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

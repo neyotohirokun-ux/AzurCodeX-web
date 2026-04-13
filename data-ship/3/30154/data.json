@@ -1,0 +1,161 @@
+{
+  "id": 293,
+  "gid": 30154,
+  "cid": 1,
+  "sid": [
+    301541,
+    301542,
+    301543,
+    301544
+  ],
+  "name": "Kiyonami",
+  "codename": "IJN Kiyonami",
+  "class": "Yuugumo Class",
+  "nationality": 3,
+  "obtain": [
+    "Monthly Sign-in",
+    "Light Ship Construction"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 331,
+    "firepower": 11,
+    "torpedo": 96,
+    "antiair": 26,
+    "aviation": 0,
+    "reload": 77,
+    "accuracy": 71,
+    "evasion": 71,
+    "speed": 42,
+    "luck": 46,
+    "asw": 45
+  },
+  "growth": {
+    "health": 2105,
+    "firepower": 60,
+    "torpedo": 503,
+    "antiair": 141,
+    "aviation": 0,
+    "reload": 213,
+    "accuracy": 218,
+    "evasion": 246,
+    "speed": 42,
+    "luck": 46,
+    "asw": 187
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 95,
+    "reload": 58
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "2161": {
+      "id": 2161,
+      "parent": 2161,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22056": {
+      "id": 22056,
+      "parent": 22056,
+      "upgrade": 22057,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22057": {
+      "id": 22057,
+      "parent": 22056,
+      "upgrade": null,
+      "downgrade": 22056,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

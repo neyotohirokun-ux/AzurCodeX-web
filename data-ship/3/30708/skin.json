@@ -21,8 +21,8 @@
       "icon": "img/skin/30708/307080/icon.png",
       "qicon": "img/skin/30708/307080/qicon.png",
       "shipyard": "img/skin/30708/307080/shipyard.png",
-      "spine_chibi": null,
-      "spine": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong",
+      "spine": "spine/ship/xinnong/xinnong",
       "live2d": null,
       "cost": null
     },
@@ -49,10 +49,10 @@
       "icon": "img/skin/30708/307081/icon.png",
       "qicon": "img/skin/30708/307081/qicon.png",
       "shipyard": "img/skin/30708/307081/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 900
     },
     {
       "id": 307082,
@@ -78,10 +78,10 @@
       "icon": "img/skin/30708/307082/icon.png",
       "qicon": "img/skin/30708/307082/qicon.png",
       "shipyard": "img/skin/30708/307082/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong_3",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/xinnong/xinnong_3",
+      "cost": 1200
     },
     {
       "id": 307083,
@@ -107,10 +107,10 @@
       "icon": "img/skin/30708/307083/icon.png",
       "qicon": "img/skin/30708/307083/qicon.png",
       "shipyard": "img/skin/30708/307083/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong_4",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/xinnong/xinnong_4",
+      "cost": 1180
     },
     {
       "id": 307084,
@@ -136,10 +136,10 @@
       "icon": "img/skin/30708/307084/icon.png",
       "qicon": "img/skin/30708/307084/qicon.png",
       "shipyard": "img/skin/30708/307084/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong_5",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/xinnong/xinnong_5",
+      "cost": 1180
     },
     {
       "id": 307085,
@@ -164,10 +164,10 @@
       "icon": "img/skin/30708/307085/icon.png",
       "qicon": "img/skin/30708/307085/qicon.png",
       "shipyard": "img/skin/30708/307085/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/xinnong/xinnong_6",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/xinnong/xinnong_6",
+      "cost": 1100
     }
   ]
 }

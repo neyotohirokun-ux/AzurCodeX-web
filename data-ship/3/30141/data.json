@@ -1,0 +1,153 @@
+{
+  "id": 280,
+  "gid": 30141,
+  "cid": 1,
+  "sid": [
+    301411,
+    301412,
+    301413,
+    301414
+  ],
+  "name": "Mikazuki",
+  "codename": "IJN Mikazuki",
+  "class": "Mutsuki Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 10-1"
+  ],
+  "type": 1,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 240,
+    "firepower": 11,
+    "torpedo": 82,
+    "antiair": 26,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 65,
+    "evasion": 72,
+    "speed": 44.7,
+    "luck": 40,
+    "asw": 45
+  },
+  "growth": {
+    "health": 1523,
+    "firepower": 60,
+    "torpedo": 433,
+    "antiair": 141,
+    "aviation": 0,
+    "reload": 199,
+    "accuracy": 200,
+    "evasion": 250,
+    "speed": 44.7,
+    "luck": 40,
+    "asw": 185
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 81,
+    "reload": 54
+  },
+  "skill": {
+    "2001": {
+      "id": 2001,
+      "parent": 2001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22011": {
+      "id": 22011,
+      "parent": 22011,
+      "upgrade": 22012,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22012": {
+      "id": 22012,
+      "parent": 22011,
+      "upgrade": null,
+      "downgrade": 22011,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

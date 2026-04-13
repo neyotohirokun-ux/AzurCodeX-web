@@ -21,7 +21,7 @@
       "icon": "img/skin/31201/312010/icon.png",
       "qicon": "img/skin/31201/312010/qicon.png",
       "shipyard": "img/skin/31201/312010/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/31201/312011/icon.png",
       "qicon": "img/skin/31201/312011/qicon.png",
       "shipyard": "img/skin/31201/312011/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 312012,
@@ -77,10 +77,10 @@
       "icon": "img/skin/31201/312012/icon.png",
       "qicon": "img/skin/31201/312012/qicon.png",
       "shipyard": "img/skin/31201/312012/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 312013,
@@ -103,7 +103,7 @@
       "icon": "img/skin/31201/312013/icon.png",
       "qicon": "img/skin/31201/312013/qicon.png",
       "shipyard": "img/skin/31201/312013/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi_4",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -129,7 +129,7 @@
       "icon": "img/skin/31201/312014/icon.png",
       "qicon": "img/skin/31201/312014/qicon.png",
       "shipyard": "img/skin/31201/312014/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi_5",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -155,7 +155,7 @@
       "icon": "img/skin/31201/312018/icon.png",
       "qicon": "img/skin/31201/312018/qicon.png",
       "shipyard": "img/skin/31201/312018/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/mingshi/mingshi_h",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101290,
+      "gid": 10129,
+      "name": "Radford",
+      "type": "Default",
+      "desc": "Fletcher-class Destroyer - Radford, Hull Number DD-446!",
+      "tag": [],
+      "illustrator": 26,
+      "illustrator2": -1,
+      "voice_actor": 101,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10129/101290/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10129/101290/banner.png",
+      "chibi": "img/skin/10129/101290/chibi.png",
+      "icon": "img/skin/10129/101290/icon.png",
+      "qicon": "img/skin/10129/101290/qicon.png",
+      "shipyard": "img/skin/10129/101290/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101291,
+      "gid": 10129,
+      "name": "Sweet Magic!",
+      "type": "Halloween",
+      "desc": "Commander, the sweet magic within my tome lets me turn things into candy! Hehe, that sounds pretty convincing— ...Eh, Commander? Wh-when'd you get here?!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 26,
+      "illustrator2": -1,
+      "voice_actor": 101,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/119.png",
+      "background2": null,
+      "painting": "img/skin/10129/101291/painting.png",
+      "painting_n": "img/skin/10129/101291/painting_n.png",
+      "banner": "img/skin/10129/101291/banner.png",
+      "chibi": "img/skin/10129/101291/chibi.png",
+      "icon": "img/skin/10129/101291/icon.png",
+      "qicon": "img/skin/10129/101291/qicon.png",
+      "shipyard": "img/skin/10129/101291/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

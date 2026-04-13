@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301540,
+      "gid": 30154,
+      "name": "Kiyonami",
+      "type": "Default",
+      "desc": "Yuugumo-class destroyer – Kiyonami.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 213,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30154/301540/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30154/301540/banner.png",
+      "chibi": "img/skin/30154/301540/chibi.png",
+      "icon": "img/skin/30154/301540/icon.png",
+      "qicon": "img/skin/30154/301540/qicon.png",
+      "shipyard": "img/skin/30154/301540/shipyard.png",
+      "spine_chibi": "spine/chibi/qingbo/qingbo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301541,
+      "gid": 30154,
+      "name": "Festive Riding Hood?",
+      "type": "Christmas",
+      "desc": "S-sorry to keep you waiting... Yuugure and I picked out this outfit together. She said it \"looked very Christmassy,\" but it doesn't look weird, right? ... Ugh...",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 213,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/125.png",
+      "background2": null,
+      "painting": "img/skin/30154/301541/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30154/301541/banner.png",
+      "chibi": "img/skin/30154/301541/chibi.png",
+      "icon": "img/skin/30154/301541/icon.png",
+      "qicon": "img/skin/30154/301541/qicon.png",
+      "shipyard": "img/skin/30154/301541/shipyard.png",
+      "spine_chibi": "spine/chibi/qingbo/qingbo_3",
+      "spine": null,
+      "live2d": null,
+      "cost": 800
+    }
+  ]
+}

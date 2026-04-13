@@ -21,7 +21,7 @@
       "icon": "img/skin/40203/402030/icon.png",
       "qicon": "img/skin/40203/402030/qicon.png",
       "shipyard": "img/skin/40203/402030/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kelong/kelong",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,7 +47,7 @@
       "icon": "img/skin/40203/402039/icon.png",
       "qicon": "img/skin/40203/402039/qicon.png",
       "shipyard": "img/skin/40203/402039/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/kelong/kelong_g",
       "spine": null,
       "live2d": null,
       "cost": null
