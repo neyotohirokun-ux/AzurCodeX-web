@@ -1,0 +1,192 @@
+{
+  "id": 493,
+  "gid": 50204,
+  "cid": 1,
+  "sid": [
+    502041,
+    502042,
+    502043,
+    502044
+  ],
+  "name": "Ying Swei",
+  "codename": "Ying Swei",
+  "class": "Chao Ho Class ",
+  "nationality": 5,
+  "obtain": [
+    "Event: Lunar New Year",
+    "Guild Shop",
+    "Requisition (random chance)"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "C",
+    "E",
+    "C",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 502044,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 55,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "evasion": 35
+    },
+    "skill": 49312,
+    "skin": 502049,
+    "armor": 2,
+    "hexagon": [
+      "B",
+      "C",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "3": {
+      "default": 105,
+      "slot": 3,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 426,
+    "firepower": 13,
+    "torpedo": 43,
+    "antiair": 24,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 53,
+    "evasion": 24,
+    "speed": 20,
+    "luck": 20,
+    "asw": 17
+  },
+  "growth": {
+    "health": 2499,
+    "firepower": 71,
+    "torpedo": 235,
+    "antiair": 133,
+    "aviation": 0,
+    "reload": 141,
+    "accuracy": 159,
+    "evasion": 83,
+    "speed": 20,
+    "luck": 20,
+    "asw": 73
+  },
+  "enhance": {
+    "firepower": 13,
+    "torpedo": 42,
+    "reload": 38
+  },
+  "skill": {
+    "14070": {
+      "id": 14070,
+      "parent": 14070,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14080": {
+      "id": 14080,
+      "parent": 14080,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "24131": {
+      "id": 24131,
+      "parent": 24131,
+      "upgrade": 24132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24132": {
+      "id": 24132,
+      "parent": 24131,
+      "upgrade": null,
+      "downgrade": 24131,
+      "requirement": "Limit Break 3"
+    },
+    "152130": {
+      "id": 152130,
+      "parent": 152130,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

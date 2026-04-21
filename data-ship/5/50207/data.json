@@ -1,0 +1,159 @@
+{
+  "id": 531,
+  "gid": 50207,
+  "cid": 1,
+  "sid": [
+    502071,
+    502072,
+    502073,
+    502074
+  ],
+  "name": "Hai Tien",
+  "codename": "Hai Tien",
+  "class": "Hai Tien-class",
+  "nationality": 5,
+  "obtain": [
+    "Event: World Within the Painting"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "C",
+    "D",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "Secondary gun efficiency +5%"
+    ],
+    [
+      "Auxiliary gun base +1",
+      "Secondary gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Secondary gun efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 448,
+      "slot": 3,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 522,
+    "firepower": 19,
+    "torpedo": 47,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 54,
+    "evasion": 26,
+    "speed": 24,
+    "luck": 31,
+    "asw": 19
+  },
+  "growth": {
+    "health": 3065,
+    "firepower": 102,
+    "torpedo": 259,
+    "antiair": 165,
+    "aviation": 0,
+    "reload": 152,
+    "accuracy": 162,
+    "evasion": 89,
+    "speed": 24,
+    "luck": 31,
+    "asw": 80
+  },
+  "enhance": {
+    "firepower": 18,
+    "torpedo": 47,
+    "reload": 41
+  },
+  "skill": {
+    "15110": {
+      "id": 15110,
+      "parent": 15110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15120": {
+      "id": 15120,
+      "parent": 15120,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "24141": {
+      "id": 24141,
+      "parent": 24141,
+      "upgrade": 24142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24142": {
+      "id": 24142,
+      "parent": 24141,
+      "upgrade": null,
+      "downgrade": 24141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

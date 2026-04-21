@@ -1,0 +1,155 @@
+{
+  "id": 328,
+  "gid": 20217,
+  "cid": 1,
+  "sid": [
+    202171,
+    202172,
+    202173,
+    202174
+  ],
+  "name": "Jamaica",
+  "codename": "HMS Jamaica",
+  "class": "Fiji Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Guild Shop",
+    "Requisition (random chance)"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 625,
+    "firepower": 29,
+    "torpedo": 50,
+    "antiair": 62,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 58,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 67,
+    "asw": 30
+  },
+  "growth": {
+    "health": 3721,
+    "firepower": 160,
+    "torpedo": 272,
+    "antiair": 336,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 175,
+    "evasion": 119,
+    "speed": 32,
+    "luck": 670,
+    "asw": 125
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 49,
+    "reload": 50
+  },
+  "skill": {
+    "11170": {
+      "id": 11170,
+      "parent": 11170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21161": {
+      "id": 21161,
+      "parent": 21161,
+      "upgrade": 21162,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21162": {
+      "id": 21162,
+      "parent": 21161,
+      "upgrade": null,
+      "downgrade": 21161,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

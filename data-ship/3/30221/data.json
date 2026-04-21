@@ -1,0 +1,163 @@
+{
+  "id": 322,
+  "gid": 30221,
+  "cid": 1,
+  "sid": [
+    302211,
+    302212,
+    302213,
+    302214
+  ],
+  "name": "Noshiro",
+  "codename": "IJN Noshiro",
+  "class": "Agano Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Swirling Cherry Blossoms",
+    "Merit Shop"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "A",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [
+    30224
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 560,
+    "firepower": 32,
+    "torpedo": 70,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 59,
+    "evasion": 29,
+    "speed": 35.56,
+    "luck": 55,
+    "asw": 23
+  },
+  "growth": {
+    "health": 3354,
+    "firepower": 177,
+    "torpedo": 378,
+    "antiair": 341,
+    "aviation": 0,
+    "reload": 183,
+    "accuracy": 176,
+    "evasion": 123,
+    "speed": 35.56,
+    "luck": 55,
+    "asw": 99
+  },
+  "enhance": {
+    "firepower": 32,
+    "torpedo": 70,
+    "reload": 50
+  },
+  "skill": {
+    "12830": {
+      "id": 12830,
+      "parent": 12830,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12840": {
+      "id": 12840,
+      "parent": 12840,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29481": {
+      "id": 29481,
+      "parent": 29481,
+      "upgrade": 29482,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29482": {
+      "id": 29482,
+      "parent": 29481,
+      "upgrade": null,
+      "downgrade": 29481,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

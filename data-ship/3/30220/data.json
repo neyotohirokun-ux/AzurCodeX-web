@@ -1,0 +1,160 @@
+{
+  "id": 321,
+  "gid": 30220,
+  "cid": 1,
+  "sid": [
+    302201,
+    302202,
+    302203,
+    302204
+  ],
+  "name": "Agano",
+  "codename": "IJN Agano",
+  "class": "Agano Class",
+  "nationality": 3,
+  "obtain": [
+    "Exploring Stage 11-2"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 540,
+    "firepower": 27,
+    "torpedo": 66,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 51,
+    "evasion": 29,
+    "speed": 35.6,
+    "luck": 21,
+    "asw": 19
+  },
+  "growth": {
+    "health": 3233,
+    "firepower": 150,
+    "torpedo": 358,
+    "antiair": 330,
+    "aviation": 0,
+    "reload": 171,
+    "accuracy": 152,
+    "evasion": 123,
+    "speed": 35.6,
+    "luck": 21,
+    "asw": 80
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 66,
+    "reload": 46
+  },
+  "skill": {
+    "1001": {
+      "id": 1001,
+      "parent": 1001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "5021": {
+      "id": 5021,
+      "parent": 5021,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22151": {
+      "id": 22151,
+      "parent": 22151,
+      "upgrade": 22152,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22152": {
+      "id": 22152,
+      "parent": 22151,
+      "upgrade": null,
+      "downgrade": 22151,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -21,7 +21,7 @@
       "icon": "img/skin/10211/102110/icon.png",
       "qicon": "img/skin/10211/102110/qicon.png",
       "shipyard": "img/skin/10211/102110/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/lishiman/lishiman",
       "spine": null,
       "live2d": null,
       "cost": null

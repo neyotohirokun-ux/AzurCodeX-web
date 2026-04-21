@@ -1,0 +1,158 @@
+{
+  "id": 330,
+  "gid": 10215,
+  "cid": 1,
+  "sid": [
+    102151,
+    102152,
+    102153,
+    102154
+  ],
+  "name": "Denver",
+  "codename": "USS Denver",
+  "class": "Cleveland Class",
+  "nationality": 1,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 751,
+    "firepower": 29,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 55,
+    "evasion": 30,
+    "speed": 32.5,
+    "luck": 69,
+    "asw": 24
+  },
+  "growth": {
+    "health": 4406,
+    "firepower": 159,
+    "torpedo": 0,
+    "antiair": 328,
+    "aviation": 0,
+    "reload": 188,
+    "accuracy": 165,
+    "evasion": 109,
+    "speed": 32.5,
+    "luck": 69,
+    "asw": 102
+  },
+  "enhance": {
+    "firepower": 29,
+    "reload": 51
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "4091": {
+      "id": 4091,
+      "parent": 4091,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20141": {
+      "id": 20141,
+      "parent": 20141,
+      "upgrade": 20142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20142": {
+      "id": 20142,
+      "parent": 20141,
+      "upgrade": null,
+      "downgrade": 20141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": 309,
+  "gid": 30213,
+  "cid": 1,
+  "sid": [
+    302131,
+    302132,
+    302133,
+    302134
+  ],
+  "name": "Jintsuu",
+  "codename": "IJN Jintsū",
+  "class": "Sendai Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 10-4"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 302134,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_2": 0.15,
+      "torpedo": 65,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 20,
+      "antiair": 15
+    },
+    "skill": 30912,
+    "skin": 302139,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "A",
+      "E",
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 447,
+    "firepower": 29,
+    "torpedo": 65,
+    "antiair": 53,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 52,
+    "evasion": 29,
+    "speed": 35.3,
+    "luck": 38,
+    "asw": 24
+  },
+  "growth": {
+    "health": 2676,
+    "firepower": 158,
+    "torpedo": 341,
+    "antiair": 291,
+    "aviation": 0,
+    "reload": 194,
+    "accuracy": 156,
+    "evasion": 128,
+    "speed": 35.3,
+    "luck": 38,
+    "asw": 101
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 65,
+    "reload": 53
+  },
+  "skill": {
+    "10870": {
+      "id": 10870,
+      "parent": 10870,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22131": {
+      "id": 22131,
+      "parent": 22131,
+      "upgrade": 22132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22132": {
+      "id": 22132,
+      "parent": 22131,
+      "upgrade": null,
+      "downgrade": 22131,
+      "requirement": "Limit Break 3"
+    },
+    "30912": {
+      "id": 30912,
+      "parent": 30912,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

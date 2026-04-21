@@ -1,0 +1,179 @@
+{
+  "id": 579,
+  "gid": 50602,
+  "cid": 1,
+  "sid": [
+    506021,
+    506022,
+    506023,
+    506024,
+    506124
+  ],
+  "name": "Hwah Jah",
+  "codename": "Hwah Jah",
+  "class": "Hwah Jah",
+  "nationality": 5,
+  "obtain": [
+    "Event: Winter Pathfinder",
+    "Special Construction"
+  ],
+  "type": 6,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Seaplanes +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Seaplanes +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "Aircraft efficiency +10%"
+    ]
+  ],
+  "retrofit": {
+    "id": 506124,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 20,
+      "equipment_proficiency_3": 0.2,
+      "antiair": 50,
+      "aviation": 60
+    },
+    "skill": 57912,
+    "skin": 506029,
+    "armor": 2,
+    "hexagon": [
+      "D",
+      "E",
+      "A",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 152,
+      "slot": 1,
+      "type": [
+        7,
+        12
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 152,
+      "slot": 2,
+      "type": [
+        7,
+        8,
+        9,
+        12
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 802,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 27,
+    "aviation": 62,
+    "reload": 64,
+    "accuracy": 28,
+    "evasion": 13,
+    "speed": 12,
+    "luck": 53,
+    "asw": 0
+  },
+  "growth": {
+    "health": 4965,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 148,
+    "aviation": 335,
+    "reload": 177,
+    "accuracy": 89,
+    "evasion": 53,
+    "speed": 12,
+    "luck": 53,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 61,
+    "reload": 48
+  },
+  "skill": {
+    "16360": {
+      "id": 16360,
+      "parent": 16360,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16370": {
+      "id": 16370,
+      "parent": 16370,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150850": {
+      "id": 150850,
+      "parent": 150850,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

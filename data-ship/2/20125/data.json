@@ -1,0 +1,155 @@
+{
+  "id": 307,
+  "gid": 20125,
+  "cid": 1,
+  "sid": [
+    201251,
+    201252,
+    201253,
+    201254
+  ],
+  "name": "Jersey",
+  "codename": "HMS Jersey",
+  "class": "J Class",
+  "nationality": 2,
+  "obtain": [
+    "Monthly Sign-in",
+    "Light ship Construction",
+    "Guild Shop"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "B",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 108,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 248,
+    "firepower": 14,
+    "torpedo": 69,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 71,
+    "evasion": 78,
+    "speed": 43.2,
+    "luck": 20,
+    "asw": 52
+  },
+  "growth": {
+    "health": 1573,
+    "firepower": 77,
+    "torpedo": 369,
+    "antiair": 159,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 218,
+    "evasion": 270,
+    "speed": 43.2,
+    "luck": 20,
+    "asw": 213
+  },
+  "enhance": {
+    "firepower": 14,
+    "torpedo": 68,
+    "reload": 55
+  },
+  "skill": {
+    "10850": {
+      "id": 10850,
+      "parent": 10850,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21071": {
+      "id": 21071,
+      "parent": 21071,
+      "upgrade": 21072,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21072": {
+      "id": 21072,
+      "parent": 21071,
+      "upgrade": null,
+      "downgrade": 21071,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

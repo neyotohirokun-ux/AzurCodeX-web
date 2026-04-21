@@ -10,7 +10,7 @@
     "Long Island |Bring on the Red Envelopes! | Chibi",
     "Ajax |Party Queen | WB",
     "London |The Sterling Secretary | Dynamic",
-    "Prince of Wales |Prince of Wales: A Knight's Song, a Lady's Night | WB, WTB (Both Censored) ",
+    "Prince of Wales |A Knight's Song, a Lady's Night | WB, WTB (Censored) ",
     "Illustrious |Sweet Afternoon Tea Time | WB(Wrong Image), WTB(Censored)",
     "Formidable |The Lover's Heart Flutters On Duty | Live2d ",
     "Fubuki |Stormy Waitress-in-Training | WB",
@@ -28,6 +28,9 @@
     "Fumuzuki |Default | WB(stretch issue)",
     "Nagatsuki |Dangerous Kitty Maid? | Chibi(region attachment issue)",
     "Yamakaze |Default |WB, WTB | Now for a Magic Trick! | WB, WTB",
+    "Noshiro |Unwinding in the Sunshine | Live2d(missing)",
+    "Ying Swei |Retrofit | chibi(missing), Blue Waves, Limpid Summer | Dynamic(missing)",
+    "Chao Ho |Retrofit | chibi(missing)",
 
 
     "Chibi, Dynamic, or Live2d that is already in assets",
@@ -35,7 +38,7 @@
 
 
     "Addons hx are censored versions | censored feature will be added later for system build2. Additionally same goes with CN, TW, JP versions",
-    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze",
+    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze, St.Louis, Chao Ho, Chen Hai, Hwah Jah",
 
 
     "Some chibi such as alter, ghost, young and µ(idol) are already added on said shipgirl",
@@ -44,11 +47,13 @@
     "Ship thats has Original art chibi, special skin or extra",
     "Colorado, Maryland, West Virginia, Rodney, Yuudachi, An Shan",
 
+    "Chibi added: huobi",
+
 
     "Skipped Reason: Pinyin cannot be found thus update is stopped",
     "Hardy, Juno, Kako, Kinugasa",
 
 
-    " Radford - St.Louis | Mixed Nations | needs to adjust the data, skin/price, animations(spine and live2d)",
-    "Target: Radford -  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
+    " Asashio - Arashio | Mixed Nations | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Asashio - Arashio  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
 ]

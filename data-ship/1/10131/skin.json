@@ -21,7 +21,7 @@
       "icon": "img/skin/10131/101310/icon.png",
       "qicon": "img/skin/10131/101310/qicon.png",
       "shipyard": "img/skin/10131/101310/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -47,10 +47,10 @@
       "icon": "img/skin/10131/101311/icon.png",
       "qicon": "img/skin/10131/101311/qicon.png",
       "shipyard": "img/skin/10131/101311/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 700
     },
     {
       "id": 101312,
@@ -75,10 +75,10 @@
       "icon": "img/skin/10131/101312/icon.png",
       "qicon": "img/skin/10131/101312/qicon.png",
       "shipyard": "img/skin/10131/101312/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi_3",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 101313,
@@ -103,10 +103,10 @@
       "icon": "img/skin/10131/101313/icon.png",
       "qicon": "img/skin/10131/101313/qicon.png",
       "shipyard": "img/skin/10131/101313/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 101314,
@@ -131,10 +131,10 @@
       "icon": "img/skin/10131/101314/icon.png",
       "qicon": "img/skin/10131/101314/qicon.png",
       "shipyard": "img/skin/10131/101314/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi_5",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 101319,
@@ -157,7 +157,7 @@
       "icon": "img/skin/10131/101319/icon.png",
       "qicon": "img/skin/10131/101319/qicon.png",
       "shipyard": "img/skin/10131/101319/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/nigulasi/nigulasi_g",
       "spine": null,
       "live2d": null,
       "cost": null

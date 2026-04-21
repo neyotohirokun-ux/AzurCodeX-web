@@ -991,5 +991,87 @@
         }
       ]
     }
+  },
+  "nengdai": {
+    "9": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.95},
+        "scale": 1.6
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/nengdai/nengdai_9/nengdai_9.atlas",
+          "skel": "ship/nengdai/nengdai_9/nengdai_9.skel",
+          "images": [
+            "ship/nengdai/nengdai_9/nengdai_9.png"
+          ]
+        }
+      ]
+    }
+  },
+  "zhaohe": {
+    "4": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 1},
+        "scale": 1.4
+      },
+      "layers": [
+        {
+          "name": "default",
+          "atlas": "ship/zhaohe/zhaohe_4/zhaohe_4.atlas",
+          "skel": "ship/zhaohe/zhaohe_4/zhaohe_4.skel",
+          "images": [
+            "ship/zhaohe/zhaohe_4/zhaohe_4.png"
+          ]
+        }
+      ]
+    }
+  },
+  "huajia": {
+    "2": {
+      "config": {
+        "pivot": { "x": 0.5, "y": 0.8},
+        "scale": 1.2
+      },
+      "layers": [
+        {
+          "name": "base",
+          "scale": 0.6,
+          "atlas": "ship/huajia/huajia_2/huajia_2B.atlas",
+          "skel": "ship/huajia/huajia_2/huajia_2B.skel",
+          "images": [
+            "ship/huajia/huajia_2/huajia_2B.png"
+          ]
+        },
+        {
+          "name": "middle",
+          "scale": 0.6,
+          "atlas": "ship/huajia/huajia_2/huajia_2M.atlas",
+          "skel": "ship/huajia/huajia_2/huajia_2M.skel",
+          "images": [
+            "ship/huajia/huajia_2/huajia_2M.png"
+          ]
+        },
+        {
+          "name": "middle",
+          "scale": 0.6,
+          "atlas": "ship/huajia/huajia_2/huajia_2M.atlas",
+          "skel": "ship/huajia/huajia_2/huajia_2M.skel",
+          "images": [
+            "ship/huajia/huajia_2/huajia_2M.png"
+          ]
+        },
+        {
+          "name": "top",
+          "scale": 0.6,
+          "atlas": "ship/huajia/huajia_2/huajia_2T.atlas",
+          "skel": "ship/huajia/huajia_2/huajia_2T.skel",
+          "images": [
+            "ship/huajia/huajia_2/huajia_2T.png"
+          ]
+        }
+      ]
+    }
   }
 }

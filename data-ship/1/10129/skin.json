@@ -21,7 +21,7 @@
       "icon": "img/skin/10129/101290/icon.png",
       "qicon": "img/skin/10129/101290/qicon.png",
       "shipyard": "img/skin/10129/101290/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ladefute/ladefute",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,7 +49,7 @@
       "icon": "img/skin/10129/101291/icon.png",
       "qicon": "img/skin/10129/101291/qicon.png",
       "shipyard": "img/skin/10129/101291/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/ladefute/ladefute_3",
       "spine": null,
       "live2d": null,
       "cost": null

@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 201270,
+      "gid": 20127,
+      "name": "Musketeer",
+      "type": "Default",
+      "desc": "M-class destroyer – Musketeer (G86.)",
+      "tag": [],
+      "illustrator": 40,
+      "illustrator2": -1,
+      "voice_actor": 92,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20127/201270/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20127/201270/banner.png",
+      "chibi": "img/skin/20127/201270/chibi.png",
+      "icon": "img/skin/20127/201270/icon.png",
+      "qicon": "img/skin/20127/201270/qicon.png",
+      "shipyard": "img/skin/20127/201270/shipyard.png",
+      "spine_chibi": "spine/chibi/huoqiangshou/huoqiangshou",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

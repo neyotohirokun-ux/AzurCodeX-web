@@ -1,0 +1,145 @@
+{
+  "id": 320,
+  "gid": 30511,
+  "cid": 1,
+  "sid": [
+    305111,
+    305112,
+    305113,
+    305114
+  ],
+  "name": "Mikasa",
+  "codename": "IJN Mikasa",
+  "class": "Mikasa Class",
+  "nationality": 3,
+  "obtain": [
+    "The War God's Return",
+    "Requisition (random chance)",
+    "Medal Shop (when listed)"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 884,
+    "firepower": 63,
+    "torpedo": 0,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 22,
+    "evasion": 3,
+    "speed": 18,
+    "luck": 95,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5501,
+    "firepower": 339,
+    "torpedo": 0,
+    "antiair": 176,
+    "aviation": 0,
+    "reload": 166,
+    "accuracy": 74,
+    "evasion": 26,
+    "speed": 18,
+    "luck": 95,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 62,
+    "reload": 45
+  },
+  "skill": {
+    "10910": {
+      "id": 10910,
+      "parent": 10910,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10920": {
+      "id": 10920,
+      "parent": 10920,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

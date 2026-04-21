@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 201260,
+      "gid": 20126,
+      "name": "Matchless",
+      "type": "Default",
+      "desc": "M-class destroyer – Matchless (G52.)",
+      "tag": [],
+      "illustrator": 40,
+      "illustrator2": -1,
+      "voice_actor": 92,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20126/201260/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20126/201260/banner.png",
+      "chibi": "img/skin/20126/201260/chibi.png",
+      "icon": "img/skin/20126/201260/icon.png",
+      "qicon": "img/skin/20126/201260/qicon.png",
+      "shipyard": "img/skin/20126/201260/shipyard.png",
+      "spine_chibi": "spine/chibi/wudi/wudi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 201261,
+      "gid": 20126,
+      "name": "Escort Me Please!",
+      "type": "Casual",
+      "desc": "Ah, Commander, over here! Hm, you're going to take care of all the plans for today's date? In that case, I look forward to seeing just how suave you can be! Hehe~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 40,
+      "illustrator2": -1,
+      "voice_actor": 92,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/113.png",
+      "background2": null,
+      "painting": "img/skin/20126/201261/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20126/201261/banner.png",
+      "chibi": "img/skin/20126/201261/chibi.png",
+      "icon": "img/skin/20126/201261/icon.png",
+      "qicon": "img/skin/20126/201261/qicon.png",
+      "shipyard": "img/skin/20126/201261/shipyard.png",
+      "spine_chibi": "spine/chibi/wudi/wudi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

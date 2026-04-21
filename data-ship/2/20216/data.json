@@ -1,0 +1,154 @@
+{
+  "id": 327,
+  "gid": 20216,
+  "cid": 1,
+  "sid": [
+    202161,
+    202162,
+    202163,
+    202164
+  ],
+  "name": "Fiji",
+  "codename": "HMS Fiji",
+  "class": "Fiji Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Core Data Shop"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 617,
+    "firepower": 29,
+    "torpedo": 50,
+    "antiair": 48,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 59,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 11,
+    "asw": 28
+  },
+  "growth": {
+    "health": 3670,
+    "firepower": 161,
+    "torpedo": 272,
+    "antiair": 261,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 176,
+    "evasion": 119,
+    "speed": 32,
+    "luck": 11,
+    "asw": 119
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 49,
+    "reload": 50
+  },
+  "skill": {
+    "11160": {
+      "id": 11160,
+      "parent": 11160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21161": {
+      "id": 21161,
+      "parent": 21161,
+      "upgrade": 21162,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21162": {
+      "id": 21162,
+      "parent": 21161,
+      "upgrade": null,
+      "downgrade": 21161,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

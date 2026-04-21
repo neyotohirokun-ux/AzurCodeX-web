@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 302140,
+      "gid": 30214,
+      "name": "Naka",
+      "type": "Default",
+      "desc": "Sendai-class light cruiser number three – Naka.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 167,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30214/302140/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30214/302140/banner.png",
+      "chibi": "img/skin/30214/302140/chibi.png",
+      "icon": "img/skin/30214/302140/icon.png",
+      "qicon": "img/skin/30214/302140/qicon.png",
+      "shipyard": "img/skin/30214/302140/shipyard.png",
+      "spine_chibi": "spine/chibi/nake/nake",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 302141,
+      "gid": 30214,
+      "name": "Foxy Summer Surfer",
+      "type": "Swimsuits",
+      "desc": "Ahaha! Another big one's coming~! Phew~ that felt amazing~! Ah, Commander, let's hit the waves together, shall we?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 167,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/30214/302141/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30214/302141/banner.png",
+      "chibi": "img/skin/30214/302141/chibi.png",
+      "icon": "img/skin/30214/302141/icon.png",
+      "qicon": "img/skin/30214/302141/qicon.png",
+      "shipyard": "img/skin/30214/302141/shipyard.png",
+      "spine_chibi": "spine/chibi/nake/nake_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

@@ -110,17 +110,17 @@
     "asw": 51
   },
   "growth": {
-    "health": 9549,
-    "firepower": 219,
-    "torpedo": 711,
-    "antiair": 704,
+    "health": 2130,
+    "firepower": 87,
+    "torpedo": 287,
+    "antiair": 176,
     "aviation": 0,
-    "reload": 513,
-    "accuracy": 1112,
-    "evasion": 1110,
-    "speed": 0,
-    "luck": 0,
-    "asw": 577
+    "reload": 204,
+    "accuracy": 222,
+    "evasion": 209,
+    "speed": 43.2,
+    "luck": 81,
+    "asw": 209
   },
   "enhance": {
     "firepower": 16,

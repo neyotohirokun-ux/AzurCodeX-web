@@ -21,7 +21,7 @@
       "icon": "img/skin/10212/102120/icon.png",
       "qicon": "img/skin/10212/102120/qicon.png",
       "shipyard": "img/skin/10212/102120/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/huonululu/huonululu",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -49,10 +49,10 @@
       "icon": "img/skin/10212/102121/icon.png",
       "qicon": "img/skin/10212/102121/qicon.png",
       "shipyard": "img/skin/10212/102121/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/huonululu/huonululu_2",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 880
     },
     {
       "id": 102122,
@@ -78,10 +78,10 @@
       "icon": "img/skin/10212/102122/icon.png",
       "qicon": "img/skin/10212/102122/qicon.png",
       "shipyard": "img/skin/10212/102122/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/huonululu/huonululu_3",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/huonululu/huonululu_3",
+      "cost": 1080
     },
     {
       "id": 102123,
@@ -106,10 +106,10 @@
       "icon": "img/skin/10212/102123/icon.png",
       "qicon": "img/skin/10212/102123/qicon.png",
       "shipyard": "img/skin/10212/102123/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/huonululu/huonululu_4",
       "spine": null,
       "live2d": null,
-      "cost": null
+      "cost": 780
     },
     {
       "id": 102124,
@@ -135,10 +135,10 @@
       "icon": "img/skin/10212/102124/icon.png",
       "qicon": "img/skin/10212/102124/qicon.png",
       "shipyard": "img/skin/10212/102124/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/huonululu/huonululu_5",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/huonululu/huonululu_5",
+      "cost": 1080
     }
   ]
 }

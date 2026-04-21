@@ -21,7 +21,7 @@
       "icon": "img/skin/10213/102130/icon.png",
       "qicon": "img/skin/10213/102130/qicon.png",
       "shipyard": "img/skin/10213/102130/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengluyisi/shengluyisi",
       "spine": null,
       "live2d": null,
       "cost": null
@@ -50,10 +50,10 @@
       "icon": "img/skin/10213/102131/icon.png",
       "qicon": "img/skin/10213/102131/qicon.png",
       "shipyard": "img/skin/10213/102131/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengluyisi/shengluyisi_2",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/shengluyisi/shengluyisi_2",
+      "cost": 880
     },
     {
       "id": 102132,
@@ -79,10 +79,10 @@
       "icon": "img/skin/10213/102132/icon.png",
       "qicon": "img/skin/10213/102132/qicon.png",
       "shipyard": "img/skin/10213/102132/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengluyisi/shengluyisi_3",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/shengluyisi/shengluyisi_3",
+      "cost": 1080
     },
     {
       "id": 102133,
@@ -108,10 +108,10 @@
       "icon": "img/skin/10213/102133/icon.png",
       "qicon": "img/skin/10213/102133/qicon.png",
       "shipyard": "img/skin/10213/102133/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengluyisi/shengluyisi_4",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/shengluyisi/shengluyisi_4",
+      "cost": 1080
     },
     {
       "id": 102134,
@@ -137,10 +137,10 @@
       "icon": "img/skin/10213/102134/icon.png",
       "qicon": "img/skin/10213/102134/qicon.png",
       "shipyard": "img/skin/10213/102134/shipyard.png",
-      "spine_chibi": null,
+      "spine_chibi": "spine/chibi/shengluyisi/shengluyisi_5",
       "spine": null,
-      "live2d": null,
-      "cost": null
+      "live2d": "live2d/shengluyisi/shengluyisi_5",
+      "cost": 1080
     }
   ]
 }
