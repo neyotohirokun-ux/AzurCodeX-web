@@ -9,7 +9,7 @@
     "Saratoga |Silent Night Songstress | WB, WTB",
     "Long Island |Bring on the Red Envelopes! | Chibi",
     "Ajax |Party Queen | WB",
-    "London |The Sterling Secretary | Dynamic",
+    "London |The Sterling Secretary | Dynamic(Broken Display)",
     "Prince of Wales |A Knight's Song, a Lady's Night | WB, WTB (Censored) ",
     "Illustrious |Sweet Afternoon Tea Time | WB(Wrong Image), WTB(Censored)",
     "Formidable |The Lover's Heart Flutters On Duty | Live2d ",
@@ -31,6 +31,13 @@
     "Noshiro |Unwinding in the Sunshine | Live2d(missing)",
     "Ying Swei |Retrofit | chibi(missing), Blue Waves, Limpid Summer | Dynamic(missing)",
     "Chao Ho |Retrofit | chibi(missing)",
+    "Huan Ch'ang |Dnace Beneath the Moonlight |Dynamic(must fix the scale)",
+    "Hu Pen |Prancing Tiger Welcomes the Spring |Dynamic(must fix the scale)",
+    "Fei yuan |Lady Yuen's Sugary Artillery | Chibi(missing)",
+    "Chien Wu |All-Nighter Masterpiece | Chibi(wrong chibi)",
+    "Forbin |Fleur de Mariée (wEDDING) | WB,WTB",
+    "Guichen |Milk and Kisses | Dynamic(broken display)",
+    "Surcouf |Shopping Time! | WB",
 
 
     "Chibi, Dynamic, or Live2d that is already in assets",
@@ -38,7 +45,7 @@
 
 
     "Addons hx are censored versions | censored feature will be added later for system build2. Additionally same goes with CN, TW, JP versions",
-    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze, St.Louis, Chao Ho, Chen Hai, Hwah Jah",
+    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze, St.Louis, Chao Ho, Chen Hai, Hwah Jah, Ting An, Hai Yung, Émile Bertin, Duguay-Trouin, Masséna, Alsace, Painlevé, Surcouf",
 
 
     "Some chibi such as alter, ghost, young and µ(idol) are already added on said shipgirl",
@@ -51,9 +58,12 @@
 
 
     "Skipped Reason: Pinyin cannot be found thus update is stopped",
-    "Hardy, Juno, Kako, Kinugasa",
+    "Hardy, Juno, Kako, Kinugasa, Chang Wu and Hai Chou",
 
 
-    " Asashio - Arashio | Mixed Nations | needs to adjust the data, skin/price, animations(spine and live2d)",
-    "Target: Asashio - Arashio  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
+    " Asashio - Arashio | Sakura Empire | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Asashio - Arashio  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data",
+
+    " Grozny - Bogatyr | Northern Parliament | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Grozny - Bogatyr  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
 ]

@@ -1,0 +1,160 @@
+{
+  "id": 701,
+  "gid": 80105,
+  "cid": 1,
+  "sid": [
+    801051,
+    801052,
+    801053,
+    801054
+  ],
+  "name": "Le Hardi",
+  "codename": "FFNF LeHardi",
+  "class": "L'Intrépide Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Secrets of the Abyss"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "B",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 312,
+    "firepower": 23,
+    "torpedo": 76,
+    "antiair": 34,
+    "aviation": 0,
+    "reload": 78,
+    "accuracy": 73,
+    "evasion": 78,
+    "speed": 42,
+    "luck": 57,
+    "asw": 49
+  },
+  "growth": {
+    "health": 1981,
+    "firepower": 128,
+    "torpedo": 403,
+    "antiair": 189,
+    "aviation": 0,
+    "reload": 215,
+    "accuracy": 224,
+    "evasion": 279,
+    "speed": 42,
+    "luck": 57,
+    "asw": 203
+  },
+  "enhance": {
+    "firepower": 23,
+    "torpedo": 75,
+    "reload": 58
+  },
+  "skill": {
+    "30511": {
+      "id": 30511,
+      "parent": 30511,
+      "upgrade": 30512,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30512": {
+      "id": 30512,
+      "parent": 30511,
+      "upgrade": null,
+      "downgrade": 30511,
+      "requirement": "Limit Break 3"
+    },
+    "151490": {
+      "id": 151490,
+      "parent": 151490,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151500": {
+      "id": 151500,
+      "parent": 151500,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

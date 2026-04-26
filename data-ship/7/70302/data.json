@@ -1,0 +1,166 @@
+{
+  "id": 586,
+  "gid": 70302,
+  "cid": 1,
+  "sid": [
+    703021,
+    703022,
+    703023,
+    703024
+  ],
+  "name": "Kursk",
+  "codename": "SN Kursk",
+  "class": "Kursk",
+  "nationality": 7,
+  "obtain": [
+    "Event: Frostfall"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Main gun base +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 840,
+    "firepower": 52,
+    "torpedo": 39,
+    "antiair": 23,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 53,
+    "evasion": 11,
+    "speed": 30.4,
+    "luck": 10,
+    "asw": 0
+  },
+  "growth": {
+    "health": 20490,
+    "firepower": 700,
+    "torpedo": 541,
+    "antiair": 513,
+    "aviation": 0,
+    "reload": 478,
+    "accuracy": 777,
+    "evasion": 429,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 51,
+    "torpedo": 39,
+    "reload": 51
+  },
+  "skill": {
+    "16580": {
+      "id": 16580,
+      "parent": 16580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16590": {
+      "id": 16590,
+      "parent": 16590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16600": {
+      "id": 16600,
+      "parent": 16600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "26311": {
+      "id": 26311,
+      "parent": 26311,
+      "upgrade": 26312,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "26312": {
+      "id": 26312,
+      "parent": 26311,
+      "upgrade": null,
+      "downgrade": 26311,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

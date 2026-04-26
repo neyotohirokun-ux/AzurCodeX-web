@@ -1,0 +1,158 @@
+{
+  "id": 665,
+  "gid": 960008,
+  "cid": 1,
+  "sid": [
+    9600081,
+    9600082,
+    9600083,
+    9600084
+  ],
+  "name": "Fancy",
+  "codename": "MOT Fancy",
+  "class": "Fancy",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Sleeping Sea"
+  ],
+  "type": 23,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "E",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%",
+      "SPD +5"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "SPD +5"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "SPD +5"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 760,
+    "firepower": 46,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 43,
+    "evasion": 11,
+    "speed": 14.4,
+    "luck": 75,
+    "asw": 0
+  },
+  "growth": {
+    "health": 19621,
+    "firepower": 631,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 462,
+    "accuracy": 672,
+    "evasion": 499,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 45,
+    "reload": 50
+  },
+  "skill": {
+    "30361": {
+      "id": 30361,
+      "parent": 30361,
+      "upgrade": 30362,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30362": {
+      "id": 30362,
+      "parent": 30361,
+      "upgrade": null,
+      "downgrade": 30361,
+      "requirement": "Limit Break 3"
+    },
+    "150560": {
+      "id": 150560,
+      "parent": 150560,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150570": {
+      "id": 150570,
+      "parent": 150570,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

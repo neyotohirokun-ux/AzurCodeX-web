@@ -1,0 +1,187 @@
+{
+  "id": 348,
+  "gid": 80102,
+  "cid": 1,
+  "sid": [
+    801021,
+    801022,
+    801023,
+    801024
+  ],
+  "name": "Forbin",
+  "codename": "FFNF Forbin",
+  "class": "L'Adroit Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Iris of Light and Dark",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 801024,
+    "level": 85,
+    "bonus": {
+      "health": 60,
+      "torpedo": 30,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 30,
+      "equipment_proficiency_2": 0.05,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 20,
+      "speed": 3,
+      "asw": 30
+    },
+    "skill": 34810,
+    "skin": 801029,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "A",
+      "E",
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 222,
+    "firepower": 13,
+    "torpedo": 78,
+    "antiair": 26,
+    "aviation": 0,
+    "reload": 71,
+    "accuracy": 68,
+    "evasion": 74,
+    "speed": 39.6,
+    "luck": 69,
+    "asw": 46
+  },
+  "growth": {
+    "health": 1410,
+    "firepower": 70,
+    "torpedo": 415,
+    "antiair": 141,
+    "aviation": 0,
+    "reload": 196,
+    "accuracy": 258,
+    "evasion": 39,
+    "speed": 210,
+    "luck": 69,
+    "asw": 192
+  },
+  "enhance": {
+    "firepower": 13,
+    "torpedo": 77,
+    "reload": 53
+  },
+  "skill": {
+    "5071": {
+      "id": 5071,
+      "parent": 5071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "28011": {
+      "id": 28011,
+      "parent": 28011,
+      "upgrade": 28012,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28012": {
+      "id": 28012,
+      "parent": 28011,
+      "upgrade": null,
+      "downgrade": 28011,
+      "requirement": "Limit Break 3"
+    },
+    "4071": {
+      "id": 4071,
+      "parent": 4071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

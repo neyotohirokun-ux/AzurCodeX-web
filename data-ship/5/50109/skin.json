@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 501090,
+      "gid": 50109,
+      "name": "Fu Po",
+      "type": "Default",
+      "desc": "Chang Feng-class destroyer – Fu Po.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 397,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/50109/501090/painting.png",
+      "painting_n": "img/skin/50109/501090/painting_n.png",
+      "banner": "img/skin/50109/501090/banner.png",
+      "chibi": "img/skin/50109/501090/chibi.png",
+      "icon": "img/skin/50109/501090/icon.png",
+      "qicon": "img/skin/50109/501090/qicon.png",
+      "shipyard": "img/skin/50109/501090/shipyard.png",
+      "spine_chibi": "spine/chibi/fubo/fubo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 501091,
+      "gid": 50109,
+      "name": "Mischievous Tidings",
+      "type": "Empery'S Fineries",
+      "desc": "Oh... Well, shoot, you found me... Shhhhh! Don't tell anyone that I'm here though! Seriously, Commander, I'm begging you!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 397,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/165.png",
+      "background2": null,
+      "painting": "img/skin/50109/501091/painting.png",
+      "painting_n": "img/skin/50109/501091/painting_n.png",
+      "banner": "img/skin/50109/501091/banner.png",
+      "chibi": "img/skin/50109/501091/chibi.png",
+      "icon": "img/skin/50109/501091/icon.png",
+      "qicon": "img/skin/50109/501091/qicon.png",
+      "shipyard": "img/skin/50109/501091/shipyard.png",
+      "spine_chibi": "spine/chibi/fubo/fubo_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

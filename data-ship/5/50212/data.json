@@ -1,0 +1,159 @@
+{
+  "id": 726,
+  "gid": 50212,
+  "cid": 1,
+  "sid": [
+    502121,
+    502122,
+    502123,
+    502124
+  ],
+  "name": "Hai Chou",
+  "codename": "Hai Chou",
+  "class": "Hai Yung Class",
+  "nationality": 5,
+  "obtain": [
+    "Event: Spring Auction Adventure"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "C",
+    "D",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "3": {
+      "default": 105,
+      "slot": 3,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 513,
+    "firepower": 17,
+    "torpedo": 47,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 54,
+    "evasion": 25,
+    "speed": 20.75,
+    "luck": 45,
+    "asw": 18
+  },
+  "growth": {
+    "health": 12716,
+    "firepower": 233,
+    "torpedo": 643,
+    "antiair": 638,
+    "aviation": 0,
+    "reload": 400,
+    "accuracy": 793,
+    "evasion": 451,
+    "speed": 0,
+    "luck": 0,
+    "asw": 226
+  },
+  "enhance": {
+    "firepower": 17,
+    "torpedo": 46,
+    "reload": 43
+  },
+  "skill": {
+    "28241": {
+      "id": 28241,
+      "parent": 28241,
+      "upgrade": 28242,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28242": {
+      "id": 28242,
+      "parent": 28241,
+      "upgrade": null,
+      "downgrade": 28241,
+      "requirement": "Limit Break 3"
+    },
+    "151980": {
+      "id": 151980,
+      "parent": 151980,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151990": {
+      "id": 151990,
+      "parent": 151990,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": 676,
+  "gid": 50108,
+  "cid": 1,
+  "sid": [
+    501081,
+    501082,
+    501083,
+    501084
+  ],
+  "name": "Chang Feng",
+  "codename": "Chang Feng",
+  "class": "Chang Feng Class",
+  "nationality": 5,
+  "obtain": [
+    "Event: Spring Fashion Festa",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "D",
+    "E",
+    "B",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo preload +1",
+      "All weapons' efficiency +5%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 298,
+    "firepower": 19,
+    "torpedo": 40,
+    "antiair": 23,
+    "aviation": 0,
+    "reload": 73,
+    "accuracy": 66,
+    "evasion": 64,
+    "speed": 43.2,
+    "luck": 15,
+    "asw": 30
+  },
+  "growth": {
+    "health": 1749,
+    "firepower": 102,
+    "torpedo": 220,
+    "antiair": 127,
+    "aviation": 0,
+    "reload": 202,
+    "accuracy": 206,
+    "evasion": 227,
+    "speed": 43.2,
+    "luck": 15,
+    "asw": 125
+  },
+  "enhance": {
+    "firepower": 18,
+    "torpedo": 40,
+    "reload": 55
+  },
+  "skill": {
+    "28231": {
+      "id": 28231,
+      "parent": 28231,
+      "upgrade": 28232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28232": {
+      "id": 28232,
+      "parent": 28231,
+      "upgrade": null,
+      "downgrade": 28231,
+      "requirement": "Limit Break 3"
+    },
+    "150790": {
+      "id": 150790,
+      "parent": 150790,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150800": {
+      "id": 150800,
+      "parent": 150800,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

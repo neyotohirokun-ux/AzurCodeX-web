@@ -1,0 +1,159 @@
+{
+  "id": 612,
+  "gid": 960006,
+  "cid": 1,
+  "sid": [
+    9600061,
+    9600062,
+    9600063,
+    9600064
+  ],
+  "name": "Adventure Galley",
+  "codename": "MOT Adventure Galley",
+  "class": "Adventure Galley",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Fountain of Youth",
+    "Merit Shop"
+  ],
+  "type": 23,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "E",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%",
+      "SPD +5"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "SPD +5"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "SPD +5"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 731,
+    "firepower": 41,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 38,
+    "evasion": 9,
+    "speed": 11.2,
+    "luck": 68,
+    "asw": 0
+  },
+  "growth": {
+    "health": 18889,
+    "firepower": 562,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 445,
+    "accuracy": 607,
+    "evasion": 459,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 40,
+    "reload": 48
+  },
+  "skill": {
+    "17260": {
+      "id": 17260,
+      "parent": 17260,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17270": {
+      "id": 17270,
+      "parent": 17270,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30161": {
+      "id": 30161,
+      "parent": 30161,
+      "upgrade": 30162,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30162": {
+      "id": 30162,
+      "parent": 30161,
+      "upgrade": null,
+      "downgrade": 30161,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

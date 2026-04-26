@@ -1,0 +1,193 @@
+{
+  "id": 349,
+  "gid": 80201,
+  "cid": 1,
+  "sid": [
+    802011,
+    802012,
+    802013,
+    802014
+  ],
+  "name": "Émile Bertin",
+  "codename": "FFNF Émile Bertin",
+  "class": "Émile Bertin Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Iris of Light and Dark",
+    "Core Data Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 802014,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 55,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 30,
+      "accuracy": 5,
+      "torpedo": 25
+    },
+    "skill": 34912,
+    "skin": 802019,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "A",
+      "E",
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 548,
+    "firepower": 30,
+    "torpedo": 51,
+    "antiair": 51,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 57,
+    "evasion": 30,
+    "speed": 34,
+    "luck": 67,
+    "asw": 35
+  },
+  "growth": {
+    "health": 3259,
+    "firepower": 163,
+    "torpedo": 277,
+    "antiair": 278,
+    "aviation": 0,
+    "reload": 175,
+    "accuracy": 175,
+    "evasion": 139,
+    "speed": 34,
+    "luck": 67,
+    "asw": 146
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 50,
+    "reload": 47
+  },
+  "skill": {
+    "5061": {
+      "id": 5061,
+      "parent": 5061,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11520": {
+      "id": 11520,
+      "parent": 11520,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "28111": {
+      "id": 28111,
+      "parent": 28111,
+      "upgrade": 28112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28112": {
+      "id": 28112,
+      "parent": 28111,
+      "upgrade": null,
+      "downgrade": 28111,
+      "requirement": "Limit Break 3"
+    },
+    "12360": {
+      "id": 12360,
+      "parent": 12360,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

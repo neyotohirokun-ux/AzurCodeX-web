@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 9600030,
+      "gid": 960003,
+      "name": "Golden Hind",
+      "type": "Default",
+      "desc": "Sailing frigate – Golden Hind.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 384,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960003/9600030/painting.png",
+      "painting_n": "img/skin/960003/9600030/painting_n.png",
+      "banner": "img/skin/960003/9600030/banner.png",
+      "chibi": "img/skin/960003/9600030/chibi.png",
+      "icon": "img/skin/960003/9600030/icon.png",
+      "qicon": "img/skin/960003/9600030/qicon.png",
+      "shipyard": "img/skin/960003/9600030/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600031,
+      "gid": 960003,
+      "name": "Forlorn Femme Fatale",
+      "type": "Halloween",
+      "desc": "How do you feel about this look, my darling? ...Not scary enough? How odd... I thought Mary Celeste had the right idea. Wait, I know~ What if I hold this axe, hmm? ♡",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 384,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/174.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/960003/9600031/painting.png",
+      "painting_n": "img/skin/960003/9600031/painting_n.png",
+      "banner": "img/skin/960003/9600031/banner.png",
+      "chibi": "img/skin/960003/9600031/chibi.png",
+      "icon": "img/skin/960003/9600031/icon.png",
+      "qicon": "img/skin/960003/9600031/qicon.png",
+      "shipyard": "img/skin/960003/9600031/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

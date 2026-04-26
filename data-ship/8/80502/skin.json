@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 805020,
+      "gid": 80502,
+      "name": "Lyon",
+      "type": "Default",
+      "desc": "Lyon-class battleship – Lyon.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 155,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80502/805020/painting.png",
+      "painting_n": "img/skin/80502/805020/painting_n.png",
+      "banner": "img/skin/80502/805020/banner.png",
+      "chibi": "img/skin/80502/805020/chibi.png",
+      "icon": "img/skin/80502/805020/icon.png",
+      "qicon": "img/skin/80502/805020/qicon.png",
+      "shipyard": "img/skin/80502/805020/shipyard.png",
+      "spine_chibi": "spine/chibi/liang/liang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 805021,
+      "gid": 80502,
+      "name": "Paired Exercise",
+      "type": "Sports Time",
+      "desc": "Mmh... Pilates may be easy to learn, but it seems difficult to master... Are you still okay, Commander? Me? I-I can keep going...",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 155,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/109.png",
+      "background2": "img/bgii/1101.png",
+      "painting": "img/skin/80502/805021/painting.png",
+      "painting_n": "img/skin/80502/805021/painting_n.png",
+      "banner": "img/skin/80502/805021/banner.png",
+      "chibi": "img/skin/80502/805021/chibi.png",
+      "icon": "img/skin/80502/805021/icon.png",
+      "qicon": "img/skin/80502/805021/qicon.png",
+      "shipyard": "img/skin/80502/805021/shipyard.png",
+      "spine_chibi": "spine/chibi/liang/liang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

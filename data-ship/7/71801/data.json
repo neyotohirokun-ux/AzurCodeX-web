@@ -1,0 +1,149 @@
+{
+  "id": 539,
+  "gid": 71801,
+  "cid": 1,
+  "sid": [
+    718011,
+    718012,
+    718013,
+    718014
+  ],
+  "name": "Kronshtadt",
+  "codename": "SN Kronshtadt",
+  "class": "Kronshtadt",
+  "nationality": 7,
+  "obtain": [
+    "Event: Abyssal Refrain"
+  ],
+  "type": 18,
+  "rarity": 6,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun efficiency +5%",
+      "Equips special secondary gun"
+    ],
+    [
+      "Main gun base +1",
+      "Secondary Gun efficiency +10%"
+    ],
+    [
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3,
+        11
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1247,
+    "firepower": 54,
+    "torpedo": 0,
+    "antiair": 42,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 43,
+    "evasion": 11,
+    "speed": 24.8,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 31949,
+    "firepower": 729,
+    "torpedo": 0,
+    "antiair": 919,
+    "aviation": 0,
+    "reload": 434,
+    "accuracy": 618,
+    "evasion": 211,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 57,
+    "reload": 47
+  },
+  "skill": {
+    "15290": {
+      "id": 15290,
+      "parent": 15290,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15300": {
+      "id": 15300,
+      "parent": 15300,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15310": {
+      "id": 15310,
+      "parent": 15310,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

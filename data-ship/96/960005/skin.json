@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 9600050,
+      "gid": 960005,
+      "name": "Whydah",
+      "type": "Default",
+      "desc": "Sailing frigate – Whydah.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 386,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960005/9600050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/960005/9600050/banner.png",
+      "chibi": "img/skin/960005/9600050/chibi.png",
+      "icon": "img/skin/960005/9600050/icon.png",
+      "qicon": "img/skin/960005/9600050/qicon.png",
+      "shipyard": "img/skin/960005/9600050/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600051,
+      "gid": 960005,
+      "name": "Lazy Pirate Angel",
+      "type": "Halloween",
+      "desc": "You've summoned the angel of tricks and treats... Huh? Why am I dressed like this? Meh, it's too much of a pain to answer that... In any case, gimme candy or else! Commander, time is of the essence here. The sooner I can go home, the sooner I can continue my gaming session...",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 386,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/174.png",
+      "background2": null,
+      "painting": "img/skin/960005/9600051/painting.png",
+      "painting_n": "img/skin/960005/9600051/painting_n.png",
+      "banner": "img/skin/960005/9600051/banner.png",
+      "chibi": "img/skin/960005/9600051/chibi.png",
+      "icon": "img/skin/960005/9600051/icon.png",
+      "qicon": "img/skin/960005/9600051/qicon.png",
+      "shipyard": "img/skin/960005/9600051/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

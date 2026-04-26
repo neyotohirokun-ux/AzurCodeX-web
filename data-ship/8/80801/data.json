@@ -1,0 +1,158 @@
+{
+  "id": 350,
+  "gid": 80801,
+  "cid": 1,
+  "sid": [
+    808011,
+    808012,
+    808013,
+    808014
+  ],
+  "name": "Surcouf",
+  "codename": "FFNF Surcouf",
+  "class": "Surcouf Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Iris of Light and Dark",
+    "Special Construction"
+  ],
+  "type": 8,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "A",
+    "E",
+    "D",
+    "E",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "3": {
+      "default": 102,
+      "slot": 3,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 454,
+    "firepower": 26,
+    "torpedo": 98,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 28,
+    "accuracy": 57,
+    "evasion": 8,
+    "speed": 14.8,
+    "luck": 60,
+    "asw": 0
+  },
+  "growth": {
+    "health": 2887,
+    "firepower": 141,
+    "torpedo": 515,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 77,
+    "accuracy": 171,
+    "evasion": 23,
+    "speed": 14.8,
+    "luck": 60,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 25,
+    "torpedo": 97,
+    "reload": 21
+  },
+  "skill": {
+    "3521": {
+      "id": 3521,
+      "parent": 3521,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11570": {
+      "id": 11570,
+      "parent": 11570,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29321": {
+      "id": 29321,
+      "parent": 29321,
+      "upgrade": 29322,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29322": {
+      "id": 29322,
+      "parent": 29321,
+      "upgrade": null,
+      "downgrade": 29321,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

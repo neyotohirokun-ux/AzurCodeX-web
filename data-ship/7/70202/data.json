@@ -1,0 +1,186 @@
+{
+  "id": 434,
+  "gid": 70202,
+  "cid": 1,
+  "sid": [
+    702021,
+    702022,
+    702023,
+    702024,
+    702124
+  ],
+  "name": "Pamiat' Merkuria",
+  "codename": "SN Pamiat' Merkuria",
+  "class": "Bogatyr Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Northern Overture",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "D",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 702124,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "accuracy": 10,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 45,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 20,
+      "equipment_proficiency_3": 0.1,
+      "antiair": 50
+    },
+    "skill": 43412,
+    "skin": 702029,
+    "armor": 2,
+    "hexagon": [
+      "C",
+      "D",
+      "E",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 531,
+    "firepower": 15,
+    "torpedo": 26,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 47,
+    "evasion": 27,
+    "speed": 23,
+    "luck": 88,
+    "asw": 13
+  },
+  "growth": {
+    "health": 13272,
+    "firepower": 213,
+    "torpedo": 365,
+    "antiair": 593,
+    "aviation": 0,
+    "reload": 356,
+    "accuracy": 690,
+    "evasion": 570,
+    "speed": 0,
+    "luck": 0,
+    "asw": 165
+  },
+  "enhance": {
+    "firepower": 15,
+    "torpedo": 26,
+    "reload": 38
+  },
+  "skill": {
+    "13040": {
+      "id": 13040,
+      "parent": 13040,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "26111": {
+      "id": 26111,
+      "parent": 26111,
+      "upgrade": 26112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "26112": {
+      "id": 26112,
+      "parent": 26111,
+      "upgrade": null,
+      "downgrade": 26111,
+      "requirement": "Limit Break 3"
+    },
+    "43412": {
+      "id": 43412,
+      "parent": 43412,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

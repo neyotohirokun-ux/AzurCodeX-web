@@ -1,0 +1,161 @@
+{
+  "id": 454,
+  "gid": 80202,
+  "cid": 1,
+  "sid": [
+    802021,
+    802022,
+    802023,
+    802024
+  ],
+  "name": "Jeanne d'Arc",
+  "codename": "FFNF Jeanne d'Arc",
+  "class": "Jeanne d'Arc Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 554,
+    "firepower": 28,
+    "torpedo": 49,
+    "antiair": 52,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 60,
+    "evasion": 17,
+    "speed": 25,
+    "luck": 83,
+    "asw": 36
+  },
+  "growth": {
+    "health": 3298,
+    "firepower": 155,
+    "torpedo": 268,
+    "antiair": 282,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 183,
+    "evasion": 94,
+    "speed": 25,
+    "luck": 83,
+    "asw": 150
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 48,
+    "reload": 50
+  },
+  "skill": {
+    "13290": {
+      "id": 13290,
+      "parent": 13290,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13300": {
+      "id": 13300,
+      "parent": 13300,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29541": {
+      "id": 29541,
+      "parent": 29541,
+      "upgrade": 29542,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29542": {
+      "id": 29542,
+      "parent": 29541,
+      "upgrade": null,
+      "downgrade": 29541,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

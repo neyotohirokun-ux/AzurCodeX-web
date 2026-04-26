@@ -1,0 +1,144 @@
+{
+  "id": 587,
+  "gid": 70507,
+  "cid": 1,
+  "sid": [
+    705071,
+    705072,
+    705073,
+    705074
+  ],
+  "name": "Sevastopol",
+  "codename": "SN Sevastopol",
+  "class": "Gangut Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Frostfall"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1082,
+    "firepower": 62,
+    "torpedo": 0,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 20,
+    "evasion": 6,
+    "speed": 24.1,
+    "luck": 88,
+    "asw": 0
+  },
+  "growth": {
+    "health": 29057,
+    "firepower": 764,
+    "torpedo": 0,
+    "antiair": 852,
+    "aviation": 0,
+    "reload": 381,
+    "accuracy": 325,
+    "evasion": 217,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 61,
+    "reload": 41
+  },
+  "skill": {
+    "16610": {
+      "id": 16610,
+      "parent": 16610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16620": {
+      "id": 16620,
+      "parent": 16620,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

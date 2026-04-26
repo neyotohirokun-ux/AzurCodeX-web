@@ -1,0 +1,161 @@
+{
+  "id": 522,
+  "gid": 80107,
+  "cid": 1,
+  "sid": [
+    801071,
+    801072,
+    801073,
+    801074
+  ],
+  "name": "Le Terrible",
+  "codename": "FFNF Le Terrible",
+  "class": "Le Fantasque Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Light Ship Construction"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 341,
+    "firepower": 26,
+    "torpedo": 50,
+    "antiair": 25,
+    "aviation": 0,
+    "reload": 73,
+    "accuracy": 67,
+    "evasion": 93,
+    "speed": 54,
+    "luck": 75,
+    "asw": 48
+  },
+  "growth": {
+    "health": 2167,
+    "firepower": 143,
+    "torpedo": 274,
+    "antiair": 135,
+    "aviation": 0,
+    "reload": 202,
+    "accuracy": 205,
+    "evasion": 314,
+    "speed": 54,
+    "luck": 75,
+    "asw": 198
+  },
+  "enhance": {
+    "firepower": 26,
+    "torpedo": 50,
+    "reload": 55
+  },
+  "skill": {
+    "14930": {
+      "id": 14930,
+      "parent": 14930,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14940": {
+      "id": 14940,
+      "parent": 14940,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29761": {
+      "id": 29761,
+      "parent": 29761,
+      "upgrade": 29762,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29762": {
+      "id": 29762,
+      "parent": 29761,
+      "upgrade": null,
+      "downgrade": 29761,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

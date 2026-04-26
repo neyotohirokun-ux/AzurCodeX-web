@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 9600120,
+      "gid": 960012,
+      "name": "Queen Anne's Revenge",
+      "type": "Default",
+      "desc": "Sailing frigate – Queen Anne's Revenge.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 477,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960012/9600120/painting.png",
+      "painting_n": "img/skin/960012/9600120/painting_n.png",
+      "banner": "img/skin/960012/9600120/banner.png",
+      "chibi": "img/skin/960012/9600120/chibi.png",
+      "icon": "img/skin/960012/9600120/icon.png",
+      "qicon": "img/skin/960012/9600120/qicon.png",
+      "shipyard": "img/skin/960012/9600120/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600121,
+      "gid": 960012,
+      "name": "Call of the Creeping Embrace",
+      "type": "Rpg Adventure",
+      "desc": "You, lost mortal, have awakened an indescribable supreme being. You will become my retainer and aid me in completing my ritual.",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 477,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/525.png",
+      "background2": null,
+      "painting": "img/skin/960012/9600121/painting.png",
+      "painting_n": "img/skin/960012/9600121/painting_n.png",
+      "banner": "img/skin/960012/9600121/banner.png",
+      "chibi": "img/skin/960012/9600121/chibi.png",
+      "icon": "img/skin/960012/9600121/icon.png",
+      "qicon": "img/skin/960012/9600121/qicon.png",
+      "shipyard": "img/skin/960012/9600121/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

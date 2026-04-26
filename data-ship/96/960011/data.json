@@ -1,0 +1,158 @@
+{
+  "id": 668,
+  "gid": 960011,
+  "cid": 1,
+  "sid": [
+    9600111,
+    9600112,
+    9600113,
+    9600114
+  ],
+  "name": "Dolphin",
+  "codename": "MOT Dolphin",
+  "class": "Dolphin",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Sleeping Sea"
+  ],
+  "type": 22,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "Main gun base +1",
+      "Improve Hunting Range"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 365,
+    "firepower": 39,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 59,
+    "evasion": 30,
+    "speed": 20,
+    "luck": 25,
+    "asw": 0
+  },
+  "growth": {
+    "health": 10400,
+    "firepower": 534,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 490,
+    "accuracy": 846,
+    "evasion": 572,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 38,
+    "reload": 53
+  },
+  "skill": {
+    "30371": {
+      "id": 30371,
+      "parent": 30371,
+      "upgrade": 30372,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30372": {
+      "id": 30372,
+      "parent": 30371,
+      "upgrade": null,
+      "downgrade": 30371,
+      "requirement": "Limit Break 3"
+    },
+    "150600": {
+      "id": 150600,
+      "parent": 150600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150610": {
+      "id": 150610,
+      "parent": 150610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

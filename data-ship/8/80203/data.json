@@ -1,0 +1,160 @@
+{
+  "id": 603,
+  "gid": 80203,
+  "cid": 1,
+  "sid": [
+    802031,
+    802032,
+    802033,
+    802034
+  ],
+  "name": "Guichen",
+  "codename": "FFNF Guichen",
+  "class": "De Grasse Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: The Fool's Scales"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 638,
+    "firepower": 35,
+    "torpedo": 56,
+    "antiair": 72,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 62,
+    "evasion": 30,
+    "speed": 33.5,
+    "luck": 50,
+    "asw": 37
+  },
+  "growth": {
+    "health": 3795,
+    "firepower": 193,
+    "torpedo": 304,
+    "antiair": 385,
+    "aviation": 0,
+    "reload": 194,
+    "accuracy": 188,
+    "evasion": 139,
+    "speed": 33.5,
+    "luck": 50,
+    "asw": 154
+  },
+  "enhance": {
+    "firepower": 35,
+    "torpedo": 55,
+    "reload": 53
+  },
+  "skill": {
+    "16920": {
+      "id": 16920,
+      "parent": 16920,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16930": {
+      "id": 16930,
+      "parent": 16930,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30091": {
+      "id": 30091,
+      "parent": 30091,
+      "upgrade": 30092,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30092": {
+      "id": 30092,
+      "parent": 30091,
+      "upgrade": null,
+      "downgrade": 30091,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

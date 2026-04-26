@@ -1,0 +1,147 @@
+{
+  "id": 458,
+  "gid": 80701,
+  "cid": 1,
+  "sid": [
+    807011,
+    807012,
+    807013,
+    807014
+  ],
+  "name": "Béarn",
+  "codename": "FFNF Béarn",
+  "class": "Béarn Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Merit Shop"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "D",
+    "A",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "Auxiliary weapon base +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 125,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 126,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 127,
+      "slot": 3,
+      "type": [
+        2,
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1072,
+    "firepower": 32,
+    "torpedo": 47,
+    "antiair": 58,
+    "aviation": 71,
+    "reload": 41,
+    "accuracy": 29,
+    "evasion": 9,
+    "speed": 21.5,
+    "luck": 42,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6407,
+    "firepower": 177,
+    "torpedo": 259,
+    "antiair": 314,
+    "aviation": 381,
+    "reload": 112,
+    "accuracy": 87,
+    "evasion": 37,
+    "speed": 21.5,
+    "luck": 42,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 32,
+    "torpedo": 47,
+    "aviation": 70,
+    "reload": 30
+  },
+  "skill": {
+    "13340": {
+      "id": 13340,
+      "parent": 13340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13350": {
+      "id": 13350,
+      "parent": 13350,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

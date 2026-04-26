@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 9600150,
+      "gid": 960015,
+      "name": "Royal James",
+      "type": "Default",
+      "desc": "Sailing frigate – Royal James.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 480,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960015/9600150/painting.png",
+      "painting_n": "img/skin/960015/9600150/painting_n.png",
+      "banner": "img/skin/960015/9600150/banner.png",
+      "chibi": "img/skin/960015/9600150/chibi.png",
+      "icon": "img/skin/960015/9600150/icon.png",
+      "qicon": "img/skin/960015/9600150/qicon.png",
+      "shipyard": "img/skin/960015/9600150/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600151,
+      "gid": 960015,
+      "name": "The Forbidden Slurp",
+      "type": "Rpg Adventure",
+      "desc": "Where... am I? Brrr, it's cold... What am I supposed to– Oh, you look pretty warm, stranger. Would you mind... sharing a little of your body heat?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 480,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/162.png",
+      "background2": null,
+      "painting": "img/skin/960015/9600151/painting.png",
+      "painting_n": "img/skin/960015/9600151/painting_n.png",
+      "banner": "img/skin/960015/9600151/banner.png",
+      "chibi": "img/skin/960015/9600151/chibi.png",
+      "icon": "img/skin/960015/9600151/icon.png",
+      "qicon": "img/skin/960015/9600151/qicon.png",
+      "shipyard": "img/skin/960015/9600151/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

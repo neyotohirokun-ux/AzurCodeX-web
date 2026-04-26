@@ -1,0 +1,143 @@
+{
+  "id": 599,
+  "gid": 80702,
+  "cid": 1,
+  "sid": [
+    807021,
+    807022,
+    807023,
+    807024
+  ],
+  "name": "Painlevé",
+  "codename": "FFNF Painlevé",
+  "class": "Joffre Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: The Fool's Scales"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "D",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Fighters +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 125,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 126,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 127,
+      "slot": 3,
+      "type": [
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1080,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 79,
+    "reload": 47,
+    "accuracy": 33,
+    "evasion": 14,
+    "speed": 33.5,
+    "luck": 28,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6458,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 314,
+    "aviation": 419,
+    "reload": 129,
+    "accuracy": 99,
+    "evasion": 52,
+    "speed": 33.5,
+    "luck": 28,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 78,
+    "reload": 35
+  },
+  "skill": {
+    "16990": {
+      "id": 16990,
+      "parent": 16990,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17000": {
+      "id": 17000,
+      "parent": 17000,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

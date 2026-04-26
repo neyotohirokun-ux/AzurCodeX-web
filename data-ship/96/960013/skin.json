@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 9600130,
+      "gid": 960013,
+      "name": "Lyme",
+      "type": "Default",
+      "desc": "Sailing frigate – Lyme.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 478,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960013/9600130/painting.png",
+      "painting_n": "img/skin/960013/9600130/painting_n.png",
+      "banner": "img/skin/960013/9600130/banner.png",
+      "chibi": "img/skin/960013/9600130/chibi.png",
+      "icon": "img/skin/960013/9600130/icon.png",
+      "qicon": "img/skin/960013/9600130/qicon.png",
+      "shipyard": "img/skin/960013/9600130/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600131,
+      "gid": 960013,
+      "name": "Corrupting Trap",
+      "type": "Rpg Adventure",
+      "desc": "Ugh... Where am I? Why do I feel so weak? Did I... trigger a trap that corrupts its prey? Grgh! Was it you who laid the trap? You will pay for this!",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 478,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/194.png",
+      "background2": null,
+      "painting": "img/skin/960013/9600131/painting.png",
+      "painting_n": "img/skin/960013/9600131/painting_n.png",
+      "banner": "img/skin/960013/9600131/banner.png",
+      "chibi": "img/skin/960013/9600131/chibi.png",
+      "icon": "img/skin/960013/9600131/icon.png",
+      "qicon": "img/skin/960013/9600131/qicon.png",
+      "shipyard": "img/skin/960013/9600131/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

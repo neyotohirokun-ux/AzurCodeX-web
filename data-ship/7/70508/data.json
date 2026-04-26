@@ -1,0 +1,144 @@
+{
+  "id": 628,
+  "gid": 70508,
+  "cid": 1,
+  "sid": [
+    705081,
+    705082,
+    705083,
+    705084
+  ],
+  "name": "Poltava",
+  "codename": "SN Poltava",
+  "class": "Gangut Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Snowrealm Peregrination"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1082,
+    "firepower": 62,
+    "torpedo": 0,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 20,
+    "evasion": 5,
+    "speed": 24.1,
+    "luck": 60,
+    "asw": 0
+  },
+  "growth": {
+    "health": 28637,
+    "firepower": 764,
+    "torpedo": 0,
+    "antiair": 709,
+    "aviation": 0,
+    "reload": 381,
+    "accuracy": 320,
+    "evasion": 205,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 61,
+    "reload": 41
+  },
+  "skill": {
+    "17650": {
+      "id": 17650,
+      "parent": 17650,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17660": {
+      "id": 17660,
+      "parent": 17660,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

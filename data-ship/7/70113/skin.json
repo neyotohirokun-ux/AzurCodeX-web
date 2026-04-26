@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701130,
+      "gid": 70113,
+      "name": "Ozornoy",
+      "type": "Default",
+      "desc": "Project 30K Ognevoy-class destroyer – Ozornoy.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 500,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70113/701130/painting.png",
+      "painting_n": "img/skin/70113/701130/painting_n.png",
+      "banner": "img/skin/70113/701130/banner.png",
+      "chibi": "img/skin/70113/701130/chibi.png",
+      "icon": "img/skin/70113/701130/icon.png",
+      "qicon": "img/skin/70113/701130/qicon.png",
+      "shipyard": "img/skin/70113/701130/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701131,
+      "gid": 70113,
+      "name": "The White-Robed Wind Rider Ascends",
+      "type": "Empery'S Fineries",
+      "desc": "Don't I look so awesome in this outfit, Commander? ...Hey, wait! I-I absolutely wasn't fishing for compliments!",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 500,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/152.png",
+      "background2": null,
+      "painting": "img/skin/70113/701131/painting.png",
+      "painting_n": "img/skin/70113/701131/painting_n.png",
+      "banner": "img/skin/70113/701131/banner.png",
+      "chibi": "img/skin/70113/701131/chibi.png",
+      "icon": "img/skin/70113/701131/icon.png",
+      "qicon": "img/skin/70113/701131/qicon.png",
+      "shipyard": "img/skin/70113/701131/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

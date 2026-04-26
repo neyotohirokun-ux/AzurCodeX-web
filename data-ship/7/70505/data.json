@@ -1,0 +1,145 @@
+{
+  "id": 441,
+  "gid": 70505,
+  "cid": 1,
+  "sid": [
+    705051,
+    705052,
+    705053,
+    705054
+  ],
+  "name": "Sovetskaya Rossiya",
+  "codename": "SN Sovetskaya Rossiya",
+  "class": "Sovetsky Soyuz Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Northern Overture",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1382,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 19,
+    "evasion": 8,
+    "speed": 28,
+    "luck": 46,
+    "asw": 0
+  },
+  "growth": {
+    "health": 37387,
+    "firepower": 1006,
+    "torpedo": 0,
+    "antiair": 1007,
+    "aviation": 0,
+    "reload": 356,
+    "accuracy": 307,
+    "evasion": 212,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 38
+  },
+  "skill": {
+    "13020": {
+      "id": 13020,
+      "parent": 13020,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13030": {
+      "id": 13030,
+      "parent": 13030,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

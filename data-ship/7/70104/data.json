@@ -1,0 +1,163 @@
+{
+  "id": 433,
+  "gid": 70104,
+  "cid": 1,
+  "sid": [
+    701041,
+    701042,
+    701043,
+    701044
+  ],
+  "name": "Tashkent",
+  "codename": "SN Tashkent",
+  "class": "Tashkent Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Northern Overture",
+    "Light Ship Construction"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [
+    70105
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.65
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 427,
+    "firepower": 33,
+    "torpedo": 52,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 75,
+    "accuracy": 68,
+    "evasion": 66,
+    "speed": 51.24,
+    "luck": 86,
+    "asw": 51
+  },
+  "growth": {
+    "health": 12160,
+    "firepower": 459,
+    "torpedo": 704,
+    "antiair": 718,
+    "aviation": 0,
+    "reload": 523,
+    "accuracy": 1050,
+    "evasion": 1228,
+    "speed": 0,
+    "luck": 0,
+    "asw": 583
+  },
+  "enhance": {
+    "firepower": 33,
+    "torpedo": 51,
+    "reload": 56
+  },
+  "skill": {
+    "12980": {
+      "id": 12980,
+      "parent": 12980,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12990": {
+      "id": 12990,
+      "parent": 12990,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29501": {
+      "id": 29501,
+      "parent": 29501,
+      "upgrade": 29502,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29502": {
+      "id": 29502,
+      "parent": 29501,
+      "upgrade": null,
+      "downgrade": 29501,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

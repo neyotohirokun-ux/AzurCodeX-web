@@ -1,0 +1,158 @@
+{
+  "id": 700,
+  "gid": 80303,
+  "cid": 1,
+  "sid": [
+    803031,
+    803032,
+    803033,
+    803034
+  ],
+  "name": "Duquesne",
+  "codename": "FFNF Duquesne",
+  "class": "Duquesne-class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Secrets of the Abyss"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 563,
+    "firepower": 48,
+    "torpedo": 33,
+    "antiair": 44,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 48,
+    "evasion": 28,
+    "speed": 27.2,
+    "luck": 77,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3578,
+    "firepower": 262,
+    "torpedo": 182,
+    "antiair": 243,
+    "aviation": 0,
+    "reload": 193,
+    "accuracy": 140,
+    "evasion": 81,
+    "speed": 27.2,
+    "luck": 77,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 47,
+    "torpedo": 33,
+    "reload": 52
+  },
+  "skill": {
+    "151410": {
+      "id": 151410,
+      "parent": 151410,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151420": {
+      "id": 151420,
+      "parent": 151420,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "250211": {
+      "id": 250211,
+      "parent": 250211,
+      "upgrade": 250212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "250212": {
+      "id": 250212,
+      "parent": 250211,
+      "upgrade": null,
+      "downgrade": 250211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

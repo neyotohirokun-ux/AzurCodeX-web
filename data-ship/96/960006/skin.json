@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 9600060,
+      "gid": 960006,
+      "name": "Adventure Galley",
+      "type": "Default",
+      "desc": "Sailing frigate – Adventure Galley.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 387,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960006/9600060/painting.png",
+      "painting_n": "img/skin/960006/9600060/painting_n.png",
+      "banner": "img/skin/960006/9600060/banner.png",
+      "chibi": "img/skin/960006/9600060/chibi.png",
+      "icon": "img/skin/960006/9600060/icon.png",
+      "qicon": "img/skin/960006/9600060/qicon.png",
+      "shipyard": "img/skin/960006/9600060/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600061,
+      "gid": 960006,
+      "name": "Carnival Under the Blood Moon",
+      "type": "Halloween",
+      "desc": "\"Ahahahah! I've finally found yooou, Master! Dinner is ready, so just follow me to the... You're not hungry? Aww, but the meat is fresh off the bone...\" Commander? Why are you backing away?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 387,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/174.png",
+      "background2": null,
+      "painting": "img/skin/960006/9600061/painting.png",
+      "painting_n": "img/skin/960006/9600061/painting_n.png",
+      "banner": "img/skin/960006/9600061/banner.png",
+      "chibi": "img/skin/960006/9600061/chibi.png",
+      "icon": "img/skin/960006/9600061/icon.png",
+      "qicon": "img/skin/960006/9600061/qicon.png",
+      "shipyard": "img/skin/960006/9600061/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

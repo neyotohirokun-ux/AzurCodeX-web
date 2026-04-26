@@ -1,0 +1,159 @@
+{
+  "id": 730,
+  "gid": 70210,
+  "cid": 1,
+  "sid": [
+    702101,
+    702102,
+    702103,
+    702104
+  ],
+  "name": "Bogatyr",
+  "codename": "SN Bogatyr",
+  "class": "Bogatyr Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Springtide Inn Online"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "D",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 625,
+    "firepower": 23,
+    "torpedo": 40,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 57,
+    "evasion": 27,
+    "speed": 23,
+    "luck": 80,
+    "asw": 13
+  },
+  "growth": {
+    "health": 16911,
+    "firepower": 319,
+    "torpedo": 551,
+    "antiair": 593,
+    "aviation": 0,
+    "reload": 475,
+    "accuracy": 835,
+    "evasion": 570,
+    "speed": 0,
+    "luck": 0,
+    "asw": 165
+  },
+  "enhance": {
+    "firepower": 23,
+    "torpedo": 39,
+    "reload": 51
+  },
+  "skill": {
+    "26111": {
+      "id": 26111,
+      "parent": 26111,
+      "upgrade": 26112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "26112": {
+      "id": 26112,
+      "parent": 26111,
+      "upgrade": null,
+      "downgrade": 26111,
+      "requirement": "Limit Break 3"
+    },
+    "152100": {
+      "id": 152100,
+      "parent": 152100,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152110": {
+      "id": 152110,
+      "parent": 152110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 801050,
+      "gid": 80105,
+      "name": "Le Hardi",
+      "type": "Default",
+      "desc": "Le Hardi-class destroyer – Le Hardi.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 308,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80105/801050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80105/801050/banner.png",
+      "chibi": "img/skin/80105/801050/chibi.png",
+      "icon": "img/skin/80105/801050/icon.png",
+      "qicon": "img/skin/80105/801050/qicon.png",
+      "shipyard": "img/skin/80105/801050/shipyard.png",
+      "spine_chibi": "spine/chibi/dadan/dadan",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 801051,
+      "gid": 80105,
+      "name": "Sticky Situation",
+      "type": "Hot Springs",
+      "desc": "Gulp, gulp... Ahh! That hits the spot! Cold and refreshing... There's nothing in the world like a glass of cold milk after steaming in the sauna.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 308,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/191.png",
+      "background2": null,
+      "painting": "img/skin/80105/801051/painting.png",
+      "painting_n": "img/skin/80105/801051/painting_n.png",
+      "banner": "img/skin/80105/801051/banner.png",
+      "chibi": "img/skin/80105/801051/chibi.png",
+      "icon": "img/skin/80105/801051/icon.png",
+      "qicon": "img/skin/80105/801051/qicon.png",
+      "shipyard": "img/skin/80105/801051/shipyard.png",
+      "spine_chibi": "spine/chibi/dadan/dadan_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701070,
+      "gid": 70107,
+      "name": "Gremyashchy",
+      "type": "Default",
+      "desc": "Gnevny-class destroyer - Stremitelny",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 264,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70107/701070/painting.png",
+      "painting_n": "img/skin/70107/701070/painting_n.png",
+      "banner": "img/skin/70107/701070/banner.png",
+      "chibi": "img/skin/70107/701070/chibi.png",
+      "icon": "img/skin/70107/701070/icon.png",
+      "qicon": "img/skin/70107/701070/qicon.png",
+      "shipyard": "img/skin/70107/701070/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701071,
+      "gid": 70107,
+      "name": "A Daytime Delight is in a Book",
+      "type": "Home Relaxation",
+      "desc": "Wh-who gave you the right to just barge in? ...I did? Huh. Well, seeing as you're here, I guess we could read a book together. Mm, that's all.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 264,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/109.png",
+      "background2": "img/bgii/1101.png",
+      "painting": "img/skin/70107/701071/painting.png",
+      "painting_n": "img/skin/70107/701071/painting_n.png",
+      "banner": "img/skin/70107/701071/banner.png",
+      "chibi": "img/skin/70107/701071/chibi.png",
+      "icon": "img/skin/70107/701071/icon.png",
+      "qicon": "img/skin/70107/701071/qicon.png",
+      "shipyard": "img/skin/70107/701071/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

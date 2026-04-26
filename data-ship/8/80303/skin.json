@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 803030,
+      "gid": 80303,
+      "name": "Duquesne",
+      "type": "Default",
+      "desc": "Duquesne-class heavy cruiser – Duquesne.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 470,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80303/803030/painting.png",
+      "painting_n": "img/skin/80303/803030/painting_n.png",
+      "banner": "img/skin/80303/803030/banner.png",
+      "chibi": "img/skin/80303/803030/chibi.png",
+      "icon": "img/skin/80303/803030/icon.png",
+      "qicon": "img/skin/80303/803030/qicon.png",
+      "shipyard": "img/skin/80303/803030/shipyard.png",
+      "spine_chibi": "spine/chibi/dikaina/dikaina",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 803031,
+      "gid": 80303,
+      "name": "Wetness of a Crimson Night",
+      "type": "Hot Springs",
+      "desc": "This wine bath mustn't be wasted. One must strip off their clothes and submerge themselves deeply in this rich bath of life. Be not so reserved, Commander, just... Huh?! N-no, I would never peek whilst you got changed!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 470,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/164.png",
+      "background2": null,
+      "painting": "img/skin/80303/803031/painting.png",
+      "painting_n": "img/skin/80303/803031/painting_n.png",
+      "banner": "img/skin/80303/803031/banner.png",
+      "chibi": "img/skin/80303/803031/chibi.png",
+      "icon": "img/skin/80303/803031/icon.png",
+      "qicon": "img/skin/80303/803031/qicon.png",
+      "shipyard": "img/skin/80303/803031/shipyard.png",
+      "spine_chibi": "spine/chibi/dikaina/dikaina_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

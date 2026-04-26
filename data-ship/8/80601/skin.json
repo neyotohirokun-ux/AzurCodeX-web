@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 806010,
+      "gid": 80601,
+      "name": "Bois Belleau",
+      "type": "Default",
+      "desc": "Independence-class light aircraft carrier – Bois Belleau.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 469,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80601/806010/painting.png",
+      "painting_n": "img/skin/80601/806010/painting_n.png",
+      "banner": "img/skin/80601/806010/banner.png",
+      "chibi": "img/skin/80601/806010/chibi.png",
+      "icon": "img/skin/80601/806010/icon.png",
+      "qicon": "img/skin/80601/806010/qicon.png",
+      "shipyard": "img/skin/80601/806010/shipyard.png",
+      "spine_chibi": "spine/chibi/beilaosenlin/beilaosenlin",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 806011,
+      "gid": 80601,
+      "name": "Steamy Therapy",
+      "type": "Hot Springs",
+      "desc": "Finished your sacred work? I looked into hot spring therapy a little to help you relax a little. It's the warmest and most pleasant healing method I've ever seen. Would you... come in with me?",
+      "tag": [
+        "None"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 469,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80601/806011/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80601/806011/banner.png",
+      "chibi": "img/skin/80601/806011/chibi.png",
+      "icon": "img/skin/80601/806011/icon.png",
+      "qicon": "img/skin/80601/806011/qicon.png",
+      "shipyard": "img/skin/80601/806011/shipyard.png",
+      "spine_chibi": "spine/chibi/beilaosenlin/beilaosenlin_2",
+      "spine": null,
+      "live2d": "live2d/beilaosenlin/beilaosenlin_2",
+      "cost": 1180
+    }
+  ]
+}

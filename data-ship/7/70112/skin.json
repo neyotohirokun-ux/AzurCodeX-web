@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701120,
+      "gid": 70112,
+      "name": "Svirepy",
+      "type": "Default",
+      "desc": "Project 7U-class destroyer – Svirepy.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 400,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70112/701120/painting.png",
+      "painting_n": "img/skin/70112/701120/painting_n.png",
+      "banner": "img/skin/70112/701120/banner.png",
+      "chibi": "img/skin/70112/701120/chibi.png",
+      "icon": "img/skin/70112/701120/icon.png",
+      "qicon": "img/skin/70112/701120/qicon.png",
+      "shipyard": "img/skin/70112/701120/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701121,
+      "gid": 70112,
+      "name": "Rebellious Artist",
+      "type": "Special Exercise",
+      "desc": "Let's hear it for the graffiti master that's taken the world by storm – Svirepyyy! You people are in real luck, gettin' to witness the birth of my new piece! And if you ain't got any taste, watch yourself!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 400,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/154.png",
+      "background2": null,
+      "painting": "img/skin/70112/701121/painting.png",
+      "painting_n": "img/skin/70112/701121/painting_n.png",
+      "banner": "img/skin/70112/701121/banner.png",
+      "chibi": "img/skin/70112/701121/chibi.png",
+      "icon": "img/skin/70112/701121/icon.png",
+      "qicon": "img/skin/70112/701121/qicon.png",
+      "shipyard": "img/skin/70112/701121/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

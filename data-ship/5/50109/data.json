@@ -1,0 +1,160 @@
+{
+  "id": 677,
+  "gid": 50109,
+  "cid": 1,
+  "sid": [
+    501091,
+    501092,
+    501093,
+    501094
+  ],
+  "name": "Fu Po",
+  "codename": "Fu Po",
+  "class": "Chang Feng Class",
+  "nationality": 5,
+  "obtain": [
+    "Event: Spring Fashion Festa",
+    "Core Data Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "D",
+    "E",
+    "B",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo preload +1",
+      "All weapons' efficiency +5%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 308,
+    "firepower": 18,
+    "torpedo": 40,
+    "antiair": 23,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 68,
+    "evasion": 64,
+    "speed": 43.2,
+    "luck": 45,
+    "asw": 32
+  },
+  "growth": {
+    "health": 1809,
+    "firepower": 98,
+    "torpedo": 220,
+    "antiair": 124,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 212,
+    "evasion": 227,
+    "speed": 43.2,
+    "luck": 45,
+    "asw": 135
+  },
+  "enhance": {
+    "firepower": 18,
+    "torpedo": 40,
+    "reload": 55
+  },
+  "skill": {
+    "28261": {
+      "id": 28261,
+      "parent": 28261,
+      "upgrade": 28262,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28262": {
+      "id": 28262,
+      "parent": 28261,
+      "upgrade": null,
+      "downgrade": 28261,
+      "requirement": "Limit Break 3"
+    },
+    "150880": {
+      "id": 150880,
+      "parent": 150880,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150890": {
+      "id": 150890,
+      "parent": 150890,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

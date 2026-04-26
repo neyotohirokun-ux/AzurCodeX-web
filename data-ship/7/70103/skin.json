@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701030,
+      "gid": 70103,
+      "name": "Minsk",
+      "type": "Default",
+      "desc": "Leningrad-class destroyer – Minsk.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 228,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70103/701030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/70103/701030/banner.png",
+      "chibi": "img/skin/70103/701030/chibi.png",
+      "icon": "img/skin/70103/701030/icon.png",
+      "qicon": "img/skin/70103/701030/qicon.png",
+      "shipyard": "img/skin/70103/701030/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701031,
+      "gid": 70103,
+      "name": "Thunderous Jailor",
+      "type": "Special Exercise",
+      "desc": "You've violated the Minsk Protocol, comrade! Therefore, the sentence appropriate for you is imprisonment! Until when? Obviously, until your jailor is satisfied~♪",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 228,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/130.png",
+      "background2": null,
+      "painting": "img/skin/70103/701031/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/70103/701031/banner.png",
+      "chibi": "img/skin/70103/701031/chibi.png",
+      "icon": "img/skin/70103/701031/icon.png",
+      "qicon": "img/skin/70103/701031/qicon.png",
+      "shipyard": "img/skin/70103/701031/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

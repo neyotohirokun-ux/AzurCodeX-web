@@ -1,4 +1,801 @@
 {
+  "10000": {
+    "gid": 10000,
+    "name": "Universal Bulin",
+    "skins": {
+      "100000": {
+        "id": 100000,
+        "gid": 10000,
+        "name": "Universal Bulin",
+        "type": "Default",
+        "desc": "Universal Bulin. Can be used to limit break all ships of Elite rarity or below.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100000/shipyard.png"
+      },
+      "100001": {
+        "id": 100001,
+        "gid": 10000,
+        "name": "Universal Enhanced Rigging (Experimental) +α",
+        "type": "Others",
+        "desc": "Buli? Did I just get an upgrade buli? Now, I can fight too buli!",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100001/shipyard.png"
+      },
+      "100002": {
+        "id": 100002,
+        "gid": 10000,
+        "name": "Transform! Magical Girl ★ Bulin!",
+        "type": "Fairytale",
+        "desc": "Bulibuli magical transformation! I'm Magical Girl Bulin, here to protect love and justice! I'm super awesome with my new powers, buli!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/611.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100002/shipyard.png"
+      }
+    }
+  },
+  "10001": {
+    "gid": 10001,
+    "name": "Prototype Bulin MKII",
+    "skins": {
+      "100010": {
+        "id": 100010,
+        "gid": 10001,
+        "name": "Prototype Bulin MKII",
+        "type": "Default",
+        "desc": "Prototype Bulin MKII. Can be used to limit break all Super Rare ships.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100010/shipyard.png"
+      },
+      "100011": {
+        "id": 100011,
+        "gid": 10001,
+        "name": "Prototype Advanced Weaponry (Prop)",
+        "type": "Others",
+        "desc": "Puriiin! The savior of the fleet disembarks, wielding a heaven-piercing drill in hand, purin! Heheh! I bet you're trembling with excitement at my latest and greatest work outfit, purin!",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/176.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100011/shipyard.png"
+      }
+    }
+  },
+  "10002": {
+    "gid": 10002,
+    "name": "Specialized Bulin Custom MKIII",
+    "skins": {
+      "100020": {
+        "id": 100020,
+        "gid": 10002,
+        "name": "Specialized Bulin Custom MKIII",
+        "type": "Default",
+        "desc": "Specialized Bulin Custom MKIII. Can be used to Limit Break all Ultra Rare ships.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100020/shipyard.png"
+      },
+      "100021": {
+        "id": 100021,
+        "gid": 10002,
+        "name": "The Bulin Bringer of Justice",
+        "type": "Others",
+        "desc": "Commander, you just breathe easy and get behind me, bulin! This time, the invincible Bulin Brigade will carry out justice for you, bulin!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 72,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/529.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/100021/shipyard.png"
+      }
+    }
+  },
+  "10102": {
+    "gid": 10102,
+    "name": "Dewey",
+    "skins": {
+      "101020": {
+        "id": 101020,
+        "gid": 10102,
+        "name": "Dewey",
+        "type": "Default",
+        "desc": "Farragut-class destroyer – Dewey, Hull Number DD-349.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 178,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101020/shipyard.png"
+      },
+      "101021": {
+        "id": 101021,
+        "gid": 10102,
+        "name": "Summer Longing",
+        "type": "Swimsuits",
+        "desc": "Saratoga went over there, and Lexington is... Oh, Commander, good morning! Are you here to play with us, or were you just out for some fresh air...?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 178,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101021/shipyard.png"
+      },
+      "101022": {
+        "id": 101022,
+        "gid": 10102,
+        "name": "A Christmas Thank-You",
+        "type": "Christmas",
+        "desc": "Lexington gave me this Christmas costume as a thank-you for always supporting her. Commander, do you think I look... pretty in it?",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 178,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/125.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101022/shipyard.png"
+      }
+    }
+  },
+  "10103": {
+    "gid": 10103,
+    "name": "Cassin",
+    "skins": {
+      "101030": {
+        "id": 101030,
+        "gid": 10103,
+        "name": "Cassin",
+        "type": "Default",
+        "desc": "Mahan-class destroyer - Cassin, Hull Number DD-372!",
+        "tag": [],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 95,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101030/shipyard.png"
+      },
+      "101031": {
+        "id": 101031,
+        "gid": 10103,
+        "name": "Shopping Carte Blanche",
+        "type": "School Girl",
+        "desc": "I know I said we'd go shopping after school, but walking is so exhausting... I'll just hitch a ride in this cart. Looks sturdy enough...",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 95,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/103.png",
+        "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1101.png",
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101031/shipyard.png"
+      },
+      "101039": {
+        "id": 101039,
+        "gid": 10103,
+        "name": "Cassin (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Commander... I think I've been in the house too long. My body feels different... Oh? I've improved? I see... Wonderful! I guess I can keep staying inside...",
+        "tag": [],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 95,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101039/shipyard.png"
+      }
+    }
+  },
+  "10104": {
+    "gid": 10104,
+    "name": "Downes",
+    "skins": {
+      "101040": {
+        "id": 101040,
+        "gid": 10104,
+        "name": "Downes",
+        "type": "Default",
+        "desc": "Mahan-class destroyer - Downes, Hull Number DD-375!",
+        "tag": [],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 96,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101040/shipyard.png"
+      },
+      "101041": {
+        "id": 101041,
+        "gid": 10104,
+        "name": "Part-Time Bomber",
+        "type": "School Girl",
+        "desc": "I heard another person was coming to help out at the store, but I never thought it'd be you, Commander! What am I doing here? Ahaha, well uh, I had a little bit of free time on my hands... right~♪",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 96,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/103.png",
+        "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1101.png",
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101041/shipyard.png"
+      },
+      "101049": {
+        "id": 101049,
+        "gid": 10104,
+        "name": "Downes (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Rawr! I'm Tiger Downes! What do you think, Commander? I feel great now! Faster. Stronger! Let's head out to sea and cause some trouble!",
+        "tag": [],
+        "illustrator": 2,
+        "illustrator2": -1,
+        "voice_actor": 96,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101049/shipyard.png"
+      }
+    }
+  },
+  "10105": {
+    "gid": 10105,
+    "name": "Gridley",
+    "skins": {
+      "101050": {
+        "id": 101050,
+        "gid": 10105,
+        "name": "Gridley",
+        "type": "Default",
+        "desc": "Gridley-class destroyer - Gridley, Hull Number DD-380!",
+        "tag": [],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 25,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101050/shipyard.png"
+      },
+      "101051": {
+        "id": 101051,
+        "gid": 10105,
+        "name": "Christmas Photoshoot",
+        "type": "Christmas",
+        "desc": "Commander, Merry Christmas! Guhehe~ Won't you attend my \"Super Special Sexy Sara (tentative)\" photoshoot event?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 25,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/100.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101051/shipyard.png"
+      }
+    }
+  },
+  "10106": {
+    "gid": 10106,
+    "name": "Craven",
+    "skins": {
+      "101060": {
+        "id": 101060,
+        "gid": 10106,
+        "name": "Craven",
+        "type": "Default",
+        "desc": "Gridley-class destroyer - Craven, Hull Number DD-382!",
+        "tag": [],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 96,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101060/shipyard.png"
+      },
+      "101061": {
+        "id": 101061,
+        "gid": 10106,
+        "name": "Cheerleader On The Playground",
+        "type": "School Girl",
+        "desc": "I much rather cheer for my Commander than go to class...but no matter where I go, I will definitely give it my all! Commander, wait for me to come back as the top student of this school year.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 96,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/103.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101061/shipyard.png"
+      }
+    }
+  },
+  "10107": {
+    "gid": 10107,
+    "name": "McCall",
+    "skins": {
+      "101070": {
+        "id": 101070,
+        "gid": 10107,
+        "name": "McCall",
+        "type": "Default",
+        "desc": "Gridley-class destroyer - McCall, Hull Number DD-400!",
+        "tag": [],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 95,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101070/shipyard.png"
+      }
+    }
+  },
+  "10108": {
+    "gid": 10108,
+    "name": "Maury",
+    "skins": {
+      "101080": {
+        "id": 101080,
+        "gid": 10108,
+        "name": "Maury",
+        "type": "Default",
+        "desc": "Gridley-class destroyer, Maury, Hull Number DD-401\nUnlock build after receiving",
+        "tag": [],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 88,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101080/shipyard.png"
+      },
+      "101089": {
+        "id": 101089,
+        "gid": 10108,
+        "name": "Maury (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Maury, fourth ship of the Gridley-class destroyer squadron, is back with new equipment! I feel like I can run even faster than before! Commander, can we go for a test run?",
+        "tag": [],
+        "illustrator": 3,
+        "illustrator2": -1,
+        "voice_actor": 88,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101089/shipyard.png"
+      }
+    }
+  },
+  "10109": {
+    "gid": 10109,
+    "name": "Fletcher",
+    "skins": {
+      "101090": {
+        "id": 101090,
+        "gid": 10109,
+        "name": "Fletcher",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer - Fletcher, Hull Number DD-445!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 56,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101090/shipyard.png"
+      }
+    }
+  },
+  "10110": {
+    "gid": 10110,
+    "name": "William D. Porter",
+    "skins": {
+      "101100": {
+        "id": 101100,
+        "gid": 10110,
+        "name": "William D. Porter",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer – William D. Porter, Hull Number DD-579.",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 168,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101100/shipyard.png"
+      },
+      "101101": {
+        "id": 101101,
+        "gid": 10110,
+        "name": "The Daredevil's Maidly Service",
+        "type": "Maid",
+        "desc": "Commander, um, we agreed that I'd be a maid for a day, right? Ahahaha... See, I couldn't make it in time. Ran into a teensy bit of trouble, and, well... Basically, I need you to come help me!",
+        "tag": [
+          "dynamic+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 168,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/529.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101101/shipyard.png"
+      }
+    }
+  },
+  "10111": {
+    "gid": 10111,
+    "name": "Charles Ausburne",
+    "skins": {
+      "101110": {
+        "id": 101110,
+        "gid": 10111,
+        "name": "Charles Ausburne",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer - Charles Ausburne, Hull Number DD-570!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 29,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101110/shipyard.png"
+      },
+      "101119": {
+        "id": 101119,
+        "gid": 10111,
+        "name": "Charles Ausburne (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Captain Ausburne of the Little Beavers, upgraded and ready to go! Heh heh, my new-and-improved justice isn't just for show! Evildoers are gonna be in for a bad time!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 29,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101119/shipyard.png"
+      }
+    }
+  },
+  "10112": {
+    "gid": 10112,
+    "name": "Thatcher",
+    "skins": {
+      "101120": {
+        "id": 101120,
+        "gid": 10112,
+        "name": "Thatcher",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer - Thatcher, Hull Number DD-514!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 84,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101120/shipyard.png"
+      }
+    }
+  },
+  "10113": {
+    "gid": 10113,
+    "name": "Aulick",
+    "skins": {
+      "101130": {
+        "id": 101130,
+        "gid": 10113,
+        "name": "Aulick",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer - Aulick, Hull Number DD-569!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 100,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101130/shipyard.png"
+      }
+    }
+  },
+  "10114": {
+    "gid": 10114,
+    "name": "Foote",
+    "skins": {
+      "101140": {
+        "id": 101140,
+        "gid": 10114,
+        "name": "Foote",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer - Foote, Hull Number DD-511!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 100,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101140/shipyard.png"
+      }
+    }
+  },
   "10115": {
     "gid": 10115,
     "name": "Spence",
@@ -3096,6 +3893,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105121/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105121/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105121/shipyard.png"
+      },
+      "105122": {
+        "id": 105122,
+        "gid": 10512,
+        "name": "Unique Sunshine",
+        "type": "Swimsuits",
+        "desc": "Commander, today I'm in a bunny swimsuit, see? You don't see how it's a bunny swimsuit...? Come closer and get a better look, then. Heheheh.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 39,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/701.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105122/shipyard.png"
       }
     }
   },
@@ -13847,6 +14669,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303130/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303130/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303130/shipyard.png"
+      },
+      "303131": {
+        "id": 303131,
+        "gid": 30313,
+        "name": "Hunter of the Heart",
+        "type": "Special Exercise",
+        "desc": "Maya, searching for mission target... Hm? What's the target doing up here? Tsk... Well, you've found me, so we'll do it this way. Fight me, Commander!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 87,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303131/shipyard.png"
       }
     }
   },
@@ -13899,6 +14745,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303141/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303141/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303141/shipyard.png"
+      },
+      "303142": {
+        "id": 303142,
+        "gid": 30314,
+        "name": "Steal Your Heart",
+        "type": "Special Exercise",
+        "desc": "Hyah!? So many laser tripwires... Phew... I managed to get through them, but what could possibly be next?",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 123,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/494.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303142/shipyard.png"
       }
     }
   },
@@ -19563,6 +20434,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702012/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702012/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702012/shipyard.png"
+      },
+      "702013": {
+        "id": 702013,
+        "gid": 70201,
+        "name": "Mellow Seaspray",
+        "type": "Party Dress",
+        "desc": "The party's already over? Nuh uh~ Come on, have another drink, Commander! Just finish this glass, and all your troubles... will... Zzzzz...",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 22,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/146.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702013/shipyard.png"
       }
     }
   },
@@ -25226,7 +26121,225 @@
       }
     }
   },
-  
+  "10709": {
+    "gid": 10709,
+    "name": "Essex",
+    "skins": {
+      "107090": {
+        "id": 107090,
+        "gid": 10709,
+        "name": "Essex",
+        "type": "Default",
+        "desc": "Essex-class aircraft carrier – Essex, Hull Number CV-9.",
+        "tag": [],
+        "illustrator": 8,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107090/shipyard.png"
+      },
+      "107091": {
+        "id": 107091,
+        "gid": 10709,
+        "name": "A Trip Down Route 66",
+        "type": "Casual",
+        "desc": "I'm not trying to go anywhere in particular; I just want to enjoy the scenery along the way. Commander, let's go experience the thrills of the road together.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 8,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/118.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107091/shipyard.png"
+      },
+      "107092": {
+        "id": 107092,
+        "gid": 10709,
+        "name": "Craft Fairytail",
+        "type": "Party Dress",
+        "desc": "Commander?! Ah, um, no, I'm not drunk! ...I, uh, just had a bit too much to drink... just a bit! Please don't tell the others though!",
+        "tag": [
+          "live2d",
+          "dynamicbg"
+        ],
+        "illustrator": 8,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/135.png",
+        "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1102.png",
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107092/shipyard.png"
+      },
+      "107093": {
+        "id": 107093,
+        "gid": 10709,
+        "name": "Brush and Ink",
+        "type": "Empery'S Fineries",
+        "desc": "The Dragon Empery's attire and tools of calligraphy... I see, just wearing this outfit makes me feel more scholarly and artistic! I shall put forth my best effort to prepare for the port's Spring Festival!",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": 8,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/144.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107093/shipyard.png"
+      },
+      "107094": {
+        "id": 107094,
+        "gid": 10709,
+        "name": "Detective Essex",
+        "type": "Others",
+        "desc": "My eagle has gone missing... Just as Enterprise said, there's something strange going on in this port–– Wait, I definitely smell a case in the making! Commander, let's get to the bottom of this together!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1102.png",
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107094/shipyard.png"
+      },
+      "107095": {
+        "id": 107095,
+        "gid": 10709,
+        "name": "Crossbones Especial",
+        "type": "On The Job",
+        "desc": "\"Anchors aweigh! Arr, pirate aircraft carrier Essex be ready for battle! Nothing in the seven seas will escape my grasp!\" Hic... Hehehe... I wanna be a piraaate...",
+        "tag": [
+          "bg",
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/169.png",
+        "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1102.png",
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107095/shipyard.png"
+      },
+      "107096": {
+        "id": 107096,
+        "gid": 10709,
+        "name": "The Gale of Course 88",
+        "type": "Race Queen",
+        "desc": "Cooldown lap completed! Did you see me on the racetrack, Commander? Heehee. Thanks for everything, from setting up the race to assigning racers and supporters!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/shipyard.png"
+      },
+      "107097": {
+        "id": 107097,
+        "gid": 10709,
+        "name": "Start Line Splash",
+        "type": "Race Queen",
+        "desc": "Don't worry, Commander. I'm making sure your ride is squeaky clean before the race! Check it out – I bet your car is the most dazzling one on the track now.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/186.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/shipyard.png"
+      },
+      "107099": {
+        "id": 107099,
+        "gid": 10709,
+        "name": "Essex (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Essex's retrofitting has finished! Now Enterprise will be– No, YOU will be 120% satisfied with me, Commander! Anyway, I, Essex-class aircraft carrier Essex, am at your command!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/shipyard.png"
+      }
+    }
+  },
   "10802": {
     "gid": 10802,
     "name": "Albacore",
@@ -33835,6 +34948,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306082/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306082/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306082/shipyard.png"
+      },
+      "306083": {
+        "id": 306083,
+        "gid": 30608,
+        "name": "Tea Amidst the Lotus",
+        "type": "Empery'S Fineries",
+        "desc": "When I get free time, I like to come to this lotus pond to unwind... Commander, shall we cleanse ourselves with tea together?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 244,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306083/shipyard.png"
       }
     }
   },
@@ -33887,6 +35022,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306091/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306091/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306091/shipyard.png"
+      },
+      "306092": {
+        "id": 306092,
+        "gid": 30609,
+        "name": "Wine Amidst the Leaves",
+        "type": "Empery'S Fineries",
+        "desc": "Oh, Commander! You finally found me! Hehe, I found this super-cool rest spot all on my own! Wanna drink with me?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 244,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/306092/shipyard.png"
       }
     }
   },
@@ -39919,6 +41076,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404033/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404033/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404033/shipyard.png"
+      },
+      "404034": {
+        "id": 404034,
+        "gid": 40403,
+        "name": "Double the Danger",
+        "type": "Special Exercise",
+        "desc": "You're the person the Organization sent to extract me, Commandant? Great. The plan went smoothly and I got the goods. We can evac using the planned route.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 144,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404034/shipyard.png"
       }
     }
   },
@@ -40786,6 +41967,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901132/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901132/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901132/shipyard.png"
+      },
+      "901133": {
+        "id": 901133,
+        "gid": 90113,
+        "name": "The Covert Eavesdropper!",
+        "type": "Special Exercise",
+        "desc": "A masquerading-and-eavesdropping mission is a walk in the park for a Knight of the Dominion! Finding evidence of my target's crimes will take no time at all!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 325,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/160.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/901133/shipyard.png"
       }
     }
   },
@@ -41660,7 +42865,83 @@
       }
     }
   },
-  
+  "960001": {
+    "gid": 960001,
+    "name": "Royal Fortune",
+    "skins": {
+      "9600010": {
+        "id": 9600010,
+        "gid": 960001,
+        "name": "Royal Fortune",
+        "type": "Default",
+        "desc": "Sailing frigate – Royal Fortune.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 346,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600010/shipyard.png"
+      },
+      "9600011": {
+        "id": 9600011,
+        "gid": 960001,
+        "name": "Treats from the Deep",
+        "type": "Halloween",
+        "desc": "Tonight's dessert is not a cake or a pastry... What are you looking around for? YOU'RE my dessert! Heheh, scared you, didn't I?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 346,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600011/shipyard.png"
+      },
+      "9600012": {
+        "id": 9600012,
+        "gid": 960001,
+        "name": "Eyes on the Prize",
+        "type": "Swimsuits",
+        "desc": "Hell of a proposition, this. Keeping an eye on your booty for the whole day so nobody steals it. But I said I'd do it, and a real Tempesta always keeps her word. You're all mine for today♪",
+        "tag": [
+          "bg",
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 346,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/168.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600012/shipyard.png"
+      }
+    }
+  },
   "10712": {
     "gid": 10712,
     "name": "Hornet II",
@@ -42622,6 +43903,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207071/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207071/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207071/shipyard.png"
+      },
+      "207072": {
+        "id": 207072,
+        "gid": 20707,
+        "name": "Her Beauty Runneth Over",
+        "type": "Empery'S Fineries",
+        "desc": "I see that passionate look in your eyes... Do you crave this fine wine, or is there something more intoxicating you'd like to indulge in?",
+        "tag": [
+          "live2d",
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 356,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/152.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207072/shipyard.png"
       }
     }
   },
@@ -42750,6 +44056,32 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206022/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206022/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206022/shipyard.png"
+      },
+      "206023": {
+        "id": 206023,
+        "gid": 20602,
+        "name": "Dignified Swimsuit Training",
+        "type": "Swimsuits",
+        "desc": "\"When the honourable and dignified set out to achieve greatness, they must never be ashamed of exposing themselves\"... I prepared this swimsuit for special training, and yet... Just putting it on requires... a great deal of courage.",
+        "tag": [
+          "None",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 350,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/539.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/206023/shipyard.png"
       }
     }
   },
@@ -43752,6 +45084,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603061/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603061/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603061/shipyard.png"
+      },
+      "603062": {
+        "id": 603062,
+        "gid": 60306,
+        "name": "The Spy Who Crushed on Me",
+        "type": "Special Exercise",
+        "desc": "Oh nooo, how aaawful, I've been captured, and my suit is toootally in pieces... W-wait, why can't I break free? This ruins my plan of intentionally getting caught to perform an investigation...",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 368,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/494.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603062/shipyard.png"
       }
     }
   },
@@ -51689,6 +53046,402 @@
       }
     }
   },
+  "70303": {
+    "gid": 70303,
+    "name": "Moskva",
+    "skins": {
+      "703030": {
+        "id": 703030,
+        "gid": 70303,
+        "name": "Moskva",
+        "type": "Default",
+        "desc": "Project 66 heavy cruiser – Moskva.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 499,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703030/shipyard.png"
+      },
+      "703031": {
+        "id": 703031,
+        "gid": 70303,
+        "name": "Awaiting the Next Move",
+        "type": "Empery'S Fineries",
+        "desc": "The extent of one's true wit is revealed within the 19 lines on the board. Ever since I began learning to play Go, I've desired a match with you. Observe now, as this next move will determine the outcome of the game.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 499,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703031/shipyard.png"
+      }
+    }
+  },
+  "70113": {
+    "gid": 70113,
+    "name": "Ozornoy",
+    "skins": {
+      "701130": {
+        "id": 701130,
+        "gid": 70113,
+        "name": "Ozornoy",
+        "type": "Default",
+        "desc": "Project 30K Ognevoy-class destroyer – Ozornoy.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 500,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701130/shipyard.png"
+      },
+      "701131": {
+        "id": 701131,
+        "gid": 70113,
+        "name": "The White-Robed Wind Rider Ascends",
+        "type": "Empery'S Fineries",
+        "desc": "Don't I look so awesome in this outfit, Commander? ...Hey, wait! I-I absolutely wasn't fishing for compliments!",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 500,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/152.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/701131/shipyard.png"
+      }
+    }
+  },
+  "70209": {
+    "gid": 70209,
+    "name": "Krasny Kavkaz",
+    "skins": {
+      "702090": {
+        "id": 702090,
+        "gid": 70209,
+        "name": "Krasny Kavkaz",
+        "type": "Default",
+        "desc": "Admiral Nakhimov-class light cruiser – Krasny Kavkaz.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 501,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702090/shipyard.png"
+      },
+      "702091": {
+        "id": 702091,
+        "gid": 70209,
+        "name": "Playing Blind ♥",
+        "type": "Empery'S Fineries",
+        "desc": "It's time to begin our blind mahjong practice. This is another part of mental training, after all... Heehee.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 501,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/197.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702091/shipyard.png"
+      }
+    }
+  },
+  "70210": {
+    "gid": 70210,
+    "name": "Bogatyr",
+    "skins": {
+      "702100": {
+        "id": 702100,
+        "gid": 70210,
+        "name": "Bogatyr",
+        "type": "Default",
+        "desc": "Bogatyr-class protected cruiser – Bogatyr.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 450,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702100/shipyard.png"
+      },
+      "702101": {
+        "id": 702101,
+        "gid": 70210,
+        "name": "Emotional Data Maintenance",
+        "type": "Empery'S Fineries",
+        "desc": "System error detected. Abnormal data is being generated at a rapid pace, and energy consumption exceeds normal values. Initiating emergency diagnostic protocol. Commander... stay with me until the root cause is found, please...",
+        "tag": [
+          "dynamic+",
+          "dynamicbg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 450,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/144.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702101/shipyard.png"
+      }
+    }
+  },
+  "30717": {
+    "gid": 30717,
+    "name": "Unryuu",
+    "skins": {
+      "307170": {
+        "id": 307170,
+        "gid": 30717,
+        "name": "Unryuu",
+        "type": "Default",
+        "desc": "Unryuu-class aircraft carrier – Unryuu.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 286,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307170/shipyard.png"
+      },
+      "307171": {
+        "id": 307171,
+        "gid": 30717,
+        "name": "Mirage in the Night",
+        "type": "Special Exercise",
+        "desc": "This mission is a piece of cake. There's no obstacle that water can't penetrate, nor any wall that it can't permeate. Watch as I break through your so-called impenetrable defenses!",
+        "tag": [
+          "None",
+          "dynamic+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 286,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307171/shipyard.png"
+      },
+      "307172": {
+        "id": 307172,
+        "gid": 30717,
+        "name": "Mirage in the Night",
+        "type": "Special Exercise",
+        "desc": "This mission is a piece of cake. There's no obstacle that water can't penetrate, nor any wall that it can't permeate. Watch as I break through your so-called impenetrable defenses!",
+        "tag": [
+          "None",
+          "dynamic+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 286,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307172/shipyard.png"
+      }
+    }
+  },
+  "30228": {
+    "gid": 30228,
+    "name": "Kizu",
+    "skins": {
+      "302280": {
+        "id": 302280,
+        "gid": 30228,
+        "name": "Kizu",
+        "type": "Default",
+        "desc": "Sendai-class light cruiser – Kizu.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 502,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302280/shipyard.png"
+      },
+      "302281": {
+        "id": 302281,
+        "gid": 30228,
+        "name": "Thunder Dragon Caught in a Web",
+        "type": "Special Exercise",
+        "desc": "Wh-what are these lasers? My equipment, it's all... Urgh! How am I meant to continue my mission with my suit and gear all melted away?!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 502,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/494.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302281/shipyard.png"
+      }
+    }
+  },
+  "30229": {
+    "gid": 30229,
+    "name": "Nayoro",
+    "skins": {
+      "302290": {
+        "id": 302290,
+        "gid": 30229,
+        "name": "Nayoro",
+        "type": "Default",
+        "desc": "Sendai-class light cruiser – Nayoro.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 502,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302290/shipyard.png"
+      },
+      "302291": {
+        "id": 302291,
+        "gid": 30229,
+        "name": "Electric Affection",
+        "type": "Special Exercise",
+        "desc": "Our rendezvous went smoothly enough... but it looks like we're being tailed by some unsavory folk. Shall we go take care of them? Don't worry – it'll be over in no time.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 502,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302291/shipyard.png"
+      }
+    }
+  },
   "1010001": {
     "gid": 1010001,
     "name": "Neptune",
@@ -52751,6 +54504,32 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600041/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600041/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600041/shipyard.png"
+      },
+      "10600042": {
+        "id": 10600042,
+        "gid": 1060004,
+        "name": "Blooms in the Night Sky",
+        "type": "Swimsuits",
+        "desc": "H-hey, so... I think I twisted my ankle a little. Can we rest here for a little bit? There's a place we can sit over there... Is that okay with you?",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 144,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/164.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600042/shipyard.png"
       }
     }
   },
@@ -55321,8 +57100,114 @@
       }
     }
   },
-  
-  
+  "1140001": {
+    "gid": 1140001,
+    "name": "Hestia",
+    "skins": {
+      "11400010": {
+        "id": 11400010,
+        "gid": 1140001,
+        "name": "Hestia",
+        "type": "Default",
+        "desc": "I'm Hestia, the Patron Goddess of Hestia Familia, believe it or not! What? That doesn't surprise you at all? Hmm. You're nothing like the kiddos I've seen before.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/shipyard.png"
+      },
+      "11400011": {
+        "id": 11400011,
+        "gid": 1140001,
+        "name": "Godly Vacation!",
+        "type": "Swimsuits",
+        "desc": "Hey-hey, Commander! You're finally here. I've been waiting my butt off! I've already had the full beach experience... Ah, wait, I still have things I wanna do, so do me a solid and stick around!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/539.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/shipyard.png"
+      }
+    }
+  },
+  "1140002": {
+    "gid": 1140002,
+    "name": "Ryu Lion",
+    "skins": {
+      "11400020": {
+        "id": 11400020,
+        "gid": 1140002,
+        "name": "Ryu Lion",
+        "type": "Default",
+        "desc": "Who are you? No – Where am I? This doesn't look like Orario. You must be the one who saved me, so thank you. My name is Ryu Lion, and I work as a waitress at the Hostess of Fertility pub in Orario.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/shipyard.png"
+      },
+      "11400021": {
+        "id": 11400021,
+        "gid": 1140002,
+        "name": "Night at the Pub",
+        "type": "Maid",
+        "desc": "W-welcome... Don't stare at me, please. This pub's uniforms are a little revealing, so I'm nervous. I-if you insist, though, I can make time to chat after closing time.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/163.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/shipyard.png"
+      }
+    }
+  },
   "1150001": {
     "gid": 1150001,
     "name": "Tohka Yatogami",
@@ -55643,6 +57528,330 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/shipyard.png"
+      }
+    }
+  },
+  "1060010": {
+    "gid": 1060010,
+    "name": "Elise",
+    "skins": {
+      "10600100": {
+        "id": 10600100,
+        "gid": 1060010,
+        "name": "Elise",
+        "type": "Default",
+        "desc": "Hm? Where am I... and who are YOU? The... Commander? My name is Elise. I came here to play the role of instructor, but it looks like there have been some complications. Apologies for my forwardness, but would you allow me to stay here for a spell?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 106,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600100/shipyard.png"
+      },
+      "10600101": {
+        "id": 10600101,
+        "gid": 1060010,
+        "name": "One Divine Afternoon",
+        "type": "Swimsuits",
+        "desc": "What's the matter? You look like you're spacing out... Huh? You think I'm charming? You always know just what to say. If that's how you feel, then... why don't you come and keep me company?",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 106,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/701.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600101/shipyard.png"
+      }
+    }
+  },
+  "1060011": {
+    "gid": 1060011,
+    "name": "Shizuku",
+    "skins": {
+      "10600110": {
+        "id": 10600110,
+        "gid": 1060011,
+        "name": "Shizuku",
+        "type": "Default",
+        "desc": "Don't get caught, don't get your cover blown... Hide carefully... Ack, I'm sorry! I'll leave right away... Hm? My ears and tail? Oh, I'm just cosplaying a fox, haha... Wait, did you say there are other girls like me around here? Okay... Umm, my name is Shizuku, and I'm a fox spirit. You mind if I stay here for now...?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 350,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600110/shipyard.png"
+      },
+      "10600111": {
+        "id": 10600111,
+        "gid": 1060011,
+        "name": "Frolicking in the Tide",
+        "type": "Swimsuits",
+        "desc": "Hehe, hey there. You'll get swept away over there... I love your little house! ...Oh, Commander? Yeah, I'm just playing with my little friends in the sea. This rock is the perfect hiding spot, so nobody can see us. It's really relaxing... Kon!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 350,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/701.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600111/shipyard.png"
+      }
+    }
+  },
+  "1060012": {
+    "gid": 1060012,
+    "name": "Shandy",
+    "skins": {
+      "10600120": {
+        "id": 10600120,
+        "gid": 1060012,
+        "name": "Shandy",
+        "type": "Default",
+        "desc": "Oh? Good evening. What's your name? ...You saw me looking pensive and came to say hi? Hehe, well, aren't you easy? My name is Shandy... though that's just a professional alias. We have all the time in the world – come and chat with me.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 173,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600120/shipyard.png"
+      },
+      "10600121": {
+        "id": 10600121,
+        "gid": 1060012,
+        "name": "An Enchanting Sip",
+        "type": "Swimsuits",
+        "desc": "Welcome... Aww, did I startle you? Hehe, but why? I thought you of all people would appreciate this seductive vibe, Commander. Hmm... I'll pose for you, if you'd like. Just say the word!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 173,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/180.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600121/shipyard.png"
+      }
+    }
+  },
+  "1060013": {
+    "gid": 1060013,
+    "name": "Tsukushi",
+    "skins": {
+      "10600130": {
+        "id": 10600130,
+        "gid": 1060013,
+        "name": "Tsukushi",
+        "type": "Default",
+        "desc": "Blue skies... White clouds... A sparkly, endless sea... Hehe! What a beautiful view... Huh? Wh-where am I... Whoa?! Wh-who goes there? Huh? A Commander? You wanna know where I came from...? Umm, sorry. My name is Tsukushi. Do you know where we are, exactly?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 333,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600130/shipyard.png"
+      },
+      "10600131": {
+        "id": 10600131,
+        "gid": 1060013,
+        "name": "Dream Machine",
+        "type": "Swimsuits",
+        "desc": "H-hey, Commander... Do you think the people here could build one of those machines where you lie down in bed, and the machine's arms give you a full-body massage?",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 333,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/193.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600131/shipyard.png"
+      }
+    }
+  },
+  "1060014": {
+    "gid": 1060014,
+    "name": "Patty",
+    "skins": {
+      "10600140": {
+        "id": 10600140,
+        "gid": 1060014,
+        "name": "Patty",
+        "type": "Default",
+        "desc": "Mmm... The wind, sea, and sun all smell wonderful! *sniff*... What's that smell? Wait, who are you? A... Commander? Hello hello! Hm? Me? I'm Patty, of course. By the way, what is this place? ...Ooh, okay. I'll trust you, then! I'm not worried, since you smell like such a good person...",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 52,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600140/shipyard.png"
+      },
+      "10600141": {
+        "id": 10600141,
+        "gid": 1060014,
+        "name": "Fluffy-Wuffy Paradise",
+        "type": "Swimsuits",
+        "desc": "Oh, Commander! Hello hello! *sniff*... Huh? You smell like you're plotting something... Is it my bunny-like softness you're after? Well... If you can catch me, you can fluff me all you want! Hahaha!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 52,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/145.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600141/shipyard.png"
+      }
+    }
+  },
+  "1060015": {
+    "gid": 1060015,
+    "name": "Yukino",
+    "skins": {
+      "10600150": {
+        "id": 10600150,
+        "gid": 1060015,
+        "name": "Yukino",
+        "type": "Default",
+        "desc": "Oh, man... Where am I? This sucks... Hey you, can you point me in the right... Huh? Me? I'm Yukino. Nice to meetcha! Oh, so, I rushed here 'cause I heard Tamaki was here... Guess I'm lost now. Mind taking little ol' me in for a while? Hehehe!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 291,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600150/shipyard.png"
+      },
+      "10600151": {
+        "id": 10600151,
+        "gid": 1060015,
+        "name": "Charming Beast",
+        "type": "Swimsuits",
+        "desc": "Ooh, is this carnivorous vibe what you're into, Commander? No prob! I'll make all your dreams come true... Roooar! Haha, did that scare you? Get your heart pounding? Hehehe!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 291,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/10600151/shipyard.png"
       }
     }
   },
@@ -55993,6 +58202,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399014/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399014/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399014/shipyard.png"
+      },
+      "399015": {
+        "id": 399015,
+        "gid": 39901,
+        "name": "Traces of Summery Love",
+        "type": "Swimsuits",
+        "desc": "Thank you for accepting my invitation... The sea breeze blows pleasantly here, but if it's still too hot for you, allow Ibuki to present you with some cold ramune... Milord, if you would like some... Wh-what's drawn in the sand behind me? I-it's nothing...!",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 107,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/164.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399015/shipyard.png"
       }
     }
   },
@@ -58378,6 +60612,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499091/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499091/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499091/shipyard.png"
+      },
+      "499092": {
+        "id": 499092,
+        "gid": 49909,
+        "name": "Dancer of the Deep Chamber",
+        "type": "Empery'S Fineries",
+        "desc": "Contract Binder, have you heard of a thing called \"the Dance of Control\"? Heehee – yes. What do you say to a little \"game\" between us? Whoever is defeated... loses everything.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 372,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/157.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499092/shipyard.png"
       }
     }
   },
@@ -60574,6 +62833,90 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701110/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701110/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701110/shipyard.png"
+      }
+    }
+  },
+  "970510": {
+    "gid": 970510,
+    "name": "Gangut META",
+    "skins": {
+      "9705100": {
+        "id": 9705100,
+        "gid": 970510,
+        "name": "Gangut META",
+        "type": "Default",
+        "desc": "unknown",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 222,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/shipyard.png"
+      }
+    }
+  },
+  "970211": {
+    "gid": 970211,
+    "name": "Regensburg META",
+    "skins": {
+      "9702110": {
+        "id": 9702110,
+        "gid": 970211,
+        "name": "Regensburg META",
+        "type": "Default",
+        "desc": "I am Regensburg, an elector of the Holy Unitas Empire. Hmph, I hope you're not as tedious as those caged beasts, Commander. Taming someone like you is a far better use of my time.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 362,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/shipyard.png"
+      }
+    }
+  },
+  "970210": {
+    "gid": 970210,
+    "name": "Köln META",
+    "skins": {
+      "9702100": {
+        "id": 9702100,
+        "gid": 970210,
+        "name": "Köln META",
+        "type": "Default",
+        "desc": "I'm Köln, an elector of the Holy Unitas Empire. My specialty is in the fields of military and governmental affairs. I hope that our partnership will function like a well-oiled machine.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 78,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702100/shipyard.png"
       }
     }
   }

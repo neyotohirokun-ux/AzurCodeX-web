@@ -1,0 +1,160 @@
+{
+  "id": 535,
+  "gid": 70110,
+  "cid": 1,
+  "sid": [
+    701101,
+    701102,
+    701103,
+    701104
+  ],
+  "name": "Kiev",
+  "codename": "SN Kiev",
+  "class": "Kiev-Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Abyssal Refrain"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.65
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 409,
+    "firepower": 32,
+    "torpedo": 50,
+    "antiair": 35,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 68,
+    "evasion": 66,
+    "speed": 50.4,
+    "luck": 50,
+    "asw": 51
+  },
+  "growth": {
+    "health": 11640,
+    "firepower": 440,
+    "torpedo": 686,
+    "antiair": 772,
+    "aviation": 0,
+    "reload": 529,
+    "accuracy": 1050,
+    "evasion": 1223,
+    "speed": 0,
+    "luck": 0,
+    "asw": 583
+  },
+  "enhance": {
+    "firepower": 31,
+    "torpedo": 50,
+    "reload": 57
+  },
+  "skill": {
+    "15240": {
+      "id": 15240,
+      "parent": 15240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15250": {
+      "id": 15250,
+      "parent": 15250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29821": {
+      "id": 29821,
+      "parent": 29821,
+      "upgrade": 29822,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29822": {
+      "id": 29822,
+      "parent": 29821,
+      "upgrade": null,
+      "downgrade": 29821,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

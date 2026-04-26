@@ -1,0 +1,163 @@
+{
+  "id": 727,
+  "gid": 70303,
+  "cid": 1,
+  "sid": [
+    703031,
+    703032,
+    703033,
+    703034
+  ],
+  "name": "Moskva",
+  "codename": "SN Moskva",
+  "class": "Moskva",
+  "nationality": 7,
+  "obtain": [
+    "Event: Springtide Inn Online"
+  ],
+  "type": 3,
+  "rarity": 6,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "B",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1307,
+    "firepower": 54,
+    "torpedo": 0,
+    "antiair": 75,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 53,
+    "evasion": 16,
+    "speed": 27.6,
+    "luck": 66,
+    "asw": 0
+  },
+  "growth": {
+    "health": 33493,
+    "firepower": 726,
+    "torpedo": 0,
+    "antiair": 1551,
+    "aviation": 0,
+    "reload": 531,
+    "accuracy": 784,
+    "evasion": 485,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 53,
+    "reload": 57
+  },
+  "skill": {
+    "30591": {
+      "id": 30591,
+      "parent": 30591,
+      "upgrade": 30592,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30592": {
+      "id": 30592,
+      "parent": 30591,
+      "upgrade": null,
+      "downgrade": 30591,
+      "requirement": "Limit Break 3"
+    },
+    "152140": {
+      "id": 152140,
+      "parent": 152140,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152150": {
+      "id": 152150,
+      "parent": 152150,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152160": {
+      "id": 152160,
+      "parent": 152160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

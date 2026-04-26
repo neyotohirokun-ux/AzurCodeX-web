@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 807010,
+      "gid": 80701,
+      "name": "Béarn",
+      "type": "Default",
+      "desc": "Aircraft carrier – Béarn.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 235,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80701/807010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80701/807010/banner.png",
+      "chibi": "img/skin/80701/807010/chibi.png",
+      "icon": "img/skin/80701/807010/icon.png",
+      "qicon": "img/skin/80701/807010/qicon.png",
+      "shipyard": "img/skin/80701/807010/shipyard.png",
+      "spine_chibi": "spine/chibi/beiyaen/beiyaen",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 807011,
+      "gid": 80701,
+      "name": "Summer Lifeguard",
+      "type": "Swimsuits",
+      "desc": "Are you perhaps feeling unwell, Commander? Oh, I see, you're just looking for a shaded place to rest? Acknowledged. In that case, you may sit here if you'd like.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 235,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/80701/807011/painting.png",
+      "painting_n": "img/skin/80701/807011/painting_n.png",
+      "banner": "img/skin/80701/807011/banner.png",
+      "chibi": "img/skin/80701/807011/chibi.png",
+      "icon": "img/skin/80701/807011/icon.png",
+      "qicon": "img/skin/80701/807011/qicon.png",
+      "shipyard": "img/skin/80701/807011/shipyard.png",
+      "spine_chibi": "spine/chibi/beiyaen/beiyaen_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

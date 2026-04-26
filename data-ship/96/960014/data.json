@@ -1,0 +1,143 @@
+{
+  "id": 711,
+  "gid": 960014,
+  "cid": 1,
+  "sid": [
+    9600141,
+    9600142,
+    9600143,
+    9600144
+  ],
+  "name": "Pearl",
+  "codename": "MOT Pearl",
+  "class": "Pearl",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and Islas de Libertád"
+  ],
+  "type": 24,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +1",
+      "Main gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +2",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 158,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 974,
+    "firepower": 84,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 25,
+    "evasion": 6,
+    "speed": 26,
+    "luck": 60,
+    "asw": 0
+  },
+  "growth": {
+    "health": 26143,
+    "firepower": 1026,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 463,
+    "accuracy": 370,
+    "evasion": 227,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 84,
+    "reload": 50
+  },
+  "skill": {
+    "151770": {
+      "id": 151770,
+      "parent": 151770,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151780": {
+      "id": 151780,
+      "parent": 151780,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

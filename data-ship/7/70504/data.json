@@ -1,0 +1,145 @@
+{
+  "id": 440,
+  "gid": 70504,
+  "cid": 1,
+  "sid": [
+    705041,
+    705042,
+    705043,
+    705044
+  ],
+  "name": "Sovetskaya Belorussiya",
+  "codename": "SN Sovetskaya Belorussiya",
+  "class": "Sovetsky Soyuz Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Khorovod of Dawn's Rime",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1372,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 40,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 25,
+    "evasion": 8,
+    "speed": 28,
+    "luck": 46,
+    "asw": 0
+  },
+  "growth": {
+    "health": 37110,
+    "firepower": 1011,
+    "torpedo": 0,
+    "antiair": 879,
+    "aviation": 0,
+    "reload": 400,
+    "accuracy": 395,
+    "evasion": 212,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 43
+  },
+  "skill": {
+    "14150": {
+      "id": 14150,
+      "parent": 14150,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14160": {
+      "id": 14160,
+      "parent": 14160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": 523,
+  "gid": 80108,
+  "cid": 1,
+  "sid": [
+    801081,
+    801082,
+    801083,
+    801084
+  ],
+  "name": "Maillé Brézé",
+  "codename": "FFNF Maillé Brézé",
+  "class": "Vauquelin Class ",
+  "nationality": 8,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Light Ship Construction"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 301,
+    "firepower": 20,
+    "torpedo": 50,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 69,
+    "evasion": 78,
+    "speed": 43.2,
+    "luck": 35,
+    "asw": 52
+  },
+  "growth": {
+    "health": 1914,
+    "firepower": 110,
+    "torpedo": 274,
+    "antiair": 157,
+    "aviation": 0,
+    "reload": 209,
+    "accuracy": 212,
+    "evasion": 272,
+    "speed": 43.2,
+    "luck": 35,
+    "asw": 214
+  },
+  "enhance": {
+    "firepower": 20,
+    "torpedo": 50,
+    "reload": 56
+  },
+  "skill": {
+    "14950": {
+      "id": 14950,
+      "parent": 14950,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "28031": {
+      "id": 28031,
+      "parent": 28031,
+      "upgrade": 28032,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28032": {
+      "id": 28032,
+      "parent": 28031,
+      "upgrade": null,
+      "downgrade": 28031,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

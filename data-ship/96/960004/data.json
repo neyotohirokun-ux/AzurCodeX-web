@@ -1,0 +1,159 @@
+{
+  "id": 611,
+  "gid": 960004,
+  "cid": 1,
+  "sid": [
+    9600041,
+    9600042,
+    9600043,
+    9600044
+  ],
+  "name": "Mary Celeste",
+  "codename": "MOT Mary Celeste",
+  "class": "Mary Celeste",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Fountain of Youth",
+    "Special Construction"
+  ],
+  "type": 22,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "Improve Hunting range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "Main gun base +1",
+      "Improve Hunting range"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 403,
+    "firepower": 35,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 53,
+    "evasion": 21,
+    "speed": 18,
+    "luck": 81,
+    "asw": 0
+  },
+  "growth": {
+    "health": 11493,
+    "firepower": 478,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 400,
+    "accuracy": 784,
+    "evasion": 584,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 34,
+    "reload": 43
+  },
+  "skill": {
+    "17160": {
+      "id": 17160,
+      "parent": 17160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17170": {
+      "id": 17170,
+      "parent": 17170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30131": {
+      "id": 30131,
+      "parent": 30131,
+      "upgrade": 30132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30132": {
+      "id": 30132,
+      "parent": 30131,
+      "upgrade": null,
+      "downgrade": 30131,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": 709,
+  "gid": 960012,
+  "cid": 1,
+  "sid": [
+    9600121,
+    9600122,
+    9600123,
+    9600124
+  ],
+  "name": "Queen Anne's Revenge",
+  "codename": "MOT Queen Anne's Revenge",
+  "class": "Queen Anne's Revenge",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and Islas de Libertád"
+  ],
+  "type": 24,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +1",
+      "Main gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +2",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 158,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 962,
+    "firepower": 87,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 71,
+    "accuracy": 20,
+    "evasion": 15,
+    "speed": 18,
+    "luck": 70,
+    "asw": 0
+  },
+  "growth": {
+    "health": 27403,
+    "firepower": 1050,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 492,
+    "accuracy": 291,
+    "evasion": 356,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 86,
+    "reload": 53
+  },
+  "skill": {
+    "151750": {
+      "id": 151750,
+      "parent": 151750,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151760": {
+      "id": 151760,
+      "parent": 151760,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}
