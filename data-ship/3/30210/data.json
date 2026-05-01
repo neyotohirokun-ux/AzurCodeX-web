@@ -1,0 +1,200 @@
+{
+  "id": 188,
+  "gid": 30210,
+  "cid": 1,
+  "sid": [
+    302101,
+    302102,
+    302103,
+    302104,
+    303154
+  ],
+  "name": "Mogami",
+  "codename": "IJN Mogami",
+  "class": "Mogami Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Visitors Dyed in Red",
+    "Requisition (random chance)",
+    "Guild Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "D",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 303154,
+    "level": 85,
+    "bonus": {
+      "health": 280,
+      "reload": 5,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 40,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 40,
+      "torpedo": 10
+    },
+    "skill": 18812,
+    "skin": 302109,
+    "armor": 2,
+    "hexagon": [
+      "A",
+      "C",
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "type": 3
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 686,
+    "firepower": 37,
+    "torpedo": 34,
+    "antiair": 35,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 51,
+    "evasion": 14,
+    "speed": 29.6,
+    "luck": 14,
+    "asw": 11
+  },
+  "growth": {
+    "health": 4109,
+    "firepower": 204,
+    "torpedo": 188,
+    "antiair": 190,
+    "aviation": 0,
+    "reload": 191,
+    "accuracy": 153,
+    "evasion": 85,
+    "speed": 29.6,
+    "luck": 14,
+    "asw": 46
+  },
+  "enhance": {
+    "firepower": 37,
+    "torpedo": 34,
+    "reload": 52
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "4111": {
+      "id": 4111,
+      "parent": 4111,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "18812": {
+      "id": 18812,
+      "parent": 18812,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22251": {
+      "id": 22251,
+      "parent": 22251,
+      "upgrade": 22252,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22252": {
+      "id": 22252,
+      "parent": 22251,
+      "upgrade": 22253,
+      "downgrade": 22251,
+      "requirement": "Limit Break 3"
+    },
+    "22253": {
+      "id": 22253,
+      "parent": 22251,
+      "upgrade": null,
+      "downgrade": 22252,
+      "requirement": "Retrofit"
+    }
+  }
+}

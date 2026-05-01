@@ -1,0 +1,143 @@
+{
+  "id": 652,
+  "gid": 90402,
+  "cid": 1,
+  "sid": [
+    904021,
+    904022,
+    904023,
+    904024
+  ],
+  "name": "Strasbourg",
+  "codename": "MNF Strasbourg",
+  "class": "Dunkerque Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Interlude of Illusions"
+  ],
+  "type": 4,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1170,
+    "firepower": 71,
+    "torpedo": 0,
+    "antiair": 44,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 24,
+    "evasion": 9,
+    "speed": 31,
+    "luck": 35,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7213,
+    "firepower": 381,
+    "torpedo": 0,
+    "antiair": 242,
+    "aviation": 0,
+    "reload": 172,
+    "accuracy": 73,
+    "evasion": 43,
+    "speed": 31,
+    "luck": 35,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 70,
+    "reload": 47
+  },
+  "skill": {
+    "150250": {
+      "id": 150250,
+      "parent": 150250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150260": {
+      "id": 150260,
+      "parent": 150260,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

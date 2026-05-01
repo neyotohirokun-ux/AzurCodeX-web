@@ -1,0 +1,164 @@
+{
+  "id": 111,
+  "gid": 20208,
+  "cid": 1,
+  "sid": [
+    202081,
+    202082,
+    202083,
+    202084
+  ],
+  "name": "Sheffield",
+  "codename": "HMS Sheffield",
+  "class": "Southampton Class ",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Guild Shop",
+    "Requisition (random chance)"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "C"
+  ],
+  "share_group": [
+    20225
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 656,
+    "firepower": 29,
+    "torpedo": 55,
+    "antiair": 67,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 55,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 78,
+    "asw": 21
+  },
+  "growth": {
+    "health": 3884,
+    "firepower": 158,
+    "torpedo": 299,
+    "antiair": 358,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 164,
+    "evasion": 119,
+    "speed": 32,
+    "luck": 78,
+    "asw": 89
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 54,
+    "reload": 50
+  },
+  "skill": {
+    "11140": {
+      "id": 11140,
+      "parent": 11140,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11150": {
+      "id": 11150,
+      "parent": 11150,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21151": {
+      "id": 21151,
+      "parent": 21151,
+      "upgrade": 21152,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21152": {
+      "id": 21152,
+      "parent": 21151,
+      "upgrade": null,
+      "downgrade": 21151,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

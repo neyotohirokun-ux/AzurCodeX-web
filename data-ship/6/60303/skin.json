@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 603030,
+      "gid": 60303,
+      "name": "Pola",
+      "type": "Default",
+      "desc": "Zara-class heavy cruiser – Pola.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 146,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60303/603030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60303/603030/banner.png",
+      "chibi": "img/skin/60303/603030/chibi.png",
+      "icon": "img/skin/60303/603030/icon.png",
+      "qicon": "img/skin/60303/603030/qicon.png",
+      "shipyard": "img/skin/60303/603030/shipyard.png",
+      "spine_chibi": "spine/chibi/bola/bola",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 603031,
+      "gid": 60303,
+      "name": "Seaside Coincidence",
+      "type": "Swimsuits",
+      "desc": "Zara, how dastardly of you to spike the ball at such a time– Eek?! Commander?! Why are you in a place like that?",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 146,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/117.png",
+      "background2": null,
+      "painting": "img/skin/60303/603031/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60303/603031/banner.png",
+      "chibi": "img/skin/60303/603031/chibi.png",
+      "icon": "img/skin/60303/603031/icon.png",
+      "qicon": "img/skin/60303/603031/qicon.png",
+      "shipyard": "img/skin/60303/603031/shipyard.png",
+      "spine_chibi": "spine/chibi/bola/bola_2",
+      "spine": null,
+      "live2d": "live2d/bola/bola_2",
+      "cost": 1180
+    }
+  ]
+}

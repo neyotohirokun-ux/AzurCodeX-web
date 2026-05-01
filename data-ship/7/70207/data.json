@@ -1,0 +1,160 @@
+{
+  "id": 588,
+  "gid": 70207,
+  "cid": 1,
+  "sid": [
+    702071,
+    702072,
+    702073,
+    702074
+  ],
+  "name": "Voroshilov",
+  "codename": "SN Voroshilov",
+  "class": "Kirov Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Frostfall"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 749,
+    "firepower": 27,
+    "torpedo": 36,
+    "antiair": 77,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 54,
+    "evasion": 39,
+    "speed": 36.5,
+    "luck": 52,
+    "asw": 37
+  },
+  "growth": {
+    "health": 4480,
+    "firepower": 150,
+    "torpedo": 199,
+    "antiair": 408,
+    "aviation": 0,
+    "reload": 190,
+    "accuracy": 162,
+    "evasion": 148,
+    "speed": 36.5,
+    "luck": 52,
+    "asw": 156
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 36,
+    "reload": 51
+  },
+  "skill": {
+    "16630": {
+      "id": 16630,
+      "parent": 16630,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16640": {
+      "id": 16640,
+      "parent": 16640,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29991": {
+      "id": 29991,
+      "parent": 29991,
+      "upgrade": 29992,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29992": {
+      "id": 29992,
+      "parent": 29991,
+      "upgrade": null,
+      "downgrade": 29991,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

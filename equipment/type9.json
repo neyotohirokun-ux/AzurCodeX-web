@@ -1,0 +1,4525 @@
+{
+  "17280": {
+    "name": "F4U (VBF-94 Squadron)",
+    "desc": "The VBF-94 squadron that served with Lexington.",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 9,
+    "skill": {
+      "[61000, 1]": null
+    },
+    "icon": "img/equipment/17280.png",
+    "stats": {
+      "1": {
+        "id": 17280,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          19320
+        ]
+      },
+      "2": {
+        "id": 17281,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          19321
+        ]
+      },
+      "3": {
+        "id": 17282,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          19322
+        ]
+      },
+      "4": {
+        "id": 17283,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          19323
+        ]
+      },
+      "5": {
+        "id": 17284,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          19324
+        ]
+      },
+      "6": {
+        "id": 17285,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          19325
+        ]
+      },
+      "7": {
+        "id": 17286,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          19326
+        ]
+      },
+      "8": {
+        "id": 17287,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          19327
+        ]
+      },
+      "9": {
+        "id": 17288,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          19328
+        ]
+      },
+      "10": {
+        "id": 17289,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          19329
+        ]
+      },
+      "11": {
+        "id": 17290,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          19330
+        ]
+      },
+      "12": {
+        "id": 17291,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          19331
+        ]
+      },
+      "13": {
+        "id": 17292,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          19332
+        ]
+      },
+      "14": {
+        "id": 17293,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          19333
+        ]
+      }
+    }
+  },
+  "19000": {
+    "name": "SBD Dauntless",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 1,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19000.png",
+    "stats": {
+      "1": {
+        "id": 19000,
+        "level": 1,
+        "enhance": "+0",
+        "weapon_id": [
+          19000
+        ]
+      },
+      "2": {
+        "id": 19001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          19001
+        ]
+      },
+      "3": {
+        "id": 19002,
+        "level": 3,
+        "enhance": "+2",
+        "weapon_id": [
+          19002
+        ]
+      },
+      "4": {
+        "id": 19003,
+        "level": 4,
+        "enhance": "+3",
+        "weapon_id": [
+          19003
+        ]
+      }
+    }
+  },
+  "19020": {
+    "name": "SBD Dauntless",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19000.png",
+    "stats": {
+      "1": {
+        "id": 19020,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          19020
+        ]
+      },
+      "2": {
+        "id": 19021,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          19021
+        ]
+      },
+      "3": {
+        "id": 19022,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          19022
+        ]
+      },
+      "4": {
+        "id": 19023,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          19023
+        ]
+      }
+    }
+  },
+  "19040": {
+    "name": "SBD Dauntless",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19000.png",
+    "stats": {
+      "1": {
+        "id": 19040,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          19040
+        ]
+      },
+      "2": {
+        "id": 19041,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          19041
+        ]
+      },
+      "3": {
+        "id": 19042,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          19042
+        ]
+      },
+      "4": {
+        "id": 19043,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          19043
+        ]
+      },
+      "5": {
+        "id": 19044,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          19044
+        ]
+      },
+      "6": {
+        "id": 19045,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          19045
+        ]
+      },
+      "7": {
+        "id": 19046,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          19046
+        ]
+      },
+      "8": {
+        "id": 19047,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          19047
+        ]
+      }
+    }
+  },
+  "19060": {
+    "name": "SBD Dauntless (McClusky Division)",
+    "desc": "The SBD Dauntless Dive Bombers, launched from the Enterprise, were known as heroes during the Battle of Midway.",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 9,
+    "skill": {
+      "[6240, 1]": null
+    },
+    "icon": "img/equipment/19060.png",
+    "stats": {
+      "1": {
+        "id": 19060,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          19060
+        ]
+      },
+      "2": {
+        "id": 19061,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          19061
+        ]
+      },
+      "3": {
+        "id": 19062,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          19062
+        ]
+      },
+      "4": {
+        "id": 19063,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          19063
+        ]
+      },
+      "5": {
+        "id": 19064,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          19064
+        ]
+      },
+      "6": {
+        "id": 19065,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          19065
+        ]
+      },
+      "7": {
+        "id": 19066,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          19066
+        ]
+      },
+      "8": {
+        "id": 19067,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          19067
+        ]
+      },
+      "9": {
+        "id": 19068,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          19068
+        ]
+      },
+      "10": {
+        "id": 19069,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          19069
+        ]
+      },
+      "11": {
+        "id": 19070,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          19070
+        ]
+      },
+      "12": {
+        "id": 19071,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          19071
+        ]
+      },
+      "13": {
+        "id": 19072,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          19072
+        ]
+      },
+      "14": {
+        "id": 19073,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          19073
+        ]
+      }
+    }
+  },
+  "19100": {
+    "name": "SB2C Helldiver",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19100.png",
+    "stats": {
+      "1": {
+        "id": 19100,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          19100
+        ]
+      },
+      "2": {
+        "id": 19101,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          19101
+        ]
+      },
+      "3": {
+        "id": 19102,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          19102
+        ]
+      },
+      "4": {
+        "id": 19103,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          19103
+        ]
+      }
+    }
+  },
+  "19120": {
+    "name": "SB2C Helldiver",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19100.png",
+    "stats": {
+      "1": {
+        "id": 19120,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          19120
+        ]
+      },
+      "2": {
+        "id": 19121,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          19121
+        ]
+      },
+      "3": {
+        "id": 19122,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          19122
+        ]
+      },
+      "4": {
+        "id": 19123,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          19123
+        ]
+      },
+      "5": {
+        "id": 19124,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          19124
+        ]
+      },
+      "6": {
+        "id": 19125,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          19125
+        ]
+      },
+      "7": {
+        "id": 19126,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          19126
+        ]
+      }
+    }
+  },
+  "19140": {
+    "name": "SB2C Helldiver",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19100.png",
+    "stats": {
+      "1": {
+        "id": 19140,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          19140
+        ]
+      },
+      "2": {
+        "id": 19141,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          19141
+        ]
+      },
+      "3": {
+        "id": 19142,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          19142
+        ]
+      },
+      "4": {
+        "id": 19143,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          19143
+        ]
+      },
+      "5": {
+        "id": 19144,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          19144
+        ]
+      },
+      "6": {
+        "id": 19145,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          19145
+        ]
+      },
+      "7": {
+        "id": 19146,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          19146
+        ]
+      },
+      "8": {
+        "id": 19147,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          19147
+        ]
+      },
+      "9": {
+        "id": 19148,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          19148
+        ]
+      },
+      "10": {
+        "id": 19149,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          19149
+        ]
+      },
+      "11": {
+        "id": 19150,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          19150
+        ]
+      },
+      "12": {
+        "id": 19151,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          19151
+        ]
+      }
+    }
+  },
+  "19160": {
+    "name": "Experimental XSB3C-1",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19160.png",
+    "stats": {
+      "1": {
+        "id": 19160,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          19160
+        ]
+      },
+      "2": {
+        "id": 19161,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          19161
+        ]
+      },
+      "3": {
+        "id": 19162,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          19162
+        ]
+      },
+      "4": {
+        "id": 19163,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          19163
+        ]
+      },
+      "5": {
+        "id": 19164,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          19164
+        ]
+      },
+      "6": {
+        "id": 19165,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          19165
+        ]
+      },
+      "7": {
+        "id": 19166,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          19166
+        ]
+      },
+      "8": {
+        "id": 19167,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          19167
+        ]
+      },
+      "9": {
+        "id": 19168,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          19168
+        ]
+      },
+      "10": {
+        "id": 19169,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          19169
+        ]
+      },
+      "11": {
+        "id": 19170,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          19170
+        ]
+      },
+      "12": {
+        "id": 19171,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          19171
+        ]
+      },
+      "13": {
+        "id": 19172,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          19172
+        ]
+      },
+      "14": {
+        "id": 19173,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          19173
+        ]
+      }
+    }
+  },
+  "19200": {
+    "name": "BTD-1 Destroyer",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19200.png",
+    "stats": {
+      "1": {
+        "id": 19200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          19200
+        ]
+      },
+      "2": {
+        "id": 19201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          19201
+        ]
+      },
+      "3": {
+        "id": 19202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          19202
+        ]
+      },
+      "4": {
+        "id": 19203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          19203
+        ]
+      },
+      "5": {
+        "id": 19204,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          19204
+        ]
+      },
+      "6": {
+        "id": 19205,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          19205
+        ]
+      },
+      "7": {
+        "id": 19206,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          19206
+        ]
+      }
+    }
+  },
+  "19220": {
+    "name": "BTD-1 Destroyer",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19200.png",
+    "stats": {
+      "1": {
+        "id": 19220,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          19220
+        ]
+      },
+      "2": {
+        "id": 19221,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          19221
+        ]
+      },
+      "3": {
+        "id": 19222,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          19222
+        ]
+      },
+      "4": {
+        "id": 19223,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          19223
+        ]
+      },
+      "5": {
+        "id": 19224,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          19224
+        ]
+      },
+      "6": {
+        "id": 19225,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          19225
+        ]
+      },
+      "7": {
+        "id": 19226,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          19226
+        ]
+      },
+      "8": {
+        "id": 19227,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          19227
+        ]
+      },
+      "9": {
+        "id": 19228,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          19228
+        ]
+      },
+      "10": {
+        "id": 19229,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          19229
+        ]
+      },
+      "11": {
+        "id": 19230,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          19230
+        ]
+      }
+    }
+  },
+  "19240": {
+    "name": "BTD-1 Destroyer",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19200.png",
+    "stats": {
+      "1": {
+        "id": 19240,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          19240
+        ]
+      },
+      "2": {
+        "id": 19241,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          19241
+        ]
+      },
+      "3": {
+        "id": 19242,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          19242
+        ]
+      },
+      "4": {
+        "id": 19243,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          19243
+        ]
+      },
+      "5": {
+        "id": 19244,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          19244
+        ]
+      },
+      "6": {
+        "id": 19245,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          19245
+        ]
+      },
+      "7": {
+        "id": 19246,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          19246
+        ]
+      },
+      "8": {
+        "id": 19247,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          19247
+        ]
+      },
+      "9": {
+        "id": 19248,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          19248
+        ]
+      },
+      "10": {
+        "id": 19249,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          19249
+        ]
+      },
+      "11": {
+        "id": 19250,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          19250
+        ]
+      },
+      "12": {
+        "id": 19251,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          19251
+        ]
+      },
+      "13": {
+        "id": 19252,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          19252
+        ]
+      },
+      "14": {
+        "id": 19253,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          19253
+        ]
+      }
+    }
+  },
+  "19300": {
+    "name": "AD-1 Skyraider",
+    "desc": "An innovative carrier-based aircraft made by the Eagle Union, equipped with both rockets and bombs.",
+    "label": [
+      "USS",
+      "CV",
+      "DB",
+      "HERK"
+    ],
+    "rarity": 6,
+    "nationality": 1,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/19300.png",
+    "stats": {
+      "1": {
+        "id": 19300,
+        "level": 1,
+        "enhance": "+0",
+        "air": 65,
+        "weapon_id": [
+          19300
+        ]
+      },
+      "2": {
+        "id": 19301,
+        "level": 2,
+        "enhance": "+1",
+        "air": 65,
+        "weapon_id": [
+          19301
+        ]
+      },
+      "3": {
+        "id": 19302,
+        "level": 3,
+        "enhance": "+2",
+        "air": 65,
+        "weapon_id": [
+          19302
+        ]
+      },
+      "4": {
+        "id": 19303,
+        "level": 4,
+        "enhance": "+3",
+        "air": 65,
+        "weapon_id": [
+          19303
+        ]
+      },
+      "5": {
+        "id": 19304,
+        "level": 5,
+        "enhance": "+4",
+        "air": 65,
+        "weapon_id": [
+          19304
+        ]
+      },
+      "6": {
+        "id": 19305,
+        "level": 6,
+        "enhance": "+5",
+        "air": 65,
+        "weapon_id": [
+          19305
+        ]
+      },
+      "7": {
+        "id": 19306,
+        "level": 7,
+        "enhance": "+6",
+        "air": 65,
+        "weapon_id": [
+          19306
+        ]
+      },
+      "8": {
+        "id": 19307,
+        "level": 8,
+        "enhance": "+7",
+        "air": 65,
+        "weapon_id": [
+          19307
+        ]
+      },
+      "9": {
+        "id": 19308,
+        "level": 9,
+        "enhance": "+8",
+        "air": 65,
+        "weapon_id": [
+          19308
+        ]
+      },
+      "10": {
+        "id": 19309,
+        "level": 10,
+        "enhance": "+9",
+        "air": 65,
+        "weapon_id": [
+          19309
+        ]
+      },
+      "11": {
+        "id": 19310,
+        "level": 11,
+        "enhance": "+10",
+        "air": 65,
+        "weapon_id": [
+          19310
+        ]
+      },
+      "12": {
+        "id": 19311,
+        "level": 12,
+        "enhance": "+11",
+        "air": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          19311
+        ]
+      },
+      "13": {
+        "id": 19312,
+        "level": 13,
+        "enhance": "+12",
+        "air": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          19312
+        ]
+      },
+      "14": {
+        "id": 19313,
+        "level": 14,
+        "enhance": "+13",
+        "air": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          19313
+        ]
+      }
+    }
+  },
+  "29000": {
+    "name": "Blackburn Skua",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29000.png",
+    "stats": {
+      "1": {
+        "id": 29000,
+        "level": 1,
+        "enhance": "+0",
+        "weapon_id": [
+          29000
+        ]
+      },
+      "2": {
+        "id": 29001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          29001
+        ]
+      },
+      "3": {
+        "id": 29002,
+        "level": 3,
+        "enhance": "+2",
+        "weapon_id": [
+          29002
+        ]
+      },
+      "4": {
+        "id": 29003,
+        "level": 4,
+        "enhance": "+3",
+        "weapon_id": [
+          29003
+        ]
+      }
+    }
+  },
+  "29020": {
+    "name": "Blackburn Skua",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29000.png",
+    "stats": {
+      "1": {
+        "id": 29020,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          29020
+        ]
+      },
+      "2": {
+        "id": 29021,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          29021
+        ]
+      },
+      "3": {
+        "id": 29022,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          29022
+        ]
+      },
+      "4": {
+        "id": 29023,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          29023
+        ]
+      }
+    }
+  },
+  "29040": {
+    "name": "Blackburn Skua",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29000.png",
+    "stats": {
+      "1": {
+        "id": 29040,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          29040
+        ]
+      },
+      "2": {
+        "id": 29041,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          29041
+        ]
+      },
+      "3": {
+        "id": 29042,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          29042
+        ]
+      },
+      "4": {
+        "id": 29043,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          29043
+        ]
+      },
+      "5": {
+        "id": 29044,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          29044
+        ]
+      },
+      "6": {
+        "id": 29045,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          29045
+        ]
+      },
+      "7": {
+        "id": 29046,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          29046
+        ]
+      },
+      "8": {
+        "id": 29047,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          29047
+        ]
+      }
+    }
+  },
+  "29100": {
+    "name": "Fulmar",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29100.png",
+    "stats": {
+      "1": {
+        "id": 29100,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          29100
+        ]
+      },
+      "2": {
+        "id": 29101,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          29101
+        ]
+      },
+      "3": {
+        "id": 29102,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          29102
+        ]
+      },
+      "4": {
+        "id": 29103,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          29103
+        ]
+      }
+    }
+  },
+  "29120": {
+    "name": "Fulmar",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29100.png",
+    "stats": {
+      "1": {
+        "id": 29120,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          29120
+        ]
+      },
+      "2": {
+        "id": 29121,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          29121
+        ]
+      },
+      "3": {
+        "id": 29122,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          29122
+        ]
+      },
+      "4": {
+        "id": 29123,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          29123
+        ]
+      },
+      "5": {
+        "id": 29124,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          29124
+        ]
+      },
+      "6": {
+        "id": 29125,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          29125
+        ]
+      },
+      "7": {
+        "id": 29126,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          29126
+        ]
+      }
+    }
+  },
+  "29140": {
+    "name": "Fulmar",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29100.png",
+    "stats": {
+      "1": {
+        "id": 29140,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          29140
+        ]
+      },
+      "2": {
+        "id": 29141,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          29141
+        ]
+      },
+      "3": {
+        "id": 29142,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          29142
+        ]
+      },
+      "4": {
+        "id": 29143,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          29143
+        ]
+      },
+      "5": {
+        "id": 29144,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          29144
+        ]
+      },
+      "6": {
+        "id": 29145,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          29145
+        ]
+      },
+      "7": {
+        "id": 29146,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          29146
+        ]
+      },
+      "8": {
+        "id": 29147,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          29147
+        ]
+      },
+      "9": {
+        "id": 29148,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          29148
+        ]
+      },
+      "10": {
+        "id": 29149,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          29149
+        ]
+      },
+      "11": {
+        "id": 29150,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          29150
+        ]
+      },
+      "12": {
+        "id": 29151,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          29151
+        ]
+      }
+    }
+  },
+  "29200": {
+    "name": "Firefly",
+    "desc": "This aircraft was developed as a successor to the Fairey Fulmar. There are many variants on the Firefly design; this is the basic model that features four 20mm cannons and two 1,000-pound bombs.",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29200.png",
+    "stats": {
+      "1": {
+        "id": 29200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          29200
+        ]
+      },
+      "2": {
+        "id": 29201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          29201
+        ]
+      },
+      "3": {
+        "id": 29202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          29202
+        ]
+      },
+      "4": {
+        "id": 29203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          29203
+        ]
+      },
+      "5": {
+        "id": 29204,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          29204
+        ]
+      },
+      "6": {
+        "id": 29205,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          29205
+        ]
+      },
+      "7": {
+        "id": 29206,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          29206
+        ]
+      },
+      "8": {
+        "id": 29207,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          29207
+        ]
+      },
+      "9": {
+        "id": 29208,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          29208
+        ]
+      },
+      "10": {
+        "id": 29209,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          29209
+        ]
+      },
+      "11": {
+        "id": 29210,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          29210
+        ]
+      },
+      "12": {
+        "id": 29211,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          29211
+        ]
+      },
+      "13": {
+        "id": 29212,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          29212
+        ]
+      },
+      "14": {
+        "id": 29213,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          29213
+        ]
+      }
+    }
+  },
+  "29220": {
+    "name": "Fairey Firefly (1771 NAS)",
+    "desc": "A carrier-borne aircraft used by the 1771 Naval Air Squadron which served on the Implacable.",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/29220.png",
+    "stats": {
+      "1": {
+        "id": 29220,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          29220
+        ]
+      },
+      "2": {
+        "id": 29221,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          29221
+        ]
+      },
+      "3": {
+        "id": 29222,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          29222
+        ]
+      },
+      "4": {
+        "id": 29223,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          29223
+        ]
+      },
+      "5": {
+        "id": 29224,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          29224
+        ]
+      },
+      "6": {
+        "id": 29225,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          29225
+        ]
+      },
+      "7": {
+        "id": 29226,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          29226
+        ]
+      },
+      "8": {
+        "id": 29227,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          29227
+        ]
+      },
+      "9": {
+        "id": 29228,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          29228
+        ]
+      },
+      "10": {
+        "id": 29229,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          29229
+        ]
+      },
+      "11": {
+        "id": 29230,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          29230
+        ]
+      },
+      "12": {
+        "id": 29231,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          29231
+        ]
+      },
+      "13": {
+        "id": 29232,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          29232
+        ]
+      },
+      "14": {
+        "id": 29233,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          29233
+        ]
+      }
+    }
+  },
+  "29300": {
+    "name": "Barracuda (831 Squadron)",
+    "desc": "Aircraft from the 831 Naval Air Squadron, equipped with 1,600-pound armor-piercing bombs which were dropped on Tirpitz during Operation Tungsten.",
+    "label": [
+      "HMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 9,
+    "skill": {
+      "[6830, 1]": null
+    },
+    "icon": "img/equipment/29300.png",
+    "stats": {
+      "1": {
+        "id": 29300,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          29300
+        ]
+      },
+      "2": {
+        "id": 29301,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          29301
+        ]
+      },
+      "3": {
+        "id": 29302,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          29302
+        ]
+      },
+      "4": {
+        "id": 29303,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          29303
+        ]
+      },
+      "5": {
+        "id": 29304,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          29304
+        ]
+      },
+      "6": {
+        "id": 29305,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          29305
+        ]
+      },
+      "7": {
+        "id": 29306,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          29306
+        ]
+      },
+      "8": {
+        "id": 29307,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          29307
+        ]
+      },
+      "9": {
+        "id": 29308,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          29308
+        ]
+      },
+      "10": {
+        "id": 29309,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          29309
+        ]
+      },
+      "11": {
+        "id": 29310,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          29310
+        ]
+      },
+      "12": {
+        "id": 29311,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          29311
+        ]
+      },
+      "13": {
+        "id": 29312,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          29312
+        ]
+      },
+      "14": {
+        "id": 29313,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          29313
+        ]
+      }
+    }
+  },
+  "39000": {
+    "name": "Type 99 Dive Bomber",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39000.png",
+    "stats": {
+      "1": {
+        "id": 39000,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          39000
+        ]
+      },
+      "2": {
+        "id": 39001,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          39001
+        ]
+      },
+      "3": {
+        "id": 39002,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          39002
+        ]
+      },
+      "4": {
+        "id": 39003,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          39003
+        ]
+      }
+    }
+  },
+  "39020": {
+    "name": "Type 99 Dive Bomber",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39000.png",
+    "stats": {
+      "1": {
+        "id": 39020,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          39020
+        ]
+      },
+      "2": {
+        "id": 39021,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          39021
+        ]
+      },
+      "3": {
+        "id": 39022,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          39022
+        ]
+      },
+      "4": {
+        "id": 39023,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          39023
+        ]
+      },
+      "5": {
+        "id": 39024,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          39024
+        ]
+      },
+      "6": {
+        "id": 39025,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          39025
+        ]
+      },
+      "7": {
+        "id": 39026,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          39026
+        ]
+      }
+    }
+  },
+  "39040": {
+    "name": "Type 99 Dive Bomber",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39000.png",
+    "stats": {
+      "1": {
+        "id": 39040,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          39040
+        ]
+      },
+      "2": {
+        "id": 39041,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          39041
+        ]
+      },
+      "3": {
+        "id": 39042,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          39042
+        ]
+      },
+      "4": {
+        "id": 39043,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          39043
+        ]
+      },
+      "5": {
+        "id": 39044,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          39044
+        ]
+      },
+      "6": {
+        "id": 39045,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          39045
+        ]
+      },
+      "7": {
+        "id": 39046,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          39046
+        ]
+      },
+      "8": {
+        "id": 39047,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          39047
+        ]
+      },
+      "9": {
+        "id": 39048,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          39048
+        ]
+      },
+      "10": {
+        "id": 39049,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          39049
+        ]
+      },
+      "11": {
+        "id": 39050,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          39050
+        ]
+      },
+      "12": {
+        "id": 39051,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          39051
+        ]
+      }
+    }
+  },
+  "39060": {
+    "name": "Type 99 Dive Bomber Kai",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39060.png",
+    "stats": {
+      "1": {
+        "id": 39060,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          39060
+        ]
+      },
+      "2": {
+        "id": 39061,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          39061
+        ]
+      },
+      "3": {
+        "id": 39062,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          39062
+        ]
+      },
+      "4": {
+        "id": 39063,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          39063
+        ]
+      },
+      "5": {
+        "id": 39064,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          39064
+        ]
+      },
+      "6": {
+        "id": 39065,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          39065
+        ]
+      },
+      "7": {
+        "id": 39066,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          39066
+        ]
+      },
+      "8": {
+        "id": 39067,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          39067
+        ]
+      },
+      "9": {
+        "id": 39068,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          39068
+        ]
+      },
+      "10": {
+        "id": 39069,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          39069
+        ]
+      },
+      "11": {
+        "id": 39070,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          39070
+        ]
+      },
+      "12": {
+        "id": 39071,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          39071
+        ]
+      }
+    }
+  },
+  "39100": {
+    "name": "Suisei",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39100.png",
+    "stats": {
+      "1": {
+        "id": 39100,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          39100
+        ]
+      },
+      "2": {
+        "id": 39101,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          39101
+        ]
+      },
+      "3": {
+        "id": 39102,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          39102
+        ]
+      },
+      "4": {
+        "id": 39103,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          39103
+        ]
+      },
+      "5": {
+        "id": 39104,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          39104
+        ]
+      },
+      "6": {
+        "id": 39105,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          39105
+        ]
+      },
+      "7": {
+        "id": 39106,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          39106
+        ]
+      }
+    }
+  },
+  "39120": {
+    "name": "Suisei",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39100.png",
+    "stats": {
+      "1": {
+        "id": 39120,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          39120
+        ]
+      },
+      "2": {
+        "id": 39121,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          39121
+        ]
+      },
+      "3": {
+        "id": 39122,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          39122
+        ]
+      },
+      "4": {
+        "id": 39123,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          39123
+        ]
+      },
+      "5": {
+        "id": 39124,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          39124
+        ]
+      },
+      "6": {
+        "id": 39125,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          39125
+        ]
+      },
+      "7": {
+        "id": 39126,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          39126
+        ]
+      },
+      "8": {
+        "id": 39127,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          39127
+        ]
+      },
+      "9": {
+        "id": 39128,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          39128
+        ]
+      },
+      "10": {
+        "id": 39129,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          39129
+        ]
+      },
+      "11": {
+        "id": 39130,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          39130
+        ]
+      }
+    }
+  },
+  "39140": {
+    "name": "Suisei",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39100.png",
+    "stats": {
+      "1": {
+        "id": 39140,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          39140
+        ]
+      },
+      "2": {
+        "id": 39141,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          39141
+        ]
+      },
+      "3": {
+        "id": 39142,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          39142
+        ]
+      },
+      "4": {
+        "id": 39143,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          39143
+        ]
+      },
+      "5": {
+        "id": 39144,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          39144
+        ]
+      },
+      "6": {
+        "id": 39145,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          39145
+        ]
+      },
+      "7": {
+        "id": 39146,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          39146
+        ]
+      },
+      "8": {
+        "id": 39147,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          39147
+        ]
+      },
+      "9": {
+        "id": 39148,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          39148
+        ]
+      },
+      "10": {
+        "id": 39149,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          39149
+        ]
+      },
+      "11": {
+        "id": 39150,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          39150
+        ]
+      },
+      "12": {
+        "id": 39151,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          39151
+        ]
+      },
+      "13": {
+        "id": 39152,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          39152
+        ]
+      },
+      "14": {
+        "id": 39153,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          39153
+        ]
+      }
+    }
+  },
+  "39160": {
+    "name": "Suisei Model 12A",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39160.png",
+    "stats": {
+      "1": {
+        "id": 39160,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          39160
+        ]
+      },
+      "2": {
+        "id": 39161,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          39161
+        ]
+      },
+      "3": {
+        "id": 39162,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          39162
+        ]
+      },
+      "4": {
+        "id": 39163,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          39163
+        ]
+      },
+      "5": {
+        "id": 39164,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          39164
+        ]
+      },
+      "6": {
+        "id": 39165,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          39165
+        ]
+      },
+      "7": {
+        "id": 39166,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          39166
+        ]
+      },
+      "8": {
+        "id": 39167,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          39167
+        ]
+      },
+      "9": {
+        "id": 39168,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          39168
+        ]
+      },
+      "10": {
+        "id": 39169,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          39169
+        ]
+      },
+      "11": {
+        "id": 39170,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          39170
+        ]
+      },
+      "12": {
+        "id": 39171,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          39171
+        ]
+      },
+      "13": {
+        "id": 39172,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          39172
+        ]
+      },
+      "14": {
+        "id": 39173,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          39173
+        ]
+      }
+    }
+  },
+  "39320": {
+    "name": "Suisei Model 21",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/39320.png",
+    "stats": {
+      "1": {
+        "id": 39320,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          39320
+        ]
+      },
+      "2": {
+        "id": 39321,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          39321
+        ]
+      },
+      "3": {
+        "id": 39322,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          39322
+        ]
+      },
+      "4": {
+        "id": 39323,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          39323
+        ]
+      },
+      "5": {
+        "id": 39324,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          39324
+        ]
+      },
+      "6": {
+        "id": 39325,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          39325
+        ]
+      },
+      "7": {
+        "id": 39326,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          39326
+        ]
+      },
+      "8": {
+        "id": 39327,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          39327
+        ]
+      },
+      "9": {
+        "id": 39328,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          39328
+        ]
+      },
+      "10": {
+        "id": 39329,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          39329
+        ]
+      },
+      "11": {
+        "id": 39330,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          39330
+        ]
+      },
+      "12": {
+        "id": 39331,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          39331
+        ]
+      },
+      "13": {
+        "id": 39332,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          39332
+        ]
+      },
+      "14": {
+        "id": 39333,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          39333
+        ]
+      }
+    }
+  },
+  "39340": {
+    "name": "Prototype Tenrai",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 6,
+    "nationality": 3,
+    "type": 9,
+    "skill": {
+      "[6860, 1]": null
+    },
+    "icon": "img/equipment/39340.png",
+    "stats": {
+      "1": {
+        "id": 39340,
+        "level": 1,
+        "enhance": "+0",
+        "air": 65,
+        "weapon_id": [
+          39340
+        ]
+      },
+      "2": {
+        "id": 39341,
+        "level": 2,
+        "enhance": "+1",
+        "air": 65,
+        "weapon_id": [
+          39341
+        ]
+      },
+      "3": {
+        "id": 39342,
+        "level": 3,
+        "enhance": "+2",
+        "air": 65,
+        "weapon_id": [
+          39342
+        ]
+      },
+      "4": {
+        "id": 39343,
+        "level": 4,
+        "enhance": "+3",
+        "air": 65,
+        "weapon_id": [
+          39343
+        ]
+      },
+      "5": {
+        "id": 39344,
+        "level": 5,
+        "enhance": "+4",
+        "air": 65,
+        "weapon_id": [
+          39344
+        ]
+      },
+      "6": {
+        "id": 39345,
+        "level": 6,
+        "enhance": "+5",
+        "air": 65,
+        "weapon_id": [
+          39345
+        ]
+      },
+      "7": {
+        "id": 39346,
+        "level": 7,
+        "enhance": "+6",
+        "air": 65,
+        "weapon_id": [
+          39346
+        ]
+      },
+      "8": {
+        "id": 39347,
+        "level": 8,
+        "enhance": "+7",
+        "air": 65,
+        "weapon_id": [
+          39347
+        ]
+      },
+      "9": {
+        "id": 39348,
+        "level": 9,
+        "enhance": "+8",
+        "air": 65,
+        "weapon_id": [
+          39348
+        ]
+      },
+      "10": {
+        "id": 39349,
+        "level": 10,
+        "enhance": "+9",
+        "air": 65,
+        "weapon_id": [
+          39349
+        ]
+      },
+      "11": {
+        "id": 39350,
+        "level": 11,
+        "enhance": "+10",
+        "air": 65,
+        "weapon_id": [
+          39350
+        ]
+      },
+      "12": {
+        "id": 39351,
+        "level": 12,
+        "enhance": "+11",
+        "air": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          39351
+        ]
+      },
+      "13": {
+        "id": 39352,
+        "level": 13,
+        "enhance": "+12",
+        "air": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          39352
+        ]
+      },
+      "14": {
+        "id": 39353,
+        "level": 14,
+        "enhance": "+13",
+        "air": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          39353
+        ]
+      }
+    }
+  },
+  "49000": {
+    "name": "Ju-87C Dive Bomber",
+    "desc": "The ship-faring version of the Ju-87, the Ironblood's most widely used dive bomber. Also known as the 'Stuka'.",
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/49000.png",
+    "stats": {
+      "1": {
+        "id": 49000,
+        "level": 1,
+        "enhance": "+0",
+        "air": 5,
+        "weapon_id": [
+          49000
+        ]
+      },
+      "2": {
+        "id": 49001,
+        "level": 2,
+        "enhance": "+1",
+        "air": 5,
+        "weapon_id": [
+          49001
+        ]
+      },
+      "3": {
+        "id": 49002,
+        "level": 3,
+        "enhance": "+2",
+        "air": 5,
+        "weapon_id": [
+          49002
+        ]
+      },
+      "4": {
+        "id": 49003,
+        "level": 4,
+        "enhance": "+3",
+        "air": 5,
+        "weapon_id": [
+          49003
+        ]
+      }
+    }
+  },
+  "49020": {
+    "name": "Ju-87C Dive Bomber",
+    "desc": "The ship-faring version of the Ju-87, the Ironblood's most widely used dive bomber. Also known as the 'Stuka'.",
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/49000.png",
+    "stats": {
+      "1": {
+        "id": 49020,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          49020
+        ]
+      },
+      "2": {
+        "id": 49021,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          49021
+        ]
+      },
+      "3": {
+        "id": 49022,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          49022
+        ]
+      },
+      "4": {
+        "id": 49023,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          49023
+        ]
+      },
+      "5": {
+        "id": 49024,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          49024
+        ]
+      },
+      "6": {
+        "id": 49025,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          49025
+        ]
+      },
+      "7": {
+        "id": 49026,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          49026
+        ]
+      }
+    }
+  },
+  "49040": {
+    "name": "Ju-87C Dive Bomber",
+    "desc": "The ship-faring version of the Ju-87, the Ironblood's most widely used dive bomber. Also known as the 'Stuka'.",
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/49000.png",
+    "stats": {
+      "1": {
+        "id": 49040,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          49040
+        ]
+      },
+      "2": {
+        "id": 49041,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          49041
+        ]
+      },
+      "3": {
+        "id": 49042,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          49042
+        ]
+      },
+      "4": {
+        "id": 49043,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          49043
+        ]
+      },
+      "5": {
+        "id": 49044,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          49044
+        ]
+      },
+      "6": {
+        "id": 49045,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          49045
+        ]
+      },
+      "7": {
+        "id": 49046,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          49046
+        ]
+      },
+      "8": {
+        "id": 49047,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          49047
+        ]
+      },
+      "9": {
+        "id": 49048,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          49048
+        ]
+      },
+      "10": {
+        "id": 49049,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          49049
+        ]
+      },
+      "11": {
+        "id": 49050,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          49050
+        ]
+      },
+      "12": {
+        "id": 49051,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          49051
+        ]
+      }
+    }
+  },
+  "49060": {
+    "name": "He-50b",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/49060.png",
+    "stats": {
+      "1": {
+        "id": 49060,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          49060
+        ]
+      },
+      "2": {
+        "id": 49061,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          49061
+        ]
+      },
+      "3": {
+        "id": 49062,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          49062
+        ]
+      },
+      "4": {
+        "id": 49063,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          49063
+        ]
+      },
+      "5": {
+        "id": 49064,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          49064
+        ]
+      },
+      "6": {
+        "id": 49065,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          49065
+        ]
+      },
+      "7": {
+        "id": 49066,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          49066
+        ]
+      },
+      "8": {
+        "id": 49067,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          49067
+        ]
+      }
+    }
+  },
+  "85540": {
+    "name": "Prototype Su-2",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/85540.png",
+    "stats": {
+      "1": {
+        "id": 85540,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          85540
+        ]
+      },
+      "2": {
+        "id": 85541,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          85541
+        ]
+      },
+      "3": {
+        "id": 85542,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          85542
+        ]
+      },
+      "4": {
+        "id": 85543,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          85543
+        ]
+      },
+      "5": {
+        "id": 85544,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          85544
+        ]
+      },
+      "6": {
+        "id": 85545,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          85545
+        ]
+      },
+      "7": {
+        "id": 85546,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          85546
+        ]
+      },
+      "8": {
+        "id": 85547,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          85547
+        ]
+      },
+      "9": {
+        "id": 85548,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          85548
+        ]
+      },
+      "10": {
+        "id": 85549,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          85549
+        ]
+      },
+      "11": {
+        "id": 85550,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          85550
+        ]
+      },
+      "12": {
+        "id": 85551,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85551
+        ]
+      },
+      "13": {
+        "id": 85552,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85552
+        ]
+      },
+      "14": {
+        "id": 85553,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85553
+        ]
+      }
+    }
+  },
+  "85660": {
+    "name": "Prototype Carrier-Based Su-6",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/85660.png",
+    "stats": {
+      "1": {
+        "id": 85660,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          85660
+        ]
+      },
+      "2": {
+        "id": 85661,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          85661
+        ]
+      },
+      "3": {
+        "id": 85662,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          85662
+        ]
+      },
+      "4": {
+        "id": 85663,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          85663
+        ]
+      },
+      "5": {
+        "id": 85664,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          85664
+        ]
+      },
+      "6": {
+        "id": 85665,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          85665
+        ]
+      },
+      "7": {
+        "id": 85666,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          85666
+        ]
+      },
+      "8": {
+        "id": 85667,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          85667
+        ]
+      },
+      "9": {
+        "id": 85668,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          85668
+        ]
+      },
+      "10": {
+        "id": 85669,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          85669
+        ]
+      },
+      "11": {
+        "id": 85670,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          85670
+        ]
+      },
+      "12": {
+        "id": 85671,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85671
+        ]
+      },
+      "13": {
+        "id": 85672,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85672
+        ]
+      },
+      "14": {
+        "id": 85673,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85673
+        ]
+      }
+    }
+  },
+  "85760": {
+    "name": "R-5",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/85760.png",
+    "stats": {
+      "1": {
+        "id": 85760,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          85760
+        ]
+      },
+      "2": {
+        "id": 85761,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          85761
+        ]
+      },
+      "3": {
+        "id": 85762,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          85762
+        ]
+      },
+      "4": {
+        "id": 85763,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          85763
+        ]
+      },
+      "5": {
+        "id": 85764,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          85764
+        ]
+      },
+      "6": {
+        "id": 85765,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          85765
+        ]
+      },
+      "7": {
+        "id": 85766,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          85766
+        ]
+      },
+      "8": {
+        "id": 85767,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          85767
+        ]
+      }
+    }
+  },
+  "85780": {
+    "name": "LBSh",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/85780.png",
+    "stats": {
+      "1": {
+        "id": 85780,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          85780
+        ]
+      },
+      "2": {
+        "id": 85781,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          85781
+        ]
+      },
+      "3": {
+        "id": 85782,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          85782
+        ]
+      },
+      "4": {
+        "id": 85783,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          85783
+        ]
+      },
+      "5": {
+        "id": 85784,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          85784
+        ]
+      },
+      "6": {
+        "id": 85785,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          85785
+        ]
+      },
+      "7": {
+        "id": 85786,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          85786
+        ]
+      },
+      "8": {
+        "id": 85787,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          85787
+        ]
+      },
+      "9": {
+        "id": 85788,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          85788
+        ]
+      },
+      "10": {
+        "id": 85789,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          85789
+        ]
+      },
+      "11": {
+        "id": 85790,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          85790
+        ]
+      },
+      "12": {
+        "id": 85791,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85791
+        ]
+      }
+    }
+  },
+  "91320": {
+    "name": "V-156-F",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/51320.png",
+    "stats": {
+      "1": {
+        "id": 91320,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          91320
+        ]
+      },
+      "2": {
+        "id": 91321,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          91321
+        ]
+      },
+      "3": {
+        "id": 91322,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          91322
+        ]
+      },
+      "4": {
+        "id": 91323,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          91323
+        ]
+      },
+      "5": {
+        "id": 91324,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          91324
+        ]
+      },
+      "6": {
+        "id": 91325,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          91325
+        ]
+      },
+      "7": {
+        "id": 91326,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          91326
+        ]
+      },
+      "8": {
+        "id": 91327,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          91327
+        ]
+      },
+      "9": {
+        "id": 91328,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          91328
+        ]
+      },
+      "10": {
+        "id": 91329,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          91329
+        ]
+      },
+      "11": {
+        "id": 91330,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          91330
+        ]
+      },
+      "12": {
+        "id": 91331,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          91331
+        ]
+      }
+    }
+  },
+  "91340": {
+    "name": "LN.401",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 9,
+    "skill": {},
+    "icon": "img/equipment/51340.png",
+    "stats": {
+      "1": {
+        "id": 91340,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          91340
+        ]
+      },
+      "2": {
+        "id": 91341,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          91341
+        ]
+      },
+      "3": {
+        "id": 91342,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          91342
+        ]
+      },
+      "4": {
+        "id": 91343,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          91343
+        ]
+      },
+      "5": {
+        "id": 91344,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          91344
+        ]
+      },
+      "6": {
+        "id": 91345,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          91345
+        ]
+      },
+      "7": {
+        "id": 91346,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          91346
+        ]
+      },
+      "8": {
+        "id": 91347,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          91347
+        ]
+      },
+      "9": {
+        "id": 91348,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          91348
+        ]
+      },
+      "10": {
+        "id": 91349,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          91349
+        ]
+      },
+      "11": {
+        "id": 91350,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          91350
+        ]
+      },
+      "12": {
+        "id": 91351,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          91351
+        ]
+      },
+      "13": {
+        "id": 91352,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          91352
+        ]
+      },
+      "14": {
+        "id": 91353,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          91353
+        ]
+      }
+    }
+  }
+}

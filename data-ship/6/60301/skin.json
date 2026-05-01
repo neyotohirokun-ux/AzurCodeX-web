@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 603010,
+      "gid": 60301,
+      "name": "Trento",
+      "type": "Default",
+      "desc": "Trento-class heavy cruiser – Trento.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 224,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60301/603010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60301/603010/banner.png",
+      "chibi": "img/skin/60301/603010/chibi.png",
+      "icon": "img/skin/60301/603010/icon.png",
+      "qicon": "img/skin/60301/603010/qicon.png",
+      "shipyard": "img/skin/60301/603010/shipyard.png",
+      "spine_chibi": "spine/chibi/teluntuo/teluntuo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 603011,
+      "gid": 60301,
+      "name": "Summer's Hotness?",
+      "type": "Swimsuits",
+      "desc": "The summer's scorching heat is alleviated by the ocean~ Commander, why don't you set aside your worries and... cut loose a bit~?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 224,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": "img/bgii/1103.png",
+      "painting": "img/skin/60301/603011/painting.png",
+      "painting_n": "img/skin/60301/603011/painting_n.png",
+      "banner": "img/skin/60301/603011/banner.png",
+      "chibi": "img/skin/60301/603011/chibi.png",
+      "icon": "img/skin/60301/603011/icon.png",
+      "qicon": "img/skin/60301/603011/qicon.png",
+      "shipyard": "img/skin/60301/603011/shipyard.png",
+      "spine_chibi": "spine/chibi/teluntuo/teluntuo_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

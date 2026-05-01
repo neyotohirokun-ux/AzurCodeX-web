@@ -1,0 +1,162 @@
+{
+  "id": 496,
+  "gid": 70301,
+  "cid": 1,
+  "sid": [
+    703011,
+    703012,
+    703013,
+    703014
+  ],
+  "name": "Tallinn",
+  "codename": "SN Tallinn",
+  "class": "Tallinn Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Khorovod of Dawn's Rime",
+    "Heavy Ship Construction"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        2,
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.55
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 987,
+    "firepower": 48,
+    "torpedo": 36,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 51,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 80,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5742,
+    "firepower": 265,
+    "torpedo": 199,
+    "antiair": 226,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 152,
+    "evasion": 64,
+    "speed": 25.6,
+    "luck": 80,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 48,
+    "torpedo": 36,
+    "reload": 50
+  },
+  "skill": {
+    "14190": {
+      "id": 14190,
+      "parent": 14190,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14200": {
+      "id": 14200,
+      "parent": 14200,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "26211": {
+      "id": 26211,
+      "parent": 26211,
+      "upgrade": 26212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "26212": {
+      "id": 26212,
+      "parent": 26211,
+      "upgrade": null,
+      "downgrade": 26211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

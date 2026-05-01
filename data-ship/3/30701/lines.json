@@ -1,0 +1,10 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Akagi Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Akagi Ver.) - 赤城(CV.中原麻衣).mp3",
+            "lyrics": "compose/songs/Yuukyuu.json",
+            "link": "https://soundcloud.com/ijn_akagi/yuukyuu-no-catharsis"
+        }
+    ]
+}

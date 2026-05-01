@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600120,
+      "gid": 1060012,
+      "name": "Shandy",
+      "type": "Default",
+      "desc": "Oh? Good evening. What's your name? ...You saw me looking pensive and came to say hi? Hehe, well, aren't you easy? My name is Shandy... though that's just a professional alias. We have all the time in the world – come and chat with me.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 173,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060012/10600120/painting.png",
+      "painting_n": "img/skin/1060012/10600120/painting_n.png",
+      "banner": "img/skin/1060012/10600120/banner.png",
+      "chibi": "img/skin/1060012/10600120/chibi.png",
+      "icon": "img/skin/1060012/10600120/icon.png",
+      "qicon": "img/skin/1060012/10600120/qicon.png",
+      "shipyard": "img/skin/1060012/10600120/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600121,
+      "gid": 1060012,
+      "name": "An Enchanting Sip",
+      "type": "Swimsuits",
+      "desc": "Welcome... Aww, did I startle you? Hehe, but why? I thought you of all people would appreciate this seductive vibe, Commander. Hmm... I'll pose for you, if you'd like. Just say the word!",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 173,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/180.png",
+      "background2": null,
+      "painting": "img/skin/1060012/10600121/painting.png",
+      "painting_n": "img/skin/1060012/10600121/painting_n.png",
+      "banner": "img/skin/1060012/10600121/banner.png",
+      "chibi": "img/skin/1060012/10600121/chibi.png",
+      "icon": "img/skin/1060012/10600121/icon.png",
+      "qicon": "img/skin/1060012/10600121/qicon.png",
+      "shipyard": "img/skin/1060012/10600121/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

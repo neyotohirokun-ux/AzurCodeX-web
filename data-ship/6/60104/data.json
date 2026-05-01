@@ -1,0 +1,161 @@
+{
+  "id": 504,
+  "gid": 60104,
+  "cid": 1,
+  "sid": [
+    601041,
+    601042,
+    601043,
+    601044
+  ],
+  "name": "Maestrale",
+  "codename": "RN Maestrale",
+  "class": "Maestrale Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Daedalian Hymn ",
+    "Light Ship Construction"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 296,
+    "firepower": 20,
+    "torpedo": 55,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 77,
+    "accuracy": 73,
+    "evasion": 80,
+    "speed": 45.6,
+    "luck": 56,
+    "asw": 47
+  },
+  "growth": {
+    "health": 1865,
+    "firepower": 110,
+    "torpedo": 297,
+    "antiair": 164,
+    "aviation": 0,
+    "reload": 212,
+    "accuracy": 225,
+    "evasion": 278,
+    "speed": 45.6,
+    "luck": 56,
+    "asw": 195
+  },
+  "enhance": {
+    "firepower": 20,
+    "torpedo": 54,
+    "reload": 57
+  },
+  "skill": {
+    "14400": {
+      "id": 14400,
+      "parent": 14400,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14410": {
+      "id": 14410,
+      "parent": 14410,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25031": {
+      "id": 25031,
+      "parent": 25031,
+      "upgrade": 25032,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25032": {
+      "id": 25032,
+      "parent": 25031,
+      "upgrade": null,
+      "downgrade": 25031,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 107170,
+      "gid": 10717,
+      "name": "Bunker Hill",
+      "type": "Default",
+      "desc": "Essex-class aircraft carrier – Bunker Hill, Hull Number CV-17.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 179,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10717/107170/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10717/107170/banner.png",
+      "chibi": "img/skin/10717/107170/chibi.png",
+      "icon": "img/skin/10717/107170/icon.png",
+      "qicon": "img/skin/10717/107170/qicon.png",
+      "shipyard": "img/skin/10717/107170/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 107171,
+      "gid": 10717,
+      "name": "Mission Relaxation",
+      "type": "Home Relaxation",
+      "desc": "Mission complete. Next up, a new recommendation from Long Island... Oh, Commander? Come make yourself comfortable.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 179,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/109.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/10717/107171/painting.png",
+      "painting_n": "img/skin/10717/107171/painting_n.png",
+      "banner": "img/skin/10717/107171/banner.png",
+      "chibi": "img/skin/10717/107171/chibi.png",
+      "icon": "img/skin/10717/107171/icon.png",
+      "qicon": "img/skin/10717/107171/qicon.png",
+      "shipyard": "img/skin/10717/107171/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

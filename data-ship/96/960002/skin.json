@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 9600020,
+      "gid": 960002,
+      "name": "São Martinho",
+      "type": "Default",
+      "desc": "Sailing frigate – São Martinho.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 383,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960002/9600020/painting.png",
+      "painting_n": "img/skin/960002/9600020/painting_n.png",
+      "banner": "img/skin/960002/9600020/banner.png",
+      "chibi": "img/skin/960002/9600020/chibi.png",
+      "icon": "img/skin/960002/9600020/icon.png",
+      "qicon": "img/skin/960002/9600020/qicon.png",
+      "shipyard": "img/skin/960002/9600020/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600021,
+      "gid": 960002,
+      "name": "The Golden Shadow",
+      "type": "Halloween",
+      "desc": "Here you see the opposite side of the retainer of the golden light. Be not afraid. I am still me, and my feelings and my beliefs have not changed. Still, if it unnerves you, perhaps you should get to know me again?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 383,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/174.png",
+      "background2": null,
+      "painting": "img/skin/960002/9600021/painting.png",
+      "painting_n": "img/skin/960002/9600021/painting_n.png",
+      "banner": "img/skin/960002/9600021/banner.png",
+      "chibi": "img/skin/960002/9600021/chibi.png",
+      "icon": "img/skin/960002/9600021/icon.png",
+      "qicon": "img/skin/960002/9600021/qicon.png",
+      "shipyard": "img/skin/960002/9600021/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

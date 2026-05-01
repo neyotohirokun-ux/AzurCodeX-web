@@ -1,0 +1,1244 @@
+{
+  "13180": {
+    "name": "Triple 305mm Mk8 Main Gun Mount",
+    "desc": "The main battery that was used on the Alaska class of large cruisers.",
+    "label": [
+      "USS",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 1,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/14000.png",
+    "stats": {
+      "1": {
+        "id": 13180,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13180
+        ]
+      },
+      "2": {
+        "id": 13181,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "68 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13181
+        ]
+      },
+      "3": {
+        "id": 13182,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13182
+        ]
+      },
+      "4": {
+        "id": 13183,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "78 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13183
+        ]
+      },
+      "5": {
+        "id": 13184,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "82 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13184
+        ]
+      },
+      "6": {
+        "id": 13185,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "86 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13185
+        ]
+      },
+      "7": {
+        "id": 13186,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "92 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13186
+        ]
+      },
+      "8": {
+        "id": 13187,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "96 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13187
+        ]
+      },
+      "9": {
+        "id": 13188,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "102 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13188
+        ]
+      },
+      "10": {
+        "id": 13189,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "106 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13189
+        ]
+      },
+      "11": {
+        "id": 13190,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "110 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          13190
+        ]
+      },
+      "12": {
+        "id": 13191,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "110 x 3",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          13191
+        ]
+      },
+      "13": {
+        "id": 13192,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "110 x 3",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          13192
+        ]
+      },
+      "14": {
+        "id": 13193,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "110 x 3",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          13193
+        ]
+      }
+    }
+  },
+  "33100": {
+    "name": "Prototype Triple 310mm Type 0 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "CB",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/33100.png",
+    "stats": {
+      "1": {
+        "id": 33100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "36 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33100
+        ]
+      },
+      "2": {
+        "id": 33101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "38 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33101
+        ]
+      },
+      "3": {
+        "id": 33102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "40 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33102
+        ]
+      },
+      "4": {
+        "id": 33103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "42 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33103
+        ]
+      },
+      "5": {
+        "id": 33104,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "44 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33104
+        ]
+      },
+      "6": {
+        "id": 33105,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "46 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33105
+        ]
+      },
+      "7": {
+        "id": 33106,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "48 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33106
+        ]
+      },
+      "8": {
+        "id": 33107,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "50 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33107
+        ]
+      },
+      "9": {
+        "id": 33108,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "52 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33108
+        ]
+      },
+      "10": {
+        "id": 33109,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "54 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33109
+        ]
+      },
+      "11": {
+        "id": 33110,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "weapon_id": [
+          33110
+        ]
+      },
+      "12": {
+        "id": 33111,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          33111
+        ]
+      },
+      "13": {
+        "id": 33112,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          33112
+        ]
+      },
+      "14": {
+        "id": 33113,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "56 x 6",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          33113
+        ]
+      }
+    }
+  },
+  "43100": {
+    "name": "Triple 283mm SK C/28 Main Gun Mount",
+    "desc": "The Triple 283mm SK C/28 Main Gun Mount is the main gun of Deutschland class ships. May only be used by Deutschland class ships.",
+    "label": [
+      "KMS",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/43100.png",
+    "stats": {
+      "1": {
+        "id": 43100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "30 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          43100
+        ]
+      },
+      "2": {
+        "id": 43101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "32 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          43101
+        ]
+      },
+      "3": {
+        "id": 43102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "34 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          43102
+        ]
+      },
+      "4": {
+        "id": 43103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 6",
+        "cannon": 5,
+        "weapon_id": [
+          43103
+        ]
+      }
+    }
+  },
+  "43120": {
+    "name": "Triple 283mm SK C/28 Main Gun Mount",
+    "desc": "The Triple 283mm SK C/28 Main Gun Mount is the main gun of Deutschland class ships. May only be used by Deutschland class ships.",
+    "label": [
+      "KMS",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/43100.png",
+    "stats": {
+      "1": {
+        "id": 43120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "32 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43120
+        ]
+      },
+      "2": {
+        "id": 43121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "34 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43121
+        ]
+      },
+      "3": {
+        "id": 43122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "36 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43122
+        ]
+      },
+      "4": {
+        "id": 43123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "38 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43123
+        ]
+      },
+      "5": {
+        "id": 43124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "40 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43124
+        ]
+      },
+      "6": {
+        "id": 43125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "42 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43125
+        ]
+      },
+      "7": {
+        "id": 43126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "44 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          43126
+        ]
+      }
+    }
+  },
+  "43140": {
+    "name": "Triple 283mm SK C/28 Main Gun Mount",
+    "desc": "The Triple 283mm SK C/28 Main Gun Mount is the main gun of Deutschland class ships. May only be used by Deutschland class ships.",
+    "label": [
+      "KMS",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/43100.png",
+    "stats": {
+      "1": {
+        "id": 43140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "35 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43140
+        ]
+      },
+      "2": {
+        "id": 43141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "37 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43141
+        ]
+      },
+      "3": {
+        "id": 43142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "39 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43142
+        ]
+      },
+      "4": {
+        "id": 43143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "41 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43143
+        ]
+      },
+      "5": {
+        "id": 43144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "43 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43144
+        ]
+      },
+      "6": {
+        "id": 43145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "45 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43145
+        ]
+      },
+      "7": {
+        "id": 43146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "47 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43146
+        ]
+      },
+      "8": {
+        "id": 43147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "49 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43147
+        ]
+      },
+      "9": {
+        "id": 43148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "51 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43148
+        ]
+      },
+      "10": {
+        "id": 43149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "53 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43149
+        ]
+      },
+      "11": {
+        "id": 43150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "55 x 6",
+        "cannon": 25,
+        "weapon_id": [
+          43150
+        ]
+      },
+      "12": {
+        "id": 43151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "55 x 6",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          43151
+        ]
+      }
+    }
+  },
+  "44400": {
+    "name": "Prototype Triple 305mm SK C/39 Main Gun",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/44400.png",
+    "stats": {
+      "1": {
+        "id": 44400,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "57 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44400
+        ]
+      },
+      "2": {
+        "id": 44401,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "63 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44401
+        ]
+      },
+      "3": {
+        "id": 44402,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "67 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44402
+        ]
+      },
+      "4": {
+        "id": 44403,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "73 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44403
+        ]
+      },
+      "5": {
+        "id": 44404,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "77 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44404
+        ]
+      },
+      "6": {
+        "id": 44405,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "81 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44405
+        ]
+      },
+      "7": {
+        "id": 44406,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "87 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44406
+        ]
+      },
+      "8": {
+        "id": 44407,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "91 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44407
+        ]
+      },
+      "9": {
+        "id": 44408,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "97 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44408
+        ]
+      },
+      "10": {
+        "id": 44409,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "101 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44409
+        ]
+      },
+      "11": {
+        "id": 44410,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "105 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44410
+        ]
+      },
+      "12": {
+        "id": 44411,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "105 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          44411
+        ]
+      },
+      "13": {
+        "id": 44412,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "105 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          44412
+        ]
+      },
+      "14": {
+        "id": 44413,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "105 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          44413
+        ]
+      }
+    }
+  },
+  "44420": {
+    "name": "Prototype Triple 283mm/54.5 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HNLMS",
+      "CB",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 11,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/44420.png",
+    "stats": {
+      "1": {
+        "id": 44420,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "40 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44420
+        ]
+      },
+      "2": {
+        "id": 44421,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "46 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44421
+        ]
+      },
+      "3": {
+        "id": 44422,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "50 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44422
+        ]
+      },
+      "4": {
+        "id": 44423,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "56 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44423
+        ]
+      },
+      "5": {
+        "id": 44424,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "60 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44424
+        ]
+      },
+      "6": {
+        "id": 44425,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "64 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44425
+        ]
+      },
+      "7": {
+        "id": 44426,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "70 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44426
+        ]
+      },
+      "8": {
+        "id": 44427,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "74 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44427
+        ]
+      },
+      "9": {
+        "id": 44428,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "80 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44428
+        ]
+      },
+      "10": {
+        "id": 44429,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "84 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44429
+        ]
+      },
+      "11": {
+        "id": 44430,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44430
+        ]
+      },
+      "12": {
+        "id": 44431,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          44431
+        ]
+      },
+      "13": {
+        "id": 44432,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          44432
+        ]
+      },
+      "14": {
+        "id": 44433,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          44433
+        ]
+      }
+    }
+  },
+  "85520": {
+    "name": "B-50 Triple 305mm Mk-15 Main Gun Mount",
+    "desc": "A 305mm main gun mount which was planned for use by the Kronshtadt class of cruisers.",
+    "label": [
+      "SN",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/85520.png",
+    "stats": {
+      "1": {
+        "id": 85520,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "60 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85520
+        ]
+      },
+      "2": {
+        "id": 85521,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "66 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85521
+        ]
+      },
+      "3": {
+        "id": 85522,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "70 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85522
+        ]
+      },
+      "4": {
+        "id": 85523,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "76 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85523
+        ]
+      },
+      "5": {
+        "id": 85524,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "80 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85524
+        ]
+      },
+      "6": {
+        "id": 85525,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "84 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85525
+        ]
+      },
+      "7": {
+        "id": 85526,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "90 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85526
+        ]
+      },
+      "8": {
+        "id": 85527,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "94 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85527
+        ]
+      },
+      "9": {
+        "id": 85528,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "100 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85528
+        ]
+      },
+      "10": {
+        "id": 85529,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "104 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85529
+        ]
+      },
+      "11": {
+        "id": 85530,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "108 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85530
+        ]
+      },
+      "12": {
+        "id": 85531,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "108 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85531
+        ]
+      },
+      "13": {
+        "id": 85532,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "108 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85532
+        ]
+      },
+      "14": {
+        "id": 85533,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "108 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85533
+        ]
+      }
+    }
+  },
+  "90360": {
+    "name": "Prototype Quadruple 330mm Mle 1931 (CB Only) Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 11,
+    "skill": {},
+    "icon": "img/equipment/50360.png",
+    "stats": {
+      "1": {
+        "id": 90360,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "41 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90360
+        ]
+      },
+      "2": {
+        "id": 90361,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "47 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90361
+        ]
+      },
+      "3": {
+        "id": 90362,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "53 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90362
+        ]
+      },
+      "4": {
+        "id": 90363,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "59 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90363
+        ]
+      },
+      "5": {
+        "id": 90364,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "65 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90364
+        ]
+      },
+      "6": {
+        "id": 90365,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "71 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90365
+        ]
+      },
+      "7": {
+        "id": 90366,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "77 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90366
+        ]
+      },
+      "8": {
+        "id": 90367,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "83 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90367
+        ]
+      },
+      "9": {
+        "id": 90368,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "89 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90368
+        ]
+      },
+      "10": {
+        "id": 90369,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "95 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90369
+        ]
+      },
+      "11": {
+        "id": 90370,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "102 x 4",
+        "cannon": 45,
+        "weapon_id": [
+          90370
+        ]
+      },
+      "12": {
+        "id": 90371,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "102 x 4",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          90371
+        ]
+      },
+      "13": {
+        "id": 90372,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "102 x 4",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          90372
+        ]
+      },
+      "14": {
+        "id": 90373,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "102 x 4",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          90373
+        ]
+      }
+    }
+  }
+}

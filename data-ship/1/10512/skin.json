@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 105120,
+      "gid": 10512,
+      "name": "North Carolina",
+      "type": "Default",
+      "desc": "North Carolina class battleship, North Carolina. Hull Number BB-55.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 39,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10512/105120/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10512/105120/banner.png",
+      "chibi": "img/skin/10512/105120/chibi.png",
+      "icon": "img/skin/10512/105120/icon.png",
+      "qicon": "img/skin/10512/105120/qicon.png",
+      "shipyard": "img/skin/10512/105120/shipyard.png",
+      "spine_chibi": "spine/chibi/beikaluolaina/beikaluolaina",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105121,
+      "gid": 10512,
+      "name": "The Heart's Desire",
+      "type": "Bunny Girl",
+      "desc": "Commander? Oh, umm, this is just, err, equipment changing practice... Also, I recall you saying you like bunny girls. You still do, right?",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 39,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/145.png",
+      "background2": null,
+      "painting": "img/skin/10512/105121/painting.png",
+      "painting_n": "img/skin/10512/105121/painting_n.png",
+      "banner": "img/skin/10512/105121/banner.png",
+      "chibi": "img/skin/10512/105121/chibi.png",
+      "icon": "img/skin/10512/105121/icon.png",
+      "qicon": "img/skin/10512/105121/qicon.png",
+      "shipyard": "img/skin/10512/105121/shipyard.png",
+      "spine_chibi": "spine/chibi/beikaluolaina/beikaluolaina_2",
+      "spine": null,
+      "live2d": "live2d/beikaluolaina/beikaluolaina_2",
+      "cost": 1180
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": 686,
+  "gid": 110201,
+  "cid": 1,
+  "sid": [
+    1102011,
+    1102012,
+    1102013,
+    1102014
+  ],
+  "name": "De Zeven Provinciën",
+  "codename": "HNLMS De Zeven Provinciën",
+  "class": "De Zeven Provinciën Class",
+  "nationality": 11,
+  "obtain": [
+    "Event: Toward Tulipa's Seas"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "S",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Anti-air gun base +1",
+      "All weapons' efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Can equip AA guns in 2nd weapon slot"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5,
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 725,
+    "firepower": 31,
+    "torpedo": 50,
+    "antiair": 76,
+    "aviation": 0,
+    "reload": 78,
+    "accuracy": 57,
+    "evasion": 31,
+    "speed": 32,
+    "luck": 85,
+    "asw": 26
+  },
+  "growth": {
+    "health": 4606,
+    "firepower": 171,
+    "torpedo": 274,
+    "antiair": 406,
+    "aviation": 0,
+    "reload": 215,
+    "accuracy": 167,
+    "evasion": 102,
+    "speed": 32,
+    "luck": 85,
+    "asw": 109
+  },
+  "enhance": {
+    "firepower": 31,
+    "torpedo": 50,
+    "reload": 58
+  },
+  "skill": {
+    "30441": {
+      "id": 30441,
+      "parent": 30441,
+      "upgrade": 30442,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30442": {
+      "id": 30442,
+      "parent": 30441,
+      "upgrade": null,
+      "downgrade": 30441,
+      "requirement": "Limit Break 3"
+    },
+    "151080": {
+      "id": 151080,
+      "parent": 151080,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151090": {
+      "id": 151090,
+      "parent": 151090,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

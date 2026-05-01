@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 105190,
+      "gid": 10519,
+      "name": "Massachusetts",
+      "type": "Default",
+      "desc": "South Dakota-class battleship – Massachusetts, Hull Number BB-59.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 131,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10519/105190/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10519/105190/banner.png",
+      "chibi": "img/skin/10519/105190/chibi.png",
+      "icon": "img/skin/10519/105190/icon.png",
+      "qicon": "img/skin/10519/105190/qicon.png",
+      "shipyard": "img/skin/10519/105190/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105191,
+      "gid": 10519,
+      "name": "Dressed to Impress",
+      "type": "Party Dress",
+      "desc": "Hey... Is this outfit that strange to you? Thought it looks just like what my sister's wearing... so what are you staring at? I don't get you at all...",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 131,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/135.png",
+      "background2": null,
+      "painting": "img/skin/10519/105191/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10519/105191/banner.png",
+      "chibi": "img/skin/10519/105191/chibi.png",
+      "icon": "img/skin/10519/105191/icon.png",
+      "qicon": "img/skin/10519/105191/qicon.png",
+      "shipyard": "img/skin/10519/105191/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

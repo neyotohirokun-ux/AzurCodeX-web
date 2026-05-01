@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 608010,
+      "gid": 60801,
+      "name": "Torricelli",
+      "type": "Default",
+      "desc": "Brin-class submarine – Torricelli.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 272,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60801/608010/painting.png",
+      "painting_n": "img/skin/60801/608010/painting_n.png",
+      "banner": "img/skin/60801/608010/banner.png",
+      "chibi": "img/skin/60801/608010/chibi.png",
+      "icon": "img/skin/60801/608010/icon.png",
+      "qicon": "img/skin/60801/608010/qicon.png",
+      "shipyard": "img/skin/60801/608010/shipyard.png",
+      "spine_chibi": "spine/chibi/tuolichaili/tuolichaili",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 608011,
+      "gid": 60801,
+      "name": "Shady Seaside",
+      "type": "Swimsuits",
+      "desc": "Hehe, hehehehe... We have this little c-corner of the beach all to ourselves... Now, what should we do first... Hehehehe...",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 272,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/60801/608011/painting.png",
+      "painting_n": "img/skin/60801/608011/painting_n.png",
+      "banner": "img/skin/60801/608011/banner.png",
+      "chibi": "img/skin/60801/608011/chibi.png",
+      "icon": "img/skin/60801/608011/icon.png",
+      "qicon": "img/skin/60801/608011/qicon.png",
+      "shipyard": "img/skin/60801/608011/shipyard.png",
+      "spine_chibi": "spine/chibi/tuolichaili/tuolichaili_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 501060,
+      "gid": 50106,
+      "name": "Hu Pen",
+      "type": "Default",
+      "desc": "Vulcan Stettin 1,000-ton torpedo destroyer – Hu Pen.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 396,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/50106/501060/painting.png",
+      "painting_n": "img/skin/50106/501060/painting_n.png",
+      "banner": "img/skin/50106/501060/banner.png",
+      "chibi": "img/skin/50106/501060/chibi.png",
+      "icon": "img/skin/50106/501060/icon.png",
+      "qicon": "img/skin/50106/501060/qicon.png",
+      "shipyard": "img/skin/50106/501060/shipyard.png",
+      "spine_chibi": "spine/chibi/huben/huben",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 501061,
+      "gid": 50106,
+      "name": "Prancing Tiger Welcomes the Spring",
+      "type": "Empery'S Fineries",
+      "desc": "Let's usher in the New Year with the sound of gongs and firecrackers~! Whaddya think? Lion dances are pretty awesome, aren't they? So, Commander, who's got more oomph in their dance steps? Me, or Lung Wu? C'mon, hurry up and decide~!",
+      "tag": [
+        "dynamicbg",
+        "dynamic"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 396,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/144.png",
+      "background2": null,
+      "painting": "img/skin/50106/501061/painting.png",
+      "painting_n": "img/skin/50106/501061/painting_n.png",
+      "banner": "img/skin/50106/501061/banner.png",
+      "chibi": "img/skin/50106/501061/chibi.png",
+      "icon": "img/skin/50106/501061/icon.png",
+      "qicon": "img/skin/50106/501061/qicon.png",
+      "shipyard": "img/skin/50106/501061/shipyard.png",
+      "spine_chibi": "spine/chibi/huben/huben_2",
+      "spine": "spine/ship/huben/huben_2",
+      "live2d": null,
+      "cost": 900
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "songs": [
+      {
+          "name": "",
+          "audio": "audio/songs/",
+          "lyrics": "",
+          "link": ""
+      }
+  ],
+  "lines": {
+    "302231": {
+      "detail": {
+        "link": "audio/voice/302231/detail.ogg",
+        "line": "Happiness is a mouthful of sweets from the Sakura Islands~ Don't you also want to share a bit of this happiness with Sakawa? Here you go then~♪"
+      },
+      "complete": {
+        "link": "audio/voice/302231/expedition.ogg",
+        "line": "We're giving Sakura confections to the commission team as a thank-you reward, right?"
+      },
+      "feeling5": {
+        "link": "audio/voice/302231/feeling5.ogg",
+        "line": "M-my lips...? Even I'll get embarrassed if you suddenly try to kiss me, you know...? But, maybe we can go somewhere else later and–– Huh? There's something stuck to the corner of my lips?! Wh-what about the kiss...???"
+      },
+      "touch head": {
+        "link": "audio/voice/302231/headtouch.ogg",
+        "line": "I feel like I'm on top of the world~"
+      },
+      "home": {
+        "link": "audio/voice/302231/home.ogg",
+        "line": "Sorry to keep you waiting~ I've brought you your piping-hot tea! ...Oh my, I seem to have forgotten the teacups! Oh, um, what should I do...?"
+      },
+      "login": {
+        "link": "audio/voice/302231/login.ogg",
+        "line": "Come get your delicious and fluffy dango~ One for you, one for me, and we can share the last one~♪ Ehehe, goood morning~!"
+      },
+      "main 1": {
+        "link": "audio/voice/302231/main1.ogg",
+        "line": "Dangos are sooo good~ I could eat them for three days straight! But after that... I'd probably get sick of them and want some yatsuhashi instead~♪"
+      },
+      "main 2": {
+        "link": "audio/voice/302231/main2.ogg",
+        "line": "The stuff you ordered? ...Oh! I think I ate it by accident! Oh, silly me!"
+      },
+      "main 3": {
+        "link": "audio/voice/302231/main3.ogg",
+        "line": "Since we're trying to make our pop-up café the best it can be, I have to memorize the entire menu~ Heehee, I'll be making a whole lot of goodies later~"
+      },
+      "touch body": {
+        "link": "audio/voice/302231/touch.ogg",
+        "line": "Alright, what would you like to order?"
+      },
+      "touch special": {
+        "link": "audio/voice/302231/touch2.ogg",
+        "line": "Well, um... I suppose you just couldn't help it because of how cute I am, right...?"
+      },
+      "unlock": {
+        "link": "audio/voice/302231/unlock.ogg",
+        "line": "Welcome! Heehee, you came because you were just so keen to see me, am I right? Then I've got to make you feel real welcome♪"
+      },
+      "mail": {
+        "link": "audio/voice/302230/mail.ogg",
+        "line": "Your mail's here. Mind if I read it?"
+      },
+      "wedding": {
+        "link": "audio/voice/302230/propose.ogg",
+        "line": "Ehehe, did you steal another glance at me just before you put the ring on my finger? ...Y-you didn't? Geez, and here I am trying to show you what a maiden in love looks like..."
+      },
+      "mission": {
+        "link": "audio/voice/302230/mission.ogg",
+        "line": "That's it for the paperwork! Let's see if you left anything out... Ah, found a spot! Gimme a sec to look everything through!"
+      },
+      "x": {
+        "link": "audio/voice/302230/commision.ogg",
+        "line": "We're giving Sakura confections to the commission team as a thank-you reward, right?"
+      }
+    }
+  }
+}

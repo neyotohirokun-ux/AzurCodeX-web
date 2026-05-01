@@ -1,0 +1,160 @@
+{
+  "id": 622,
+  "gid": 50209,
+  "cid": 1,
+  "sid": [
+    502091,
+    502092,
+    502093,
+    502094
+  ],
+  "name": "Chi An",
+  "codename": "Chi An",
+  "class": "Chi An",
+  "nationality": 5,
+  "obtain": [
+    "Event: Spring Festive Fiasco",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "C",
+    "E",
+    "C",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "3": {
+      "default": 105,
+      "slot": 3,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 410,
+    "firepower": 14,
+    "torpedo": 43,
+    "antiair": 23,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 54,
+    "evasion": 24,
+    "speed": 20,
+    "luck": 20,
+    "asw": 17
+  },
+  "growth": {
+    "health": 2409,
+    "firepower": 77,
+    "torpedo": 237,
+    "antiair": 124,
+    "aviation": 0,
+    "reload": 147,
+    "accuracy": 161,
+    "evasion": 83,
+    "speed": 20,
+    "luck": 20,
+    "asw": 73
+  },
+  "enhance": {
+    "firepower": 14,
+    "torpedo": 43,
+    "reload": 40
+  },
+  "skill": {
+    "17450": {
+      "id": 17450,
+      "parent": 17450,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17460": {
+      "id": 17460,
+      "parent": 17460,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "24151": {
+      "id": 24151,
+      "parent": 24151,
+      "upgrade": 24152,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "24152": {
+      "id": 24152,
+      "parent": 24151,
+      "upgrade": null,
+      "downgrade": 24151,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

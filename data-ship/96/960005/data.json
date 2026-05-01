@@ -1,0 +1,159 @@
+{
+  "id": 614,
+  "gid": 960005,
+  "cid": 1,
+  "sid": [
+    9600051,
+    9600052,
+    9600053,
+    9600054
+  ],
+  "name": "Whydah",
+  "codename": "MOT Whydah",
+  "class": "Whydah",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Fountain of Youth",
+    "Special Construction"
+  ],
+  "type": 22,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "Improve Hunting range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "Main gun base +1",
+      "Improve Hunting range"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 324,
+    "firepower": 34,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 57,
+    "evasion": 28,
+    "speed": 18,
+    "luck": 18,
+    "asw": 0
+  },
+  "growth": {
+    "health": 9232,
+    "firepower": 475,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 482,
+    "accuracy": 817,
+    "evasion": 532,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 34,
+    "reload": 52
+  },
+  "skill": {
+    "17210": {
+      "id": 17210,
+      "parent": 17210,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17220": {
+      "id": 17220,
+      "parent": 17220,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30141": {
+      "id": 30141,
+      "parent": 30141,
+      "upgrade": 30142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30142": {
+      "id": 30142,
+      "parent": 30141,
+      "upgrade": null,
+      "downgrade": 30141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

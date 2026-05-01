@@ -1,0 +1,158 @@
+{
+  "id": 413,
+  "gid": 60302,
+  "cid": 1,
+  "sid": [
+    603021,
+    603022,
+    603023,
+    603024
+  ],
+  "name": "Zara",
+  "codename": "RN Zara",
+  "class": "Zara Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Empyreal Tragicomedy",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 853,
+    "firepower": 47,
+    "torpedo": 0,
+    "antiair": 43,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 39,
+    "evasion": 9,
+    "speed": 26.4,
+    "luck": 75,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5056,
+    "firepower": 256,
+    "torpedo": 0,
+    "antiair": 234,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 121,
+    "evasion": 59,
+    "speed": 26.4,
+    "luck": 75,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 46,
+    "reload": 50
+  },
+  "skill": {
+    "12620": {
+      "id": 12620,
+      "parent": 12620,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12630": {
+      "id": 12630,
+      "parent": 12630,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25221": {
+      "id": 25221,
+      "parent": 25221,
+      "upgrade": 25222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25222": {
+      "id": 25222,
+      "parent": 25221,
+      "upgrade": null,
+      "downgrade": 25221,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

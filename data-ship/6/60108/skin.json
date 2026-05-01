@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601080,
+      "gid": 60108,
+      "name": "Alfredo Oriani",
+      "type": "Default",
+      "desc": "Oriani-class destroyer - Alfredo Oriani.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 334,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60108/601080/painting.png",
+      "painting_n": "img/skin/60108/601080/painting_n.png",
+      "banner": "img/skin/60108/601080/banner.png",
+      "chibi": "img/skin/60108/601080/chibi.png",
+      "icon": "img/skin/60108/601080/icon.png",
+      "qicon": "img/skin/60108/601080/qicon.png",
+      "shipyard": "img/skin/60108/601080/shipyard.png",
+      "spine_chibi": "spine/chibi/aerfuleiduo/aerfuleiduo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601081,
+      "gid": 60108,
+      "name": "Vivacious Vivace",
+      "type": "Rhythm & Steps",
+      "desc": "Found you, Commander! How would you grade this outfit of mine? ...No, no, I wasn't asking if it looked cute or pretty, I wanted to know if I was wearing it right in the first place! You know what though, I think I'll take those compliments~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 334,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/155.png",
+      "background2": null,
+      "painting": "img/skin/60108/601081/painting.png",
+      "painting_n": "img/skin/60108/601081/painting_n.png",
+      "banner": "img/skin/60108/601081/banner.png",
+      "chibi": "img/skin/60108/601081/chibi.png",
+      "icon": "img/skin/60108/601081/icon.png",
+      "qicon": "img/skin/60108/601081/qicon.png",
+      "shipyard": "img/skin/60108/601081/shipyard.png",
+      "spine_chibi": "spine/chibi/aerfuleiduo/aerfuleiduo_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701080,
+      "gid": 70108,
+      "name": "Gromky",
+      "type": "Default",
+      "desc": "Gnevny-class destroyer—Gromky.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 265,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70108/701080/painting.png",
+      "painting_n": "img/skin/70108/701080/painting_n.png",
+      "banner": "img/skin/70108/701080/banner.png",
+      "chibi": "img/skin/70108/701080/chibi.png",
+      "icon": "img/skin/70108/701080/icon.png",
+      "qicon": "img/skin/70108/701080/qicon.png",
+      "shipyard": "img/skin/70108/701080/shipyard.png",
+      "spine_chibi": "spine/chibi/hongliang/hongliang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701081,
+      "gid": 70108,
+      "name": "Morning's Beckoning",
+      "type": "Home Relaxation",
+      "desc": "Comrade! The morning is already here! Look how high the sun is in the sky!! C'mon, a wonderful day is calling to us~!!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 265,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/109.png",
+      "background2": null,
+      "painting": "img/skin/70108/701081/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/70108/701081/banner.png",
+      "chibi": "img/skin/70108/701081/chibi.png",
+      "icon": "img/skin/70108/701081/icon.png",
+      "qicon": "img/skin/70108/701081/qicon.png",
+      "shipyard": "img/skin/70108/701081/shipyard.png",
+      "spine_chibi": "spine/chibi/hongliang/hongliang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

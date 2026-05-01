@@ -1,0 +1,143 @@
+{
+  "id": 10066,
+  "gid": 1060006,
+  "cid": 1,
+  "sid": [
+    10600061,
+    10600062,
+    10600063,
+    10600064
+  ],
+  "name": "Nyotengu",
+  "codename": "Nyotengu",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Dive Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Dive Bomber efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1108,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 71,
+    "reload": 43,
+    "accuracy": 30,
+    "evasion": 13,
+    "speed": 32.5,
+    "luck": 88,
+    "asw": 0
+  },
+  "growth": {
+    "health": 29748,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 1244,
+    "aviation": 900,
+    "reload": 295,
+    "accuracy": 437,
+    "evasion": 320,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 70,
+    "reload": 32
+  },
+  "skill": {
+    "106130": {
+      "id": 106130,
+      "parent": 106130,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106140": {
+      "id": 106140,
+      "parent": 106140,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

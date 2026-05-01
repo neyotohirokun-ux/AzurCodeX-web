@@ -1,0 +1,177 @@
+{
+  "id": 144,
+  "gid": 20702,
+  "cid": 1,
+  "sid": [
+    207021,
+    207022,
+    207023,
+    207024
+  ],
+  "name": "Ark Royal",
+  "codename": "HMS Ark Royal",
+  "class": "Ark Royal Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 6-3",
+    "Special Ship Construction"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +7%"
+    ]
+  ],
+  "retrofit": {
+    "id": 207024,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 15,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 50,
+      "equipment_proficiency_1": 0.03,
+      "equipment_proficiency_2": 0.03,
+      "aviation": 35,
+      "accuracy": 5
+    },
+    "skill": 14412,
+    "skin": 207029,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "S",
+      "C",
+      "B",
+      "A"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 114,
+      "slot": 1,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 115,
+      "slot": 3,
+      "type": [
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1027,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 76,
+    "reload": 43,
+    "accuracy": 35,
+    "evasion": 13,
+    "speed": 31,
+    "luck": 87,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6251,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 314,
+    "aviation": 405,
+    "reload": 119,
+    "accuracy": 104,
+    "evasion": 55,
+    "speed": 31,
+    "luck": 87,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 75,
+    "reload": 32
+  },
+  "skill": {
+    "3011": {
+      "id": 3011,
+      "parent": 3011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10330": {
+      "id": 10330,
+      "parent": 10330,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14412": {
+      "id": 14412,
+      "parent": 14412,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": 559,
+  "gid": 60202,
+  "cid": 1,
+  "sid": [
+    602021,
+    602022,
+    602023,
+    602024
+  ],
+  "name": "Giuseppe Garibaldi",
+  "codename": "RN Giuseppe Garibaldi",
+  "class": "Duca degli Abruzzi Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Aquilifer's Ballade",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 749,
+    "firepower": 33,
+    "torpedo": 60,
+    "antiair": 70,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 62,
+    "evasion": 31,
+    "speed": 35.56,
+    "luck": 88,
+    "asw": 23
+  },
+  "growth": {
+    "health": 4399,
+    "firepower": 181,
+    "torpedo": 324,
+    "antiair": 375,
+    "aviation": 0,
+    "reload": 183,
+    "accuracy": 182,
+    "evasion": 113,
+    "speed": 35.56,
+    "luck": 88,
+    "asw": 99
+  },
+  "enhance": {
+    "firepower": 33,
+    "torpedo": 59,
+    "reload": 50
+  },
+  "skill": {
+    "15800": {
+      "id": 15800,
+      "parent": 15800,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15810": {
+      "id": 15810,
+      "parent": 15810,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15820": {
+      "id": 15820,
+      "parent": 15820,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29921": {
+      "id": 29921,
+      "parent": 29921,
+      "upgrade": 29922,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29922": {
+      "id": 29922,
+      "parent": 29921,
+      "upgrade": null,
+      "downgrade": 29921,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

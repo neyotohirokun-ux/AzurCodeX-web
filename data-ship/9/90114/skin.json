@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 901140,
+      "gid": 90114,
+      "name": "L'Audacieux",
+      "type": "Default",
+      "desc": "Le Fantasque-class destroyer – L'Audacieux.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 419,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90114/901140/painting.png",
+      "painting_n": "img/skin/90114/901140/painting_n.png",
+      "banner": "img/skin/90114/901140/banner.png",
+      "chibi": "img/skin/90114/901140/chibi.png",
+      "icon": "img/skin/90114/901140/icon.png",
+      "qicon": "img/skin/90114/901140/qicon.png",
+      "shipyard": "img/skin/90114/901140/shipyard.png",
+      "spine_chibi": "spine/chibi/guogan/guogan",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 901141,
+      "gid": 90114,
+      "name": "Protector Beneath the Parasol",
+      "type": "Race Queen",
+      "desc": "Urgh... As a Chevalier, I simply cannot get used to wearing an outfit like this. But, if I tell myself it's for the Commander's sake... Alright! I shall complete today's sacred duties to the utmost of my abilities!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 419,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/186.png",
+      "background2": null,
+      "painting": "img/skin/90114/901141/painting.png",
+      "painting_n": "img/skin/90114/901141/painting_n.png",
+      "banner": "img/skin/90114/901141/banner.png",
+      "chibi": "img/skin/90114/901141/chibi.png",
+      "icon": "img/skin/90114/901141/icon.png",
+      "qicon": "img/skin/90114/901141/qicon.png",
+      "shipyard": "img/skin/90114/901141/shipyard.png",
+      "spine_chibi": "spine/chibi/guogan/guogan_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

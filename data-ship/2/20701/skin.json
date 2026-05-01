@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 207010,
+      "gid": 20701,
+      "name": "Eagle",
+      "type": "Default",
+      "desc": "Eagle-class light aircraft carrier – Eagle (HMS Eagle.)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 239,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20701/207010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20701/207010/banner.png",
+      "chibi": "img/skin/20701/207010/chibi.png",
+      "icon": "img/skin/20701/207010/icon.png",
+      "qicon": "img/skin/20701/207010/qicon.png",
+      "shipyard": "img/skin/20701/207010/shipyard.png",
+      "spine_chibi": "spine/chibi/ying/ying",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 207011,
+      "gid": 20701,
+      "name": "Eagle's Clinic",
+      "type": "Hospital Series",
+      "desc": "This may be an exercise, but even so I will give it my all. Right now, I am not just a Royal Navy warrior, but a medical resident as well. If you ever feel ill, come see me, Commander.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 239,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/138.png",
+      "background2": null,
+      "painting": "img/skin/20701/207011/painting.png",
+      "painting_n": "img/skin/20701/207011/painting_n.png",
+      "banner": "img/skin/20701/207011/banner.png",
+      "chibi": "img/skin/20701/207011/chibi.png",
+      "icon": "img/skin/20701/207011/icon.png",
+      "qicon": "img/skin/20701/207011/qicon.png",
+      "shipyard": "img/skin/20701/207011/shipyard.png",
+      "spine_chibi": "spine/chibi/ying/ying_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

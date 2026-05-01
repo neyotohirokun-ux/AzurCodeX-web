@@ -1,0 +1,160 @@
+{
+  "id": 653,
+  "gid": 90114,
+  "cid": 1,
+  "sid": [
+    901141,
+    901142,
+    901143,
+    901144
+  ],
+  "name": "L'Audacieux",
+  "codename": "MNF L'Audacieux",
+  "class": "Le Fantasque Class ",
+  "nationality": 9,
+  "obtain": [
+    "Event: Interlude of Illusions"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 336,
+    "firepower": 28,
+    "torpedo": 52,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 68,
+    "evasion": 79,
+    "speed": 54,
+    "luck": 49,
+    "asw": 49
+  },
+  "growth": {
+    "health": 2135,
+    "firepower": 153,
+    "torpedo": 283,
+    "antiair": 146,
+    "aviation": 0,
+    "reload": 210,
+    "accuracy": 210,
+    "evasion": 274,
+    "speed": 54,
+    "luck": 49,
+    "asw": 203
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 51,
+    "reload": 57
+  },
+  "skill": {
+    "30321": {
+      "id": 30321,
+      "parent": 30321,
+      "upgrade": 30322,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30322": {
+      "id": 30322,
+      "parent": 30321,
+      "upgrade": null,
+      "downgrade": 30321,
+      "requirement": "Limit Break 3"
+    },
+    "150230": {
+      "id": 150230,
+      "parent": 150230,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150240": {
+      "id": 150240,
+      "parent": 150240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

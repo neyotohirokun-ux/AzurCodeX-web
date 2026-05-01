@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 201160,
+      "gid": 20116,
+      "name": "Hardy",
+      "type": "Default",
+      "desc": "H-class destroyer – Hardy (H87)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 170,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20116/201160/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20116/201160/banner.png",
+      "chibi": "img/skin/20116/201160/chibi.png",
+      "icon": "img/skin/20116/201160/icon.png",
+      "qicon": "img/skin/20116/201160/qicon.png",
+      "shipyard": "img/skin/20116/201160/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

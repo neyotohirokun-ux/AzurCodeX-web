@@ -1,0 +1,790 @@
+{
+  "4200": {
+    "name": "Swordfish Mk II-ASV (ASW)",
+    "desc": "An ASV-carrying Swordfish featuring additional hardpoints.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4200.png",
+    "stats": {
+      "1": {
+        "id": 4200,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 5,
+        "weapon_id": [
+          4200
+        ]
+      },
+      "2": {
+        "id": 4201,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 5,
+        "weapon_id": [
+          4201
+        ]
+      },
+      "3": {
+        "id": 4202,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 5,
+        "weapon_id": [
+          4202
+        ]
+      },
+      "4": {
+        "id": 4203,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 5,
+        "weapon_id": [
+          4203
+        ]
+      }
+    }
+  },
+  "4220": {
+    "name": "Swordfish Mk II-ASV (ASW)",
+    "desc": "An ASV-carrying Swordfish featuring additional hardpoints.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4200.png",
+    "stats": {
+      "1": {
+        "id": 4220,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 12,
+        "weapon_id": [
+          4220
+        ]
+      },
+      "2": {
+        "id": 4221,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 12,
+        "weapon_id": [
+          4221
+        ]
+      },
+      "3": {
+        "id": 4222,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 12,
+        "weapon_id": [
+          4222
+        ]
+      },
+      "4": {
+        "id": 4223,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 12,
+        "weapon_id": [
+          4223
+        ]
+      },
+      "5": {
+        "id": 4224,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 12,
+        "weapon_id": [
+          4224
+        ]
+      },
+      "6": {
+        "id": 4225,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 12,
+        "weapon_id": [
+          4225
+        ]
+      },
+      "7": {
+        "id": 4226,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 12,
+        "weapon_id": [
+          4226
+        ]
+      }
+    }
+  },
+  "4240": {
+    "name": "Swordfish Mk II-ASV (ASW)",
+    "desc": "An ASV-carrying Swordfish featuring additional hardpoints.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4200.png",
+    "stats": {
+      "1": {
+        "id": 4240,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 25,
+        "weapon_id": [
+          4240
+        ]
+      },
+      "2": {
+        "id": 4241,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 25,
+        "weapon_id": [
+          4241
+        ]
+      },
+      "3": {
+        "id": 4242,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 25,
+        "weapon_id": [
+          4242
+        ]
+      },
+      "4": {
+        "id": 4243,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 25,
+        "weapon_id": [
+          4243
+        ]
+      },
+      "5": {
+        "id": 4244,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 25,
+        "weapon_id": [
+          4244
+        ]
+      },
+      "6": {
+        "id": 4245,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 25,
+        "weapon_id": [
+          4245
+        ]
+      },
+      "7": {
+        "id": 4246,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 25,
+        "weapon_id": [
+          4246
+        ]
+      },
+      "8": {
+        "id": 4247,
+        "level": 8,
+        "enhance": "+7",
+        "antisub": 25,
+        "weapon_id": [
+          4247
+        ]
+      },
+      "9": {
+        "id": 4248,
+        "level": 9,
+        "enhance": "+8",
+        "antisub": 25,
+        "weapon_id": [
+          4248
+        ]
+      },
+      "10": {
+        "id": 4249,
+        "level": 10,
+        "enhance": "+9",
+        "antisub": 25,
+        "weapon_id": [
+          4249
+        ]
+      },
+      "11": {
+        "id": 4250,
+        "level": 11,
+        "enhance": "+10",
+        "antisub": 25,
+        "weapon_id": [
+          4250
+        ]
+      },
+      "12": {
+        "id": 4251,
+        "level": 12,
+        "enhance": "+11",
+        "antisub": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          4251
+        ]
+      }
+    }
+  },
+  "4260": {
+    "name": "Fairey Gannet",
+    "desc": null,
+    "label": [
+      "ASA"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 15,
+    "skill": {
+      "[60830, 1]": null
+    },
+    "icon": "img/equipment/4260.png",
+    "stats": {
+      "1": {
+        "id": 4260,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 45,
+        "weapon_id": [
+          4260
+        ]
+      },
+      "2": {
+        "id": 4261,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 45,
+        "weapon_id": [
+          4261
+        ]
+      },
+      "3": {
+        "id": 4262,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 45,
+        "weapon_id": [
+          4262
+        ]
+      },
+      "4": {
+        "id": 4263,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 45,
+        "weapon_id": [
+          4263
+        ]
+      },
+      "5": {
+        "id": 4264,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 45,
+        "weapon_id": [
+          4264
+        ]
+      },
+      "6": {
+        "id": 4265,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 45,
+        "weapon_id": [
+          4265
+        ]
+      },
+      "7": {
+        "id": 4266,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 45,
+        "weapon_id": [
+          4266
+        ]
+      },
+      "8": {
+        "id": 4267,
+        "level": 8,
+        "enhance": "+7",
+        "antisub": 45,
+        "weapon_id": [
+          4267
+        ]
+      },
+      "9": {
+        "id": 4268,
+        "level": 9,
+        "enhance": "+8",
+        "antisub": 45,
+        "weapon_id": [
+          4268
+        ]
+      },
+      "10": {
+        "id": 4269,
+        "level": 10,
+        "enhance": "+9",
+        "antisub": 45,
+        "weapon_id": [
+          4269
+        ]
+      },
+      "11": {
+        "id": 4270,
+        "level": 11,
+        "enhance": "+10",
+        "antisub": 45,
+        "weapon_id": [
+          4270
+        ]
+      },
+      "12": {
+        "id": 4271,
+        "level": 12,
+        "enhance": "+11",
+        "antisub": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          4271
+        ]
+      },
+      "13": {
+        "id": 4272,
+        "level": 13,
+        "enhance": "+12",
+        "antisub": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          4272
+        ]
+      },
+      "14": {
+        "id": 4273,
+        "level": 14,
+        "enhance": "+13",
+        "antisub": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          4273
+        ]
+      }
+    }
+  },
+  "4300": {
+    "name": "TBM-3 Avenger (ASW)",
+    "desc": "A variant of the TBF outfitted with a more powerful engine.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4300.png",
+    "stats": {
+      "1": {
+        "id": 4300,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 5,
+        "weapon_id": [
+          4300
+        ]
+      },
+      "2": {
+        "id": 4301,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 5,
+        "weapon_id": [
+          4301
+        ]
+      },
+      "3": {
+        "id": 4302,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 5,
+        "weapon_id": [
+          4302
+        ]
+      },
+      "4": {
+        "id": 4303,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 5,
+        "weapon_id": [
+          4303
+        ]
+      }
+    }
+  },
+  "4320": {
+    "name": "TBM-3 Avenger (ASW)",
+    "desc": "A variant of the TBF outfitted with a more powerful engine.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4300.png",
+    "stats": {
+      "1": {
+        "id": 4320,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 12,
+        "weapon_id": [
+          4320
+        ]
+      },
+      "2": {
+        "id": 4321,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 12,
+        "weapon_id": [
+          4321
+        ]
+      },
+      "3": {
+        "id": 4322,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 12,
+        "weapon_id": [
+          4322
+        ]
+      },
+      "4": {
+        "id": 4323,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 12,
+        "weapon_id": [
+          4323
+        ]
+      },
+      "5": {
+        "id": 4324,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 12,
+        "weapon_id": [
+          4324
+        ]
+      },
+      "6": {
+        "id": 4325,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 12,
+        "weapon_id": [
+          4325
+        ]
+      },
+      "7": {
+        "id": 4326,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 12,
+        "weapon_id": [
+          4326
+        ]
+      }
+    }
+  },
+  "4340": {
+    "name": "TBM-3 Avenger (ASW)",
+    "desc": "A variant of the TBF outfitted with a more powerful engine.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4300.png",
+    "stats": {
+      "1": {
+        "id": 4340,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 25,
+        "weapon_id": [
+          4340
+        ]
+      },
+      "2": {
+        "id": 4341,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 25,
+        "weapon_id": [
+          4341
+        ]
+      },
+      "3": {
+        "id": 4342,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 25,
+        "weapon_id": [
+          4342
+        ]
+      },
+      "4": {
+        "id": 4343,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 25,
+        "weapon_id": [
+          4343
+        ]
+      },
+      "5": {
+        "id": 4344,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 25,
+        "weapon_id": [
+          4344
+        ]
+      },
+      "6": {
+        "id": 4345,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 25,
+        "weapon_id": [
+          4345
+        ]
+      },
+      "7": {
+        "id": 4346,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 25,
+        "weapon_id": [
+          4346
+        ]
+      },
+      "8": {
+        "id": 4347,
+        "level": 8,
+        "enhance": "+7",
+        "antisub": 25,
+        "weapon_id": [
+          4347
+        ]
+      },
+      "9": {
+        "id": 4348,
+        "level": 9,
+        "enhance": "+8",
+        "antisub": 25,
+        "weapon_id": [
+          4348
+        ]
+      },
+      "10": {
+        "id": 4349,
+        "level": 10,
+        "enhance": "+9",
+        "antisub": 25,
+        "weapon_id": [
+          4349
+        ]
+      },
+      "11": {
+        "id": 4350,
+        "level": 11,
+        "enhance": "+10",
+        "antisub": 25,
+        "weapon_id": [
+          4350
+        ]
+      },
+      "12": {
+        "id": 4351,
+        "level": 12,
+        "enhance": "+11",
+        "antisub": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          4351
+        ]
+      }
+    }
+  },
+  "4360": {
+    "name": "TBM Avenger (VT-51)",
+    "desc": "A TBM Avenger of the VT-51 squadron that served on the San Jacinto.",
+    "label": [
+      "ASA"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 15,
+    "skill": {},
+    "icon": "img/equipment/4360.png",
+    "stats": {
+      "1": {
+        "id": 4360,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 45,
+        "weapon_id": [
+          4360
+        ]
+      },
+      "2": {
+        "id": 4361,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 45,
+        "weapon_id": [
+          4361
+        ]
+      },
+      "3": {
+        "id": 4362,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 45,
+        "weapon_id": [
+          4362
+        ]
+      },
+      "4": {
+        "id": 4363,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 45,
+        "weapon_id": [
+          4363
+        ]
+      },
+      "5": {
+        "id": 4364,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 45,
+        "weapon_id": [
+          4364
+        ]
+      },
+      "6": {
+        "id": 4365,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 45,
+        "weapon_id": [
+          4365
+        ]
+      },
+      "7": {
+        "id": 4366,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 45,
+        "weapon_id": [
+          4366
+        ]
+      },
+      "8": {
+        "id": 4367,
+        "level": 8,
+        "enhance": "+7",
+        "antisub": 45,
+        "weapon_id": [
+          4367
+        ]
+      },
+      "9": {
+        "id": 4368,
+        "level": 9,
+        "enhance": "+8",
+        "antisub": 45,
+        "weapon_id": [
+          4368
+        ]
+      },
+      "10": {
+        "id": 4369,
+        "level": 10,
+        "enhance": "+9",
+        "antisub": 45,
+        "weapon_id": [
+          4369
+        ]
+      },
+      "11": {
+        "id": 4370,
+        "level": 11,
+        "enhance": "+10",
+        "antisub": 45,
+        "weapon_id": [
+          4370
+        ]
+      },
+      "12": {
+        "id": 4371,
+        "level": 12,
+        "enhance": "+11",
+        "antisub": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          4371
+        ]
+      },
+      "13": {
+        "id": 4372,
+        "level": 13,
+        "enhance": "+12",
+        "antisub": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          4372
+        ]
+      },
+      "14": {
+        "id": 4373,
+        "level": 14,
+        "enhance": "+13",
+        "antisub": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          4373
+        ]
+      }
+    }
+  }
+}

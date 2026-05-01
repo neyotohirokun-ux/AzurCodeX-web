@@ -1,0 +1,153 @@
+{
+  "id": 123,
+  "gid": 20305,
+  "cid": 1,
+  "sid": [
+    203051,
+    203052,
+    203053,
+    203054
+  ],
+  "name": "Norfolk",
+  "codename": "HMS Norfolk",
+  "class": "Norfolk Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-3",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "D",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 798,
+    "firepower": 33,
+    "torpedo": 26,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 38,
+    "evasion": 9,
+    "speed": 25.2,
+    "luck": 69,
+    "asw": 0
+  },
+  "growth": {
+    "health": 4727,
+    "firepower": 180,
+    "torpedo": 143,
+    "antiair": 247,
+    "aviation": 0,
+    "reload": 162,
+    "accuracy": 120,
+    "evasion": 71,
+    "speed": 25.2,
+    "luck": 69,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 32,
+    "torpedo": 26,
+    "reload": 44
+  },
+  "skill": {
+    "4051": {
+      "id": 4051,
+      "parent": 4051,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21231": {
+      "id": 21231,
+      "parent": 21231,
+      "upgrade": 21232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21232": {
+      "id": 21232,
+      "parent": 21231,
+      "upgrade": null,
+      "downgrade": 21231,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

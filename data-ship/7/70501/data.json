@@ -1,0 +1,145 @@
+{
+  "id": 437,
+  "gid": 70501,
+  "cid": 1,
+  "sid": [
+    705011,
+    705012,
+    705013,
+    705014
+  ],
+  "name": "Gangut",
+  "codename": "SN Gangut",
+  "class": "Gangut Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Northern Overture",
+    "Merit Shop"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1082,
+    "firepower": 62,
+    "torpedo": 0,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 20,
+    "evasion": 6,
+    "speed": 24.1,
+    "luck": 85,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6645,
+    "firepower": 328,
+    "torpedo": 0,
+    "antiair": 177,
+    "aviation": 0,
+    "reload": 151,
+    "accuracy": 63,
+    "evasion": 34,
+    "speed": 24.1,
+    "luck": 85,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 61,
+    "reload": 41
+  },
+  "skill": {
+    "13050": {
+      "id": 13050,
+      "parent": 13050,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13060": {
+      "id": 13060,
+      "parent": 13060,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

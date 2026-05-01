@@ -1,0 +1,352 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Laffey Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Laffey Ver.) - ラフィー(CV.長縄まりあ).mp3",
+            "lyrics": "compose/songs/Laffey Ver.json",
+            "link": "https://soundcloud.com/benson_laffey/yuukyuu-no-catharsis-laffey-ver"
+        }
+    ],
+    "lines": {
+    "101510": {
+      "battle": {
+        "link": "audio/voice/101510/battle.ogg",
+        "line": "First things first, we gotta beat the baddies... Yep, hurry..."
+      },
+      "couple_encourage1": {
+        "link": "audio/voice/101510/couple_encourage1.ogg",
+        "line": "Yep. I'm in great condition... What about you, Nevada?",
+        "type": 0,
+        "list": [
+          10501
+        ],
+        "count": 1
+      },
+      "couple_encourage2": {
+        "link": "audio/voice/101510/couple_encourage2.ogg",
+        "line": "Let's take a nap together after this... Yeah...",
+        "type": 0,
+        "list": [
+          10710
+        ],
+        "count": 1
+      },
+      "couple_encourage3": {
+        "link": "audio/voice/101510/couple_encourage3.ogg",
+        "line": "Laffey's ready, too. Let's launch together...",
+        "type": 0,
+        "list": [
+          10148,
+          10145,
+          10144,
+          10149
+        ],
+        "count": 1
+      },
+      "detail": {
+        "link": "audio/voice/101510/detail.ogg",
+        "line": "Yeah... You're always looking after Laffey, Commander... That makes me happy..."
+      },
+      "expedition": {
+        "link": "audio/voice/101510/expedition.ogg",
+        "line": "The commission team returned... Did you know that already? Okay, then I'll go back and sleep..."
+      },
+      "feeling1": {
+        "link": "audio/voice/101510/feeling1.ogg",
+        "line": "Why'd you wake me up... Do you need something, Commander...?"
+      },
+      "feeling2": {
+        "link": "audio/voice/101510/feeling2.ogg",
+        "line": "Does Laffey look unmotivated? You're just imagining it... I'm so motivated... Zzzz..."
+      },
+      "feeling3": {
+        "link": "audio/voice/101510/feeling3.ogg",
+        "line": "I'm not fully awake yet, but... My body and mind are ready for a fight..."
+      },
+      "feeling4": {
+        "link": "audio/voice/101510/feeling4.ogg",
+        "line": "What do you think when you see Laffey... Nope, I don't care. Not one bit..."
+      },
+      "feeling5": {
+        "link": "audio/voice/101510/feeling5.ogg",
+        "line": "Sometimes, even Laffey can change... But no matter how much I change, I'll never stop wanting to be with you, Commander..."
+      },
+      "headtouch": {
+        "link": "audio/voice/101510/headtouch.ogg",
+        "line": "Commander...? You want to take a break...?"
+      },
+      "home": {
+        "link": "audio/voice/101510/home.ogg",
+        "line": "Commander... *yaaawn*... Welcome back... Zzzzz..."
+      },
+      "hp_warning": {
+        "link": "audio/voice/101510/hp_warning.ogg",
+        "line": "As long as I can shoot, I won't give up..."
+      },
+      "login": {
+        "link": "audio/voice/101510/login.ogg",
+        "line": "Yep, Laffey took a good nap, so I'm awake and ready for work... probably. What about you, Commander?"
+      },
+      "lose": {
+        "link": "audio/voice/101510/lose.ogg",
+        "line": "My battle... isn't over yet... Nope."
+      },
+      "mail": {
+        "link": "audio/voice/101510/mail.ogg",
+        "line": "Commander, Laffey put your letters... right here."
+      },
+      "main1": {
+        "link": "audio/voice/101510/main1.ogg",
+        "line": "I wanted to sit on my rigging and fly directly to the academy, but that wouldn't work, so I ended up walking. I wish I could ride instead of walk..."
+      },
+      "main2": {
+        "link": "audio/voice/101510/main2.ogg",
+        "line": "When Laffey needs to remember something, I can just type it into my display panel... So convenient."
+      },
+      "main3": {
+        "link": "audio/voice/101510/main3.ogg",
+        "line": "Does Laffey look stronger now? ...Because I can sleep sitting on my rigging? No? Hmm..."
+      },
+      "main4": {
+        "link": "audio/voice/101510/main4.ogg",
+        "line": "This new cargo space is great... All of my favorite drinks are in there... Here. This one's cold, so you can have it..."
+      },
+      "main5": {
+        "link": "audio/voice/101510/main5.ogg",
+        "line": "Don't worry about Laffey... Even when I'm asleep, I'm plenty alert... Yep..."
+      },
+      "mission": {
+        "link": "audio/voice/101510/mission.ogg",
+        "line": "A new mission arrived. Commander, it's time for work... Aww, I have to, too?"
+      },
+      "mission_complete": {
+        "link": "audio/voice/101510/mission_complete.ogg",
+        "line": "We have rewards. Want to see them, Commander?"
+      },
+      "profile": {
+        "link": "audio/voice/101510/profile.ogg",
+        "line": "...Allen M. Sumner-class? That sounds right. Commander, do you like Laffey's new rigging? I'm not waiting for you to compliment me, or anything... Don't know why you'd think so..."
+      },
+      "propose": {
+        "link": "audio/voice/101510/propose.ogg",
+        "line": "...I'm only the Laffey I am now because of how much you care, Commander... Because you're always watching over me... Yep, I promise... Laffey will be together with you forever..."
+      },
+      "skill": {
+        "link": "audio/voice/101510/skill.ogg",
+        "line": "Connection established. Deploying...!"
+      },
+      "touch": {
+        "link": "audio/voice/101510/touch.ogg",
+        "line": "When I sat down, I fell asleep... Nnh... It's okay, I won't fall down..."
+      },
+      "touch2": {
+        "link": "audio/voice/101510/touch2.ogg",
+        "line": "Commander... You really are a pervert..."
+      },
+      "unlock": {
+        "link": "audio/voice/101510/unlock.ogg",
+        "line": "*yawn*... Laffey's ready, raring, and more motivated than ever... My rigging is the only thing that changed, not me... So don't touch these ears, Commander. They're not real..."
+      },
+      "upgrade": {
+        "link": "audio/voice/101510/upgrade.ogg",
+        "line": "...Can I nap a little longer, please...?"
+      },
+      "win_mvp": {
+        "link": "audio/voice/101510/win_mvp.ogg",
+        "line": "I won... Back to sleep now..."
+      },
+      "battle_ex": {
+        "link": "audio/voice/101510/battle_ex.ogg",
+        "line": "Laffey and the Commander are super motivated..."
+      },
+      "expedition_ex": {
+        "link": "audio/voice/101510/expedition_ex.ogg",
+        "line": "Commission team's home... Just five more minutes of sleep... Nnh, but I wanna go see everyone with the Commander..."
+      },
+      "feeling5_ex": {
+        "link": "audio/voice/101510/feeling5_ex.ogg",
+        "line": "Commander, can I have a second? It's okay... Laffey just wants to nap next to you... I'll be quiet. Zzzz..."
+      },
+      "headtouch_ex": {
+        "link": "audio/voice/101510/headtouch_ex.ogg",
+        "line": "Zzzz... Mmnh...? Commander...? Zzzz..."
+      },
+      "home_ex": {
+        "link": "audio/voice/101510/home_ex.ogg",
+        "line": "It's not like Laffey wants to be with you for a little longer... Nope, not at all."
+      },
+      "hp_warning_ex": {
+        "link": "audio/voice/101510/hp_warning_ex.ogg",
+        "line": "\"The Ship That Would Not Die\" won't go down that easy..."
+      },
+      "login_ex": {
+        "link": "audio/voice/101510/login_ex.ogg",
+        "line": "Welcome back... No, I wasn't waiting for you to wake me up... Nuh-uh."
+      },
+      "lose_ex": {
+        "link": "audio/voice/101510/lose_ex.ogg",
+        "line": "Urk... Sorry for worrying you, Commander... It's okay. I won't be disheartened..."
+      },
+      "mail_ex": {
+        "link": "audio/voice/101510/mail_ex.ogg",
+        "line": "Commander, don't forget to check your mail..."
+      },
+      "main6_ex": {
+        "link": "audio/voice/101510/main6_ex.ogg",
+        "line": "When you're here, Laffey can relax... When I fall asleep, my body will go all limp, too..."
+      },
+      "main7_ex": {
+        "link": "audio/voice/101510/main7_ex.ogg",
+        "line": "Commander, want to join the napping club? Well.. You can nap with me even if you're not in the club..."
+      },
+      "main8_ex": {
+        "link": "audio/voice/101510/main8_ex.ogg",
+        "line": "Commander, lean on Laffey if you want... Actually... I'd rather lean on you..."
+      },
+      "mission_ex": {
+        "link": "audio/voice/101510/mission_ex.ogg",
+        "line": "New missions... After we finish them together, I'm gonna take a nap... Yep, yep."
+      },
+      "mission_complete_ex": {
+        "link": "audio/voice/101510/mission_complete_ex.ogg",
+        "line": "Mission complete... Hm? Laffey can have a reward, too? Okay... Then I want time alone with you, Commander..."
+      },
+      "touch_ex": {
+        "link": "audio/voice/101510/touch_ex.ogg",
+        "line": "I'm not thinking about how I want to put my head in your lap and fall asleep... Not one bit."
+      },
+      "touch2_ex": {
+        "link": "audio/voice/101510/touch2_ex.ogg",
+        "line": "You're so weird, Commander... But I guess I'm used to it now..."
+      },
+      "win_mvp_ex": {
+        "link": "audio/voice/101510/win_mvp_ex.ogg",
+        "line": "Targets eliminated... Wanna go rest together, Commander?"
+      }
+    },
+    "101511": {
+      "detail": {
+        "link": "audio/voice/101511/detail.ogg",
+        "line": "My uniform's covered in bunnies, my shoes have bunnies... I love it. Do you like it, Commander...?"
+      },
+      "expedition": {
+        "link": "audio/voice/101511/expedition.ogg",
+        "line": "Our commission team just got home. The pop-up shop... is about to get really busy..."
+      },
+      "feeling5": {
+        "link": "audio/voice/101511/feeling5.ogg",
+        "line": "Can't get motivated to work... I'm not thinking of slacking off and going to see the Commander... Of course not. Obviously."
+      },
+      "headtouch": {
+        "link": "audio/voice/101511/headtouch.ogg",
+        "line": "Commander... I'm not eepy, I swear... Okay? Got it?"
+      },
+      "home": {
+        "link": "audio/voice/101511/home.ogg",
+        "line": "Commander, your order...? \"Anything as long as I'm with Laffey\"? Aw, thank you..."
+      },
+      "hp_warning": {
+        "link": "audio/voice/101511/hp_warning.ogg",
+        "line": "I almost slipped... Phew..."
+      },
+      "login": {
+        "link": "audio/voice/101511/login.ogg",
+        "line": "I haven't been looking all over the place for you... Nope, not at all."
+      },
+      "lose": {
+        "link": "audio/voice/101511/lose.ogg",
+        "line": "Oops, I spilled it... It's okay, though..."
+      },
+      "main1": {
+        "link": "audio/voice/101511/main1.ogg",
+        "line": "Laffey's job... is to deliver food to the tables... It's not boring because you're here, Commander... Yep."
+      },
+      "main2": {
+        "link": "audio/voice/101511/main2.ogg",
+        "line": "If Ingraham made a conveyor belt to deliver the food, would Laffey not have to anymore...?"
+      },
+      "main3": {
+        "link": "audio/voice/101511/main3.ogg",
+        "line": "I came to help out... so I'll keep doing my best... I'm not thinking about slacking off with Allen... Nope, not at all..."
+      },
+      "mission_complete": {
+        "link": "audio/voice/101511/mission_complete.ogg",
+        "line": "Mission complete... Commander, I'm gonna take a nap... Zzzz..."
+      },
+      "touch": {
+        "link": "audio/voice/101511/touch.ogg",
+        "line": "My bouncy bunny ears look fun to touch...? Umm... I don't understand..."
+      },
+      "touch2": {
+        "link": "audio/voice/101511/touch2.ogg",
+        "line": "Commander, you pervert... You're gonna make my bunnies fall off..."
+      },
+      "unlock": {
+        "link": "audio/voice/101511/unlock.ogg",
+        "line": "Laffey's helping out around the pop-up shop... Commander, sit wherever you want... Any open seat is probably fine."
+      },
+      "win_mvp": {
+        "link": "audio/voice/101511/win_mvp.ogg",
+        "line": "I won... Cheers, Commander..."
+      }
+    },
+    "101512": {
+      "detail": {
+        "link": "audio/voice/101512/detail.ogg",
+        "line": "Honorable Lady Laffey owns a big castle full of... umm, pillows? I'm tired... I forgot the setting we agreed on..."
+      },
+      "feeling5": {
+        "link": "audio/voice/101512/feeling5.ogg",
+        "line": "As my most important retainer, Commander... I mean, Magistrate, you'll always be mine... No, Laffey isn't trying to monopolize you. Nope, not at all..."
+      },
+      "headtouch": {
+        "link": "audio/voice/101512/headtouch.ogg",
+        "line": "Magistrate, do you like my bunny ear headband that much...?"
+      },
+      "home": {
+        "link": "audio/voice/101512/home.ogg",
+        "line": "Yaaawn... When I wake up, my Magistrate is back... I'm happy. As a retainer of Honorable Lady Laffey of the Castle of the Bunnies, you can't leave my side without my permission..."
+      },
+      "login": {
+        "link": "audio/voice/101512/login.ogg",
+        "line": "Welcome back, Magistrate... How much of our tour do we have left? A whole day...? Can Laffey change the setting of her territory's size?"
+      },
+      "mail": {
+        "link": "audio/voice/101512/mail.ogg",
+        "line": "The bunnies brought mail for you, Magistrate. Take it with you..."
+      },
+      "main1": {
+        "link": "audio/voice/101512/main1.ogg",
+        "line": "Cute, fluffy bunnies... Warm and comfy... Magistrate, come pet them..."
+      },
+      "main2": {
+        "link": "audio/voice/101512/main2.ogg",
+        "line": "The bunnies are sleeping... Everyone worked hard, so it's time to rest..."
+      },
+      "main3": {
+        "link": "audio/voice/101512/main3.ogg",
+        "line": "You can decide where we go next, Magistrate... When are we going? We can think about that after a nap..."
+      },
+      "mission": {
+        "link": "audio/voice/101512/mission.ogg",
+        "line": "The government of the Castle of the Bunnies needs our help... You are permitted to take care of it yourself, Magistrate..."
+      },
+      "mission_complete": {
+        "link": "audio/voice/101512/mission_complete.ogg",
+        "line": "Our government affairs are dealt with. Back to our tour..."
+      },
+      "touch": {
+        "link": "audio/voice/101512/touch.ogg",
+        "line": "Magistrate, do you like cool places? It's nice and cool next to Laffey..."
+      },
+      "touch2": {
+        "link": "audio/voice/101512/touch2.ogg",
+        "line": "The knot came undone, so Laffey's clothes are about to fall off. Magistrate, you are a pervert..."
+      },
+      "unlock": {
+        "link": "audio/voice/101512/unlock.ogg",
+        "line": "Mmm, eepy... The honorable Lady Laffey of the Castle of the Bunnies requires rest... Commander... I mean, Magistrate... Our tour must wait for now..."
+      }
+    }
+  }
+}

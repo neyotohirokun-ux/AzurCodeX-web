@@ -1,0 +1,10 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Kaga Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Kaga Ver.) - 加賀(CV.茅野愛衣).mp3",
+            "lyrics": "compose/songs/Yuukyuu.json",
+            "link": "https://soundcloud.com/ijn-kaga/yuukyuu-no-catharsis"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 102060,
+      "gid": 10206,
+      "name": "Atlanta",
+      "type": "Default",
+      "desc": "Atlanta-class light cruiser – Atlanta, Hull Number CL-51!",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": 19,
+      "voice_actor": 55,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10206/102060/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10206/102060/banner.png",
+      "chibi": "img/skin/10206/102060/chibi.png",
+      "icon": "img/skin/10206/102060/icon.png",
+      "qicon": "img/skin/10206/102060/qicon.png",
+      "shipyard": "img/skin/10206/102060/shipyard.png",
+      "spine_chibi": "spine/chibi/yatelanda/yatelanda",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

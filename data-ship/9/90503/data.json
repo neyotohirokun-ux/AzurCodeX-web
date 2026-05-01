@@ -1,0 +1,148 @@
+{
+  "id": 418,
+  "gid": 90503,
+  "cid": 1,
+  "sid": [
+    905031,
+    905032,
+    905033,
+    905034
+  ],
+  "name": "Gascogne μ",
+  "codename": "MNF Gascogne",
+  "class": "Unknown",
+  "nationality": 9,
+  "obtain": [
+    "Event: Passionate Polaris",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "C",
+    "D",
+    "A"
+  ],
+  "share_group": [
+    99901
+  ],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Every Main Gun reload gives 2 independently fired Salvoes",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.7
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1332,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 44,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 24,
+    "evasion": 10,
+    "speed": 32,
+    "luck": 0,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8047,
+    "firepower": 439,
+    "torpedo": 0,
+    "antiair": 247,
+    "aviation": 0,
+    "reload": 170,
+    "accuracy": 73,
+    "evasion": 37,
+    "speed": 32,
+    "luck": 15,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 46
+  },
+  "skill": {
+    "12780": {
+      "id": 12780,
+      "parent": 12780,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12790": {
+      "id": 12790,
+      "parent": 12790,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

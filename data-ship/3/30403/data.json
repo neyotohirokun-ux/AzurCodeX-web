@@ -1,0 +1,138 @@
+{
+  "id": 206,
+  "gid": 30403,
+  "cid": 1,
+  "sid": [
+    304031,
+    304032,
+    304033,
+    304034
+  ],
+  "name": "Haruna",
+  "codename": "IJN Haruna",
+  "class": "Kongou Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Ink-Stained Steel Sakura",
+    "Core Data Shop"
+  ],
+  "type": 4,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1087,
+    "firepower": 68,
+    "torpedo": 0,
+    "antiair": 51,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 21,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 47,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6762,
+    "firepower": 365,
+    "torpedo": 0,
+    "antiair": 279,
+    "aviation": 0,
+    "reload": 161,
+    "accuracy": 70,
+    "evasion": 38,
+    "speed": 30,
+    "luck": 47,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 67,
+    "reload": 44
+  },
+  "skill": {
+    "11340": {
+      "id": 11340,
+      "parent": 11340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

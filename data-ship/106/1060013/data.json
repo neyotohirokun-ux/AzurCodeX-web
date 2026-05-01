@@ -1,0 +1,144 @@
+{
+  "id": 10993,
+  "gid": 1060013,
+  "cid": 1,
+  "sid": [
+    10600131,
+    10600132,
+    10600133,
+    10600134
+  ],
+  "name": "Tsukushi",
+  "codename": "Tsukushi",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 329,
+    "firepower": 18,
+    "torpedo": 101,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 80,
+    "accuracy": 69,
+    "evasion": 71,
+    "speed": 42.6,
+    "luck": 89,
+    "asw": 51
+  },
+  "growth": {
+    "health": 9378,
+    "firepower": 247,
+    "torpedo": 1212,
+    "antiair": 714,
+    "aviation": 0,
+    "reload": 554,
+    "accuracy": 1062,
+    "evasion": 1320,
+    "speed": 0,
+    "luck": 0,
+    "asw": 577
+  },
+  "enhance": {
+    "firepower": 18,
+    "torpedo": 100,
+    "reload": 59
+  },
+  "skill": {
+    "106570": {
+      "id": 106570,
+      "parent": 106570,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106590": {
+      "id": 106590,
+      "parent": 106590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

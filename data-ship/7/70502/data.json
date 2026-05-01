@@ -1,0 +1,151 @@
+{
+  "id": 438,
+  "gid": 70502,
+  "cid": 1,
+  "sid": [
+    705021,
+    705022,
+    705023,
+    705024
+  ],
+  "name": "Sovetsky Soyuz",
+  "codename": "SN Sovetsky Soyuz",
+  "class": "Sovetsky Soyuz Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Snowrealm Peregrination"
+  ],
+  "type": 5,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1657,
+    "firepower": 87,
+    "torpedo": 0,
+    "antiair": 47,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 20,
+    "evasion": 8,
+    "speed": 28,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 10218,
+    "firepower": 458,
+    "torpedo": 0,
+    "antiair": 257,
+    "aviation": 0,
+    "reload": 166,
+    "accuracy": 63,
+    "evasion": 37,
+    "speed": 28,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 86,
+    "reload": 45
+  },
+  "skill": {
+    "17590": {
+      "id": 17590,
+      "parent": 17590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17600": {
+      "id": 17600,
+      "parent": 17600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17610": {
+      "id": 17610,
+      "parent": 17610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

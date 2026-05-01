@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 1102010,
+      "gid": 110201,
+      "name": "De Zeven Provinciën",
+      "type": "Default",
+      "desc": "De Zeven Provinciën-class light cruiser – De Zeven Provinciën.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 447,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/110201/1102010/painting.png",
+      "painting_n": "img/skin/110201/1102010/painting_n.png",
+      "banner": "img/skin/110201/1102010/banner.png",
+      "chibi": "img/skin/110201/1102010/chibi.png",
+      "icon": "img/skin/110201/1102010/icon.png",
+      "qicon": "img/skin/110201/1102010/qicon.png",
+      "shipyard": "img/skin/110201/1102010/shipyard.png",
+      "spine_chibi": "spine/chibi/qisheng/qisheng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 1102011,
+      "gid": 110201,
+      "name": "Snuggling for Warmth",
+      "type": "Home Relaxation",
+      "desc": "Good morning, Commander. Did you sleep well? Oh, there are petals in your hair. I'll get them for you~",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 447,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/185.png",
+      "background2": null,
+      "painting": "img/skin/110201/1102011/painting.png",
+      "painting_n": "img/skin/110201/1102011/painting_n.png",
+      "banner": "img/skin/110201/1102011/banner.png",
+      "chibi": "img/skin/110201/1102011/chibi.png",
+      "icon": "img/skin/110201/1102011/icon.png",
+      "qicon": "img/skin/110201/1102011/qicon.png",
+      "shipyard": "img/skin/110201/1102011/shipyard.png",
+      "spine_chibi": "spine/chibi/qisheng/qisheng_2",
+      "spine": null,
+      "live2d": "live2d/qisheng/qisheng_2",
+      "cost": 1180
+    }
+  ]
+}

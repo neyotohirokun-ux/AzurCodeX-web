@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 705050,
+      "gid": 70505,
+      "name": "Sovetskaya Rossiya",
+      "type": "Default",
+      "desc": "Sovetsky Soyuz-class battleship – Sovetskaya Rossiya.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 85,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70505/705050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/70505/705050/banner.png",
+      "chibi": "img/skin/70505/705050/chibi.png",
+      "icon": "img/skin/70505/705050/icon.png",
+      "qicon": "img/skin/70505/705050/qicon.png",
+      "shipyard": "img/skin/70505/705050/shipyard.png",
+      "spine_chibi": "spine/chibi/suweiailuoxiya/suweiailuoxiya",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 705051,
+      "gid": 70505,
+      "name": "The Lackadaisical Lookout",
+      "type": "Special Exercise",
+      "desc": "\"Situation normal in all sectors of the facility...\" Oh, it is you. I was just giving Minsk the daily report. Do you have something?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 85,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/130.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/70505/705051/painting.png",
+      "painting_n": "img/skin/70505/705051/painting_n.png",
+      "banner": "img/skin/70505/705051/banner.png",
+      "chibi": "img/skin/70505/705051/chibi.png",
+      "icon": "img/skin/70505/705051/icon.png",
+      "qicon": "img/skin/70505/705051/qicon.png",
+      "shipyard": "img/skin/70505/705051/shipyard.png",
+      "spine_chibi": "spine/chibi/suweiailuoxiya/suweiailuoxiya_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

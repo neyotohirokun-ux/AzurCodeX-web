@@ -1,0 +1,160 @@
+{
+  "id": 687,
+  "gid": 110101,
+  "cid": 1,
+  "sid": [
+    1101011,
+    1101012,
+    1101013,
+    1101014
+  ],
+  "name": "Evertsen",
+  "codename": "HNLMS Evertsen",
+  "class": "Admiralen Class",
+  "nationality": 11,
+  "obtain": [
+    "Event: Toward Tulipa's Seas"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 251,
+    "firepower": 15,
+    "torpedo": 65,
+    "antiair": 35,
+    "aviation": 0,
+    "reload": 77,
+    "accuracy": 71,
+    "evasion": 71,
+    "speed": 43.2,
+    "luck": 28,
+    "asw": 46
+  },
+  "growth": {
+    "health": 1597,
+    "firepower": 82,
+    "torpedo": 350,
+    "antiair": 193,
+    "aviation": 0,
+    "reload": 212,
+    "accuracy": 218,
+    "evasion": 249,
+    "speed": 43.2,
+    "luck": 28,
+    "asw": 190
+  },
+  "enhance": {
+    "firepower": 15,
+    "torpedo": 64,
+    "reload": 57
+  },
+  "skill": {
+    "151040": {
+      "id": 151040,
+      "parent": 151040,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151050": {
+      "id": 151050,
+      "parent": 151050,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "250011": {
+      "id": 250011,
+      "parent": 250011,
+      "upgrade": 250012,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "250012": {
+      "id": 250012,
+      "parent": 250011,
+      "upgrade": null,
+      "downgrade": 250011,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

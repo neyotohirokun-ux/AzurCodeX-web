@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600080,
+      "gid": 1060008,
+      "name": "Luna",
+      "type": "Default",
+      "desc": "H-hmm... Wh-where am I? ...Me? I'm Luna, a scholar. Umm... You go by the Commander? Well, I'm hungry... Do you have anything to eat? I'd prefer roasted sweet potatoes...",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 312,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060008/10600080/painting.png",
+      "painting_n": "img/skin/1060008/10600080/painting_n.png",
+      "banner": "img/skin/1060008/10600080/banner.png",
+      "chibi": "img/skin/1060008/10600080/chibi.png",
+      "icon": "img/skin/1060008/10600080/icon.png",
+      "qicon": "img/skin/1060008/10600080/qicon.png",
+      "shipyard": "img/skin/1060008/10600080/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600081,
+      "gid": 1060008,
+      "name": "Venus of the Beach",
+      "type": "Swimsuits",
+      "desc": "Hmm... Commander, I'm tired from all this frolicking. How about we take a break, or have a snack? You know, nobody knows we're all alone right here... Heehee~♪",
+      "tag": [
+        "bg",
+        "bgm",
+        "dynamic"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 312,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/1060008/10600081/painting.png",
+      "painting_n": "img/skin/1060008/10600081/painting_n.png",
+      "banner": "img/skin/1060008/10600081/banner.png",
+      "chibi": "img/skin/1060008/10600081/chibi.png",
+      "icon": "img/skin/1060008/10600081/icon.png",
+      "qicon": "img/skin/1060008/10600081/qicon.png",
+      "shipyard": "img/skin/1060008/10600081/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

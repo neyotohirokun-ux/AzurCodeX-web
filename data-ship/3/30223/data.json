@@ -1,0 +1,161 @@
+{
+  "id": 324,
+  "gid": 30223,
+  "cid": 1,
+  "sid": [
+    302231,
+    302232,
+    302233,
+    302234
+  ],
+  "name": "Sakawa",
+  "codename": "IJN Sakawa",
+  "class": "Agano Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Violet Tempest, Blooming Lycoris",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "A",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 576,
+    "firepower": 31,
+    "torpedo": 71,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 60,
+    "evasion": 32,
+    "speed": 35.56,
+    "luck": 74,
+    "asw": 24
+  },
+  "growth": {
+    "health": 3452,
+    "firepower": 172,
+    "torpedo": 382,
+    "antiair": 341,
+    "aviation": 0,
+    "reload": 182,
+    "accuracy": 179,
+    "evasion": 134,
+    "speed": 35.56,
+    "luck": 74,
+    "asw": 102
+  },
+  "enhance": {
+    "firepower": 31,
+    "torpedo": 71,
+    "reload": 49
+  },
+  "skill": {
+    "15970": {
+      "id": 15970,
+      "parent": 15970,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15980": {
+      "id": 15980,
+      "parent": 15980,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29931": {
+      "id": 29931,
+      "parent": 29931,
+      "upgrade": 29932,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29932": {
+      "id": 29932,
+      "parent": 29931,
+      "upgrade": null,
+      "downgrade": 29931,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

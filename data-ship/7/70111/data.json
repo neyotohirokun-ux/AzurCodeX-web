@@ -1,0 +1,160 @@
+{
+  "id": 626,
+  "gid": 70111,
+  "cid": 1,
+  "sid": [
+    701111,
+    701112,
+    701113,
+    701114
+  ],
+  "name": "Ognevoy",
+  "codename": "SN Ognevoy",
+  "class": "Ognevoy-Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Snowrealm Peregrination"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "B",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 379,
+    "firepower": 28,
+    "torpedo": 45,
+    "antiair": 34,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 67,
+    "evasion": 64,
+    "speed": 43.8,
+    "luck": 79,
+    "asw": 51
+  },
+  "growth": {
+    "health": 2407,
+    "firepower": 152,
+    "torpedo": 248,
+    "antiair": 186,
+    "aviation": 0,
+    "reload": 209,
+    "accuracy": 207,
+    "evasion": 224,
+    "speed": 43.8,
+    "luck": 79,
+    "asw": 211
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 45,
+    "reload": 56
+  },
+  "skill": {
+    "17620": {
+      "id": 17620,
+      "parent": 17620,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17630": {
+      "id": 17630,
+      "parent": 17630,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30201": {
+      "id": 30201,
+      "parent": 30201,
+      "upgrade": 30202,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30202": {
+      "id": 30202,
+      "parent": 30201,
+      "upgrade": null,
+      "downgrade": 30201,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

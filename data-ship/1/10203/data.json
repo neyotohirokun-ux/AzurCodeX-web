@@ -1,0 +1,153 @@
+{
+  "id": 31,
+  "gid": 10203,
+  "cid": 1,
+  "sid": [
+    102031,
+    102032,
+    102033,
+    102034
+  ],
+  "name": "Brooklyn",
+  "codename": "USS Brooklyn",
+  "class": "Brooklyn Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-2",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 595,
+    "firepower": 30,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 54,
+    "evasion": 28,
+    "speed": 32.5,
+    "luck": 55,
+    "asw": 24
+  },
+  "growth": {
+    "health": 3550,
+    "firepower": 166,
+    "torpedo": 0,
+    "antiair": 313,
+    "aviation": 0,
+    "reload": 183,
+    "accuracy": 162,
+    "evasion": 106,
+    "speed": 32.5,
+    "luck": 55,
+    "asw": 100
+  },
+  "enhance": {
+    "firepower": 30,
+    "reload": 50
+  },
+  "skill": {
+    "1002": {
+      "id": 1002,
+      "parent": 1002,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20121": {
+      "id": 20121,
+      "parent": 20121,
+      "upgrade": 20122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20122": {
+      "id": 20122,
+      "parent": 20121,
+      "upgrade": null,
+      "downgrade": 20121,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

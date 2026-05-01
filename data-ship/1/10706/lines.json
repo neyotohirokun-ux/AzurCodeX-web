@@ -1,0 +1,10 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Enterprise Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Enterprise Ver.) - エンタープライズ(CV.石川由依).mp3",
+            "lyrics": "compose/songs/Enterprise Ver.json",
+            "link": "https://soundcloud.com/yorktown_enterprise/yuukyuu-no-catharsis"
+        }
+    ]
+}

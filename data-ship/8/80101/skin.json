@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 801010,
+      "gid": 80101,
+      "name": "Le Triomphant",
+      "type": "Default",
+      "desc": "Le Fantasque-class destroyer – Le Triomphant.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 6,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80101/801010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80101/801010/banner.png",
+      "chibi": "img/skin/80101/801010/chibi.png",
+      "icon": "img/skin/80101/801010/icon.png",
+      "qicon": "img/skin/80101/801010/qicon.png",
+      "shipyard": "img/skin/80101/801010/shipyard.png",
+      "spine_chibi": "spine/chibi/kaixuan/kaixuan",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

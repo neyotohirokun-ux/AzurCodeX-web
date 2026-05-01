@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 502100,
+      "gid": 50210,
+      "name": "Hai Yung",
+      "type": "Default",
+      "desc": "Hai Yung-class protected cruiser – Hai Yung.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 440,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/50210/502100/painting.png",
+      "painting_n": "img/skin/50210/502100/painting_n.png",
+      "banner": "img/skin/50210/502100/banner.png",
+      "chibi": "img/skin/50210/502100/chibi.png",
+      "icon": "img/skin/50210/502100/icon.png",
+      "qicon": "img/skin/50210/502100/qicon.png",
+      "shipyard": "img/skin/50210/502100/shipyard.png",
+      "spine_chibi": "spine/chibi/hairong/hairong",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 502101,
+      "gid": 50210,
+      "name": "Maple Impressions",
+      "type": "Empery'S Fineries",
+      "desc": "Very well, Commander, I'll leave the photography to you. I entrust you to capture my grace and elegance and record it into memory! Just so you're clear though, th-this is just an outfit that's in vogue... It's not like I chose to wear it for you or anything!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 440,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/302.png",
+      "background2": null,
+      "painting": "img/skin/50210/502101/painting.png",
+      "painting_n": "img/skin/50210/502101/painting_n.png",
+      "banner": "img/skin/50210/502101/banner.png",
+      "chibi": "img/skin/50210/502101/chibi.png",
+      "icon": "img/skin/50210/502101/icon.png",
+      "qicon": "img/skin/50210/502101/qicon.png",
+      "shipyard": "img/skin/50210/502101/shipyard.png",
+      "spine_chibi": "spine/chibi/hairong/hairong_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

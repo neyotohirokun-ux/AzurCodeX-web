@@ -1,0 +1,160 @@
+{
+  "id": 118,
+  "gid": 20215,
+  "cid": 1,
+  "sid": [
+    202151,
+    202152,
+    202153,
+    202154
+  ],
+  "name": "Aurora",
+  "codename": "HMS Aurora",
+  "class": "Arethusa Class",
+  "nationality": 2,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 497,
+    "firepower": 30,
+    "torpedo": 52,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 59,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 84,
+    "asw": 26
+  },
+  "growth": {	
+    "health": 2982,
+    "firepower": 164,
+    "torpedo": 282,
+    "antiair": 341,
+    "aviation": 0,
+    "reload": 197,
+    "accuracy": 176,
+    "evasion": 119,
+    "speed": 32,
+    "luck": 84,
+    "asw": 110
+  },
+  "enhance": {
+    "firepower": 30,
+    "torpedo": 51,
+    "reload": 53
+  },
+  "skill": {
+    "11080": {
+      "id": 11080,
+      "parent": 11080,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11090": {
+      "id": 11090,
+      "parent": 11090,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21131": {
+      "id": 21131,
+      "parent": 21131,
+      "upgrade": 21132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21132": {
+      "id": 21132,
+      "parent": 21131,
+      "upgrade": null,
+      "downgrade": 21131,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

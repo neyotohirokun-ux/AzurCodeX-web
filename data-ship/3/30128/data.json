@@ -1,0 +1,161 @@
+{
+  "id": 178,
+  "gid": 30128,
+  "cid": 1,
+  "sid": [
+    301281,
+    301282,
+    301283,
+    301284
+  ],
+  "name": "Oyashio",
+  "codename": "IJN Oyashio",
+  "class": "Kagerou Class",
+  "nationality": 3,
+  "obtain": [
+    "The War God's Return",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 336,
+    "firepower": 12,
+    "torpedo": 99,
+    "antiair": 28,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 67,
+    "evasion": 71,
+    "speed": 42,
+    "luck": 34,
+    "asw": 46
+  },
+  "growth": {
+    "health": 2133,
+    "firepower": 66,
+    "torpedo": 518,
+    "antiair": 153,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 207,
+    "evasion": 246,
+    "speed": 42,
+    "luck": 34,
+    "asw": 192
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 98,
+    "reload": 55
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "2051": {
+      "id": 2051,
+      "parent": 2051,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22051": {
+      "id": 22051,
+      "parent": 22051,
+      "upgrade": 22052,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22052": {
+      "id": 22052,
+      "parent": 22051,
+      "upgrade": null,
+      "downgrade": 22051,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

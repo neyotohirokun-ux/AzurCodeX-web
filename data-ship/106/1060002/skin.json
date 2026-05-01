@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600020,
+      "gid": 1060002,
+      "name": "Honoka",
+      "type": "Default",
+      "desc": "Um... Are you the Commander? Oh, perfect! It's nice to meet you. My name is Honoka! I don't know how much I'll be able to help, but... let's be friends!",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 251,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060002/10600020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060002/10600020/banner.png",
+      "chibi": "img/skin/1060002/10600020/chibi.png",
+      "icon": "img/skin/1060002/10600020/icon.png",
+      "qicon": "img/skin/1060002/10600020/qicon.png",
+      "shipyard": "img/skin/1060002/10600020/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600021,
+      "gid": 1060002,
+      "name": "Summer Angel on the Shore",
+      "type": "Swimsuits",
+      "desc": "Whoa, the sea is so pretty~! It's as beautiful as the Venus Islands! I'm so blown away, I don't even feel the heat anymore!",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 251,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/1060002/10600021/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060002/10600021/banner.png",
+      "chibi": "img/skin/1060002/10600021/chibi.png",
+      "icon": "img/skin/1060002/10600021/icon.png",
+      "qicon": "img/skin/1060002/10600021/qicon.png",
+      "shipyard": "img/skin/1060002/10600021/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

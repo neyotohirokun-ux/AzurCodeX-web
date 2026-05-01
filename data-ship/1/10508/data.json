@@ -1,0 +1,138 @@
+{
+  "id": 59,
+  "gid": 10508,
+  "cid": 1,
+  "sid": [
+    105081,
+    105082,
+    105083,
+    105084
+  ],
+  "name": "California",
+  "codename": "USS California",
+  "class": "Tennessee Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-1",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 3,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1226,
+    "firepower": 74,
+    "torpedo": 0,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 22,
+    "evasion": 4,
+    "speed": 21,
+    "luck": 36,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7561,
+    "firepower": 396,
+    "torpedo": 0,
+    "antiair": 215,
+    "aviation": 0,
+    "reload": 141,
+    "accuracy": 71,
+    "evasion": 29,
+    "speed": 21,
+    "luck": 36,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 74,
+    "reload": 38
+  },
+  "skill": {
+    "2041": {
+      "id": 2041,
+      "parent": 2041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

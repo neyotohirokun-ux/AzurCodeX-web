@@ -1,0 +1,160 @@
+{
+  "id": 598,
+  "gid": 90202,
+  "cid": 1,
+  "sid": [
+    902021,
+    902022,
+    902023,
+    902024
+  ],
+  "name": "Marseillaise",
+  "codename": "MNF Marseillaise",
+  "class": "La Galissonnière Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Anthem of Remembrance"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.55
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 622,
+    "firepower": 32,
+    "torpedo": 53,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 71,
+    "accuracy": 57,
+    "evasion": 29,
+    "speed": 31,
+    "luck": 46,
+    "asw": 36
+  },
+  "growth": {
+    "health": 3700,
+    "firepower": 177,
+    "torpedo": 290,
+    "antiair": 328,
+    "aviation": 0,
+    "reload": 196,
+    "accuracy": 174,
+    "evasion": 136,
+    "speed": 31,
+    "luck": 46,
+    "asw": 149
+  },
+  "enhance": {
+    "firepower": 32,
+    "torpedo": 53,
+    "reload": 53
+  },
+  "skill": {
+    "16870": {
+      "id": 16870,
+      "parent": 16870,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16880": {
+      "id": 16880,
+      "parent": 16880,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30081": {
+      "id": 30081,
+      "parent": 30081,
+      "upgrade": 30082,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30082": {
+      "id": 30082,
+      "parent": 30081,
+      "upgrade": null,
+      "downgrade": 30081,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

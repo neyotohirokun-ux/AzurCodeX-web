@@ -1,0 +1,160 @@
+{
+  "id": 358,
+  "gid": 10802,
+  "cid": 1,
+  "sid": [
+    108021,
+    108022,
+    108023,
+    108024
+  ],
+  "name": "Albacore",
+  "codename": "USS Albacore",
+  "class": "Gato Class",
+  "nationality": 1,
+  "obtain": [
+    "Limited Event: Albacore's Fanbook",
+    "Merit Shop"
+  ],
+  "type": 8,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [
+    10805
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 310,
+    "firepower": 11,
+    "torpedo": 101,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 35,
+    "accuracy": 66,
+    "evasion": 9,
+    "speed": 16.8,
+    "luck": 79,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8835,
+    "firepower": 157,
+    "torpedo": 1215,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 244,
+    "accuracy": 978,
+    "evasion": 257,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 100,
+    "reload": 26
+  },
+  "skill": {
+    "11670": {
+      "id": 11670,
+      "parent": 11670,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11680": {
+      "id": 11680,
+      "parent": 11680,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29341": {
+      "id": 29341,
+      "parent": 29341,
+      "upgrade": 29342,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29342": {
+      "id": 29342,
+      "parent": 29341,
+      "upgrade": null,
+      "downgrade": 29341,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

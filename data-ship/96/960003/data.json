@@ -1,0 +1,160 @@
+{
+  "id": 610,
+  "gid": 960003,
+  "cid": 1,
+  "sid": [
+    9600031,
+    9600032,
+    9600033,
+    9600034
+  ],
+  "name": "Golden Hind",
+  "codename": "MOT Golden Hind",
+  "class": "Golden Hind",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Fountain of Youth",
+    "Light Ship Construction"
+  ],
+  "type": 23,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "E",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%",
+      "SPD +8"
+    ],
+    [
+      "First main gun base +1",
+      "Main gun efficiency +10%",
+      "SPD +8"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "SPD +8"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 544,
+    "firepower": 32,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 57,
+    "evasion": 26,
+    "speed": 8,
+    "luck": 78,
+    "asw": 0
+  },
+  "growth": {
+    "health": 13483,
+    "firepower": 447,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 431,
+    "accuracy": 841,
+    "evasion": 519,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 32,
+    "reload": 46
+  },
+  "skill": {
+    "17240": {
+      "id": 17240,
+      "parent": 17240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17250": {
+      "id": 17250,
+      "parent": 17250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30151": {
+      "id": 30151,
+      "parent": 30151,
+      "upgrade": 30152,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30152": {
+      "id": 30152,
+      "parent": 30151,
+      "upgrade": null,
+      "downgrade": 30151,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

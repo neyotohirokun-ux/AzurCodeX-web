@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 904020,
+      "gid": 90402,
+      "name": "Strasbourg",
+      "type": "Default",
+      "desc": "Dunkerque-class battlecruiser – Strasbourg.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 226,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90402/904020/painting.png",
+      "painting_n": "img/skin/90402/904020/painting_n.png",
+      "banner": "img/skin/90402/904020/banner.png",
+      "chibi": "img/skin/90402/904020/chibi.png",
+      "icon": "img/skin/90402/904020/icon.png",
+      "qicon": "img/skin/90402/904020/qicon.png",
+      "shipyard": "img/skin/90402/904020/shipyard.png",
+      "spine_chibi": "spine/chibi/sitelasibao/sitelasibao",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 904021,
+      "gid": 90402,
+      "name": "Faerie of the Race Circuit",
+      "type": "Race Queen",
+      "desc": "Commander? I can't believe you found me... As you can see, I'm finishing up this car's pre-race checks. If you have time to spare, would you mind lending me a hand? Oh, and of course, keep this a secret between the two of us. I can count on you for that, yes?",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 226,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/186.png",
+      "background2": null,
+      "painting": "img/skin/90402/904021/painting.png",
+      "painting_n": "img/skin/90402/904021/painting_n.png",
+      "banner": "img/skin/90402/904021/banner.png",
+      "chibi": "img/skin/90402/904021/chibi.png",
+      "icon": "img/skin/90402/904021/icon.png",
+      "qicon": "img/skin/90402/904021/qicon.png",
+      "shipyard": "img/skin/90402/904021/shipyard.png",
+      "spine_chibi": "spine/chibi/sitelasibao/sitelasibao_2",
+      "spine": null,
+      "live2d": "live2d/sitelasibao/sitelasibao_2",
+      "cost": 1180
+    }
+  ]
+}

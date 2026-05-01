@@ -1,0 +1,154 @@
+{
+  "id": 310,
+  "gid": 30214,
+  "cid": 1,
+  "sid": [
+    302141,
+    302142,
+    302143,
+    302144
+  ],
+  "name": "Naka",
+  "codename": "IJN Naka",
+  "class": "Sendai Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Crimson Echoes",
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 434,
+    "firepower": 28,
+    "torpedo": 65,
+    "antiair": 54,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 52,
+    "evasion": 29,
+    "speed": 35.3,
+    "luck": 53,
+    "asw": 25
+  },
+  "growth": {
+    "health": 2599,
+    "firepower": 153,
+    "torpedo": 341,
+    "antiair": 292,
+    "aviation": 0,
+    "reload": 188,
+    "accuracy": 156,
+    "evasion": 128,
+    "speed": 35.3,
+    "luck": 53,
+    "asw": 105
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 65,
+    "reload": 51
+  },
+  "skill": {
+    "1091": {
+      "id": 1091,
+      "parent": 1091,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22131": {
+      "id": 22131,
+      "parent": 22131,
+      "upgrade": 22132,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22132": {
+      "id": 22132,
+      "parent": 22131,
+      "upgrade": null,
+      "downgrade": 22131,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

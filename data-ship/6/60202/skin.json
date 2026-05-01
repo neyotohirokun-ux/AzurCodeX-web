@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 602020,
+      "gid": 60202,
+      "name": "Giuseppe Garibaldi",
+      "type": "Default",
+      "desc": "Duca degli Abruzzi-class light cruiser – Giuseppe Garibaldi.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 286,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60202/602020/painting.png",
+      "painting_n": "img/skin/60202/602020/painting_n.png",
+      "banner": "img/skin/60202/602020/banner.png",
+      "chibi": "img/skin/60202/602020/chibi.png",
+      "icon": "img/skin/60202/602020/icon.png",
+      "qicon": "img/skin/60202/602020/qicon.png",
+      "shipyard": "img/skin/60202/602020/shipyard.png",
+      "spine_chibi": "spine/chibi/zhusaipei/zhusaipei",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 602021,
+      "gid": 60202,
+      "name": "Noble Ivory Plumes",
+      "type": "Rhythm & Steps",
+      "desc": "I am the evil swan Odile! Where oh where is my prince? ...Oh, it's you, Commander. My lines aside, pretty good performance, right?",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 286,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/159.png",
+      "background2": null,
+      "painting": "img/skin/60202/602021/painting.png",
+      "painting_n": "img/skin/60202/602021/painting_n.png",
+      "banner": "img/skin/60202/602021/banner.png",
+      "chibi": "img/skin/60202/602021/chibi.png",
+      "icon": "img/skin/60202/602021/icon.png",
+      "qicon": "img/skin/60202/602021/qicon.png",
+      "shipyard": "img/skin/60202/602021/shipyard.png",
+      "spine_chibi": "spine/chibi/zhusaipei/zhusaipei_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 900
+    }
+  ]
+}

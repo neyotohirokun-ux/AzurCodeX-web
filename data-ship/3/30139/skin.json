@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301390,
+      "gid": 30139,
+      "name": "Nagatsuki",
+      "type": "Default",
+      "desc": "Mutsuki-class destroyer number eight – Nagatsuki.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 125,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30139/301390/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30139/301390/banner.png",
+      "chibi": "img/skin/30139/301390/chibi.png",
+      "icon": "img/skin/30139/301390/icon.png",
+      "qicon": "img/skin/30139/301390/qicon.png",
+      "shipyard": "img/skin/30139/301390/shipyard.png",
+      "spine_chibi": "spine/chibi/changyue/changyue",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301391,
+      "gid": 30139,
+      "name": "Dangerous Kitty Maid?",
+      "type": "Maid",
+      "desc": "Nagatsuki the kitty maid is at your service~ Do your best to not fall madly in love with my cute looks~! Hehe~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 125,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/104.png",
+      "background2": null,
+      "painting": "img/skin/30139/301391/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30139/301391/banner.png",
+      "chibi": "img/skin/30139/301391/chibi.png",
+      "icon": "img/skin/30139/301391/icon.png",
+      "qicon": "img/skin/30139/301391/qicon.png",
+      "shipyard": "img/skin/30139/301391/shipyard.png",
+      "spine_chibi": "spine/chibi/changyue/changyue_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

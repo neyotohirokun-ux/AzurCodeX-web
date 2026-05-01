@@ -1,0 +1,1025 @@
+{
+  "17460": {
+    "name": "Prototype F8F Bearcat (Float)",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "CV",
+      "FT",
+      "HERK"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 12,
+    "skill": {
+      "[60610, 1]": null
+    },
+    "icon": "img/equipment/17460.png",
+    "stats": {
+      "1": {
+        "id": 17460,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          17460,
+          81460
+        ]
+      },
+      "2": {
+        "id": 17461,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          17461,
+          81461
+        ]
+      },
+      "3": {
+        "id": 17462,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          17462,
+          81462
+        ]
+      },
+      "4": {
+        "id": 17463,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          17463,
+          81463
+        ]
+      },
+      "5": {
+        "id": 17464,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          17464,
+          81464
+        ]
+      },
+      "6": {
+        "id": 17465,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          17465,
+          81465
+        ]
+      },
+      "7": {
+        "id": 17466,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          17466,
+          81466
+        ]
+      },
+      "8": {
+        "id": 17467,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          17467,
+          81467
+        ]
+      },
+      "9": {
+        "id": 17468,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          17468,
+          81468
+        ]
+      },
+      "10": {
+        "id": 17469,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          17469,
+          81469
+        ]
+      },
+      "11": {
+        "id": 17470,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          17470,
+          81470
+        ]
+      },
+      "12": {
+        "id": 17471,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          17471,
+          81471
+        ]
+      },
+      "13": {
+        "id": 17472,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          17472,
+          81472
+        ]
+      },
+      "14": {
+        "id": 17473,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          17473,
+          81473
+        ]
+      }
+    }
+  },
+  "37420": {
+    "name": "Type 2 Seaplane Fighter",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/37420.png",
+    "stats": {
+      "1": {
+        "id": 37420,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          37420,
+          83420
+        ]
+      },
+      "2": {
+        "id": 37421,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          37421,
+          83421
+        ]
+      },
+      "3": {
+        "id": 37422,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          37422,
+          83422
+        ]
+      },
+      "4": {
+        "id": 37423,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          37423,
+          83423
+        ]
+      },
+      "5": {
+        "id": 37424,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          37424,
+          83424
+        ]
+      },
+      "6": {
+        "id": 37425,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          37425,
+          83425
+        ]
+      },
+      "7": {
+        "id": 37426,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          37426,
+          83426
+        ]
+      },
+      "8": {
+        "id": 37427,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          37427,
+          83427
+        ]
+      },
+      "9": {
+        "id": 37428,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          37428,
+          83428
+        ]
+      },
+      "10": {
+        "id": 37429,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          37429,
+          83429
+        ]
+      },
+      "11": {
+        "id": 37430,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          37430,
+          83430
+        ]
+      },
+      "12": {
+        "id": 37431,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          37431,
+          83431
+        ]
+      }
+    }
+  },
+  "37440": {
+    "name": "N1K1 Kyoufuu",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/37440.png",
+    "stats": {
+      "1": {
+        "id": 37440,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          37440,
+          83440
+        ]
+      },
+      "2": {
+        "id": 37441,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          37441,
+          83441
+        ]
+      },
+      "3": {
+        "id": 37442,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          37442,
+          83442
+        ]
+      },
+      "4": {
+        "id": 37443,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          37443,
+          83443
+        ]
+      },
+      "5": {
+        "id": 37444,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          37444,
+          83444
+        ]
+      },
+      "6": {
+        "id": 37445,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          37445,
+          83445
+        ]
+      },
+      "7": {
+        "id": 37446,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          37446,
+          83446
+        ]
+      },
+      "8": {
+        "id": 37447,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          37447,
+          83447
+        ]
+      },
+      "9": {
+        "id": 37448,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          37448,
+          83448
+        ]
+      },
+      "10": {
+        "id": 37449,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          37449,
+          83449
+        ]
+      },
+      "11": {
+        "id": 37450,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          37450,
+          83450
+        ]
+      },
+      "12": {
+        "id": 37451,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          37451,
+          83451
+        ]
+      }
+    }
+  },
+  "39200": {
+    "name": "Aichi E16A Zuiun",
+    "desc": "The Aichi E16A Zuiun is a reconnaissance aircraft equipped with 2 20mm guns, a 13mm gun and a 500-pound bomb.",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/39200.png",
+    "stats": {
+      "1": {
+        "id": 39200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 0,
+        "weapon_id": [
+          39200
+        ]
+      },
+      "2": {
+        "id": 39201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 0,
+        "weapon_id": [
+          39201
+        ]
+      },
+      "3": {
+        "id": 39202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 0,
+        "weapon_id": [
+          39202
+        ]
+      },
+      "4": {
+        "id": 39203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 0,
+        "weapon_id": [
+          39203
+        ]
+      }
+    }
+  },
+  "39220": {
+    "name": "Aichi E16A Zuiun",
+    "desc": "The Aichi E16A Zuiun is a reconnaissance aircraft equipped with 2 20mm guns, a 13mm gun and a 500-pound bomb.",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/39200.png",
+    "stats": {
+      "1": {
+        "id": 39220,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          39220
+        ]
+      },
+      "2": {
+        "id": 39221,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          39221
+        ]
+      },
+      "3": {
+        "id": 39222,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          39222
+        ]
+      },
+      "4": {
+        "id": 39223,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          39223
+        ]
+      },
+      "5": {
+        "id": 39224,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          39224
+        ]
+      },
+      "6": {
+        "id": 39225,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          39225
+        ]
+      },
+      "7": {
+        "id": 39226,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          39226
+        ]
+      }
+    }
+  },
+  "39240": {
+    "name": "Aichi E16A Zuiun",
+    "desc": "The Aichi E16A Zuiun is a reconnaissance aircraft equipped with 2 20mm guns, a 13mm gun and a 500-pound bomb.",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/39200.png",
+    "stats": {
+      "1": {
+        "id": 39240,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          39240
+        ]
+      },
+      "2": {
+        "id": 39241,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          39241
+        ]
+      },
+      "3": {
+        "id": 39242,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          39242
+        ]
+      },
+      "4": {
+        "id": 39243,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          39243
+        ]
+      },
+      "5": {
+        "id": 39244,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          39244
+        ]
+      },
+      "6": {
+        "id": 39245,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          39245
+        ]
+      },
+      "7": {
+        "id": 39246,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          39246
+        ]
+      },
+      "8": {
+        "id": 39247,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          39247
+        ]
+      },
+      "9": {
+        "id": 39248,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          39248
+        ]
+      },
+      "10": {
+        "id": 39249,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          39249
+        ]
+      },
+      "11": {
+        "id": 39250,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          39250
+        ]
+      },
+      "12": {
+        "id": 39251,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          39251
+        ]
+      }
+    }
+  },
+  "39300": {
+    "name": "Seiran",
+    "desc": "Aichi M6A1 Seiran special purpose seaplane. It is capable of equipping 13mm guns and one 800kg bomb.",
+    "label": [
+      "IJN",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 12,
+    "skill": {
+      "[6370, 1]": null
+    },
+    "icon": "img/equipment/39300.png",
+    "stats": {
+      "1": {
+        "id": 39300,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          39300
+        ]
+      },
+      "2": {
+        "id": 39301,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          39301
+        ]
+      },
+      "3": {
+        "id": 39302,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          39302
+        ]
+      },
+      "4": {
+        "id": 39303,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          39303
+        ]
+      },
+      "5": {
+        "id": 39304,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          39304
+        ]
+      },
+      "6": {
+        "id": 39305,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          39305
+        ]
+      },
+      "7": {
+        "id": 39306,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          39306
+        ]
+      },
+      "8": {
+        "id": 39307,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          39307
+        ]
+      },
+      "9": {
+        "id": 39308,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          39308
+        ]
+      },
+      "10": {
+        "id": 39309,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          39309
+        ]
+      },
+      "11": {
+        "id": 39310,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          39310
+        ]
+      },
+      "12": {
+        "id": 39311,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          39311
+        ]
+      }
+    }
+  },
+  "91180": {
+    "name": "FBA 19",
+    "desc": "FBA 19 Seaplane",
+    "label": [
+      "FFNF",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/51160.png",
+    "stats": {
+      "1": {
+        "id": 91180,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          91180
+        ]
+      },
+      "2": {
+        "id": 91181,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          91181
+        ]
+      },
+      "3": {
+        "id": 91182,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          91182
+        ]
+      },
+      "4": {
+        "id": 91183,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          91183
+        ]
+      },
+      "5": {
+        "id": 91184,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          91184
+        ]
+      },
+      "6": {
+        "id": 91185,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          91185
+        ]
+      },
+      "7": {
+        "id": 91186,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          91186
+        ]
+      }
+    }
+  },
+  "91200": {
+    "name": "FBA 19",
+    "desc": "FBA 19 Seaplane",
+    "label": [
+      "FFNF",
+      "ST",
+      "SCOUT"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 12,
+    "skill": {},
+    "icon": "img/equipment/51160.png",
+    "stats": {
+      "1": {
+        "id": 91200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          91200
+        ]
+      },
+      "2": {
+        "id": 91201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          91201
+        ]
+      },
+      "3": {
+        "id": 91202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          91202
+        ]
+      },
+      "4": {
+        "id": 91203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          91203
+        ]
+      },
+      "5": {
+        "id": 91204,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          91204
+        ]
+      },
+      "6": {
+        "id": 91205,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          91205
+        ]
+      },
+      "7": {
+        "id": 91206,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          91206
+        ]
+      },
+      "8": {
+        "id": 91207,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          91207
+        ]
+      },
+      "9": {
+        "id": 91208,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          91208
+        ]
+      },
+      "10": {
+        "id": 91209,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          91209
+        ]
+      },
+      "11": {
+        "id": 91210,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          91210
+        ]
+      },
+      "12": {
+        "id": 91211,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          91211
+        ]
+      }
+    }
+  }
+}

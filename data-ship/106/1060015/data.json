@@ -1,0 +1,142 @@
+{
+  "id": 10995,
+  "gid": 1060015,
+  "cid": 1,
+  "sid": [
+    10600151,
+    10600152,
+    10600153,
+    10600154
+  ],
+  "name": "Yukino",
+  "codename": "Yukino",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 0.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 677,
+    "firepower": 32,
+    "torpedo": 0,
+    "antiair": 72,
+    "aviation": 0,
+    "reload": 71,
+    "accuracy": 55,
+    "evasion": 30,
+    "speed": 35,
+    "luck": 87,
+    "asw": 36
+  },
+  "growth": {
+    "health": 19274,
+    "firepower": 447,
+    "torpedo": 0,
+    "antiair": 1494,
+    "aviation": 0,
+    "reload": 492,
+    "accuracy": 788,
+    "evasion": 588,
+    "speed": 0,
+    "luck": 0,
+    "asw": 423
+  },
+  "enhance": {
+    "firepower": 32,
+    "reload": 53
+  },
+  "skill": {
+    "106410": {
+      "id": 106410,
+      "parent": 106410,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106430": {
+      "id": 106430,
+      "parent": 106430,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

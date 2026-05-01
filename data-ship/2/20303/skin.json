@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 203030,
+      "gid": 20303,
+      "name": "Kent",
+      "type": "Default",
+      "desc": "Kent-class heavy cruiser - Kent, Hull Number 54!",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 77,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20303/203030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20303/203030/banner.png",
+      "chibi": "img/skin/20303/203030/chibi.png",
+      "icon": "img/skin/20303/203030/icon.png",
+      "qicon": "img/skin/20303/203030/qicon.png",
+      "shipyard": "img/skin/20303/203030/shipyard.png",
+      "spine_chibi": "spine/chibi/kente/kente",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

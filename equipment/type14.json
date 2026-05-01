@@ -1,0 +1,630 @@
+{
+  "4000": {
+    "name": "Basic Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4000.png",
+    "stats": {
+      "1": {
+        "id": 4000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "16 x 3",
+        "weapon_id": [
+          4000
+        ]
+      },
+      "2": {
+        "id": 4001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "17 x 3",
+        "weapon_id": [
+          4001
+        ]
+      },
+      "3": {
+        "id": 4002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "18 x 3",
+        "weapon_id": [
+          4002
+        ]
+      },
+      "4": {
+        "id": 4003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "20 x 3",
+        "weapon_id": [
+          4003
+        ]
+      }
+    }
+  },
+  "4020": {
+    "name": "Basic Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4000.png",
+    "stats": {
+      "1": {
+        "id": 4020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "19 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4020
+        ]
+      },
+      "2": {
+        "id": 4021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "20 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4021
+        ]
+      },
+      "3": {
+        "id": 4022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4022
+        ]
+      },
+      "4": {
+        "id": 4023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "24 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4023
+        ]
+      }
+    }
+  },
+  "4040": {
+    "name": "Basic Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4000.png",
+    "stats": {
+      "1": {
+        "id": 4040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "22 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4040
+        ]
+      },
+      "2": {
+        "id": 4041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "24 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4041
+        ]
+      },
+      "3": {
+        "id": 4042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4042
+        ]
+      },
+      "4": {
+        "id": 4043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "29 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4043
+        ]
+      },
+      "5": {
+        "id": 4044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "31 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4044
+        ]
+      },
+      "6": {
+        "id": 4045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "34 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4045
+        ]
+      },
+      "7": {
+        "id": 4046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "37 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4046
+        ]
+      },
+      "8": {
+        "id": 4047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "37 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4047
+        ]
+      }
+    }
+  },
+  "4100": {
+    "name": "Improved Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4100.png",
+    "stats": {
+      "1": {
+        "id": 4100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "20 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4100
+        ]
+      },
+      "2": {
+        "id": 4101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "22 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4101
+        ]
+      },
+      "3": {
+        "id": 4102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "24 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4102
+        ]
+      },
+      "4": {
+        "id": 4103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "26 x 3",
+        "antisub": 5,
+        "weapon_id": [
+          4103
+        ]
+      }
+    }
+  },
+  "4120": {
+    "name": "Improved Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4100.png",
+    "stats": {
+      "1": {
+        "id": 4120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4120
+        ]
+      },
+      "2": {
+        "id": 4121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "26 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4121
+        ]
+      },
+      "3": {
+        "id": 4122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4122
+        ]
+      },
+      "4": {
+        "id": 4123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "30 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4123
+        ]
+      },
+      "5": {
+        "id": 4124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "33 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4124
+        ]
+      },
+      "6": {
+        "id": 4125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "36 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4125
+        ]
+      },
+      "7": {
+        "id": 4126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "39 x 3",
+        "antisub": 12,
+        "weapon_id": [
+          4126
+        ]
+      }
+    }
+  },
+  "4140": {
+    "name": "Improved Depth Charge Projector",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/4100.png",
+    "stats": {
+      "1": {
+        "id": 4140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "27 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4140
+        ]
+      },
+      "2": {
+        "id": 4141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "30 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4141
+        ]
+      },
+      "3": {
+        "id": 4142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "33 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4142
+        ]
+      },
+      "4": {
+        "id": 4143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "36 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4143
+        ]
+      },
+      "5": {
+        "id": 4144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "39 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4144
+        ]
+      },
+      "6": {
+        "id": 4145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "42 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4145
+        ]
+      },
+      "7": {
+        "id": 4146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "45 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4146
+        ]
+      },
+      "8": {
+        "id": 4147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "49 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4147
+        ]
+      },
+      "9": {
+        "id": 4148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "53 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4148
+        ]
+      },
+      "10": {
+        "id": 4149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "57 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4149
+        ]
+      },
+      "11": {
+        "id": 4150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "61 x 3",
+        "antisub": 25,
+        "weapon_id": [
+          4150
+        ]
+      },
+      "12": {
+        "id": 4151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "61 x 3",
+        "antisub": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          4151
+        ]
+      }
+    }
+  },
+  "25800": {
+    "name": "\"Hedgehog\" Anti-Submarine Mortar",
+    "desc": "No description",
+    "label": [
+      "DC"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 14,
+    "skill": {},
+    "icon": "img/equipment/25800.png",
+    "stats": {
+      "1": {
+        "id": 25800,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "85 ~ 170",
+        "antisub": 45,
+        "weapon_id": [
+          25800
+        ]
+      },
+      "2": {
+        "id": 25801,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "94 ~ 188",
+        "antisub": 45,
+        "weapon_id": [
+          25801
+        ]
+      },
+      "3": {
+        "id": 25802,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "103 ~ 206",
+        "antisub": 45,
+        "weapon_id": [
+          25802
+        ]
+      },
+      "4": {
+        "id": 25803,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 ~ 224",
+        "antisub": 45,
+        "weapon_id": [
+          25803
+        ]
+      },
+      "5": {
+        "id": 25804,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 ~ 244",
+        "antisub": 45,
+        "weapon_id": [
+          25804
+        ]
+      },
+      "6": {
+        "id": 25805,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "132 ~ 264",
+        "antisub": 45,
+        "weapon_id": [
+          25805
+        ]
+      },
+      "7": {
+        "id": 25806,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "142 ~ 284",
+        "antisub": 45,
+        "weapon_id": [
+          25806
+        ]
+      },
+      "8": {
+        "id": 25807,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "153 ~ 306",
+        "antisub": 45,
+        "weapon_id": [
+          25807
+        ]
+      },
+      "9": {
+        "id": 25808,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "164 ~ 328",
+        "antisub": 45,
+        "weapon_id": [
+          25808
+        ]
+      },
+      "10": {
+        "id": 25809,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "175 ~ 350",
+        "antisub": 45,
+        "weapon_id": [
+          25809
+        ]
+      },
+      "11": {
+        "id": 25810,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "186 ~ 372",
+        "antisub": 45,
+        "weapon_id": [
+          25810
+        ]
+      },
+      "12": {
+        "id": 25811,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "186 ~ 372",
+        "antisub": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          25811
+        ]
+      },
+      "13": {
+        "id": 25812,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "186 ~ 372",
+        "antisub": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          25812
+        ]
+      },
+      "14": {
+        "id": 25813,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "186 ~ 372",
+        "antisub": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          25813
+        ]
+      }
+    }
+  }
+}

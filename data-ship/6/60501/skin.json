@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 605010,
+      "gid": 60501,
+      "name": "Vittorio Veneto",
+      "type": "Default",
+      "desc": "Vittorio Veneto-class battleship – Vittorio Veneto.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 192,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60501/605010/painting.png",
+      "painting_n": "img/skin/60501/605010/painting_n.png",
+      "banner": "img/skin/60501/605010/banner.png",
+      "chibi": "img/skin/60501/605010/chibi.png",
+      "icon": "img/skin/60501/605010/icon.png",
+      "qicon": "img/skin/60501/605010/qicon.png",
+      "shipyard": "img/skin/60501/605010/shipyard.png",
+      "spine_chibi": "spine/chibi/weineituo/weineituo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 605011,
+      "gid": 60501,
+      "name": "The Flower of La Spezia",
+      "type": "Swimsuits",
+      "desc": "Nngh, haah... It's awfully sunny today... How long was I asleep, Commander? Oh, it's already lunchtime? In that case, I'll get started on some food. Would you like something as well?",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 192,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": "img/bgii/1101.png",
+      "painting": "img/skin/60501/605011/painting.png",
+      "painting_n": "img/skin/60501/605011/painting_n.png",
+      "banner": "img/skin/60501/605011/banner.png",
+      "chibi": "img/skin/60501/605011/chibi.png",
+      "icon": "img/skin/60501/605011/icon.png",
+      "qicon": "img/skin/60501/605011/qicon.png",
+      "shipyard": "img/skin/60501/605011/shipyard.png",
+      "spine_chibi": "spine/chibi/weineituo/weineituo_2",
+      "spine": null,
+      "live2d": "live2d/weineituo/weineituo_2",
+      "cost": 1180
+    }
+  ]
+}

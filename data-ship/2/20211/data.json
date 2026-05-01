@@ -1,0 +1,154 @@
+{
+  "id": 114,
+  "gid": 20211,
+  "cid": 1,
+  "sid": [
+    202111,
+    202112,
+    202113,
+    202114
+  ],
+  "name": "Edinburgh",
+  "codename": "HMS Edinburgh",
+  "class": "Edinburgh Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Guild Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 789,
+    "firepower": 29,
+    "torpedo": 52,
+    "antiair": 59,
+    "aviation": 0,
+    "reload": 65,
+    "accuracy": 55,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 37,
+    "asw": 24
+  },
+  "growth": {
+    "health": 4588,
+    "firepower": 159,
+    "torpedo": 284,
+    "antiair": 320,
+    "aviation": 0,
+    "reload": 178,
+    "accuracy": 164,
+    "evasion": 119,
+    "speed": 32,
+    "luck": 37,
+    "asw": 102
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 52,
+    "reload": 48
+  },
+  "skill": {
+    "2081": {
+      "id": 2081,
+      "parent": 2081,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21141": {
+      "id": 21141,
+      "parent": 21141,
+      "upgrade": 21142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21142": {
+      "id": 21142,
+      "parent": 21141,
+      "upgrade": null,
+      "downgrade": 21141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

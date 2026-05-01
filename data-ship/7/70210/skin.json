@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 702100,
+      "gid": 70210,
+      "name": "Bogatyr",
+      "type": "Default",
+      "desc": "Bogatyr-class protected cruiser – Bogatyr.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 450,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70210/702100/painting.png",
+      "painting_n": "img/skin/70210/702100/painting_n.png",
+      "banner": "img/skin/70210/702100/banner.png",
+      "chibi": "img/skin/70210/702100/chibi.png",
+      "icon": "img/skin/70210/702100/icon.png",
+      "qicon": "img/skin/70210/702100/qicon.png",
+      "shipyard": "img/skin/70210/702100/shipyard.png",
+      "spine_chibi": "spine/chibi/bojiateli/bojiateli",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 702101,
+      "gid": 70210,
+      "name": "Emotional Data Maintenance",
+      "type": "Empery'S Fineries",
+      "desc": "System error detected. Abnormal data is being generated at a rapid pace, and energy consumption exceeds normal values. Initiating emergency diagnostic protocol. Commander... stay with me until the root cause is found, please...",
+      "tag": [
+        "dynamic+",
+        "dynamicbg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 450,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/144.png",
+      "background2": null,
+      "painting": "img/skin/70210/702101/painting.png",
+      "painting_n": "img/skin/70210/702101/painting_n.png",
+      "banner": "img/skin/70210/702101/banner.png",
+      "chibi": "img/skin/70210/702101/chibi.png",
+      "icon": "img/skin/70210/702101/icon.png",
+      "qicon": "img/skin/70210/702101/qicon.png",
+      "shipyard": "img/skin/70210/702101/shipyard.png",
+      "spine_chibi": "spine/chibi/bojiateli/bojiateli_2",
+      "spine": "spine/ship/bojiateli/bojiateli_2",
+      "live2d": null,
+      "cost": 950
+    }
+  ]
+}

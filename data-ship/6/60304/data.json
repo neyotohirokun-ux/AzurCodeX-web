@@ -1,0 +1,159 @@
+{
+  "id": 542,
+  "gid": 60304,
+  "cid": 1,
+  "sid": [
+    603041,
+    603042,
+    603043,
+    603044
+  ],
+  "name": "Trieste",
+  "codename": "RN Trieste",
+  "class": "Trento Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Virtual Tower",
+    "Heavy Ship Construction"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 630,
+    "firepower": 44,
+    "torpedo": 35,
+    "antiair": 36,
+    "aviation": 0,
+    "reload": 61,
+    "accuracy": 39,
+    "evasion": 10,
+    "speed": 28.8,
+    "luck": 48,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3731,
+    "firepower": 242,
+    "torpedo": 193,
+    "antiair": 197,
+    "aviation": 0,
+    "reload": 167,
+    "accuracy": 121,
+    "evasion": 73,
+    "speed": 28.8,
+    "luck": 48,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 44,
+    "torpedo": 35,
+    "reload": 45
+  },
+  "skill": {
+    "5041": {
+      "id": 5041,
+      "parent": 5041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15400": {
+      "id": 15400,
+      "parent": 15400,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25213": {
+      "id": 25213,
+      "parent": 25213,
+      "upgrade": 25214,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25214": {
+      "id": 25214,
+      "parent": 25213,
+      "upgrade": null,
+      "downgrade": 25213,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

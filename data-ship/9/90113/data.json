@@ -1,0 +1,161 @@
+{
+  "id": 556,
+  "gid": 90113,
+  "cid": 1,
+  "sid": [
+    901131,
+    901132,
+    901133,
+    901134
+  ],
+  "name": "L'Indomptable",
+  "codename": "MNF L'Indomptable",
+  "class": "Le Fantasque Class ",
+  "nationality": 9,
+  "obtain": [
+    "Event: Angel of the Iris",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 351,
+    "firepower": 26,
+    "torpedo": 50,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 69,
+    "evasion": 83,
+    "speed": 54,
+    "luck": 23,
+    "asw": 49
+  },
+  "growth": {
+    "health": 2229,
+    "firepower": 143,
+    "torpedo": 274,
+    "antiair": 164,
+    "aviation": 0,
+    "reload": 210,
+    "accuracy": 212,
+    "evasion": 285,
+    "speed": 54,
+    "luck": 23,
+    "asw": 202
+  },
+  "enhance": {
+    "firepower": 26,
+    "torpedo": 50,
+    "reload": 57
+  },
+  "skill": {
+    "15740": {
+      "id": 15740,
+      "parent": 15740,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15750": {
+      "id": 15750,
+      "parent": 15750,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29881": {
+      "id": 29881,
+      "parent": 29881,
+      "upgrade": 29882,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29882": {
+      "id": 29882,
+      "parent": 29881,
+      "upgrade": null,
+      "downgrade": 29881,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 602030,
+      "gid": 60203,
+      "name": "Bartolomeo Colleoni",
+      "type": "Default",
+      "desc": "Giussano-class light cruiser – Bartolomeo Colleoni.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 443,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60203/602030/painting.png",
+      "painting_n": "img/skin/60203/602030/painting_n.png",
+      "banner": "img/skin/60203/602030/banner.png",
+      "chibi": "img/skin/60203/602030/chibi.png",
+      "icon": "img/skin/60203/602030/icon.png",
+      "qicon": "img/skin/60203/602030/qicon.png",
+      "shipyard": "img/skin/60203/602030/shipyard.png",
+      "spine_chibi": "spine/chibi/batuoluomeiao/batuoluomeiao",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 602031,
+      "gid": 60203,
+      "name": "The Empress' Romantic Ambush",
+      "type": "Nile Colors",
+      "desc": "Hrmm... Romance novel analysis shows that this pose is the most likely to succeed... Ah. C-Commander, there you are... Ahem. \"What business do you have in my private chambers?\"",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 443,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/304.png",
+      "background2": null,
+      "painting": "img/skin/60203/602031/painting.png",
+      "painting_n": "img/skin/60203/602031/painting_n.png",
+      "banner": "img/skin/60203/602031/banner.png",
+      "chibi": "img/skin/60203/602031/chibi.png",
+      "icon": "img/skin/60203/602031/icon.png",
+      "qicon": "img/skin/60203/602031/qicon.png",
+      "shipyard": "img/skin/60203/602031/shipyard.png",
+      "spine_chibi": "spine/chibi/batuoluomeiao/batuoluomeiao_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "3400": {
+    "name": "40cm Type 94 Naval Gun Parts (Cargo)",
+    "desc": "A Type 94 40cm gun mount in separate pieces.",
+    "label": [
+      "IJN",
+      "GDS"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 18,
+    "skill": {
+      "[6590, 1]": null
+    },
+    "icon": "img/equipment/3400.png",
+    "stats": {
+      "1": {
+        "id": 3400,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 450
+      },
+      "2": {
+        "id": 3401,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 480
+      },
+      "3": {
+        "id": 3402,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 510
+      },
+      "4": {
+        "id": 3403,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 540
+      },
+      "5": {
+        "id": 3404,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 570
+      },
+      "6": {
+        "id": 3405,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 600
+      },
+      "7": {
+        "id": 3406,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 630
+      },
+      "8": {
+        "id": 3407,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 660
+      },
+      "9": {
+        "id": 3408,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 690
+      },
+      "10": {
+        "id": 3409,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 720
+      },
+      "11": {
+        "id": 3410,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 750
+      },
+      "12": {
+        "id": 3411,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 780,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 3412,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 810,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 3413,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 840,
+        "anti_siren": 3
+      }
+    }
+  },
+  "3500": {
+    "name": "Aviation Materials (Cargo)",
+    "desc": "Assorted parts and resources for use in aerial warfare.",
+    "label": [
+      "GDS"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 18,
+    "skill": {
+      "[6660, 1]": null
+    },
+    "icon": "img/equipment/3500.png",
+    "stats": {
+      "1": {
+        "id": 3500,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 3501,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 3502,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 3503,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 3504,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 3505,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 3506,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 3507,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 3508,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 3509,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 3510,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 3511,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      }
+    }
+  },
+  "3520": {
+    "name": "Small-Caliber Naval Gun Parts (Cargo)",
+    "desc": "Supplemental cannon parts transportable by an AE.",
+    "label": [
+      "GDS"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 18,
+    "skill": {
+      "[6670, 1]": null
+    },
+    "icon": "img/equipment/3520.png",
+    "stats": {
+      "1": {
+        "id": 3520,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 3521,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 3522,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 3523,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 3524,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 3525,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 3526,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 3527,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 3528,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 3529,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 3530,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 3531,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      }
+    }
+  },
+  "3540": {
+    "name": "Torpedo Materials (Cargo)",
+    "desc": "Supplemental torpedo parts transportable by an AE.",
+    "label": [
+      "GDS"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 18,
+    "skill": {
+      "[6680, 1]": null
+    },
+    "icon": "img/equipment/3540.png",
+    "stats": {
+      "1": {
+        "id": 3540,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 3541,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 3542,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 3543,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 3544,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 3545,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 3546,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 3547,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 3548,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 3549,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 3550,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 3551,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      }
+    }
+  },
+  "3820": {
+    "name": "Type-Wu Seaplane",
+    "desc": "A Type-Wu seaplane used by Ting An.",
+    "label": [
+      "PRAN",
+      "GDS"
+    ],
+    "rarity": 4,
+    "nationality": 5,
+    "type": 18,
+    "skill": {
+      "[60300, 1]": null
+    },
+    "icon": "img/equipment/3820.png",
+    "stats": {
+      "1": {
+        "id": 3820,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 120,
+        "air": 14
+      },
+      "2": {
+        "id": 3821,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 138,
+        "air": 16
+      },
+      "3": {
+        "id": 3822,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 156,
+        "air": 18
+      },
+      "4": {
+        "id": 3823,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 174,
+        "air": 20
+      },
+      "5": {
+        "id": 3824,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 192,
+        "air": 22
+      },
+      "6": {
+        "id": 3825,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 210,
+        "air": 24
+      },
+      "7": {
+        "id": 3826,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 228,
+        "air": 26
+      },
+      "8": {
+        "id": 3827,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 246,
+        "air": 28
+      },
+      "9": {
+        "id": 3828,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 264,
+        "air": 30
+      },
+      "10": {
+        "id": 3829,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 282,
+        "air": 32
+      },
+      "11": {
+        "id": 3830,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 300,
+        "air": 35
+      },
+      "12": {
+        "id": 3831,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 315,
+        "air": 38,
+        "anti_siren": 1
+      }
+    }
+  },
+  "89640": {
+    "name": "Crab (With Receipt)",
+    "desc": "Crab (With Receipt, Cargo)",
+    "label": [
+      "GDS"
+    ],
+    "rarity": 5,
+    "nationality": 108,
+    "type": 18,
+    "skill": {
+      "[108340, 1]": null
+    },
+    "icon": "img/equipment/89640.png",
+    "stats": {
+      "1": {
+        "id": 89640,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 450
+      },
+      "2": {
+        "id": 89641,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 480
+      },
+      "3": {
+        "id": 89642,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 510
+      },
+      "4": {
+        "id": 89643,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 540
+      },
+      "5": {
+        "id": 89644,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 570
+      },
+      "6": {
+        "id": 89645,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 600
+      },
+      "7": {
+        "id": 89646,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 630
+      },
+      "8": {
+        "id": 89647,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 660
+      },
+      "9": {
+        "id": 89648,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 690
+      },
+      "10": {
+        "id": 89649,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 720
+      },
+      "11": {
+        "id": 89650,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 750
+      },
+      "12": {
+        "id": 89651,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 780,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 89652,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 810,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 89653,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 840,
+        "anti_siren": 3
+      }
+    }
+  },
+  "89660": {
+    "name": "Dragon Figurine",
+    "desc": "Dragon Figurine (Cargo)",
+    "label": [
+      "GDS"
+    ],
+    "rarity": 5,
+    "nationality": 108,
+    "type": 18,
+    "skill": {
+      "[108350, 1]": null
+    },
+    "icon": "img/equipment/89660.png",
+    "stats": {
+      "1": {
+        "id": 89660,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 450
+      },
+      "2": {
+        "id": 89661,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 480
+      },
+      "3": {
+        "id": 89662,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 510
+      },
+      "4": {
+        "id": 89663,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 540
+      },
+      "5": {
+        "id": 89664,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 570
+      },
+      "6": {
+        "id": 89665,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 600
+      },
+      "7": {
+        "id": 89666,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 630
+      },
+      "8": {
+        "id": 89667,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 660
+      },
+      "9": {
+        "id": 89668,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 690
+      },
+      "10": {
+        "id": 89669,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 720
+      },
+      "11": {
+        "id": 89670,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 750
+      },
+      "12": {
+        "id": 89671,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 780,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 89672,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 810,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 89673,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 840,
+        "anti_siren": 3
+      }
+    }
+  }
+}

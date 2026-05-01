@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600090,
+      "gid": 1060009,
+      "name": "Tamaki",
+      "type": "Default",
+      "desc": "Hmm? Where am I? Ohh, I get it now... I drank way too much yesterday... Ahahah. Oh well♪ There's tons of cuties here to keep me entertained❤ My name's Tamaki. It's a pleasure, Commander❤",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 87,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060009/10600090/painting.png",
+      "painting_n": "img/skin/1060009/10600090/painting_n.png",
+      "banner": "img/skin/1060009/10600090/banner.png",
+      "chibi": "img/skin/1060009/10600090/chibi.png",
+      "icon": "img/skin/1060009/10600090/icon.png",
+      "qicon": "img/skin/1060009/10600090/qicon.png",
+      "shipyard": "img/skin/1060009/10600090/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600091,
+      "gid": 1060009,
+      "name": "Venus Shower Time",
+      "type": "Swimsuits",
+      "desc": "Heehee~ I've been waiting, Commander♪ Come on, there's no need to be shy♥ I'm going to show you a lovely time, darling, so you'd better get ready♪",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 87,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/164.png",
+      "background2": null,
+      "painting": "img/skin/1060009/10600091/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060009/10600091/banner.png",
+      "chibi": "img/skin/1060009/10600091/chibi.png",
+      "icon": "img/skin/1060009/10600091/icon.png",
+      "qicon": "img/skin/1060009/10600091/qicon.png",
+      "shipyard": "img/skin/1060009/10600091/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

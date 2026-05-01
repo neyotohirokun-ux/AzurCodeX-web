@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 303060,
+      "gid": 30306,
+      "name": "Chikuma",
+      "type": "Default",
+      "desc": "Tone-class heavy cruiser number two – Chikuma.",
+      "tag": [],
+      "illustrator": 20,
+      "illustrator2": -1,
+      "voice_actor": 288,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30306/303060/painting.png",
+      "painting_n": "img/skin/30306/303060/painting_n.png",
+      "banner": "img/skin/30306/303060/banner.png",
+      "chibi": "img/skin/30306/303060/chibi.png",
+      "icon": "img/skin/30306/303060/icon.png",
+      "qicon": "img/skin/30306/303060/qicon.png",
+      "shipyard": "img/skin/30306/303060/shipyard.png",
+      "spine_chibi": "spine/chibi/zhumo/zhumo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 303061,
+      "gid": 30306,
+      "name": "Premium Prize on the Table",
+      "type": "Bunny Girl",
+      "desc": "Commander, would you like to share a drink... or play a game together? If you win, I'll share some secret intel that you're sure to love.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 20,
+      "illustrator2": -1,
+      "voice_actor": 288,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/608.png",
+      "background2": null,
+      "painting": "img/skin/30306/303061/painting.png",
+      "painting_n": "img/skin/30306/303061/painting_n.png",
+      "banner": "img/skin/30306/303061/banner.png",
+      "chibi": "img/skin/30306/303061/chibi.png",
+      "icon": "img/skin/30306/303061/icon.png",
+      "qicon": "img/skin/30306/303061/qicon.png",
+      "shipyard": "img/skin/30306/303061/shipyard.png",
+      "spine_chibi": "spine/chibi/zhumo/zhumo_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

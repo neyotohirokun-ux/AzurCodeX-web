@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 302070,
+      "gid": 30207,
+      "name": "Yura",
+      "type": "Default",
+      "desc": "Nagara-class light cruiser number four – Yura.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 287,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30207/302070/painting.png",
+      "painting_n": "img/skin/30207/302070/painting_n.png",
+      "banner": "img/skin/30207/302070/banner.png",
+      "chibi": "img/skin/30207/302070/chibi.png",
+      "icon": "img/skin/30207/302070/icon.png",
+      "qicon": "img/skin/30207/302070/qicon.png",
+      "shipyard": "img/skin/30207/302070/shipyard.png",
+      "spine_chibi": "spine/chibi/youliang/youliang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 302071,
+      "gid": 30207,
+      "name": "We are Succubi?",
+      "type": "Bunny Girl",
+      "desc": "Uh... I think these clothes are a bit too much... Commander, I... don't look out of place in these, do I...?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 287,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/145.png",
+      "background2": null,
+      "painting": "img/skin/30207/302071/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30207/302071/banner.png",
+      "chibi": "img/skin/30207/302071/chibi.png",
+      "icon": "img/skin/30207/302071/icon.png",
+      "qicon": "img/skin/30207/302071/qicon.png",
+      "shipyard": "img/skin/30207/302071/shipyard.png",
+      "spine_chibi": "spine/chibi/youliang/youliang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

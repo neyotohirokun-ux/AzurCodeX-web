@@ -1,0 +1,159 @@
+{
+  "id": 455,
+  "gid": 90302,
+  "cid": 1,
+  "sid": [
+    903021,
+    903022,
+    903023,
+    903024
+  ],
+  "name": "Algérie",
+  "codename": "MNF Algérie",
+  "class": "Algérie Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Heavy Ship Construction"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 867,
+    "firepower": 52,
+    "torpedo": 41,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 47,
+    "evasion": 11,
+    "speed": 24.8,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5136,
+    "firepower": 283,
+    "torpedo": 226,
+    "antiair": 249,
+    "aviation": 0,
+    "reload": 197,
+    "accuracy": 141,
+    "evasion": 69,
+    "speed": 24.8,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 51,
+    "torpedo": 41,
+    "reload": 53
+  },
+  "skill": {
+    "13270": {
+      "id": 13270,
+      "parent": 13270,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13280": {
+      "id": 13280,
+      "parent": 13280,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "28211": {
+      "id": 28211,
+      "parent": 28211,
+      "upgrade": 28212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28212": {
+      "id": 28212,
+      "parent": 28211,
+      "upgrade": null,
+      "downgrade": 28211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

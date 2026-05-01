@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 605070,
+      "gid": 60507,
+      "name": "Andrea Doria",
+      "type": "Default",
+      "desc": "Andrea Doria-class battleship – Andrea Doria.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 370,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60507/605070/painting.png",
+      "painting_n": "img/skin/60507/605070/painting_n.png",
+      "banner": "img/skin/60507/605070/banner.png",
+      "chibi": "img/skin/60507/605070/chibi.png",
+      "icon": "img/skin/60507/605070/icon.png",
+      "qicon": "img/skin/60507/605070/qicon.png",
+      "shipyard": "img/skin/60507/605070/shipyard.png",
+      "spine_chibi": "spine/chibi/andelieyaduoliya/andelieyaduoliya",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 605071,
+      "gid": 60507,
+      "name": "Have a Safe Flight",
+      "type": "On The Job",
+      "desc": "\"I'm your stewardess, Andrea Doria, here to ensure you have a pleasant flight\"... Did I sound natural, Commander? ...Still a bit on the stiff side, huh? *sigh*, this job really isn't easy for first-timers...",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 370,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/170.png",
+      "background2": null,
+      "painting": "img/skin/60507/605071/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60507/605071/banner.png",
+      "chibi": "img/skin/60507/605071/chibi.png",
+      "icon": "img/skin/60507/605071/icon.png",
+      "qicon": "img/skin/60507/605071/qicon.png",
+      "shipyard": "img/skin/60507/605071/shipyard.png",
+      "spine_chibi": "spine/chibi/andelieyaduoliya/andelieyaduoliya_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

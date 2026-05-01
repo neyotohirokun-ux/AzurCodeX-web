@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 205160,
+      "gid": 20516,
+      "name": "Lion",
+      "type": "Default",
+      "desc": "Lion-class battleship – Lion.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 87,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20516/205160/painting.png",
+      "painting_n": "img/skin/20516/205160/painting_n.png",
+      "banner": "img/skin/20516/205160/banner.png",
+      "chibi": "img/skin/20516/205160/chibi.png",
+      "icon": "img/skin/20516/205160/icon.png",
+      "qicon": "img/skin/20516/205160/qicon.png",
+      "shipyard": "img/skin/20516/205160/shipyard.png",
+      "spine_chibi": "spine/chibi/shi/shi",
+      "spine": "spine/ship/shi/shi",
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 205161,
+      "gid": 20516,
+      "name": "The Reclining Dandelion",
+      "type": "Swimsuits",
+      "desc": "Heh. I hereby claim this beach as part of my territory. Whew... Say, Commander, since we've been afforded some time to relax, why don't we do so? Oh, and feel free to come a little closer.",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 87,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/20516/205161/painting.png",
+      "painting_n": "img/skin/20516/205161/painting_n.png",
+      "banner": "img/skin/20516/205161/banner.png",
+      "chibi": "img/skin/20516/205161/chibi.png",
+      "icon": "img/skin/20516/205161/icon.png",
+      "qicon": "img/skin/20516/205161/qicon.png",
+      "shipyard": "img/skin/20516/205161/shipyard.png",
+      "spine_chibi": "spine/chibi/shi/shi_2",
+      "spine": null,
+      "live2d": "live2d/shi/shi_2",
+      "cost": 1180
+    }
+  ]
+}

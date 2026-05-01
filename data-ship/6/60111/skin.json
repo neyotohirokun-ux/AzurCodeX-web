@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601110,
+      "gid": 60111,
+      "name": "Giosuè Carducci",
+      "type": "Default",
+      "desc": "Oriani-class destroyer – Giosuè Carducci.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 334,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60111/601110/painting.png",
+      "painting_n": "img/skin/60111/601110/painting_n.png",
+      "banner": "img/skin/60111/601110/banner.png",
+      "chibi": "img/skin/60111/601110/chibi.png",
+      "icon": "img/skin/60111/601110/icon.png",
+      "qicon": "img/skin/60111/601110/qicon.png",
+      "shipyard": "img/skin/60111/601110/shipyard.png",
+      "spine_chibi": "spine/chibi/jiaosuai/jiaosuai",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601111,
+      "gid": 60111,
+      "name": "Verses in Balance",
+      "type": "Nile Colors",
+      "desc": "Traveler from afar, allow me to pen a welcoming verse with this dance... Why'd I stop? Umm... S-silence is golden, as they say...",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 334,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/303.png",
+      "background2": null,
+      "painting": "img/skin/60111/601111/painting.png",
+      "painting_n": "img/skin/60111/601111/painting_n.png",
+      "banner": "img/skin/60111/601111/banner.png",
+      "chibi": "img/skin/60111/601111/chibi.png",
+      "icon": "img/skin/60111/601111/icon.png",
+      "qicon": "img/skin/60111/601111/qicon.png",
+      "shipyard": "img/skin/60111/601111/shipyard.png",
+      "spine_chibi": "spine/chibi/jiaosuai/jiaosuai_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 265,
+  "gid": 40120,
+  "cid": 1,
+  "sid": [
+    401201,
+    401202,
+    401203,
+    401204
+  ],
+  "name": "Z20",
+  "codename": "KMS Karl Galster",
+  "class": "Type 1936",
+  "nationality": 4,
+  "obtain": [
+    "Event: Divergent Chessboard"
+  ],
+  "type": 1,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "B",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 324,
+    "firepower": 12,
+    "torpedo": 83,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 67,
+    "evasion": 55,
+    "speed": 43.2,
+    "luck": 71,
+    "asw": 46
+  },
+  "growth": {
+    "health": 2041,
+    "firepower": 66,
+    "torpedo": 438,
+    "antiair": 148,
+    "aviation": 0,
+    "reload": 199,
+    "accuracy": 205,
+    "evasion": 192,
+    "speed": 43.2,
+    "luck": 71,
+    "asw": 192
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 82,
+    "reload": 54
+  },
+  "skill": {
+    "2081": {
+      "id": 2081,
+      "parent": 2081,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23031": {
+      "id": 23031,
+      "parent": 23031,
+      "upgrade": 23032,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23032": {
+      "id": 23032,
+      "parent": 23031,
+      "upgrade": null,
+      "downgrade": 23031,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

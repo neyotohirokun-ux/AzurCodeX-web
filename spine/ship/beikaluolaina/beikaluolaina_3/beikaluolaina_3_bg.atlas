@@ -1,0 +1,125 @@
+
+beikaluolaina_3_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bklln_001
+  rotate: false
+  xy: 2, 1067
+  size: 4002, 2594
+  orig: 4002, 2594
+  offset: 0, 0
+  index: -1
+bklln_013
+  rotate: false
+  xy: 2, 231
+  size: 956, 834
+  orig: 956, 834
+  offset: 0, 0
+  index: -1
+bklln_014
+  rotate: false
+  xy: 2230, 241
+  size: 1228, 550
+  orig: 1228, 550
+  offset: 0, 0
+  index: -1
+bklln_015
+  rotate: false
+  xy: 1320, 251
+  size: 1337, 593
+  orig: 1337, 644
+  offset: 0, 28
+  index: -1
+bklln_016
+  rotate: false
+  xy: 2670, 4
+  size: 1319, 580
+  orig: 1329, 580
+  offset: 10, 0
+  index: -1
+bklln_017
+  rotate: false
+  xy: 1772, 1017
+  size: 580, 48
+  orig: 580, 48
+  offset: 0, 0
+  index: -1
+heimu
+  rotate: false
+  xy: 960, 480
+  size: 810, 585
+  orig: 810, 585
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: false
+  xy: 1772, 917
+  size: 160, 99
+  orig: 160, 99
+  offset: 0, 0
+  index: -1
+niao10
+  rotate: false
+  xy: 78, 8
+  size: 78, 36
+  orig: 85, 43
+  offset: 3, 7
+  index: -1
+niao2
+  rotate: false
+  xy: 2, 69
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: false
+  xy: 164, 4
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+niao4
+  rotate: false
+  xy: 1772, 943
+  size: 52, 58
+  orig: 61, 68
+  offset: 7, 6
+  index: -1
+niao5
+  rotate: false
+  xy: 157, 8
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+niao6
+  rotate: false
+  xy: 2, 106
+  size: 91, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1
+niao7
+  rotate: false
+  xy: 2, 6
+  size: 80, 32
+  orig: 80, 33
+  offset: 0, 1
+  index: -1
+niao8
+  rotate: false
+  xy: 2, 27
+  size: 94, 45
+  orig: 115, 102
+  offset: 5, 29
+  index: -1
+niao9
+  rotate: false
+  xy: 1772, 999
+  size: 32, 18
+  orig: 89, 74
+  offset: 25, 44
+  index: -1

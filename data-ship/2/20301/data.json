@@ -1,0 +1,187 @@
+{
+  "id": 119,
+  "gid": 20301,
+  "cid": 1,
+  "sid": [
+    203011,
+    203012,
+    203013,
+    203014,
+    203114
+  ],
+  "name": "London",
+  "codename": "HMS London",
+  "class": "London Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-1",
+    "Heavy/Special Construction",
+    "Guild Shop"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 203114,
+    "level": 85,
+    "bonus": {
+      "health": 280,
+      "accuracy": 20,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 10,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 85,
+      "evasion": 15
+    },
+    "skill": 11912,
+    "skin": 203019,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "B",
+      "E",
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1,
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 607,
+    "firepower": 41,
+    "torpedo": 41,
+    "antiair": 40,
+    "aviation": 0,
+    "reload": 61,
+    "accuracy": 38,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 62,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3644,
+    "firepower": 226,
+    "torpedo": 226,
+    "antiair": 217,
+    "aviation": 0,
+    "reload": 167,
+    "accuracy": 120,
+    "evasion": 69,
+    "speed": 25.6,
+    "luck": 62,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 41,
+    "torpedo": 41,
+    "reload": 45
+  },
+  "skill": {
+    "1004": {
+      "id": 1004,
+      "parent": 1004,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11912": {
+      "id": 11912,
+      "parent": 11912,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "21211": {
+      "id": 21211,
+      "parent": 21211,
+      "upgrade": 21212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21212": {
+      "id": 21212,
+      "parent": 21211,
+      "upgrade": null,
+      "downgrade": 21211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

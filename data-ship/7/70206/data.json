@@ -1,0 +1,161 @@
+{
+  "id": 498,
+  "gid": 70206,
+  "cid": 1,
+  "sid": [
+    702061,
+    702062,
+    702063,
+    702064
+  ],
+  "name": "Murmansk",
+  "codename": "SN Murmansk",
+  "class": "Omaha Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Khorovod of Dawn's Rime",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 581,
+    "firepower": 29,
+    "torpedo": 48,
+    "antiair": 55,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 52,
+    "evasion": 30,
+    "speed": 35,
+    "luck": 65,
+    "asw": 31
+  },
+  "growth": {
+    "health": 3475,
+    "firepower": 159,
+    "torpedo": 265,
+    "antiair": 299,
+    "aviation": 0,
+    "reload": 193,
+    "accuracy": 156,
+    "evasion": 120,
+    "speed": 35,
+    "luck": 65,
+    "asw": 130
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 48,
+    "reload": 52
+  },
+  "skill": {
+    "14230": {
+      "id": 14230,
+      "parent": 14230,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14240": {
+      "id": 14240,
+      "parent": 14240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20111": {
+      "id": 20111,
+      "parent": 20111,
+      "upgrade": 20112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20112": {
+      "id": 20112,
+      "parent": 20111,
+      "upgrade": null,
+      "downgrade": 20111,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

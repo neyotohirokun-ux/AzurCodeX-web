@@ -1,0 +1,158 @@
+{
+  "id": 329,
+  "gid": 10214,
+  "cid": 1,
+  "sid": [
+    102141,
+    102142,
+    102143,
+    102144
+  ],
+  "name": "Montpelier",
+  "codename": "USS Montpelier",
+  "class": "Cleveland Class",
+  "nationality": 1,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 760,
+    "firepower": 31,
+    "torpedo": 0,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 71,
+    "accuracy": 56,
+    "evasion": 30,
+    "speed": 32.5,
+    "luck": 72,
+    "asw": 25
+  },
+  "growth": {
+    "health": 4461,
+    "firepower": 172,
+    "torpedo": 0,
+    "antiair": 341,
+    "aviation": 0,
+    "reload": 196,
+    "accuracy": 168,
+    "evasion": 109,
+    "speed": 32.5,
+    "luck": 72,
+    "asw": 105
+  },
+  "enhance": {
+    "firepower": 31,
+    "reload": 53
+  },
+  "skill": {
+    "4091": {
+      "id": 4091,
+      "parent": 4091,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11200": {
+      "id": 11200,
+      "parent": 11200,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20141": {
+      "id": 20141,
+      "parent": 20141,
+      "upgrade": 20142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20142": {
+      "id": 20142,
+      "parent": 20141,
+      "upgrade": null,
+      "downgrade": 20141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

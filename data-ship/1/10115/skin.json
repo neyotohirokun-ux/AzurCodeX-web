@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 101150,
+      "gid": 10115,
+      "name": "Spence",
+      "type": "Default",
+      "desc": "Fletcher-class destroyer - Spence, Hull Number DD-512!",
+      "tag": [],
+      "illustrator": 4,
+      "illustrator2": -1,
+      "voice_actor": 100,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10115/101150/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10115/101150/banner.png",
+      "chibi": "img/skin/10115/101150/chibi.png",
+      "icon": "img/skin/10115/101150/icon.png",
+      "qicon": "img/skin/10115/101150/qicon.png",
+      "shipyard": "img/skin/10115/101150/shipyard.png",
+      "spine_chibi": "spine/chibi/sipengsi/sipengsi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

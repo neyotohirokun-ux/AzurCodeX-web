@@ -1,0 +1,154 @@
+{
+  "id": 103,
+  "gid": 20123,
+  "cid": 1,
+  "sid": [
+    201231,
+    201232,
+    201233,
+    201234
+  ],
+  "name": "Vampire",
+  "codename": "HMS Vampire",
+  "class": "V Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Strive, Wish and Strategize",
+    "Requisition (random chance)"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "B",
+    "E",
+    "B",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 212,
+    "firepower": 13,
+    "torpedo": 71,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 61,
+    "evasion": 73,
+    "speed": 40.8,
+    "luck": 42,
+    "asw": 51
+  },
+  "growth": {
+    "health": 1346,
+    "firepower": 72,
+    "torpedo": 381,
+    "antiair": 159,
+    "aviation": 0,
+    "reload": 199,
+    "accuracy": 187,
+    "evasion": 252,
+    "speed": 40.8,
+    "luck": 42,
+    "asw": 210
+  },
+  "enhance": {
+    "firepower": 13,
+    "torpedo": 70,
+    "reload": 54
+  },
+  "skill": {
+    "10580": {
+      "id": 10580,
+      "parent": 10580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29091": {
+      "id": 29091,
+      "parent": 29091,
+      "upgrade": 29092,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29092": {
+      "id": 29092,
+      "parent": 29091,
+      "upgrade": null,
+      "downgrade": 29091,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

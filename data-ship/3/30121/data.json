@@ -1,0 +1,186 @@
+{
+  "id": 171,
+  "gid": 30121,
+  "cid": 1,
+  "sid": [
+    301211,
+    301212,
+    301213,
+    301214
+  ],
+  "name": "Hatsuharu",
+  "codename": "IJN Hatsuharu",
+  "class": "Hatsuharu Class",
+  "nationality": 3,
+  "obtain": [
+    "Monthly Sign-in",
+    "Light ship Construction",
+    "Guild Shop"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 301214,
+    "level": 85,
+    "bonus": {
+      "health": 165,
+      "evasion": 20,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 30,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 40,
+      "speed": 3
+    },
+    "skill": 17108,
+    "skin": 301219,
+    "armor": 1,
+    "hexagon": [
+      "D",
+      "A",
+      "E",
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 286,
+    "firepower": 11,
+    "torpedo": 92,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 66,
+    "evasion": 71,
+    "speed": 43.2,
+    "luck": 45,
+    "asw": 46
+  },
+  "growth": {
+    "health": 1816,
+    "firepower": 60,
+    "torpedo": 484,
+    "antiair": 148,
+    "aviation": 0,
+    "reload": 199,
+    "accuracy": 203,
+    "evasion": 248,
+    "speed": 43.2,
+    "luck": 45,
+    "asw": 192
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 91,
+    "reload": 54
+  },
+  "skill": {
+    "2051": {
+      "id": 2051,
+      "parent": 2051,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17108": {
+      "id": 17108,
+      "parent": 17108,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22041": {
+      "id": 22041,
+      "parent": 22041,
+      "upgrade": 22042,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22042": {
+      "id": 22042,
+      "parent": 22041,
+      "upgrade": null,
+      "downgrade": 22041,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 802040,
+      "gid": 80204,
+      "name": "Duguay-Trouin",
+      "type": "Default",
+      "desc": "Duguay-Trouin-class light cruiser – Duguay-Trouin.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 471,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80204/802040/painting.png",
+      "painting_n": "img/skin/80204/802040/painting_n.png",
+      "banner": "img/skin/80204/802040/banner.png",
+      "chibi": "img/skin/80204/802040/chibi.png",
+      "icon": "img/skin/80204/802040/icon.png",
+      "qicon": "img/skin/80204/802040/qicon.png",
+      "shipyard": "img/skin/80204/802040/shipyard.png",
+      "spine_chibi": "spine/chibi/digaiteluyin/digaiteluyin",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 802041,
+      "gid": 80204,
+      "name": "Covetous Bathgoer",
+      "type": "Hot Springs",
+      "desc": "Commander, this is where we'll be praying today. Nobody can disturb us here... You already know what to do, I'm sure?",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 471,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/167.png",
+      "background2": null,
+      "painting": "img/skin/80204/802041/painting.png",
+      "painting_n": "img/skin/80204/802041/painting_n.png",
+      "banner": "img/skin/80204/802041/banner.png",
+      "chibi": "img/skin/80204/802041/chibi.png",
+      "icon": "img/skin/80204/802041/icon.png",
+      "qicon": "img/skin/80204/802041/qicon.png",
+      "shipyard": "img/skin/80204/802041/shipyard.png",
+      "spine_chibi": "spine/chibi/digaiteluyin/digaiteluyin_2",
+      "spine": "spine/ship/digaiteluyin/digaiteluyin_2",
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

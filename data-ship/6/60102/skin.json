@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601020,
+      "gid": 60102,
+      "name": "Carabiniere",
+      "type": "Default",
+      "desc": "Soldati-class destroyer – Carabiniere.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 202,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60102/601020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60102/601020/banner.png",
+      "chibi": "img/skin/60102/601020/chibi.png",
+      "icon": "img/skin/60102/601020/icon.png",
+      "qicon": "img/skin/60102/601020/qicon.png",
+      "shipyard": "img/skin/60102/601020/shipyard.png",
+      "spine_chibi": "spine/chibi/longqibing/longqibing",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601021,
+      "gid": 60102,
+      "name": "Refreshing Sundress",
+      "type": "Casual",
+      "desc": "Lady Veneto advised me to enjoy my time off by changing into something befitting the occasion... Um, Commander, I d-don't look strange, do I?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 202,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/105.png",
+      "background2": null,
+      "painting": "img/skin/60102/601021/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60102/601021/banner.png",
+      "chibi": "img/skin/60102/601021/chibi.png",
+      "icon": "img/skin/60102/601021/icon.png",
+      "qicon": "img/skin/60102/601021/qicon.png",
+      "shipyard": "img/skin/60102/601021/shipyard.png",
+      "spine_chibi": "spine/chibi/longqibing/longqibing_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

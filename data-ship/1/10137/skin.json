@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101370,
+      "gid": 10137,
+      "name": "Kalk",
+      "type": "Default",
+      "desc": "Benson class Destroyer— Kalk, hull number DD-611.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 151,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10137/101370/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10137/101370/banner.png",
+      "chibi": "img/skin/10137/101370/chibi.png",
+      "icon": "img/skin/10137/101370/icon.png",
+      "qicon": "img/skin/10137/101370/qicon.png",
+      "shipyard": "img/skin/10137/101370/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101371,
+      "gid": 10137,
+      "name": "Snow Fairy Schoolgirl",
+      "type": "School Girl",
+      "desc": "Kalk, reporting in once again, now with a new outfit! Hehe... Commander, will you walk me to school?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 151,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/103.png",
+      "background2": null,
+      "painting": "img/skin/10137/101371/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10137/101371/banner.png",
+      "chibi": "img/skin/10137/101371/chibi.png",
+      "icon": "img/skin/10137/101371/icon.png",
+      "qicon": "img/skin/10137/101371/qicon.png",
+      "shipyard": "img/skin/10137/101371/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

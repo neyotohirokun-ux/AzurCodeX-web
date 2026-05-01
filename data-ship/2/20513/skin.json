@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 205130,
+      "gid": 20513,
+      "name": "Vanguard",
+      "type": "Default",
+      "desc": "Battleship – Vanguard.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 315,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20513/205130/painting.png",
+      "painting_n": "img/skin/20513/205130/painting_n.png",
+      "banner": "img/skin/20513/205130/banner.png",
+      "chibi": "img/skin/20513/205130/chibi.png",
+      "icon": "img/skin/20513/205130/icon.png",
+      "qicon": "img/skin/20513/205130/qicon.png",
+      "shipyard": "img/skin/20513/205130/shipyard.png",
+      "spine_chibi": "spine/chibi/qianwei/qianwei",
+      "spine": "spine/ship/qianwei/qianwei",
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 205131,
+      "gid": 20513,
+      "name": "Half-Hearted Masquerade",
+      "type": "Maid",
+      "desc": "\"Please let me know if you need anything, Master\"... I'm starting to think you're making me wear this as a sick joke. The reason being, I am obviously NOT fit to be a Royal Maid... Even if I do adore their uniforms...",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 315,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/150.png",
+      "background2": null,
+      "painting": "img/skin/20513/205131/painting.png",
+      "painting_n": "img/skin/20513/205131/painting_n.png",
+      "banner": "img/skin/20513/205131/banner.png",
+      "chibi": "img/skin/20513/205131/chibi.png",
+      "icon": "img/skin/20513/205131/icon.png",
+      "qicon": "img/skin/20513/205131/qicon.png",
+      "shipyard": "img/skin/20513/205131/shipyard.png",
+      "spine_chibi": "spine/chibi/qianwei/qianwei_2",
+      "spine": null,
+      "live2d": "live2d/qianwei/qianwei_2",
+      "cost": 1180
+    }
+  ]
+}

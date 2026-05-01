@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 101340,
+      "gid": 10134,
+      "name": "Hazelwood",
+      "type": "Default",
+      "desc": "Fletcher-class destroyer – Hazelwood, Hull Number DD-531.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 161,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10134/101340/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10134/101340/banner.png",
+      "chibi": "img/skin/10134/101340/chibi.png",
+      "icon": "img/skin/10134/101340/icon.png",
+      "qicon": "img/skin/10134/101340/qicon.png",
+      "shipyard": "img/skin/10134/101340/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

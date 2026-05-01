@@ -1,0 +1,145 @@
+{
+  "id": 229,
+  "gid": 30706,
+  "cid": 1,
+  "sid": [
+    307061,
+    307062,
+    307063,
+    307064
+  ],
+  "name": "Zuikaku",
+  "codename": "IJN Zuikaku",
+  "class": "Shoukaku Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: Visitors Dyed in Red",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Dive Bombers +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1231,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 79,
+    "reload": 44,
+    "accuracy": 30,
+    "evasion": 14,
+    "speed": 34.5,
+    "luck": 73,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7360,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 330,
+    "aviation": 420,
+    "reload": 121,
+    "accuracy": 90,
+    "evasion": 59,
+    "speed": 34.5,
+    "luck": 73,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 77,
+    "reload": 33
+  },
+  "skill": {
+    "10800": {
+      "id": 10800,
+      "parent": 10800,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10820": {
+      "id": 10820,
+      "parent": 10820,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

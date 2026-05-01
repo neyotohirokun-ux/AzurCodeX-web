@@ -1,0 +1,162 @@
+{
+  "id": 152,
+  "gid": 30102,
+  "cid": 1,
+  "sid": [
+    301021,
+    301022,
+    301023,
+    301024
+  ],
+  "name": "Shirayuki",
+  "codename": "IJN Shirayuki",
+  "class": "Fubuki Class Type I (Fubuki)",
+  "nationality": 3,
+  "obtain": [
+    "Event: Swirling Cherry Blossoms",
+    "Guild Shop",
+    "Requisition (random chance)"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 290,
+    "firepower": 13,
+    "torpedo": 98,
+    "antiair": 27,
+    "aviation": 0,
+    "reload": 78,
+    "accuracy": 67,
+    "evasion": 72,
+    "speed": 45.6,
+    "luck": 41,
+    "asw": 49
+  },
+  "growth": {
+    "health": 1842,
+    "firepower": 69,
+    "torpedo": 514,
+    "antiair": 149,
+    "aviation": 0,
+    "reload": 216,
+    "accuracy": 206,
+    "evasion": 251,
+    "speed": 45.6,
+    "luck": 41,
+    "asw": 202
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 97,
+    "reload": 59
+  },
+  "skill": {
+    "14650": {
+      "id": 14650,
+      "parent": 14650,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14660": {
+      "id": 14660,
+      "parent": 14660,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22021": {
+      "id": 22021,
+      "parent": 22021,
+      "upgrade": 22022,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22022": {
+      "id": 22022,
+      "parent": 22021,
+      "upgrade": null,
+      "downgrade": 22021,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

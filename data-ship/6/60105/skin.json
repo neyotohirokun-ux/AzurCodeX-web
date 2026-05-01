@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601050,
+      "gid": 60105,
+      "name": "Libeccio",
+      "type": "Default",
+      "desc": "Maestrale-class destroyer – Libeccio.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 268,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60105/601050/painting.png",
+      "painting_n": "img/skin/60105/601050/painting_n.png",
+      "banner": "img/skin/60105/601050/banner.png",
+      "chibi": "img/skin/60105/601050/chibi.png",
+      "icon": "img/skin/60105/601050/icon.png",
+      "qicon": "img/skin/60105/601050/qicon.png",
+      "shipyard": "img/skin/60105/601050/shipyard.png",
+      "spine_chibi": "spine/chibi/xinanfeng/xinanfeng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601051,
+      "gid": 60105,
+      "name": "Beachbound Southwestern Wind!",
+      "type": "Swimsuits",
+      "desc": "Libeccio's heading towards the sea! Commander, let's go to where all the excitement is!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 268,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/60105/601051/painting.png",
+      "painting_n": "img/skin/60105/601051/painting_n.png",
+      "banner": "img/skin/60105/601051/banner.png",
+      "chibi": "img/skin/60105/601051/chibi.png",
+      "icon": "img/skin/60105/601051/icon.png",
+      "qicon": "img/skin/60105/601051/qicon.png",
+      "shipyard": "img/skin/60105/601051/shipyard.png",
+      "spine_chibi": "spine/chibi/xinanfeng/xinanfeng_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

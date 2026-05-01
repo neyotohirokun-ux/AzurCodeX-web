@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 204020,
+      "gid": 20402,
+      "name": "Repulse",
+      "type": "Default",
+      "desc": "Renown-class battlecruiser - Repulse",
+      "tag": [],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 41,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20402/204020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20402/204020/banner.png",
+      "chibi": "img/skin/20402/204020/chibi.png",
+      "icon": "img/skin/20402/204020/icon.png",
+      "qicon": "img/skin/20402/204020/qicon.png",
+      "shipyard": "img/skin/20402/204020/shipyard.png",
+      "spine_chibi": "spine/chibi/fanji/fanji",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 204021,
+      "gid": 20402,
+      "name": "Dance of Spring Blooms",
+      "type": "Empery'S Fineries",
+      "desc": "Hey there, Commander! Heheh, where do you think you're going? If you've got a minute, watch me rehearse my sword dance. It's my own original routine, a combination of Dragon Empery swordplay and my own ideas!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 41,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/157.png",
+      "background2": null,
+      "painting": "img/skin/20402/204021/painting.png",
+      "painting_n": "img/skin/20402/204021/painting_n.png",
+      "banner": "img/skin/20402/204021/banner.png",
+      "chibi": "img/skin/20402/204021/chibi.png",
+      "icon": "img/skin/20402/204021/icon.png",
+      "qicon": "img/skin/20402/204021/qicon.png",
+      "shipyard": "img/skin/20402/204021/shipyard.png",
+      "spine_chibi": "spine/chibi/fanji/fanji_3",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

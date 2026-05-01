@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 705090,
+      "gid": 70509,
+      "name": "Kazan",
+      "type": "Default",
+      "desc": "Type 21 battleship – Kazan.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 448,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70509/705090/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/70509/705090/banner.png",
+      "chibi": "img/skin/70509/705090/chibi.png",
+      "icon": "img/skin/70509/705090/icon.png",
+      "qicon": "img/skin/70509/705090/qicon.png",
+      "shipyard": "img/skin/70509/705090/shipyard.png",
+      "spine_chibi": "spine/chibi/kashan/kashan",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 705091,
+      "gid": 70509,
+      "name": "The Warm Morning Sunshine",
+      "type": "Home Relaxation",
+      "desc": "Ah, you're up, Commander. Heehee. Good morning. It's so sunny today that even the kitchen is a bit hot. That's okay, though – I've made a refreshing breakfast for you. Go wash your face, then it's time to dig in.",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 448,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/606.png",
+      "background2": null,
+      "painting": "img/skin/70509/705091/painting.png",
+      "painting_n": "img/skin/70509/705091/painting_n.png",
+      "banner": "img/skin/70509/705091/banner.png",
+      "chibi": "img/skin/70509/705091/chibi.png",
+      "icon": "img/skin/70509/705091/icon.png",
+      "qicon": "img/skin/70509/705091/qicon.png",
+      "shipyard": "img/skin/70509/705091/shipyard.png",
+      "spine_chibi": "spine/chibi/kashan/kashan_2",
+      "spine": "spine/ship/kashan/kashan_2",
+      "live2d": null,
+      "cost": 980
+    }
+  ]
+}

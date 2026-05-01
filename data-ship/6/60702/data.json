@@ -1,0 +1,145 @@
+{
+  "id": 540,
+  "gid": 60702,
+  "cid": 1,
+  "sid": [
+    607021,
+    607022,
+    607023,
+    607024
+  ],
+  "name": "Impero",
+  "codename": "RN Impero",
+  "class": "Vittorio Veneto Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Virtual Tower",
+    "Special Ship Construction"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%",
+      "Dive Bombers can be equipped in the first gear slot"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 148,
+      "slot": 1,
+      "type": [
+        7,
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 150,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 149,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1235,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 63,
+    "aviation": 82,
+    "reload": 45,
+    "accuracy": 31,
+    "evasion": 12,
+    "speed": 30,
+    "luck": 32,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7185,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 338,
+    "aviation": 434,
+    "reload": 123,
+    "accuracy": 94,
+    "evasion": 46,
+    "speed": 30,
+    "luck": 32,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 81,
+    "reload": 33
+  },
+  "skill": {
+    "15370": {
+      "id": 15370,
+      "parent": 15370,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15380": {
+      "id": 15380,
+      "parent": 15380,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

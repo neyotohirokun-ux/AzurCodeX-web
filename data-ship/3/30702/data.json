@@ -1,0 +1,143 @@
+{
+  "id": 225,
+  "gid": 30702,
+  "cid": 1,
+  "sid": [
+    307021,
+    307022,
+    307023,
+    307024
+  ],
+  "name": "Kaga",
+  "codename": "IJN Kaga",
+  "class": "Kaga Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 3-4"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Fighters +1",
+      "Torpedo Bomber efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1159,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 78,
+    "reload": 48,
+    "accuracy": 31,
+    "evasion": 11,
+    "speed": 28,
+    "luck": 42,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6928,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 330,
+    "aviation": 413,
+    "reload": 132,
+    "accuracy": 92,
+    "evasion": 50,
+    "speed": 28,
+    "luck": 42,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 77,
+    "reload": 36
+  },
+  "skill": {
+    "10420": {
+      "id": 10420,
+      "parent": 10420,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10440": {
+      "id": 10440,
+      "parent": 10440,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

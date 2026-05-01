@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 705070,
+      "gid": 70507,
+      "name": "Sevastopol",
+      "type": "Default",
+      "desc": "Gangut-class battleship – Sevastopol.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 306,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70507/705070/painting.png",
+      "painting_n": "img/skin/70507/705070/painting_n.png",
+      "banner": "img/skin/70507/705070/banner.png",
+      "chibi": "img/skin/70507/705070/chibi.png",
+      "icon": "img/skin/70507/705070/icon.png",
+      "qicon": "img/skin/70507/705070/qicon.png",
+      "shipyard": "img/skin/70507/705070/shipyard.png",
+      "spine_chibi": "spine/chibi/saiwasituoboer/saiwasituoboer",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 705071,
+      "gid": 70507,
+      "name": "More than a Little Drunk",
+      "type": "Hot Springs",
+      "desc": "Phew... This is... Comrade Commander? Fancy meeting you at this time of night. Me? Heh, heheheheh... You wouldn't believe me if I said I got too drunk and went in first, would you?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 306,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/167.png",
+      "background2": null,
+      "painting": "img/skin/70507/705071/painting.png",
+      "painting_n": "img/skin/70507/705071/painting_n.png",
+      "banner": "img/skin/70507/705071/banner.png",
+      "chibi": "img/skin/70507/705071/chibi.png",
+      "icon": "img/skin/70507/705071/icon.png",
+      "qicon": "img/skin/70507/705071/qicon.png",
+      "shipyard": "img/skin/70507/705071/shipyard.png",
+      "spine_chibi": "spine/chibi/saiwasituoboer/saiwasituoboer_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 145,
+  "gid": 20703,
+  "cid": 1,
+  "sid": [
+    207031,
+    207032,
+    207033,
+    207034
+  ],
+  "name": "Illustrious",
+  "codename": "HMS Illustrious",
+  "class": "Illustrious Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Special Ship Construction",
+    "Medal Shop (when listed)"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [
+    20711
+  ],
+  "breakout": [
+    [
+      "All fighters +1",
+      "Fighter efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "All fighters +1",
+      "Fighter efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 113,
+      "slot": 2,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 114,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1123,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 56,
+    "aviation": 76,
+    "reload": 43,
+    "accuracy": 31,
+    "evasion": 13,
+    "speed": 30.5,
+    "luck": 44,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6713,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 303,
+    "aviation": 405,
+    "reload": 119,
+    "accuracy": 93,
+    "evasion": 55,
+    "speed": 30.5,
+    "luck": 44,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 75,
+    "reload": 32
+  },
+  "skill": {
+    "10340": {
+      "id": 10340,
+      "parent": 10340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

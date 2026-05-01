@@ -1,0 +1,158 @@
+{
+  "id": 654,
+  "gid": 90303,
+  "cid": 1,
+  "sid": [
+    903031,
+    903032,
+    903033,
+    903034
+  ],
+  "name": "Dupleix",
+  "codename": "MNF Dupleix",
+  "class": "Suffren-Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Interlude of Illusions"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 694,
+    "firepower": 45,
+    "torpedo": 45,
+    "antiair": 48,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 45,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 60,
+    "asw": 0
+  },
+  "growth": {
+    "health": 4128,
+    "firepower": 250,
+    "torpedo": 250,
+    "antiair": 263,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 135,
+    "evasion": 59,
+    "speed": 25.6,
+    "luck": 60,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 45,
+    "torpedo": 45,
+    "reload": 50
+  },
+  "skill": {
+    "28221": {
+      "id": 28221,
+      "parent": 28221,
+      "upgrade": 28222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28222": {
+      "id": 28222,
+      "parent": 28221,
+      "upgrade": null,
+      "downgrade": 28221,
+      "requirement": "Limit Break 3"
+    },
+    "150210": {
+      "id": 150210,
+      "parent": 150210,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150220": {
+      "id": 150220,
+      "parent": 150220,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

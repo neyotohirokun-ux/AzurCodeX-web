@@ -1,0 +1,144 @@
+{
+  "id": 698,
+  "gid": 80401,
+  "cid": 1,
+  "sid": [
+    804011,
+    804012,
+    804013,
+    804014
+  ],
+  "name": "Masséna",
+  "codename": "FFNF Masséna",
+  "class": "Masséna",
+  "nationality": 8,
+  "obtain": [
+    "Event: Secrets of the Abyss"
+  ],
+  "type": 4,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 1,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1198,
+    "firepower": 66,
+    "torpedo": 0,
+    "antiair": 44,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 24,
+    "evasion": 7,
+    "speed": 28,
+    "luck": 76,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7390,
+    "firepower": 356,
+    "torpedo": 0,
+    "antiair": 242,
+    "aviation": 0,
+    "reload": 170,
+    "accuracy": 69,
+    "evasion": 38,
+    "speed": 28,
+    "luck": 76,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 66,
+    "reload": 46
+  },
+  "skill": {
+    "151390": {
+      "id": 151390,
+      "parent": 151390,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151400": {
+      "id": 151400,
+      "parent": 151400,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

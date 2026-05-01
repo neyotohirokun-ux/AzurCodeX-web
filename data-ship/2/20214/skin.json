@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 202140,
+      "gid": 20214,
+      "name": "Galatea",
+      "type": "Default",
+      "desc": "Arethusa-class light cruiser – Galatea, Hull Number 71!",
+      "tag": [],
+      "illustrator": 6,
+      "illustrator2": -1,
+      "voice_actor": 86,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20214/202140/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20214/202140/banner.png",
+      "chibi": "img/skin/20214/202140/chibi.png",
+      "icon": "img/skin/20214/202140/icon.png",
+      "qicon": "img/skin/20214/202140/qicon.png",
+      "shipyard": "img/skin/20214/202140/shipyard.png",
+      "spine_chibi": "spine/chibi/jialadiya/jialadiya",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

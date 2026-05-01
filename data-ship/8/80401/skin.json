@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 804010,
+      "gid": 80401,
+      "name": "Masséna",
+      "type": "Default",
+      "desc": "Type 1913 battlecruiser – Masséna.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 468,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80401/804010/painting.png",
+      "painting_n": "img/skin/80401/804010/painting_n.png",
+      "banner": "img/skin/80401/804010/banner.png",
+      "chibi": "img/skin/80401/804010/chibi.png",
+      "icon": "img/skin/80401/804010/icon.png",
+      "qicon": "img/skin/80401/804010/qicon.png",
+      "shipyard": "img/skin/80401/804010/shipyard.png",
+      "spine_chibi": "spine/chibi/masaina/masaina",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 804011,
+      "gid": 80401,
+      "name": "Sweetly Intoxicating Spring",
+      "type": "Hot Springs",
+      "desc": "Commander, this spring has a sweet taste to it. You should try it.",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 468,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/167.png",
+      "background2": null,
+      "painting": "img/skin/80401/804011/painting.png",
+      "painting_n": "img/skin/80401/804011/painting_n.png",
+      "banner": "img/skin/80401/804011/banner.png",
+      "chibi": "img/skin/80401/804011/chibi.png",
+      "icon": "img/skin/80401/804011/icon.png",
+      "qicon": "img/skin/80401/804011/qicon.png",
+      "shipyard": "img/skin/80401/804011/shipyard.png",
+      "spine_chibi": "spine/chibi/masaina/masaina_2",
+      "spine": null,
+      "live2d": "live2d/masaina/masaina_2",
+      "cost": 1180
+    }
+  ]
+}

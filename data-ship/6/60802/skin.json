@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 608020,
+      "gid": 60802,
+      "name": "Leonardo da Vinci",
+      "type": "Default",
+      "desc": "Marconi-class submarine – Leonardo da Vinci.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 332,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60802/608020/painting.png",
+      "painting_n": "img/skin/60802/608020/painting_n.png",
+      "banner": "img/skin/60802/608020/banner.png",
+      "chibi": "img/skin/60802/608020/chibi.png",
+      "icon": "img/skin/60802/608020/icon.png",
+      "qicon": "img/skin/60802/608020/qicon.png",
+      "shipyard": "img/skin/60802/608020/shipyard.png",
+      "spine_chibi": "spine/chibi/dafenqi/dafenqi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 608021,
+      "gid": 60802,
+      "name": "Riverside Pirouette",
+      "type": "Rhythm & Steps",
+      "desc": "Here to watch me rehearse just like these deer, Commander? Isn't it wonderful being surrounded by the beauty of nature? For a performance based on a fable such as this one, ambiance is key. Ehehe~♪",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 332,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/158.png",
+      "background2": null,
+      "painting": "img/skin/60802/608021/painting.png",
+      "painting_n": "img/skin/60802/608021/painting_n.png",
+      "banner": "img/skin/60802/608021/banner.png",
+      "chibi": "img/skin/60802/608021/chibi.png",
+      "icon": "img/skin/60802/608021/icon.png",
+      "qicon": "img/skin/60802/608021/qicon.png",
+      "shipyard": "img/skin/60802/608021/shipyard.png",
+      "spine_chibi": "spine/chibi/dafenqi/dafenqi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

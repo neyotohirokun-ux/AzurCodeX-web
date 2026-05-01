@@ -1,0 +1,144 @@
+{
+  "id": 613,
+  "gid": 960002,
+  "cid": 1,
+  "sid": [
+    9600021,
+    9600022,
+    9600023,
+    9600024
+  ],
+  "name": "São Martinho",
+  "codename": "MOT São Martinho",
+  "class": "São Martinho",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Fountain of Youth",
+    "Heavy Ship Construction"
+  ],
+  "type": 24,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Auxiliary gun base +1",
+      "Main gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +2",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 158,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1005,
+    "firepower": 81,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 21,
+    "evasion": 6,
+    "speed": 26,
+    "luck": 59,
+    "asw": 0
+  },
+  "growth": {
+    "health": 26967,
+    "firepower": 1000,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 429,
+    "accuracy": 303,
+    "evasion": 227,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 80,
+    "reload": 46
+  },
+  "skill": {
+    "17190": {
+      "id": 17190,
+      "parent": 17190,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17200": {
+      "id": 17200,
+      "parent": 17200,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

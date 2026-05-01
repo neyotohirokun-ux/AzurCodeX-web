@@ -1,0 +1,165 @@
+{
+  "id": 558,
+  "gid": 60802,
+  "cid": 1,
+  "sid": [
+    608021,
+    608022,
+    608023,
+    608024
+  ],
+  "name": "Leonardo da Vinci",
+  "codename": "RN Leonardo da Vinci",
+  "class": "Marconi Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Aquilifer's Ballade",
+    "Special Ship Construction"
+  ],
+  "type": 8,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 275,
+    "firepower": 9,
+    "torpedo": 104,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 37,
+    "accuracy": 66,
+    "evasion": 7,
+    "speed": 18,
+    "luck": 57,
+    "asw": 0
+  },
+  "growth": {
+    "health": 1748,
+    "firepower": 48,
+    "torpedo": 545,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 101,
+    "accuracy": 197,
+    "evasion": 38,
+    "speed": 18,
+    "luck": 57,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 9,
+    "torpedo": 103,
+    "reload": 27
+  },
+  "skill": {
+    "3631": {
+      "id": 3631,
+      "parent": 3631,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15780": {
+      "id": 15780,
+      "parent": 15780,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15790": {
+      "id": 15790,
+      "parent": 15790,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29911": {
+      "id": 29911,
+      "parent": 29911,
+      "upgrade": 29912,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29912": {
+      "id": 29912,
+      "parent": 29911,
+      "upgrade": null,
+      "downgrade": 29911,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

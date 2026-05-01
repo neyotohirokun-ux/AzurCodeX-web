@@ -1,0 +1,144 @@
+{
+  "id": 10067,
+  "gid": 1060007,
+  "cid": 1,
+  "sid": [
+    10600071,
+    10600072,
+    10600073,
+    10600074
+  ],
+  "name": "Monica",
+  "codename": "Monica",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 652,
+    "firepower": 27,
+    "torpedo": 54,
+    "antiair": 68,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 55,
+    "evasion": 29,
+    "speed": 32,
+    "luck": 88,
+    "asw": 21
+  },
+  "growth": {
+    "health": 16429,
+    "firepower": 379,
+    "torpedo": 732,
+    "antiair": 1412,
+    "aviation": 0,
+    "reload": 463,
+    "accuracy": 807,
+    "evasion": 664,
+    "speed": 0,
+    "luck": 0,
+    "asw": 253
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 54,
+    "reload": 50
+  },
+  "skill": {
+    "106110": {
+      "id": 106110,
+      "parent": 106110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106120": {
+      "id": 106120,
+      "parent": 106120,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

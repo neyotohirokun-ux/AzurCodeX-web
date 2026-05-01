@@ -1,0 +1,191 @@
+{
+  "id": 126,
+  "gid": 20308,
+  "cid": 1,
+  "sid": [
+    203081,
+    203082,
+    203083,
+    203084
+  ],
+  "name": "Exeter",
+  "codename": "HMS Exeter",
+  "class": "York Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 8-1",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 203084,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "accuracy": 25,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 40,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 15,
+      "reload": 15
+    },
+    "skill": 12612,
+    "skin": 203089,
+    "armor": 2,
+    "hexagon": [
+      "A",
+      "C",
+      "E",
+      "C",
+      "A",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 634,
+    "firepower": 42,
+    "torpedo": 36,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 65,
+    "accuracy": 43,
+    "evasion": 9,
+    "speed": 25.8,
+    "luck": 49,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3791,
+    "firepower": 229,
+    "torpedo": 196,
+    "antiair": 248,
+    "aviation": 0,
+    "reload": 178,
+    "accuracy": 129,
+    "evasion": 75,
+    "speed": 25.8,
+    "luck": 49,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 41,
+    "torpedo": 35,
+    "reload": 48
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "4011": {
+      "id": 4011,
+      "parent": 4011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12612": {
+      "id": 12612,
+      "parent": 12612,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "21241": {
+      "id": 21241,
+      "parent": 21241,
+      "upgrade": 21242,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21242": {
+      "id": 21242,
+      "parent": 21241,
+      "upgrade": null,
+      "downgrade": 21241,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

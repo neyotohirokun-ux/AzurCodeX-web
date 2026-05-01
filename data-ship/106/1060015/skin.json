@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600150,
+      "gid": 1060015,
+      "name": "Yukino",
+      "type": "Default",
+      "desc": "Oh, man... Where am I? This sucks... Hey you, can you point me in the right... Huh? Me? I'm Yukino. Nice to meetcha! Oh, so, I rushed here 'cause I heard Tamaki was here... Guess I'm lost now. Mind taking little ol' me in for a while? Hehehe!",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 291,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060015/10600150/painting.png",
+      "painting_n": "img/skin/1060015/10600150/painting_n.png",
+      "banner": "img/skin/1060015/10600150/banner.png",
+      "chibi": "img/skin/1060015/10600150/chibi.png",
+      "icon": "img/skin/1060015/10600150/icon.png",
+      "qicon": "img/skin/1060015/10600150/qicon.png",
+      "shipyard": "img/skin/1060015/10600150/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600151,
+      "gid": 1060015,
+      "name": "Charming Beast",
+      "type": "Swimsuits",
+      "desc": "Ooh, is this carnivorous vibe what you're into, Commander? No prob! I'll make all your dreams come true... Roooar! Haha, did that scare you? Get your heart pounding? Hehehe!",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 291,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/1060015/10600151/painting.png",
+      "painting_n": "img/skin/1060015/10600151/painting_n.png",
+      "banner": "img/skin/1060015/10600151/banner.png",
+      "chibi": "img/skin/1060015/10600151/chibi.png",
+      "icon": "img/skin/1060015/10600151/icon.png",
+      "qicon": "img/skin/1060015/10600151/qicon.png",
+      "shipyard": "img/skin/1060015/10600151/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": 720,
+  "gid": 60509,
+  "cid": 1,
+  "sid": [
+    605091,
+    605092,
+    605093,
+    605094
+  ],
+  "name": "Francesco Caracciolo",
+  "codename": "RN Francesco Caracciolo",
+  "class": "Francesco Caracciolo-class battleship – Francesco Caracciolo.",
+  "nationality": 6,
+  "obtain": [
+    "Event: Light & Shadow Fashion Shoot!"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1315,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 43,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 28,
+    "luck": 52,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8109,
+    "firepower": 434,
+    "torpedo": 0,
+    "antiair": 234,
+    "aviation": 0,
+    "reload": 161,
+    "accuracy": 69,
+    "evasion": 34,
+    "speed": 28,
+    "luck": 52,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 44
+  },
+  "skill": {
+    "152000": {
+      "id": 152000,
+      "parent": 152000,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152010": {
+      "id": 152010,
+      "parent": 152010,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

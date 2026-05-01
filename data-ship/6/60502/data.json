@@ -1,0 +1,146 @@
+{
+  "id": 410,
+  "gid": 60502,
+  "cid": 1,
+  "sid": [
+    605021,
+    605022,
+    605023,
+    605024
+  ],
+  "name": "Littorio",
+  "codename": "RN Littorio",
+  "class": "Vittorio Veneto Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Empyreal Tragicomedy",
+    "Merit Shop",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1389,
+    "firepower": 80,
+    "torpedo": 0,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 19,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 79,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8567,
+    "firepower": 426,
+    "torpedo": 0,
+    "antiair": 248,
+    "aviation": 0,
+    "reload": 156,
+    "accuracy": 60,
+    "evasion": 37,
+    "speed": 30,
+    "luck": 79,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 80,
+    "reload": 42
+  },
+  "skill": {
+    "12600": {
+      "id": 12600,
+      "parent": 12600,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12610": {
+      "id": 12610,
+      "parent": 12610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

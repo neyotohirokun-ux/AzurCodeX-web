@@ -1,0 +1,151 @@
+{
+  "id": 678,
+  "gid": 60508,
+  "cid": 1,
+  "sid": [
+    605081,
+    605082,
+    605083,
+    605084
+  ],
+  "name": "Raffaello",
+  "codename": "RN Raffaello",
+  "class": "Raffaello",
+  "nationality": 6,
+  "obtain": [
+    "Event: Paradiso of Shackled Light"
+  ],
+  "type": 5,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1540,
+    "firepower": 88,
+    "torpedo": 0,
+    "antiair": 48,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 19,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 41,
+    "asw": 0
+  },
+  "growth": {
+    "health": 9497,
+    "firepower": 464,
+    "torpedo": 0,
+    "antiair": 263,
+    "aviation": 0,
+    "reload": 181,
+    "accuracy": 60,
+    "evasion": 37,
+    "speed": 30,
+    "luck": 41,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 87,
+    "reload": 49
+  },
+  "skill": {
+    "150940": {
+      "id": 150940,
+      "parent": 150940,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150950": {
+      "id": 150950,
+      "parent": 150950,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150960": {
+      "id": 150960,
+      "parent": 150960,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

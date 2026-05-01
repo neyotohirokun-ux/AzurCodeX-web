@@ -1,0 +1,185 @@
+{
+  "id": 183,
+  "gid": 30205,
+  "cid": 1,
+  "sid": [
+    302051,
+    302052,
+    302053,
+    302054
+  ],
+  "name": "Isuzu",
+  "codename": "IJN Isuzu",
+  "class": "Nagara Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 7-3"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "A",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "AA gun efficiency +5%"
+    ],
+    [
+      "May use Destroyer main gun",
+      "AA gun base +1",
+      "AA gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 302054,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "accuracy": 15,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 10,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 50,
+      "asw": 35
+    },
+    "skill": 18308,
+    "skin": 302059,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "C",
+      "E",
+      "B",
+      "S",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 550,
+    "firepower": 22,
+    "torpedo": 41,
+    "antiair": 65,
+    "aviation": 0,
+    "reload": 65,
+    "accuracy": 50,
+    "evasion": 29,
+    "speed": 36,
+    "luck": 33,
+    "asw": 24
+  },
+  "growth": {
+    "health": 3289,
+    "firepower": 121,
+    "torpedo": 223,
+    "antiair": 350,
+    "aviation": 0,
+    "reload": 178,
+    "accuracy": 149,
+    "evasion": 119,
+    "speed": 36,
+    "luck": 33,
+    "asw": 100
+  },
+  "enhance": {
+    "firepower": 22,
+    "torpedo": 40,
+    "reload": 48
+  },
+  "skill": {
+    "4091": {
+      "id": 4091,
+      "parent": 4091,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "18308": {
+      "id": 18308,
+      "parent": 18308,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22141": {
+      "id": 22141,
+      "parent": 22141,
+      "upgrade": 22142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22142": {
+      "id": 22142,
+      "parent": 22141,
+      "upgrade": null,
+      "downgrade": 22141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

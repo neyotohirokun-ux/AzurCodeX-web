@@ -1,0 +1,158 @@
+{
+  "id": 666,
+  "gid": 960009,
+  "cid": 1,
+  "sid": [
+    9600091,
+    9600092,
+    9600093,
+    9600094
+  ],
+  "name": "Amity",
+  "codename": "MOT Amity",
+  "class": "Amity",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Sleeping Sea"
+  ],
+  "type": 22,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "Main gun base +1",
+      "Improve Hunting Range"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 431,
+    "firepower": 36,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 54,
+    "evasion": 19,
+    "speed": 18,
+    "luck": 66,
+    "asw": 0
+  },
+  "growth": {
+    "health": 11555,
+    "firepower": 488,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 404,
+    "accuracy": 782,
+    "evasion": 395,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 35,
+    "reload": 44
+  },
+  "skill": {
+    "30351": {
+      "id": 30351,
+      "parent": 30351,
+      "upgrade": 30352,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30352": {
+      "id": 30352,
+      "parent": 30351,
+      "upgrade": null,
+      "downgrade": 30351,
+      "requirement": "Limit Break 3"
+    },
+    "150530": {
+      "id": 150530,
+      "parent": 150530,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150540": {
+      "id": 150540,
+      "parent": 150540,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

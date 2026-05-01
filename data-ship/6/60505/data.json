@@ -1,0 +1,138 @@
+{
+  "id": 411,
+  "gid": 60505,
+  "cid": 1,
+  "sid": [
+    605051,
+    605052,
+    605053,
+    605054
+  ],
+  "name": "Conte di Cavour",
+  "codename": "RN Conte di Cavour",
+  "class": "Conte di Cavour Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Empyreal Tragicomedy",
+    "Merit Shop"
+  ],
+  "type": 5,
+  "rarity": 3,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1139,
+    "firepower": 64,
+    "torpedo": 27,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 20,
+    "evasion": 7,
+    "speed": 27,
+    "luck": 45,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6994,
+    "firepower": 341,
+    "torpedo": 148,
+    "antiair": 179,
+    "aviation": 0,
+    "reload": 140,
+    "accuracy": 63,
+    "evasion": 38,
+    "speed": 27,
+    "luck": 45,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 64,
+    "torpedo": 27,
+    "reload": 38
+  },
+  "skill": {
+    "12650": {
+      "id": 12650,
+      "parent": 12650,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

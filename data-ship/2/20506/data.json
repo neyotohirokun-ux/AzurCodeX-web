@@ -1,0 +1,139 @@
+{
+  "id": 135,
+  "gid": 20506,
+  "cid": 1,
+  "sid": [
+    205061,
+    205062,
+    205063,
+    205064
+  ],
+  "name": "Prince of Wales",
+  "codename": "HMS Prince of Wales",
+  "class": "King George V Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Strive, Wish and Strategize",
+    "Requisition (random chance)",
+    "Medal Shop (when listed)"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1334,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 43,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 28.3,
+    "luck": 19,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8155,
+    "firepower": 428,
+    "torpedo": 0,
+    "antiair": 235,
+    "aviation": 0,
+    "reload": 158,
+    "accuracy": 71,
+    "evasion": 36,
+    "speed": 28.3,
+    "luck": 19,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 43
+  },
+  "skill": {
+    "10540": {
+      "id": 10540,
+      "parent": 10540,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

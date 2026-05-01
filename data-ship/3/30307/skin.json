@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 303070,
+      "gid": 30307,
+      "name": "Myoukou",
+      "type": "Default",
+      "desc": "First ship of the Myoukou-class heavy cruisers, Myoukou.",
+      "tag": [],
+      "illustrator": 20,
+      "illustrator2": -1,
+      "voice_actor": 63,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30307/303070/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30307/303070/banner.png",
+      "chibi": "img/skin/30307/303070/chibi.png",
+      "icon": "img/skin/30307/303070/icon.png",
+      "qicon": "img/skin/30307/303070/qicon.png",
+      "shipyard": "img/skin/30307/303070/shipyard.png",
+      "spine_chibi": "spine/chibi/miaogao/miaogao",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

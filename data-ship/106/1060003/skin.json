@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600030,
+      "gid": 1060003,
+      "name": "Kasumi",
+      "type": "Default",
+      "desc": "Are you the Owner of the port? The \"Commander\"? Hello. My name is Kasumi, I'll be staying here for the foreseeable future. I hope we can both get along on friendly terms.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 250,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060003/10600030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060003/10600030/banner.png",
+      "chibi": "img/skin/1060003/10600030/chibi.png",
+      "icon": "img/skin/1060003/10600030/icon.png",
+      "qicon": "img/skin/1060003/10600030/qicon.png",
+      "shipyard": "img/skin/1060003/10600030/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600031,
+      "gid": 1060003,
+      "name": "Springside Mist",
+      "type": "Swimsuits",
+      "desc": "I was amazed to see the port had such a scenic place as this... Truly, you can't go without taking this view in. Right, Commander?",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 250,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/142.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/1060003/10600031/painting.png",
+      "painting_n": "img/skin/1060003/10600031/painting_n.png",
+      "banner": "img/skin/1060003/10600031/banner.png",
+      "chibi": "img/skin/1060003/10600031/chibi.png",
+      "icon": "img/skin/1060003/10600031/icon.png",
+      "qicon": "img/skin/1060003/10600031/qicon.png",
+      "shipyard": "img/skin/1060003/10600031/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

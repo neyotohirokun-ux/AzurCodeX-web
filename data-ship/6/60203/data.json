@@ -1,0 +1,160 @@
+{
+  "id": 681,
+  "gid": 60203,
+  "cid": 1,
+  "sid": [
+    602031,
+    602032,
+    602033,
+    602034
+  ],
+  "name": "Bartolomeo Colleoni",
+  "codename": "RN Bartolomeo Colleoni",
+  "class": "Giussano Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Paradiso of Shackled Light"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 505,
+    "firepower": 28,
+    "torpedo": 57,
+    "antiair": 68,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 60,
+    "evasion": 31,
+    "speed": 37,
+    "luck": 35,
+    "asw": 22
+  },
+  "growth": {
+    "health": 2967,
+    "firepower": 153,
+    "torpedo": 308,
+    "antiair": 365,
+    "aviation": 0,
+    "reload": 182,
+    "accuracy": 177,
+    "evasion": 113,
+    "speed": 37,
+    "luck": 35,
+    "asw": 94
+  },
+  "enhance": {
+    "firepower": 28,
+    "torpedo": 56,
+    "reload": 49
+  },
+  "skill": {
+    "28271": {
+      "id": 28271,
+      "parent": 28271,
+      "upgrade": 28272,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28272": {
+      "id": 28272,
+      "parent": 28271,
+      "upgrade": null,
+      "downgrade": 28271,
+      "requirement": "Limit Break 3"
+    },
+    "150900": {
+      "id": 150900,
+      "parent": 150900,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150910": {
+      "id": 150910,
+      "parent": 150910,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

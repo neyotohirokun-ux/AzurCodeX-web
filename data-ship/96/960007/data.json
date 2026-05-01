@@ -1,0 +1,143 @@
+{
+  "id": 664,
+  "gid": 960007,
+  "cid": 1,
+  "sid": [
+    9600071,
+    9600072,
+    9600073,
+    9600074
+  ],
+  "name": "Ganj-i-Sawai",
+  "codename": "MOT Ganj-i-Sawai",
+  "class": "Ganj-i-Sawai",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and the Sleeping Sea"
+  ],
+  "type": 24,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +1",
+      "Main gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +2",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 158,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1003,
+    "firepower": 84,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 20,
+    "evasion": 6,
+    "speed": 26,
+    "luck": 20,
+    "asw": 0
+  },
+  "growth": {
+    "health": 27333,
+    "firepower": 1031,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 462,
+    "accuracy": 304,
+    "evasion": 227,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 84,
+    "reload": 50
+  },
+  "skill": {
+    "150580": {
+      "id": 150580,
+      "parent": 150580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150590": {
+      "id": 150590,
+      "parent": 150590,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

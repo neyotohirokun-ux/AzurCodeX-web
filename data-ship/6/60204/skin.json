@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 602040,
+      "gid": 60204,
+      "name": "Alberto di Giussano",
+      "type": "Default",
+      "desc": "Giussano-class light cruiser – Alberto di Giussano.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 495,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60204/602040/painting.png",
+      "painting_n": "img/skin/60204/602040/painting_n.png",
+      "banner": "img/skin/60204/602040/banner.png",
+      "chibi": "img/skin/60204/602040/chibi.png",
+      "icon": "img/skin/60204/602040/icon.png",
+      "qicon": "img/skin/60204/602040/qicon.png",
+      "shipyard": "img/skin/60204/602040/shipyard.png",
+      "spine_chibi": "spine/chibi/aerbeituo/aerbeituo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 602041,
+      "gid": 60204,
+      "name": "A Magnificent Mistake",
+      "type": "Home Relaxation",
+      "desc": "O-ooohohoho... Look what I've done, knocking down the clothing rack. I suppose this is the perfect time to show you my clothing collection!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 495,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/313.png",
+      "background2": null,
+      "painting": "img/skin/60204/602041/painting.png",
+      "painting_n": "img/skin/60204/602041/painting_n.png",
+      "banner": "img/skin/60204/602041/banner.png",
+      "chibi": "img/skin/60204/602041/chibi.png",
+      "icon": "img/skin/60204/602041/icon.png",
+      "qicon": "img/skin/60204/602041/qicon.png",
+      "shipyard": "img/skin/60204/602041/shipyard.png",
+      "spine_chibi": "spine/chibi/aerbeituo/aerbeituo_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

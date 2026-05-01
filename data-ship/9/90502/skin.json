@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 905020,
+      "gid": 90502,
+      "name": "Clemenceau",
+      "type": "Default",
+      "desc": "Richelieu-class battleship – Clemenceau.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 377,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90502/905020/painting.png",
+      "painting_n": "img/skin/90502/905020/painting_n.png",
+      "banner": "img/skin/90502/905020/banner.png",
+      "chibi": "img/skin/90502/905020/chibi.png",
+      "icon": "img/skin/90502/905020/icon.png",
+      "qicon": "img/skin/90502/905020/qicon.png",
+      "shipyard": "img/skin/90502/905020/shipyard.png",
+      "spine_chibi": "spine/chibi/kelaimengsuo/kelaimengsuo",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 905021,
+      "gid": 90502,
+      "name": "Splendid Breeze",
+      "type": "Sports Time",
+      "desc": "The skies are blue and the wind is calm, a perfect day for golfing... Commander? I didn't bring you here just to watch the scenery, you know? Brace yourself, because you're in for a long day with me.",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 377,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/118.png",
+      "background2": null,
+      "painting": "img/skin/90502/905021/painting.png",
+      "painting_n": "img/skin/90502/905021/painting_n.png",
+      "banner": "img/skin/90502/905021/banner.png",
+      "chibi": "img/skin/90502/905021/chibi.png",
+      "icon": "img/skin/90502/905021/icon.png",
+      "qicon": "img/skin/90502/905021/qicon.png",
+      "shipyard": "img/skin/90502/905021/shipyard.png",
+      "spine_chibi": "spine/chibi/kelaimengsuo/kelaimengsuo_2",
+      "spine": null,
+      "live2d": "live2d/kelaimengsuo/kelaimengsuo_2",
+      "cost": 1180
+    }
+  ]
+}

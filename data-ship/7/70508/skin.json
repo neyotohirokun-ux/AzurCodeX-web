@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 705080,
+      "gid": 70508,
+      "name": "Poltava",
+      "type": "Default",
+      "desc": "Gangut-class battleship – Poltava.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 97,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70508/705080/painting.png",
+      "painting_n": "img/skin/70508/705080/painting_n.png",
+      "banner": "img/skin/70508/705080/banner.png",
+      "chibi": "img/skin/70508/705080/chibi.png",
+      "icon": "img/skin/70508/705080/icon.png",
+      "qicon": "img/skin/70508/705080/qicon.png",
+      "shipyard": "img/skin/70508/705080/shipyard.png",
+      "spine_chibi": "spine/chibi/boertawa/boertawa",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 705081,
+      "gid": 70508,
+      "name": "Meeting the Mafia Queen",
+      "type": "Special Exercise",
+      "desc": "Heehee... Oh, are you ready for your audience with me? Remember the important thing – minding your manners. Queen Poltava's time is very, very precious indeed.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 97,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/146.png",
+      "background2": null,
+      "painting": "img/skin/70508/705081/painting.png",
+      "painting_n": "img/skin/70508/705081/painting_n.png",
+      "banner": "img/skin/70508/705081/banner.png",
+      "chibi": "img/skin/70508/705081/chibi.png",
+      "icon": "img/skin/70508/705081/icon.png",
+      "qicon": "img/skin/70508/705081/qicon.png",
+      "shipyard": "img/skin/70508/705081/shipyard.png",
+      "spine_chibi": "spine/chibi/boertawa/boertawa_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

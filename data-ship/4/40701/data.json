@@ -1,0 +1,146 @@
+{
+  "id": 252,
+  "gid": 40701,
+  "cid": 1,
+  "sid": [
+    407011,
+    407012,
+    407013,
+    407014
+  ],
+  "name": "Graf Zeppelin",
+  "codename": "KMS Graf Zeppelin",
+  "class": "Graf Zeppelin Class",
+  "nationality": 4,
+  "obtain": [
+    "Event: Divergent Chessboard",
+    "Special Construction"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "S",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All fighters +1",
+      "Dive Bomber efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Dive Bombers +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +7%",
+      "Torpedo Bombers can be equipped in the third gear slot"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 121,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 123,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 123,
+      "slot": 3,
+      "type": [
+        8,
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1317,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 81,
+    "reload": 47,
+    "accuracy": 30,
+    "evasion": 14,
+    "speed": 33.8,
+    "luck": 45,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7659,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 326,
+    "aviation": 428,
+    "reload": 129,
+    "accuracy": 90,
+    "evasion": 52,
+    "speed": 33.8,
+    "luck": 45,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 80,
+    "reload": 35
+  },
+  "skill": {
+    "10680": {
+      "id": 10680,
+      "parent": 10680,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10690": {
+      "id": 10690,
+      "parent": 10690,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

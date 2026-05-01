@@ -1,0 +1,154 @@
+{
+  "id": 326,
+  "gid": 20127,
+  "cid": 1,
+  "sid": [
+    201271,
+    201272,
+    201273,
+    201274
+  ],
+  "name": "Musketeer",
+  "codename": "HMS Musketeer",
+  "class": "M Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Winter's Crown",
+    "Core Data Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "B",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 271,
+    "firepower": 14,
+    "torpedo": 76,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 65,
+    "evasion": 78,
+    "speed": 43.2,
+    "luck": 67,
+    "asw": 55
+  },
+  "growth": {
+    "health": 1724,
+    "firepower": 77,
+    "torpedo": 405,
+    "antiair": 160,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 200,
+    "evasion": 270,
+    "speed": 43.2,
+    "luck": 67,
+    "asw": 226
+  },
+  "enhance": {
+    "firepower": 14,
+    "torpedo": 75,
+    "reload": 55
+  },
+  "skill": {
+    "11180": {
+      "id": 11180,
+      "parent": 11180,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21081": {
+      "id": 21081,
+      "parent": 21081,
+      "upgrade": 21082,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21082": {
+      "id": 21082,
+      "parent": 21081,
+      "upgrade": null,
+      "downgrade": 21081,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

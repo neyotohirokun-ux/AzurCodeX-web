@@ -1,0 +1,164 @@
+{
+  "id": 679,
+  "gid": 60803,
+  "cid": 1,
+  "sid": [
+    608031,
+    608032,
+    608033,
+    608034
+  ],
+  "name": "Maggiore Baracca",
+  "codename": "RN Maggiore Baracca",
+  "class": "Marconi Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Paradiso of Shackled Light"
+  ],
+  "type": 8,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 275,
+    "firepower": 8,
+    "torpedo": 102,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 37,
+    "accuracy": 62,
+    "evasion": 7,
+    "speed": 18,
+    "luck": 19,
+    "asw": 0
+  },
+  "growth": {
+    "health": 1748,
+    "firepower": 44,
+    "torpedo": 537,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 101,
+    "accuracy": 185,
+    "evasion": 38,
+    "speed": 18,
+    "luck": 19,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 8,
+    "torpedo": 101,
+    "reload": 27
+  },
+  "skill": {
+    "3631": {
+      "id": 3631,
+      "parent": 3631,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "30421": {
+      "id": 30421,
+      "parent": 30421,
+      "upgrade": 30422,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30422": {
+      "id": 30422,
+      "parent": 30421,
+      "upgrade": null,
+      "downgrade": 30421,
+      "requirement": "Limit Break 3"
+    },
+    "150980": {
+      "id": 150980,
+      "parent": 150980,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150990": {
+      "id": 150990,
+      "parent": 150990,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

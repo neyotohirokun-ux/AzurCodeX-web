@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 1101010,
+      "gid": 110101,
+      "name": "Evertsen",
+      "type": "Default",
+      "desc": "Admiralen-class destroyer – Evertsen.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 449,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/110101/1101010/painting.png",
+      "painting_n": "img/skin/110101/1101010/painting_n.png",
+      "banner": "img/skin/110101/1101010/banner.png",
+      "chibi": "img/skin/110101/1101010/chibi.png",
+      "icon": "img/skin/110101/1101010/icon.png",
+      "qicon": "img/skin/110101/1101010/qicon.png",
+      "shipyard": "img/skin/110101/1101010/shipyard.png",
+      "spine_chibi": "spine/chibi/aifosen/aifosen",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 1101011,
+      "gid": 110101,
+      "name": "Basking by the Window",
+      "type": "Home Relaxation",
+      "desc": "Commander, relax wherever you like. ...Why so far? You won't get any sun there.",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 449,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/185.png",
+      "background2": null,
+      "painting": "img/skin/110101/1101011/painting.png",
+      "painting_n": "img/skin/110101/1101011/painting_n.png",
+      "banner": "img/skin/110101/1101011/banner.png",
+      "chibi": "img/skin/110101/1101011/chibi.png",
+      "icon": "img/skin/110101/1101011/icon.png",
+      "qicon": "img/skin/110101/1101011/qicon.png",
+      "shipyard": "img/skin/110101/1101011/shipyard.png",
+      "spine_chibi": "spine/chibi/aifosen/aifosen_2",
+      "spine": "spine/ship/aifosen/aifosen_2",
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 9600090,
+      "gid": 960009,
+      "name": "Amity",
+      "type": "Default",
+      "desc": "Sailing frigate – Amity.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 430,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960009/9600090/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/960009/9600090/banner.png",
+      "chibi": "img/skin/960009/9600090/chibi.png",
+      "icon": "img/skin/960009/9600090/icon.png",
+      "qicon": "img/skin/960009/9600090/qicon.png",
+      "shipyard": "img/skin/960009/9600090/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600091,
+      "gid": 960009,
+      "name": "Friendly Franken",
+      "type": "Halloween",
+      "desc": "Well, well, look who's got nowhere left to go. Kidding, kidding. I win again, so I'll be taking your treasure! Follow me down if you're brave enough to jump.",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 430,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/525.png",
+      "background2": null,
+      "painting": "img/skin/960009/9600091/painting.png",
+      "painting_n": "img/skin/960009/9600091/painting_n.png",
+      "banner": "img/skin/960009/9600091/banner.png",
+      "chibi": "img/skin/960009/9600091/chibi.png",
+      "icon": "img/skin/960009/9600091/icon.png",
+      "qicon": "img/skin/960009/9600091/qicon.png",
+      "shipyard": "img/skin/960009/9600091/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": 602,
+  "gid": 80502,
+  "cid": 1,
+  "sid": [
+    805021,
+    805022,
+    805023,
+    805024
+  ],
+  "name": "Lyon",
+  "codename": "FFNF Lyon",
+  "class": "Lyon Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: The Fool's Scales"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1182,
+    "firepower": 78,
+    "torpedo": 30,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 22,
+    "evasion": 4,
+    "speed": 21,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7290,
+    "firepower": 415,
+    "torpedo": 164,
+    "antiair": 213,
+    "aviation": 0,
+    "reload": 158,
+    "accuracy": 65,
+    "evasion": 30,
+    "speed": 21,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 77,
+    "torpedo": 30,
+    "reload": 43
+  },
+  "skill": {
+    "17010": {
+      "id": 17010,
+      "parent": 17010,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17020": {
+      "id": 17020,
+      "parent": 17020,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

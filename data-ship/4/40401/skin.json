@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 404010,
+      "gid": 40401,
+      "name": "Scharnhorst",
+      "type": "Default",
+      "desc": "Scharnhorst-class battlecruiser, Scharnhorst.",
+      "tag": [],
+      "illustrator": 32,
+      "illustrator2": -1,
+      "voice_actor": 38,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/40401/404010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40401/404010/banner.png",
+      "chibi": "img/skin/40401/404010/chibi.png",
+      "icon": "img/skin/40401/404010/icon.png",
+      "qicon": "img/skin/40401/404010/qicon.png",
+      "shipyard": "img/skin/40401/404010/shipyard.png",
+      "spine_chibi": "spine/chibi/shaenhuosite/shaenhuosite",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 404011,
+      "gid": 40401,
+      "name": "Panther und Pflaume",
+      "type": "Empery'S Fineries",
+      "desc": "A festival, huh? Going for days without fighting is boring, not to mention not my style. C'mon, Commander, isn't there *something* exciting I can do during this \"Lunar New Year\" festival?",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": 32,
+      "illustrator2": -1,
+      "voice_actor": 38,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/127.png",
+      "background2": null,
+      "painting": "img/skin/40401/404011/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/40401/404011/banner.png",
+      "chibi": "img/skin/40401/404011/chibi.png",
+      "icon": "img/skin/40401/404011/icon.png",
+      "qicon": "img/skin/40401/404011/qicon.png",
+      "shipyard": "img/skin/40401/404011/shipyard.png",
+      "spine_chibi": "spine/chibi/shaenhuosite/shaenhuosite_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 800
+    }
+  ]
+}

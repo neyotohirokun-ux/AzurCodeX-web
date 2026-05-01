@@ -1,0 +1,161 @@
+{
+  "id": 456,
+  "gid": 90201,
+  "cid": 1,
+  "sid": [
+    902011,
+    902012,
+    902013,
+    902014
+  ],
+  "name": "La Galissonnière",
+  "codename": "MNF La Galissonnière",
+  "class": "La Galissonnière Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Merit Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 599,
+    "firepower": 32,
+    "torpedo": 52,
+    "antiair": 58,
+    "aviation": 0,
+    "reload": 65,
+    "accuracy": 58,
+    "evasion": 29,
+    "speed": 31,
+    "luck": 35,
+    "asw": 35
+  },
+  "growth": {
+    "health": 3565,
+    "firepower": 174,
+    "torpedo": 283,
+    "antiair": 316,
+    "aviation": 0,
+    "reload": 178,
+    "accuracy": 177,
+    "evasion": 136,
+    "speed": 31,
+    "luck": 35,
+    "asw": 148
+  },
+  "enhance": {
+    "firepower": 31,
+    "torpedo": 51,
+    "reload": 48
+  },
+  "skill": {
+    "13310": {
+      "id": 13310,
+      "parent": 13310,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13320": {
+      "id": 13320,
+      "parent": 13320,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "28121": {
+      "id": 28121,
+      "parent": 28121,
+      "upgrade": 28122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28122": {
+      "id": 28122,
+      "parent": 28121,
+      "upgrade": null,
+      "downgrade": 28121,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

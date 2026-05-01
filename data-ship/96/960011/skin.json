@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 9600110,
+      "gid": 960011,
+      "name": "Dolphin",
+      "type": "Default",
+      "desc": "Sailing frigate – Dolphin.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 432,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/960011/9600110/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/960011/9600110/banner.png",
+      "chibi": "img/skin/960011/9600110/chibi.png",
+      "icon": "img/skin/960011/9600110/icon.png",
+      "qicon": "img/skin/960011/9600110/qicon.png",
+      "shipyard": "img/skin/960011/9600110/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 9600111,
+      "gid": 960011,
+      "name": "Incantation of Revival",
+      "type": "Halloween",
+      "desc": "*yaaawn*... Was it you who awoke me? Heehee, thanks. Oh, don't be scared! Sure, rising out of a coffin is a bit creepy... but still, I'm not going to hurt you. Promise.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 432,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/177.png",
+      "background2": null,
+      "painting": "img/skin/960011/9600111/painting.png",
+      "painting_n": "img/skin/960011/9600111/painting_n.png",
+      "banner": "img/skin/960011/9600111/banner.png",
+      "chibi": "img/skin/960011/9600111/chibi.png",
+      "icon": "img/skin/960011/9600111/icon.png",
+      "qicon": "img/skin/960011/9600111/qicon.png",
+      "shipyard": "img/skin/960011/9600111/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

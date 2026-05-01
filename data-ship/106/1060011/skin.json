@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600110,
+      "gid": 1060011,
+      "name": "Shizuku",
+      "type": "Default",
+      "desc": "Don't get caught, don't get your cover blown... Hide carefully... Ack, I'm sorry! I'll leave right away... Hm? My ears and tail? Oh, I'm just cosplaying a fox, haha... Wait, did you say there are other girls like me around here? Okay... Umm, my name is Shizuku, and I'm a fox spirit. You mind if I stay here for now...?",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 350,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060011/10600110/painting.png",
+      "painting_n": "img/skin/1060011/10600110/painting_n.png",
+      "banner": "img/skin/1060011/10600110/banner.png",
+      "chibi": "img/skin/1060011/10600110/chibi.png",
+      "icon": "img/skin/1060011/10600110/icon.png",
+      "qicon": "img/skin/1060011/10600110/qicon.png",
+      "shipyard": "img/skin/1060011/10600110/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600111,
+      "gid": 1060011,
+      "name": "Frolicking in the Tide",
+      "type": "Swimsuits",
+      "desc": "Hehe, hey there. You'll get swept away over there... I love your little house! ...Oh, Commander? Yeah, I'm just playing with my little friends in the sea. This rock is the perfect hiding spot, so nobody can see us. It's really relaxing... Kon!",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 350,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/701.png",
+      "background2": null,
+      "painting": "img/skin/1060011/10600111/painting.png",
+      "painting_n": "img/skin/1060011/10600111/painting_n.png",
+      "banner": "img/skin/1060011/10600111/banner.png",
+      "chibi": "img/skin/1060011/10600111/chibi.png",
+      "icon": "img/skin/1060011/10600111/icon.png",
+      "qicon": "img/skin/1060011/10600111/qicon.png",
+      "shipyard": "img/skin/1060011/10600111/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

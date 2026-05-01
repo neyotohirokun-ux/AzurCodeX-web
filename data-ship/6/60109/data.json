@@ -1,0 +1,161 @@
+{
+  "id": 563,
+  "gid": 60109,
+  "cid": 1,
+  "sid": [
+    601091,
+    601092,
+    601093,
+    601094
+  ],
+  "name": "Emanuele Pessagno",
+  "codename": "RN Emanuele Pessagno",
+  "class": "Navigatori Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Aquilifer's Ballade",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 301,
+    "firepower": 22,
+    "torpedo": 52,
+    "antiair": 31,
+    "aviation": 0,
+    "reload": 75,
+    "accuracy": 69,
+    "evasion": 77,
+    "speed": 39.6,
+    "luck": 46,
+    "asw": 51
+  },
+  "growth": {
+    "health": 1895,
+    "firepower": 121,
+    "torpedo": 286,
+    "antiair": 171,
+    "aviation": 0,
+    "reload": 207,
+    "accuracy": 212,
+    "evasion": 269,
+    "speed": 39.6,
+    "luck": 46,
+    "asw": 209
+  },
+  "enhance": {
+    "firepower": 22,
+    "torpedo": 52,
+    "reload": 56
+  },
+  "skill": {
+    "15890": {
+      "id": 15890,
+      "parent": 15890,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15900": {
+      "id": 15900,
+      "parent": 15900,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25041": {
+      "id": 25041,
+      "parent": 25041,
+      "upgrade": 25042,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25042": {
+      "id": 25042,
+      "parent": 25041,
+      "upgrade": null,
+      "downgrade": 25041,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600060,
+      "gid": 1060006,
+      "name": "Nyotengu",
+      "type": "Default",
+      "desc": "Oh? You don't seem to fear me... Who might you be? ...I see, so it is you who rules over this place. Then I shall call you \"Commander.\" I am Nyotengu. You would do best to keep me entertained, hehe.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 253,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060006/10600060/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060006/10600060/banner.png",
+      "chibi": "img/skin/1060006/10600060/chibi.png",
+      "icon": "img/skin/1060006/10600060/icon.png",
+      "qicon": "img/skin/1060006/10600060/qicon.png",
+      "shipyard": "img/skin/1060006/10600060/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600061,
+      "gid": 1060006,
+      "name": "Scarlet-Tinged Hot Spring Vacation",
+      "type": "Swimsuits",
+      "desc": "Oho! To think there was a place with this much class... Not bad! I shall hereby be enjoying my hot springs vacation right here, hehehe.",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 253,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/142.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/1060006/10600061/painting.png",
+      "painting_n": "img/skin/1060006/10600061/painting_n.png",
+      "banner": "img/skin/1060006/10600061/banner.png",
+      "chibi": "img/skin/1060006/10600061/chibi.png",
+      "icon": "img/skin/1060006/10600061/icon.png",
+      "qicon": "img/skin/1060006/10600061/qicon.png",
+      "shipyard": "img/skin/1060006/10600061/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

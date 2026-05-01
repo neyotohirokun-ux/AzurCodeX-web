@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 605050,
+      "gid": 60505,
+      "name": "Conte di Cavour",
+      "type": "Default",
+      "desc": "Conte di Cavour-class battleship – Conte di Cavour.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 201,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60505/605050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60505/605050/banner.png",
+      "chibi": "img/skin/60505/605050/chibi.png",
+      "icon": "img/skin/60505/605050/icon.png",
+      "qicon": "img/skin/60505/605050/qicon.png",
+      "shipyard": "img/skin/60505/605050/shipyard.png",
+      "spine_chibi": "spine/chibi/jiafuerbojue/jiafuerbojue",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 605051,
+      "gid": 60505,
+      "name": "Fierce Beachside Battle",
+      "type": "Swimsuits",
+      "desc": "Commander, take this. Good, for the time being, you are a now a disciple under my command. It is time for us to mete out punishment to the unruly.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 201,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/60505/605051/painting.png",
+      "painting_n": "img/skin/60505/605051/painting_n.png",
+      "banner": "img/skin/60505/605051/banner.png",
+      "chibi": "img/skin/60505/605051/chibi.png",
+      "icon": "img/skin/60505/605051/icon.png",
+      "qicon": "img/skin/60505/605051/qicon.png",
+      "shipyard": "img/skin/60505/605051/shipyard.png",
+      "spine_chibi": "spine/chibi/jiafuerbojue/jiafuerbojue_2",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

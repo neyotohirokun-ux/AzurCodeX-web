@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600070,
+      "gid": 1060007,
+      "name": "Monica",
+      "type": "Default",
+      "desc": "Are you the one in charge here? The \"Commander\"? I'm Monica, the dealer! Well, dealer-in-training. I know it's sudden, but would you care to gamble with me? The stakes will, of course, be high!",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 234,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060007/10600070/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060007/10600070/banner.png",
+      "chibi": "img/skin/1060007/10600070/chibi.png",
+      "icon": "img/skin/1060007/10600070/icon.png",
+      "qicon": "img/skin/1060007/10600070/qicon.png",
+      "shipyard": "img/skin/1060007/10600070/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600071,
+      "gid": 1060007,
+      "name": "The Ace of Hearts",
+      "type": "Swimsuits",
+      "desc": "\"Welcome to Monica's Fantabulous Casino! Where you can have your every whim satisfied!\" ...Oh, that doesn't sound very casino-managery? Heheh!",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 234,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/1060007/10600071/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060007/10600071/banner.png",
+      "chibi": "img/skin/1060007/10600071/chibi.png",
+      "icon": "img/skin/1060007/10600071/icon.png",
+      "qicon": "img/skin/1060007/10600071/qicon.png",
+      "shipyard": "img/skin/1060007/10600071/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

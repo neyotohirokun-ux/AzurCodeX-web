@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 204010,
+      "gid": 20401,
+      "name": "Renown",
+      "type": "Default",
+      "desc": "Renown-class battlecruiser - Renown",
+      "tag": [],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 9,
+      "voice_actor2": 183,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20401/204010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20401/204010/banner.png",
+      "chibi": "img/skin/20401/204010/chibi.png",
+      "icon": "img/skin/20401/204010/icon.png",
+      "qicon": "img/skin/20401/204010/qicon.png",
+      "shipyard": "img/skin/20401/204010/shipyard.png",
+      "spine_chibi": "spine/chibi/shengwang/shengwang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 204011,
+      "gid": 20401,
+      "name": "Graceful Royal Pride",
+      "type": "Empery'S Fineries",
+      "desc": "This Dragon Empery dress is lovely and graceful, but the slit... Commander? I'm sorry if this is sudden, but... how do you like my dress?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 9,
+      "voice_actor2": 183,
+      "bgm": null,
+      "background": "img/bgii/175.png",
+      "background2": null,
+      "painting": "img/skin/20401/204011/painting.png",
+      "painting_n": "img/skin/20401/204011/painting_n.png",
+      "banner": "img/skin/20401/204011/banner.png",
+      "chibi": "img/skin/20401/204011/chibi.png",
+      "icon": "img/skin/20401/204011/icon.png",
+      "qicon": "img/skin/20401/204011/qicon.png",
+      "shipyard": "img/skin/20401/204011/shipyard.png",
+      "spine_chibi": "spine/chibi/shengwang/shengwang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

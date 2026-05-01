@@ -1,0 +1,174 @@
+{
+  "id": 227,
+  "gid": 30704,
+  "cid": 1,
+  "sid": [
+    307041,
+    307042,
+    307043,
+    307044
+  ],
+  "name": "Hiryuu",
+  "codename": "IJN Hiryuu",
+  "class": "Hiryuu Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 3-1"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Fighters +1",
+      "Torpedo Bomber efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 307044,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 20,
+      "equipment_proficiency_1": 0.15,
+      "antiair": 50,
+      "equipment_proficiency_2": 0.05,
+      "aviation": 35,
+      "evasion": 10
+    },
+    "skill": 22712,
+    "skin": 307049,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "S",
+      "B",
+      "A",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 912,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 59,
+    "aviation": 74,
+    "reload": 45,
+    "accuracy": 29,
+    "evasion": 14,
+    "speed": 34,
+    "luck": 36,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5598,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 317,
+    "aviation": 396,
+    "reload": 123,
+    "accuracy": 87,
+    "evasion": 58,
+    "speed": 34,
+    "luck": 36,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 74,
+    "reload": 33
+  },
+  "skill": {
+    "10450": {
+      "id": 10450,
+      "parent": 10450,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10470": {
+      "id": 10470,
+      "parent": 10470,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22712": {
+      "id": 22712,
+      "parent": 22712,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

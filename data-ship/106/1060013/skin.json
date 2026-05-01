@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600130,
+      "gid": 1060013,
+      "name": "Tsukushi",
+      "type": "Default",
+      "desc": "Blue skies... White clouds... A sparkly, endless sea... Hehe! What a beautiful view... Huh? Wh-where am I... Whoa?! Wh-who goes there? Huh? A Commander? You wanna know where I came from...? Umm, sorry. My name is Tsukushi. Do you know where we are, exactly?",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 333,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060013/10600130/painting.png",
+      "painting_n": "img/skin/1060013/10600130/painting_n.png",
+      "banner": "img/skin/1060013/10600130/banner.png",
+      "chibi": "img/skin/1060013/10600130/chibi.png",
+      "icon": "img/skin/1060013/10600130/icon.png",
+      "qicon": "img/skin/1060013/10600130/qicon.png",
+      "shipyard": "img/skin/1060013/10600130/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600131,
+      "gid": 1060013,
+      "name": "Dream Machine",
+      "type": "Swimsuits",
+      "desc": "H-hey, Commander... Do you think the people here could build one of those machines where you lie down in bed, and the machine's arms give you a full-body massage?",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 333,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/193.png",
+      "background2": null,
+      "painting": "img/skin/1060013/10600131/painting.png",
+      "painting_n": "img/skin/1060013/10600131/painting_n.png",
+      "banner": "img/skin/1060013/10600131/banner.png",
+      "chibi": "img/skin/1060013/10600131/chibi.png",
+      "icon": "img/skin/1060013/10600131/icon.png",
+      "qicon": "img/skin/1060013/10600131/qicon.png",
+      "shipyard": "img/skin/1060013/10600131/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

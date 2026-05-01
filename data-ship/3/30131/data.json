@@ -1,0 +1,187 @@
+{
+  "id": 270,
+  "gid": 30131,
+  "cid": 1,
+  "sid": [
+    301311,
+    301312,
+    301313,
+    301314
+  ],
+  "name": "Matsukaze",
+  "codename": "IJN Matsukaze",
+  "class": "Kamikaze Class",
+  "nationality": 3,
+  "obtain": [
+    "Monthly Sign-in",
+    "Light ship Construction",
+    "Guild Shop"
+  ],
+  "type": 1,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "B",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "retrofit": {
+    "id": 301314,
+    "level": 85,
+    "bonus": {
+      "health": 165,
+      "reload": 20,
+      "equipment_proficiency_2": 0.05,
+      "torpedo": 10,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 40,
+      "speed": 3,
+      "accuracy": 10
+    },
+    "skill": 27008,
+    "skin": 301319,
+    "armor": 1,
+    "hexagon": [
+      "D",
+      "B",
+      "E",
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 252,
+    "firepower": 11,
+    "torpedo": 77,
+    "antiair": 24,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 67,
+    "evasion": 71,
+    "speed": 44.8,
+    "luck": 45,
+    "asw": 45
+  },
+  "growth": {
+    "health": 1599,
+    "firepower": 60,
+    "torpedo": 409,
+    "antiair": 133,
+    "aviation": 0,
+    "reload": 205,
+    "accuracy": 206,
+    "evasion": 246,
+    "speed": 44.8,
+    "luck": 45,
+    "asw": 188
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 76,
+    "reload": 56
+  },
+  "skill": {
+    "2001": {
+      "id": 2001,
+      "parent": 2001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22081": {
+      "id": 22081,
+      "parent": 22081,
+      "upgrade": 22082,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22082": {
+      "id": 22082,
+      "parent": 22081,
+      "upgrade": null,
+      "downgrade": 22081,
+      "requirement": "Limit Break 3"
+    },
+    "27008": {
+      "id": 27008,
+      "parent": 27008,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

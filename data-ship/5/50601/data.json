@@ -1,0 +1,180 @@
+{
+  "id": 534,
+  "gid": 50601,
+  "cid": 1,
+  "sid": [
+    506011,
+    506012,
+    506013,
+    506014,
+    506114
+  ],
+  "name": "Chen Hai",
+  "codename": "Chen Hai",
+  "class": "Chen Hai",
+  "nationality": 5,
+  "obtain": [
+    "Event: Lunar New Year Special Missions",
+    "Special Ship Construction"
+  ],
+  "type": 6,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "E",
+    "B",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "Aircraft efficiency +5%",
+      "Low-caliber guns equipable in 3rd weapon slot"
+    ],
+    [
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "retrofit": {
+    "id": 506114,
+    "level": 85,
+    "bonus": {
+      "health": 210,
+      "reload": 20,
+      "equipment_proficiency_3": 0.2,
+      "antiair": 50,
+      "aviation": 60
+    },
+    "skill": 53412,
+    "skin": 506019,
+    "armor": 2,
+    "hexagon": [
+      "D",
+      "E",
+      "A",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 152,
+      "slot": 1,
+      "type": [
+        7,
+        12
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 152,
+      "slot": 2,
+      "type": [
+        1,
+        7,
+        8,
+        9,
+        12
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 604,
+    "firepower": 28,
+    "torpedo": 0,
+    "antiair": 30,
+    "aviation": 56,
+    "reload": 68,
+    "accuracy": 32,
+    "evasion": 13,
+    "speed": 10.8,
+    "luck": 45,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3738,
+    "firepower": 153,
+    "torpedo": 0,
+    "antiair": 165,
+    "aviation": 303,
+    "reload": 188,
+    "accuracy": 101,
+    "evasion": 53,
+    "speed": 10.8,
+    "luck": 45,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 28,
+    "aviation": 55,
+    "reload": 51
+  },
+  "skill": {
+    "15170": {
+      "id": 15170,
+      "parent": 15170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15180": {
+      "id": 15180,
+      "parent": 15180,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17500": {
+      "id": 17500,
+      "parent": 17500,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

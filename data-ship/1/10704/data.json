@@ -1,0 +1,171 @@
+{
+  "id": 75,
+  "gid": 10704,
+  "cid": 1,
+  "sid": [
+    107041,
+    107042,
+    107043,
+    107044
+  ],
+  "name": "Ranger",
+  "codename": "USS Ranger",
+  "class": "Ranger Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 3-1",
+    "Light/Special Construction"
+  ],
+  "type": 6,
+  "rarity": 2,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "C",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Dive Bomber efficiency +5%"
+    ],
+    [
+      "All Dive Bombers +1",
+      "Dive Bomber efficiency +7%"
+    ]
+  ],
+  "retrofit": {
+    "id": 107044,
+    "level": 80,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_2": 0.15,
+      "equipment_proficiency_3": 0.15,
+      "aviation": 60,
+      "equipment_proficiency_1": 0.05,
+      "antiair": 35
+    },
+    "skill": 7508,
+    "skin": 107049,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "A",
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 110,
+      "slot": 1,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 111,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 111,
+      "slot": 3,
+      "type": [
+        9
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 797,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 44,
+    "reload": 48,
+    "accuracy": 29,
+    "evasion": 19,
+    "speed": 29.3,
+    "luck": 71,
+    "asw": 26
+  },
+  "growth": {
+    "health": 4892,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 244,
+    "aviation": 253,
+    "reload": 132,
+    "accuracy": 92,
+    "evasion": 76,
+    "speed": 29.3,
+    "luck": 71,
+    "asw": 109
+  },
+  "enhance": {
+    "aviation": 44,
+    "reload": 36
+  },
+  "skill": {
+    "3001": {
+      "id": 3001,
+      "parent": 3001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "7508": {
+      "id": 7508,
+      "parent": 7508,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

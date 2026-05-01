@@ -1,0 +1,192 @@
+{
+  "id": 33,
+  "gid": 10205,
+  "cid": 1,
+  "sid": [
+    102051,
+    102052,
+    102053,
+    102054,
+    102284
+  ],
+  "name": "Helena",
+  "codename": "USS Helena",
+  "class": "Brooklyn Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 5-1",
+    "Guild Shop"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 102284,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "reload": 5,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 90,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 10,
+      "accuracy": 15
+    },
+    "skill": 3312,
+    "skin": 102059,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "A",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 620,
+    "firepower": 32,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 60,
+    "evasion": 28,
+    "speed": 32.5,
+    "luck": 33,
+    "asw": 26
+  },
+  "growth": {
+    "health": 3688,
+    "firepower": 174,
+    "torpedo": 0,
+    "antiair": 323,
+    "aviation": 0,
+    "reload": 188,
+    "accuracy": 180,
+    "evasion": 106,
+    "speed": 32.5,
+    "luck": 33,
+    "asw": 111
+  },
+  "enhance": {
+    "firepower": 31,
+    "reload": 51
+  },
+  "skill": {
+    "3312": {
+      "id": 3312,
+      "parent": 3312,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "10070": {
+      "id": 10070,
+      "parent": 10070,
+      "upgrade": 13400,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13400": {
+      "id": 13400,
+      "parent": 10070,
+      "upgrade": null,
+      "downgrade": 10070,
+      "requirement": "Retrofit"
+    },
+    "20121": {
+      "id": 20121,
+      "parent": 20121,
+      "upgrade": 20122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20122": {
+      "id": 20122,
+      "parent": 20121,
+      "upgrade": null,
+      "downgrade": 20121,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

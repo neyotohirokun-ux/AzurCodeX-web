@@ -1,0 +1,5873 @@
+{
+  "5000": {
+    "name": "533mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 1,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5000.png",
+    "stats": {
+      "1": {
+        "id": 5000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "46 x 3",
+        "weapon_id": [
+          5000
+        ]
+      },
+      "2": {
+        "id": 5001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "54 x 3",
+        "weapon_id": [
+          5001
+        ]
+      },
+      "3": {
+        "id": 5002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "62 x 3",
+        "weapon_id": [
+          5002
+        ]
+      },
+      "4": {
+        "id": 5003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "70 x 3",
+        "weapon_id": [
+          5003
+        ]
+      }
+    }
+  },
+  "5020": {
+    "name": "533mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 2,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5000.png",
+    "stats": {
+      "1": {
+        "id": 5020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "50 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5020
+        ]
+      },
+      "2": {
+        "id": 5021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "59 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5021
+        ]
+      },
+      "3": {
+        "id": 5022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "68 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5022
+        ]
+      },
+      "4": {
+        "id": 5023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "77 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5023
+        ]
+      }
+    }
+  },
+  "5040": {
+    "name": "533mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 3,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5000.png",
+    "stats": {
+      "1": {
+        "id": 5040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "56 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5040
+        ]
+      },
+      "2": {
+        "id": 5041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "66 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5041
+        ]
+      },
+      "3": {
+        "id": 5042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "76 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5042
+        ]
+      },
+      "4": {
+        "id": 5043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5043
+        ]
+      },
+      "5": {
+        "id": 5044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "96 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5044
+        ]
+      },
+      "6": {
+        "id": 5045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "106 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5045
+        ]
+      },
+      "7": {
+        "id": 5046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "116 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5046
+        ]
+      },
+      "8": {
+        "id": 5047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "116 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5047
+        ]
+      }
+    }
+  },
+  "5100": {
+    "name": "533mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 2,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5100.png",
+    "stats": {
+      "1": {
+        "id": 5100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "46 x 4",
+        "torpedo": 5,
+        "weapon_id": [
+          5100
+        ]
+      },
+      "2": {
+        "id": 5101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "54 x 4",
+        "torpedo": 5,
+        "weapon_id": [
+          5101
+        ]
+      },
+      "3": {
+        "id": 5102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "62 x 4",
+        "torpedo": 5,
+        "weapon_id": [
+          5102
+        ]
+      },
+      "4": {
+        "id": 5103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "70 x 4",
+        "torpedo": 5,
+        "weapon_id": [
+          5103
+        ]
+      }
+    }
+  },
+  "5120": {
+    "name": "533mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 3,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5100.png",
+    "stats": {
+      "1": {
+        "id": 5120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "50 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5120
+        ]
+      },
+      "2": {
+        "id": 5121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "59 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5121
+        ]
+      },
+      "3": {
+        "id": 5122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "68 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5122
+        ]
+      },
+      "4": {
+        "id": 5123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "77 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5123
+        ]
+      },
+      "5": {
+        "id": 5124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "86 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5124
+        ]
+      },
+      "6": {
+        "id": 5125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "95 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5125
+        ]
+      },
+      "7": {
+        "id": 5126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "104 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          5126
+        ]
+      }
+    }
+  },
+  "5140": {
+    "name": "533mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5100.png",
+    "stats": {
+      "1": {
+        "id": 5140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "56 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5140
+        ]
+      },
+      "2": {
+        "id": 5141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "66 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5141
+        ]
+      },
+      "3": {
+        "id": 5142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "76 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5142
+        ]
+      },
+      "4": {
+        "id": 5143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5143
+        ]
+      },
+      "5": {
+        "id": 5144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "96 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5144
+        ]
+      },
+      "6": {
+        "id": 5145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "106 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5145
+        ]
+      },
+      "7": {
+        "id": 5146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "116 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5146
+        ]
+      },
+      "8": {
+        "id": 5147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "126 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5147
+        ]
+      },
+      "9": {
+        "id": 5148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "136 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5148
+        ]
+      },
+      "10": {
+        "id": 5149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "146 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5149
+        ]
+      },
+      "11": {
+        "id": 5150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "156 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5150
+        ]
+      },
+      "12": {
+        "id": 5151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "156 x 4",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          5151
+        ]
+      }
+    }
+  },
+  "5200": {
+    "name": "533mm Quintuple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 3,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5200.png",
+    "stats": {
+      "1": {
+        "id": 5200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "46 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5200
+        ]
+      },
+      "2": {
+        "id": 5201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "54 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5201
+        ]
+      },
+      "3": {
+        "id": 5202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "62 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5202
+        ]
+      },
+      "4": {
+        "id": 5203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "70 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5203
+        ]
+      },
+      "5": {
+        "id": 5204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "78 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5204
+        ]
+      },
+      "6": {
+        "id": 5205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "86 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5205
+        ]
+      },
+      "7": {
+        "id": 5206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "94 x 5",
+        "torpedo": 12,
+        "weapon_id": [
+          5206
+        ]
+      }
+    }
+  },
+  "5220": {
+    "name": "533mm Quintuple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5200.png",
+    "stats": {
+      "1": {
+        "id": 5220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "50 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5220
+        ]
+      },
+      "2": {
+        "id": 5221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "59 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5221
+        ]
+      },
+      "3": {
+        "id": 5222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "68 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5222
+        ]
+      },
+      "4": {
+        "id": 5223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "77 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5223
+        ]
+      },
+      "5": {
+        "id": 5224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "86 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5224
+        ]
+      },
+      "6": {
+        "id": 5225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "95 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5225
+        ]
+      },
+      "7": {
+        "id": 5226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "104 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5226
+        ]
+      },
+      "8": {
+        "id": 5227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "113 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5227
+        ]
+      },
+      "9": {
+        "id": 5228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "122 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5228
+        ]
+      },
+      "10": {
+        "id": 5229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "131 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5229
+        ]
+      },
+      "11": {
+        "id": 5230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "140 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          5230
+        ]
+      }
+    }
+  },
+  "5240": {
+    "name": "533mm Quintuple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "UN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5200.png",
+    "stats": {
+      "1": {
+        "id": 5240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "56 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5240
+        ]
+      },
+      "2": {
+        "id": 5241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "66 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5241
+        ]
+      },
+      "3": {
+        "id": 5242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "76 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5242
+        ]
+      },
+      "4": {
+        "id": 5243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5243
+        ]
+      },
+      "5": {
+        "id": 5244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "96 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5244
+        ]
+      },
+      "6": {
+        "id": 5245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "106 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5245
+        ]
+      },
+      "7": {
+        "id": 5246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "116 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5246
+        ]
+      },
+      "8": {
+        "id": 5247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "126 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5247
+        ]
+      },
+      "9": {
+        "id": 5248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "136 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5248
+        ]
+      },
+      "10": {
+        "id": 5249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "146 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5249
+        ]
+      },
+      "11": {
+        "id": 5250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "156 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5250
+        ]
+      },
+      "12": {
+        "id": 5251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "156 x 5",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          5251
+        ]
+      },
+      "13": {
+        "id": 5252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "156 x 5",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          5252
+        ]
+      },
+      "14": {
+        "id": 5253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "156 x 5",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          5253
+        ]
+      }
+    }
+  },
+  "5300": {
+    "name": "550mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 1,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5300.png",
+    "stats": {
+      "1": {
+        "id": 5300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "42 x 2",
+        "weapon_id": [
+          5300
+        ]
+      },
+      "2": {
+        "id": 5301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "49 x 2",
+        "weapon_id": [
+          5301
+        ]
+      },
+      "3": {
+        "id": 5302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "57 x 2",
+        "weapon_id": [
+          5302
+        ]
+      },
+      "4": {
+        "id": 5303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "65 x 2",
+        "weapon_id": [
+          5303
+        ]
+      }
+    }
+  },
+  "5320": {
+    "name": "550mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5300.png",
+    "stats": {
+      "1": {
+        "id": 5320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "47 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          5320
+        ]
+      },
+      "2": {
+        "id": 5321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "55 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          5321
+        ]
+      },
+      "3": {
+        "id": 5322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "63 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          5322
+        ]
+      },
+      "4": {
+        "id": 5323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "72 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          5323
+        ]
+      }
+    }
+  },
+  "5340": {
+    "name": "550mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5300.png",
+    "stats": {
+      "1": {
+        "id": 5340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5340
+        ]
+      },
+      "2": {
+        "id": 5341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "61 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5341
+        ]
+      },
+      "3": {
+        "id": 5342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "70 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5342
+        ]
+      },
+      "4": {
+        "id": 5343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "79 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5343
+        ]
+      },
+      "5": {
+        "id": 5344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "88 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5344
+        ]
+      },
+      "6": {
+        "id": 5345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "98 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5345
+        ]
+      },
+      "7": {
+        "id": 5346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "108 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5346
+        ]
+      },
+      "8": {
+        "id": 5347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "108 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          5347
+        ]
+      }
+    }
+  },
+  "5400": {
+    "name": "550mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5400.png",
+    "stats": {
+      "1": {
+        "id": 5400,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "47 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5400
+        ]
+      },
+      "2": {
+        "id": 5401,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "55 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5401
+        ]
+      },
+      "3": {
+        "id": 5402,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "63 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5402
+        ]
+      },
+      "4": {
+        "id": 5403,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "72 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          5403
+        ]
+      }
+    }
+  },
+  "5420": {
+    "name": "550mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5400.png",
+    "stats": {
+      "1": {
+        "id": 5420,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5420
+        ]
+      },
+      "2": {
+        "id": 5421,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "61 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5421
+        ]
+      },
+      "3": {
+        "id": 5422,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "70 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5422
+        ]
+      },
+      "4": {
+        "id": 5423,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "79 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5423
+        ]
+      },
+      "5": {
+        "id": 5424,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "88 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5424
+        ]
+      },
+      "6": {
+        "id": 5425,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "98 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5425
+        ]
+      },
+      "7": {
+        "id": 5426,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "108 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          5426
+        ]
+      }
+    }
+  },
+  "5440": {
+    "name": "550mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5400.png",
+    "stats": {
+      "1": {
+        "id": 5440,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5440
+        ]
+      },
+      "2": {
+        "id": 5441,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "68 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5441
+        ]
+      },
+      "3": {
+        "id": 5442,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "78 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5442
+        ]
+      },
+      "4": {
+        "id": 5443,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "88 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5443
+        ]
+      },
+      "5": {
+        "id": 5444,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "98 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5444
+        ]
+      },
+      "6": {
+        "id": 5445,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "108 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5445
+        ]
+      },
+      "7": {
+        "id": 5446,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "118 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5446
+        ]
+      },
+      "8": {
+        "id": 5447,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "129 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5447
+        ]
+      },
+      "9": {
+        "id": 5448,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "140 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5448
+        ]
+      },
+      "10": {
+        "id": 5449,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "151 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5449
+        ]
+      },
+      "11": {
+        "id": 5450,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "162 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          5450
+        ]
+      },
+      "12": {
+        "id": 5451,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "162 x 3",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          5451
+        ]
+      }
+    }
+  },
+  "5600": {
+    "name": "550mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5600.png",
+    "stats": {
+      "1": {
+        "id": 5600,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5600
+        ]
+      },
+      "2": {
+        "id": 5601,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "72 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5601
+        ]
+      },
+      "3": {
+        "id": 5602,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5602
+        ]
+      },
+      "4": {
+        "id": 5603,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "92 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5603
+        ]
+      },
+      "5": {
+        "id": 5604,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "102 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5604
+        ]
+      },
+      "6": {
+        "id": 5605,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "112 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5605
+        ]
+      },
+      "7": {
+        "id": 5606,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "122 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5606
+        ]
+      },
+      "8": {
+        "id": 5607,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "132 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5607
+        ]
+      },
+      "9": {
+        "id": 5608,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "142 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5608
+        ]
+      },
+      "10": {
+        "id": 5609,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "152 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5609
+        ]
+      },
+      "11": {
+        "id": 5610,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "162 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5610
+        ]
+      },
+      "12": {
+        "id": 5611,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "162 x 4",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          5611
+        ]
+      }
+    }
+  },
+  "5620": {
+    "name": "550mm Quadruple Torpedo Mount (Ammo Mod)",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "QUAD",
+      "FTP"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5620.png",
+    "stats": {
+      "1": {
+        "id": 5620,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5620
+        ]
+      },
+      "2": {
+        "id": 5621,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "72 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5621
+        ]
+      },
+      "3": {
+        "id": 5622,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5622
+        ]
+      },
+      "4": {
+        "id": 5623,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "92 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5623
+        ]
+      },
+      "5": {
+        "id": 5624,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "102 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5624
+        ]
+      },
+      "6": {
+        "id": 5625,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "112 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5625
+        ]
+      },
+      "7": {
+        "id": 5626,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "122 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5626
+        ]
+      },
+      "8": {
+        "id": 5627,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "132 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5627
+        ]
+      },
+      "9": {
+        "id": 5628,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "142 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5628
+        ]
+      },
+      "10": {
+        "id": 5629,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "152 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5629
+        ]
+      },
+      "11": {
+        "id": 5630,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "162 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          5630
+        ]
+      },
+      "12": {
+        "id": 5631,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "162 x 4",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          5631
+        ]
+      }
+    }
+  },
+  "5640": {
+    "name": "550mm Quadruple Torpedo Mount Improved (Ammo Mod)",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "QUAD",
+      "FTP"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5640.png",
+    "stats": {
+      "1": {
+        "id": 5640,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "82 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5640
+        ]
+      },
+      "2": {
+        "id": 5641,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "92 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5641
+        ]
+      },
+      "3": {
+        "id": 5642,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "102 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5642
+        ]
+      },
+      "4": {
+        "id": 5643,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5643
+        ]
+      },
+      "5": {
+        "id": 5644,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5644
+        ]
+      },
+      "6": {
+        "id": 5645,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "132 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5645
+        ]
+      },
+      "7": {
+        "id": 5646,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "142 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5646
+        ]
+      },
+      "8": {
+        "id": 5647,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "152 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5647
+        ]
+      },
+      "9": {
+        "id": 5648,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "162 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5648
+        ]
+      },
+      "10": {
+        "id": 5649,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "172 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5649
+        ]
+      },
+      "11": {
+        "id": 5650,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "182 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          5650
+        ]
+      },
+      "12": {
+        "id": 5651,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "182 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          5651
+        ]
+      },
+      "13": {
+        "id": 5652,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "182 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          5652
+        ]
+      },
+      "14": {
+        "id": 5653,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "182 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          5653
+        ]
+      }
+    }
+  },
+  "5660": {
+    "name": "550mm Torpedo Mount (Double + Triple)",
+    "desc": "The torpedoes that were mounted on the Mogador class of destroyers.",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI-DUO"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/5660.png",
+    "stats": {
+      "1": {
+        "id": 5660,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "82 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5660
+        ]
+      },
+      "2": {
+        "id": 5661,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "92 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5661
+        ]
+      },
+      "3": {
+        "id": 5662,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "102 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5662
+        ]
+      },
+      "4": {
+        "id": 5663,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5663
+        ]
+      },
+      "5": {
+        "id": 5664,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5664
+        ]
+      },
+      "6": {
+        "id": 5665,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "132 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5665
+        ]
+      },
+      "7": {
+        "id": 5666,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "142 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5666
+        ]
+      },
+      "8": {
+        "id": 5667,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "152 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5667
+        ]
+      },
+      "9": {
+        "id": 5668,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "162 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5668
+        ]
+      },
+      "10": {
+        "id": 5669,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "172 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5669
+        ]
+      },
+      "11": {
+        "id": 5670,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "182 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          5670
+        ]
+      },
+      "12": {
+        "id": 5671,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "182 x 5",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          5671
+        ]
+      },
+      "13": {
+        "id": 5672,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "182 x 5",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          5672
+        ]
+      },
+      "14": {
+        "id": 5673,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "182 x 5",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          5673
+        ]
+      }
+    }
+  },
+  "15200": {
+    "name": "533mm Triple Torpedo Mount Mk 17",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/15200.png",
+    "stats": {
+      "1": {
+        "id": 15200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "60 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15200
+        ]
+      },
+      "2": {
+        "id": 15201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15201
+        ]
+      },
+      "3": {
+        "id": 15202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "80 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15202
+        ]
+      },
+      "4": {
+        "id": 15203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "90 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15203
+        ]
+      },
+      "5": {
+        "id": 15204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15204
+        ]
+      },
+      "6": {
+        "id": 15205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "110 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15205
+        ]
+      },
+      "7": {
+        "id": 15206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "120 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15206
+        ]
+      },
+      "8": {
+        "id": 15207,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "120 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          15207
+        ]
+      }
+    }
+  },
+  "15220": {
+    "name": "533mm Quadruple Torpedo Mount Mk 17",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/15220.png",
+    "stats": {
+      "1": {
+        "id": 15220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "60 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15220
+        ]
+      },
+      "2": {
+        "id": 15221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15221
+        ]
+      },
+      "3": {
+        "id": 15222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "80 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15222
+        ]
+      },
+      "4": {
+        "id": 15223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "90 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15223
+        ]
+      },
+      "5": {
+        "id": 15224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15224
+        ]
+      },
+      "6": {
+        "id": 15225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "110 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15225
+        ]
+      },
+      "7": {
+        "id": 15226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "120 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15226
+        ]
+      },
+      "8": {
+        "id": 15227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "130 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15227
+        ]
+      },
+      "9": {
+        "id": 15228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "140 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15228
+        ]
+      },
+      "10": {
+        "id": 15229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "150 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15229
+        ]
+      },
+      "11": {
+        "id": 15230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "160 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          15230
+        ]
+      },
+      "12": {
+        "id": 15231,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "160 x 4",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          15231
+        ]
+      }
+    }
+  },
+  "15240": {
+    "name": "533mm Quintuple Torpedo Mount Mk 17",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/15240.png",
+    "stats": {
+      "1": {
+        "id": 15240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "60 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15240
+        ]
+      },
+      "2": {
+        "id": 15241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15241
+        ]
+      },
+      "3": {
+        "id": 15242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "80 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15242
+        ]
+      },
+      "4": {
+        "id": 15243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "90 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15243
+        ]
+      },
+      "5": {
+        "id": 15244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15244
+        ]
+      },
+      "6": {
+        "id": 15245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "110 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15245
+        ]
+      },
+      "7": {
+        "id": 15246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "120 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15246
+        ]
+      },
+      "8": {
+        "id": 15247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "130 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15247
+        ]
+      },
+      "9": {
+        "id": 15248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "140 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15248
+        ]
+      },
+      "10": {
+        "id": 15249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "150 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15249
+        ]
+      },
+      "11": {
+        "id": 15250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "160 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          15250
+        ]
+      },
+      "12": {
+        "id": 15251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "160 x 5",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          15251
+        ]
+      },
+      "13": {
+        "id": 15252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "160 x 5",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          15252
+        ]
+      },
+      "14": {
+        "id": 15253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "160 x 5",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          15253
+        ]
+      }
+    }
+  },
+  "15300": {
+    "name": "533mm Mark 35 Torpedo Mount (Quad Consecutive Launch)",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "ST",
+      "TP",
+      "QUAD",
+      "SGS"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 5,
+    "skill": {
+      "[60360, 1]": null
+    },
+    "icon": "img/equipment/15300.png",
+    "stats": {
+      "1": {
+        "id": 15300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "77 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15300
+        ]
+      },
+      "2": {
+        "id": 15301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "84 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15301
+        ]
+      },
+      "3": {
+        "id": 15302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "92 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15302
+        ]
+      },
+      "4": {
+        "id": 15303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "99 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15303
+        ]
+      },
+      "5": {
+        "id": 15304,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "107 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15304
+        ]
+      },
+      "6": {
+        "id": 15305,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "114 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15305
+        ]
+      },
+      "7": {
+        "id": 15306,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "122 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15306
+        ]
+      },
+      "8": {
+        "id": 15307,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "129 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15307
+        ]
+      },
+      "9": {
+        "id": 15308,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "137 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15308
+        ]
+      },
+      "10": {
+        "id": 15309,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "144 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15309
+        ]
+      },
+      "11": {
+        "id": 15310,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "152 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          15310
+        ]
+      },
+      "12": {
+        "id": 15311,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "152 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          15311
+        ]
+      },
+      "13": {
+        "id": 15312,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "152 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          15312
+        ]
+      },
+      "14": {
+        "id": 15313,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "152 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          15313
+        ]
+      }
+    }
+  },
+  "25000": {
+    "name": "533mm Triple Torpedo Mount Mk IX",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "ST",
+      "TP",
+      "TRI",
+      "SGS"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/25000.png",
+    "stats": {
+      "1": {
+        "id": 25000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25000
+        ]
+      },
+      "2": {
+        "id": 25001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "73 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25001
+        ]
+      },
+      "3": {
+        "id": 25002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "84 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25002
+        ]
+      },
+      "4": {
+        "id": 25003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "95 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25003
+        ]
+      },
+      "5": {
+        "id": 25004,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25004
+        ]
+      },
+      "6": {
+        "id": 25005,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "117 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25005
+        ]
+      },
+      "7": {
+        "id": 25006,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "128 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25006
+        ]
+      },
+      "8": {
+        "id": 25007,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "128 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          25007
+        ]
+      }
+    }
+  },
+  "25020": {
+    "name": "533mm Quadruple Torpedo Mount Mk IX",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "ST",
+      "TP",
+      "QUAD",
+      "SGS"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/25020.png",
+    "stats": {
+      "1": {
+        "id": 25020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25020
+        ]
+      },
+      "2": {
+        "id": 25021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "73 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25021
+        ]
+      },
+      "3": {
+        "id": 25022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "84 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25022
+        ]
+      },
+      "4": {
+        "id": 25023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "95 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25023
+        ]
+      },
+      "5": {
+        "id": 25024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25024
+        ]
+      },
+      "6": {
+        "id": 25025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "117 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25025
+        ]
+      },
+      "7": {
+        "id": 25026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "128 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25026
+        ]
+      },
+      "8": {
+        "id": 25027,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "139 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25027
+        ]
+      },
+      "9": {
+        "id": 25028,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "150 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25028
+        ]
+      },
+      "10": {
+        "id": 25029,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "161 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25029
+        ]
+      },
+      "11": {
+        "id": 25030,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "172 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          25030
+        ]
+      },
+      "12": {
+        "id": 25031,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "172 x 4",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          25031
+        ]
+      }
+    }
+  },
+  "25040": {
+    "name": "533mm Quintuple Torpedo Mount Mk IX",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "ST",
+      "TP",
+      "QUINT",
+      "SGS"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/25040.png",
+    "stats": {
+      "1": {
+        "id": 25040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "62 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25040
+        ]
+      },
+      "2": {
+        "id": 25041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "73 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25041
+        ]
+      },
+      "3": {
+        "id": 25042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "84 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25042
+        ]
+      },
+      "4": {
+        "id": 25043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "95 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25043
+        ]
+      },
+      "5": {
+        "id": 25044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25044
+        ]
+      },
+      "6": {
+        "id": 25045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "117 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25045
+        ]
+      },
+      "7": {
+        "id": 25046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "128 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25046
+        ]
+      },
+      "8": {
+        "id": 25047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "139 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25047
+        ]
+      },
+      "9": {
+        "id": 25048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "150 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25048
+        ]
+      },
+      "10": {
+        "id": 25049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "161 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25049
+        ]
+      },
+      "11": {
+        "id": 25050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "172 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          25050
+        ]
+      },
+      "12": {
+        "id": 25051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "172 x 5",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          25051
+        ]
+      },
+      "13": {
+        "id": 25052,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "172 x 5",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          25052
+        ]
+      },
+      "14": {
+        "id": 25053,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "172 x 5",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          25053
+        ]
+      }
+    }
+  },
+  "35000": {
+    "name": "610mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 1,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35000.png",
+    "stats": {
+      "1": {
+        "id": 35000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 2",
+        "weapon_id": [
+          35000
+        ]
+      },
+      "2": {
+        "id": 35001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "62 x 2",
+        "weapon_id": [
+          35001
+        ]
+      },
+      "3": {
+        "id": 35002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72 x 2",
+        "weapon_id": [
+          35002
+        ]
+      },
+      "4": {
+        "id": 35003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "82 x 2",
+        "weapon_id": [
+          35003
+        ]
+      }
+    }
+  },
+  "35020": {
+    "name": "610mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35000.png",
+    "stats": {
+      "1": {
+        "id": 35020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          35020
+        ]
+      },
+      "2": {
+        "id": 35021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          35021
+        ]
+      },
+      "3": {
+        "id": 35022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          35022
+        ]
+      },
+      "4": {
+        "id": 35023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "94 x 2",
+        "torpedo": 5,
+        "weapon_id": [
+          35023
+        ]
+      }
+    }
+  },
+  "35040": {
+    "name": "610mm Twin Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "DUO"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35000.png",
+    "stats": {
+      "1": {
+        "id": 35040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35040
+        ]
+      },
+      "2": {
+        "id": 35041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "80 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35041
+        ]
+      },
+      "3": {
+        "id": 35042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "94 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35042
+        ]
+      },
+      "4": {
+        "id": 35043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "108 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35043
+        ]
+      },
+      "5": {
+        "id": 35044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35044
+        ]
+      },
+      "6": {
+        "id": 35045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "136 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35045
+        ]
+      },
+      "7": {
+        "id": 35046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "150 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35046
+        ]
+      },
+      "8": {
+        "id": 35047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "150 x 2",
+        "torpedo": 12,
+        "weapon_id": [
+          35047
+        ]
+      }
+    }
+  },
+  "35100": {
+    "name": "610mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35100.png",
+    "stats": {
+      "1": {
+        "id": 35100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          35100
+        ]
+      },
+      "2": {
+        "id": 35101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "62 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          35101
+        ]
+      },
+      "3": {
+        "id": 35102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          35102
+        ]
+      },
+      "4": {
+        "id": 35103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "82 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          35103
+        ]
+      }
+    }
+  },
+  "35120": {
+    "name": "610mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35100.png",
+    "stats": {
+      "1": {
+        "id": 35120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35120
+        ]
+      },
+      "2": {
+        "id": 35121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35121
+        ]
+      },
+      "3": {
+        "id": 35122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35122
+        ]
+      },
+      "4": {
+        "id": 35123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "94 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35123
+        ]
+      },
+      "5": {
+        "id": 35124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35124
+        ]
+      },
+      "6": {
+        "id": 35125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "118 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35125
+        ]
+      },
+      "7": {
+        "id": 35126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "130 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          35126
+        ]
+      }
+    }
+  },
+  "35140": {
+    "name": "610mm Triple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35100.png",
+    "stats": {
+      "1": {
+        "id": 35140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35140
+        ]
+      },
+      "2": {
+        "id": 35141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "80 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35141
+        ]
+      },
+      "3": {
+        "id": 35142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "94 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35142
+        ]
+      },
+      "4": {
+        "id": 35143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "108 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35143
+        ]
+      },
+      "5": {
+        "id": 35144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35144
+        ]
+      },
+      "6": {
+        "id": 35145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "136 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35145
+        ]
+      },
+      "7": {
+        "id": 35146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "150 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35146
+        ]
+      },
+      "8": {
+        "id": 35147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "164 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35147
+        ]
+      },
+      "9": {
+        "id": 35148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "178 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35148
+        ]
+      },
+      "10": {
+        "id": 35149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "192 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35149
+        ]
+      },
+      "11": {
+        "id": 35150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "206 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35150
+        ]
+      },
+      "12": {
+        "id": 35151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "206 x 3",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          35151
+        ]
+      }
+    }
+  },
+  "35160": {
+    "name": "610mm Triple Torpedo Mount Kai",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35160.png",
+    "stats": {
+      "1": {
+        "id": 35160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35160
+        ]
+      },
+      "2": {
+        "id": 35161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "84 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35161
+        ]
+      },
+      "3": {
+        "id": 35162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "98 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35162
+        ]
+      },
+      "4": {
+        "id": 35163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35163
+        ]
+      },
+      "5": {
+        "id": 35164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "126 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35164
+        ]
+      },
+      "6": {
+        "id": 35165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "140 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35165
+        ]
+      },
+      "7": {
+        "id": 35166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "154 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35166
+        ]
+      },
+      "8": {
+        "id": 35167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "168 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35167
+        ]
+      },
+      "9": {
+        "id": 35168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "182 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35168
+        ]
+      },
+      "10": {
+        "id": 35169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "196 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35169
+        ]
+      },
+      "11": {
+        "id": 35170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "210 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          35170
+        ]
+      },
+      "12": {
+        "id": 35171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "210 x 3",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          35171
+        ]
+      }
+    }
+  },
+  "35200": {
+    "name": "610mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35200.png",
+    "stats": {
+      "1": {
+        "id": 35200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35200
+        ]
+      },
+      "2": {
+        "id": 35201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "62 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35201
+        ]
+      },
+      "3": {
+        "id": 35202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35202
+        ]
+      },
+      "4": {
+        "id": 35203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "82 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35203
+        ]
+      },
+      "5": {
+        "id": 35204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "92 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35204
+        ]
+      },
+      "6": {
+        "id": 35205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "102 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35205
+        ]
+      },
+      "7": {
+        "id": 35206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "112 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          35206
+        ]
+      }
+    }
+  },
+  "35220": {
+    "name": "610mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35200.png",
+    "stats": {
+      "1": {
+        "id": 35220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35220
+        ]
+      },
+      "2": {
+        "id": 35221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35221
+        ]
+      },
+      "3": {
+        "id": 35222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35222
+        ]
+      },
+      "4": {
+        "id": 35223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "94 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35223
+        ]
+      },
+      "5": {
+        "id": 35224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35224
+        ]
+      },
+      "6": {
+        "id": 35225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "118 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35225
+        ]
+      },
+      "7": {
+        "id": 35226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "130 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35226
+        ]
+      },
+      "8": {
+        "id": 35227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "142 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35227
+        ]
+      },
+      "9": {
+        "id": 35228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "154 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35228
+        ]
+      },
+      "10": {
+        "id": 35229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "166 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35229
+        ]
+      },
+      "11": {
+        "id": 35230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "178 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          35230
+        ]
+      }
+    }
+  },
+  "35240": {
+    "name": "610mm Quadruple Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35200.png",
+    "stats": {
+      "1": {
+        "id": 35240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35240
+        ]
+      },
+      "2": {
+        "id": 35241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "80 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35241
+        ]
+      },
+      "3": {
+        "id": 35242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "94 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35242
+        ]
+      },
+      "4": {
+        "id": 35243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "108 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35243
+        ]
+      },
+      "5": {
+        "id": 35244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35244
+        ]
+      },
+      "6": {
+        "id": 35245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "136 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35245
+        ]
+      },
+      "7": {
+        "id": 35246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "150 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35246
+        ]
+      },
+      "8": {
+        "id": 35247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "164 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35247
+        ]
+      },
+      "9": {
+        "id": 35248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "178 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35248
+        ]
+      },
+      "10": {
+        "id": 35249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "192 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35249
+        ]
+      },
+      "11": {
+        "id": 35250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "206 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35250
+        ]
+      },
+      "12": {
+        "id": 35251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "206 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          35251
+        ]
+      },
+      "13": {
+        "id": 35252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "206 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          35252
+        ]
+      },
+      "14": {
+        "id": 35253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "206 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          35253
+        ]
+      }
+    }
+  },
+  "35260": {
+    "name": "610mm Quadruple Torpedo Mount Kai",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35260.png",
+    "stats": {
+      "1": {
+        "id": 35260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35260
+        ]
+      },
+      "2": {
+        "id": 35261,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "84 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35261
+        ]
+      },
+      "3": {
+        "id": 35262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "98 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35262
+        ]
+      },
+      "4": {
+        "id": 35263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35263
+        ]
+      },
+      "5": {
+        "id": 35264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "126 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35264
+        ]
+      },
+      "6": {
+        "id": 35265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "140 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35265
+        ]
+      },
+      "7": {
+        "id": 35266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "154 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35266
+        ]
+      },
+      "8": {
+        "id": 35267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "168 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35267
+        ]
+      },
+      "9": {
+        "id": 35268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "182 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35268
+        ]
+      },
+      "10": {
+        "id": 35269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "196 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35269
+        ]
+      },
+      "11": {
+        "id": 35270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "210 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35270
+        ]
+      },
+      "12": {
+        "id": 35271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "210 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          35271
+        ]
+      },
+      "13": {
+        "id": 35272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "210 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          35272
+        ]
+      },
+      "14": {
+        "id": 35273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "210 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          35273
+        ]
+      }
+    }
+  },
+  "35300": {
+    "name": "Quintuple 610mm Torpedo",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35300.png",
+    "stats": {
+      "1": {
+        "id": 35300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "52 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35300
+        ]
+      },
+      "2": {
+        "id": 35301,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "62 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35301
+        ]
+      },
+      "3": {
+        "id": 35302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35302
+        ]
+      },
+      "4": {
+        "id": 35303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "82 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35303
+        ]
+      },
+      "5": {
+        "id": 35304,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "92 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35304
+        ]
+      },
+      "6": {
+        "id": 35305,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "102 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35305
+        ]
+      },
+      "7": {
+        "id": 35306,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "112 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35306
+        ]
+      },
+      "8": {
+        "id": 35307,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "122 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35307
+        ]
+      },
+      "9": {
+        "id": 35308,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "132 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35308
+        ]
+      },
+      "10": {
+        "id": 35309,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "142 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35309
+        ]
+      },
+      "11": {
+        "id": 35310,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "152 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          35310
+        ]
+      }
+    }
+  },
+  "35320": {
+    "name": "Quintuple 610mm Torpedo",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35300.png",
+    "stats": {
+      "1": {
+        "id": 35320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35320
+        ]
+      },
+      "2": {
+        "id": 35321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "70 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35321
+        ]
+      },
+      "3": {
+        "id": 35322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "82 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35322
+        ]
+      },
+      "4": {
+        "id": 35323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "94 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35323
+        ]
+      },
+      "5": {
+        "id": 35324,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "106 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35324
+        ]
+      },
+      "6": {
+        "id": 35325,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "118 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35325
+        ]
+      },
+      "7": {
+        "id": 35326,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "130 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35326
+        ]
+      },
+      "8": {
+        "id": 35327,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "142 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35327
+        ]
+      },
+      "9": {
+        "id": 35328,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "154 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35328
+        ]
+      },
+      "10": {
+        "id": 35329,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "166 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35329
+        ]
+      },
+      "11": {
+        "id": 35330,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "178 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          35330
+        ]
+      }
+    }
+  },
+  "35340": {
+    "name": "Quintuple 610mm Torpedo",
+    "desc": "Shimakaze-class 610mm Quintuple Torpedo Mount",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 6,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/35300.png",
+    "stats": {
+      "1": {
+        "id": 35340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35340
+        ]
+      },
+      "2": {
+        "id": 35341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "82 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35341
+        ]
+      },
+      "3": {
+        "id": 35342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "94 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35342
+        ]
+      },
+      "4": {
+        "id": 35343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "106 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35343
+        ]
+      },
+      "5": {
+        "id": 35344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "118 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35344
+        ]
+      },
+      "6": {
+        "id": 35345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "130 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35345
+        ]
+      },
+      "7": {
+        "id": 35346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "142 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35346
+        ]
+      },
+      "8": {
+        "id": 35347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "154 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35347
+        ]
+      },
+      "9": {
+        "id": 35348,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "166 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35348
+        ]
+      },
+      "10": {
+        "id": 35349,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "178 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35349
+        ]
+      },
+      "11": {
+        "id": 35350,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "190 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          35350
+        ]
+      },
+      "12": {
+        "id": 35351,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "190 x 5",
+        "torpedo": 70,
+        "anti_siren": 1,
+        "weapon_id": [
+          35351
+        ]
+      },
+      "13": {
+        "id": 35352,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "190 x 5",
+        "torpedo": 70,
+        "anti_siren": 2,
+        "weapon_id": [
+          35352
+        ]
+      },
+      "14": {
+        "id": 35353,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "190 x 5",
+        "torpedo": 70,
+        "anti_siren": 3,
+        "weapon_id": [
+          35353
+        ]
+      }
+    }
+  },
+  "45000": {
+    "name": "533mm Triple Magnetic Torpedo Mount",
+    "desc": "The 533mm Triple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustic guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45000.png",
+    "stats": {
+      "1": {
+        "id": 45000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "63 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          45000
+        ]
+      },
+      "2": {
+        "id": 45001,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "69 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          45001
+        ]
+      },
+      "3": {
+        "id": 45002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "75 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          45002
+        ]
+      },
+      "4": {
+        "id": 45003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "81 x 3",
+        "torpedo": 5,
+        "weapon_id": [
+          45003
+        ]
+      }
+    }
+  },
+  "45020": {
+    "name": "533mm Triple Magnetic Torpedo Mount",
+    "desc": "The 533mm Triple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustic guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45000.png",
+    "stats": {
+      "1": {
+        "id": 45020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45020
+        ]
+      },
+      "2": {
+        "id": 45021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "72 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45021
+        ]
+      },
+      "3": {
+        "id": 45022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "79 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45022
+        ]
+      },
+      "4": {
+        "id": 45023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45023
+        ]
+      },
+      "5": {
+        "id": 45024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "92 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45024
+        ]
+      },
+      "6": {
+        "id": 45025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "99 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45025
+        ]
+      },
+      "7": {
+        "id": 45026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "106 x 3",
+        "torpedo": 12,
+        "weapon_id": [
+          45026
+        ]
+      }
+    }
+  },
+  "45040": {
+    "name": "533mm Triple Magnetic Torpedo Mount",
+    "desc": "The 533mm Triple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustic guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "TRI"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45000.png",
+    "stats": {
+      "1": {
+        "id": 45040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45040
+        ]
+      },
+      "2": {
+        "id": 45041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "77 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45041
+        ]
+      },
+      "3": {
+        "id": 45042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "85 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45042
+        ]
+      },
+      "4": {
+        "id": 45043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "92 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45043
+        ]
+      },
+      "5": {
+        "id": 45044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45044
+        ]
+      },
+      "6": {
+        "id": 45045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "107 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45045
+        ]
+      },
+      "7": {
+        "id": 45046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "115 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45046
+        ]
+      },
+      "8": {
+        "id": 45047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "122 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45047
+        ]
+      },
+      "9": {
+        "id": 45048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "130 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45048
+        ]
+      },
+      "10": {
+        "id": 45049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "137 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45049
+        ]
+      },
+      "11": {
+        "id": 45050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "145 x 3",
+        "torpedo": 25,
+        "weapon_id": [
+          45050
+        ]
+      },
+      "12": {
+        "id": 45051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "145 x 3",
+        "torpedo": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          45051
+        ]
+      }
+    }
+  },
+  "45100": {
+    "name": "533mm Quadruple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quadruple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45100.png",
+    "stats": {
+      "1": {
+        "id": 45100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "63 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45100
+        ]
+      },
+      "2": {
+        "id": 45101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "69 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45101
+        ]
+      },
+      "3": {
+        "id": 45102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "75 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45102
+        ]
+      },
+      "4": {
+        "id": 45103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "81 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45103
+        ]
+      },
+      "5": {
+        "id": 45104,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "87 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45104
+        ]
+      },
+      "6": {
+        "id": 45105,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "93 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45105
+        ]
+      },
+      "7": {
+        "id": 45106,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "99 x 4",
+        "torpedo": 12,
+        "weapon_id": [
+          45106
+        ]
+      }
+    }
+  },
+  "45120": {
+    "name": "533mm Quadruple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quadruple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45100.png",
+    "stats": {
+      "1": {
+        "id": 45120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45120
+        ]
+      },
+      "2": {
+        "id": 45121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "72 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45121
+        ]
+      },
+      "3": {
+        "id": 45122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "79 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45122
+        ]
+      },
+      "4": {
+        "id": 45123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45123
+        ]
+      },
+      "5": {
+        "id": 45124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "92 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45124
+        ]
+      },
+      "6": {
+        "id": 45125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "99 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45125
+        ]
+      },
+      "7": {
+        "id": 45126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "106 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45126
+        ]
+      },
+      "8": {
+        "id": 45127,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "112 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45127
+        ]
+      },
+      "9": {
+        "id": 45128,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "119 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45128
+        ]
+      },
+      "10": {
+        "id": 45129,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "126 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45129
+        ]
+      },
+      "11": {
+        "id": 45130,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "133 x 4",
+        "torpedo": 25,
+        "weapon_id": [
+          45130
+        ]
+      }
+    }
+  },
+  "45140": {
+    "name": "533mm Quadruple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quadruple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45100.png",
+    "stats": {
+      "1": {
+        "id": 45140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45140
+        ]
+      },
+      "2": {
+        "id": 45141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "77 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45141
+        ]
+      },
+      "3": {
+        "id": 45142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "85 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45142
+        ]
+      },
+      "4": {
+        "id": 45143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "92 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45143
+        ]
+      },
+      "5": {
+        "id": 45144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45144
+        ]
+      },
+      "6": {
+        "id": 45145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "107 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45145
+        ]
+      },
+      "7": {
+        "id": 45146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "115 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45146
+        ]
+      },
+      "8": {
+        "id": 45147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "122 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45147
+        ]
+      },
+      "9": {
+        "id": 45148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "130 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45148
+        ]
+      },
+      "10": {
+        "id": 45149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "137 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45149
+        ]
+      },
+      "11": {
+        "id": 45150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "145 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45150
+        ]
+      },
+      "12": {
+        "id": 45151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "145 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          45151
+        ]
+      },
+      "13": {
+        "id": 45152,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "145 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          45152
+        ]
+      },
+      "14": {
+        "id": 45153,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "145 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          45153
+        ]
+      }
+    }
+  },
+  "45160": {
+    "name": "533mm Improved Quadruple Magnetic Torpedo Mount",
+    "desc": "An improved torpedo mount developed by the Iron Blood, featuring superior acoustic guidance and power.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45160.png",
+    "stats": {
+      "1": {
+        "id": 45160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "76 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45160
+        ]
+      },
+      "2": {
+        "id": 45161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "83 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45161
+        ]
+      },
+      "3": {
+        "id": 45162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "92 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45162
+        ]
+      },
+      "4": {
+        "id": 45163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "99 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45163
+        ]
+      },
+      "5": {
+        "id": 45164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "108 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45164
+        ]
+      },
+      "6": {
+        "id": 45165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "116 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45165
+        ]
+      },
+      "7": {
+        "id": 45166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "124 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45166
+        ]
+      },
+      "8": {
+        "id": 45167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "132 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45167
+        ]
+      },
+      "9": {
+        "id": 45168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "140 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45168
+        ]
+      },
+      "10": {
+        "id": 45169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "148 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45169
+        ]
+      },
+      "11": {
+        "id": 45170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "157 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          45170
+        ]
+      },
+      "12": {
+        "id": 45171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "157 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          45171
+        ]
+      },
+      "13": {
+        "id": 45172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "157 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          45172
+        ]
+      },
+      "14": {
+        "id": 45173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "157 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          45173
+        ]
+      }
+    }
+  },
+  "45200": {
+    "name": "533mm Quintuple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quintuple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45200.png",
+    "stats": {
+      "1": {
+        "id": 45200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "63 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45200
+        ]
+      },
+      "2": {
+        "id": 45201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "69 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45201
+        ]
+      },
+      "3": {
+        "id": 45202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "75 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45202
+        ]
+      },
+      "4": {
+        "id": 45203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "81 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45203
+        ]
+      },
+      "5": {
+        "id": 45204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "87 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45204
+        ]
+      },
+      "6": {
+        "id": 45205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "93 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45205
+        ]
+      },
+      "7": {
+        "id": 45206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "99 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45206
+        ]
+      },
+      "8": {
+        "id": 45207,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "105 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45207
+        ]
+      },
+      "9": {
+        "id": 45208,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "111 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45208
+        ]
+      },
+      "10": {
+        "id": 45209,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "117 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45209
+        ]
+      },
+      "11": {
+        "id": 45210,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "123 x 5",
+        "torpedo": 25,
+        "weapon_id": [
+          45210
+        ]
+      }
+    }
+  },
+  "45220": {
+    "name": "533mm Quintuple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quintuple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45200.png",
+    "stats": {
+      "1": {
+        "id": 45220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "66 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45220
+        ]
+      },
+      "2": {
+        "id": 45221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "72 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45221
+        ]
+      },
+      "3": {
+        "id": 45222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "79 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45222
+        ]
+      },
+      "4": {
+        "id": 45223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "86 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45223
+        ]
+      },
+      "5": {
+        "id": 45224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "92 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45224
+        ]
+      },
+      "6": {
+        "id": 45225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "99 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45225
+        ]
+      },
+      "7": {
+        "id": 45226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "106 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45226
+        ]
+      },
+      "8": {
+        "id": 45227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "112 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45227
+        ]
+      },
+      "9": {
+        "id": 45228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "119 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45228
+        ]
+      },
+      "10": {
+        "id": 45229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "126 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45229
+        ]
+      },
+      "11": {
+        "id": 45230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "133 x 5",
+        "torpedo": 45,
+        "weapon_id": [
+          45230
+        ]
+      }
+    }
+  },
+  "45240": {
+    "name": "533mm Quintuple Magnetic Torpedo Mount",
+    "desc": "The 533mm Quintuple Magnetic Torpedo Mount was developed by Vickers Engineering and employs the use of magnetic and acoustance guidance to greatly increase accuracy.",
+    "label": [
+      "KMS",
+      "ST",
+      "TP",
+      "QUINT"
+    ],
+    "rarity": 6,
+    "nationality": 4,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/45200.png",
+    "stats": {
+      "1": {
+        "id": 45240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "70 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45240
+        ]
+      },
+      "2": {
+        "id": 45241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "77 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45241
+        ]
+      },
+      "3": {
+        "id": 45242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "85 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45242
+        ]
+      },
+      "4": {
+        "id": 45243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "92 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45243
+        ]
+      },
+      "5": {
+        "id": 45244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "100 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45244
+        ]
+      },
+      "6": {
+        "id": 45245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "107 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45245
+        ]
+      },
+      "7": {
+        "id": 45246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "115 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45246
+        ]
+      },
+      "8": {
+        "id": 45247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "122 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45247
+        ]
+      },
+      "9": {
+        "id": 45248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "130 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45248
+        ]
+      },
+      "10": {
+        "id": 45249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "137 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45249
+        ]
+      },
+      "11": {
+        "id": 45250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "145 x 5",
+        "torpedo": 70,
+        "weapon_id": [
+          45250
+        ]
+      },
+      "12": {
+        "id": 45251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "145 x 5",
+        "torpedo": 70,
+        "anti_siren": 1,
+        "weapon_id": [
+          45251
+        ]
+      },
+      "13": {
+        "id": 45252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "145 x 5",
+        "torpedo": 70,
+        "anti_siren": 2,
+        "weapon_id": [
+          45252
+        ]
+      },
+      "14": {
+        "id": 45253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "145 x 5",
+        "torpedo": 70,
+        "anti_siren": 3,
+        "weapon_id": [
+          45253
+        ]
+      }
+    }
+  },
+  "96280": {
+    "name": "Prototype Quadruple 533mm Si 270 Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "TP",
+      "DUO-DUO"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 5,
+    "skill": {},
+    "icon": "img/equipment/56280.png",
+    "stats": {
+      "1": {
+        "id": 96280,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "55 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96280
+        ]
+      },
+      "2": {
+        "id": 96281,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "63 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96281
+        ]
+      },
+      "3": {
+        "id": 96282,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "71 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96282
+        ]
+      },
+      "4": {
+        "id": 96283,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "79 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96283
+        ]
+      },
+      "5": {
+        "id": 96284,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "87 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96284
+        ]
+      },
+      "6": {
+        "id": 96285,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "95 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96285
+        ]
+      },
+      "7": {
+        "id": 96286,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "103 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96286
+        ]
+      },
+      "8": {
+        "id": 96287,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "111 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96287
+        ]
+      },
+      "9": {
+        "id": 96288,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "119 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96288
+        ]
+      },
+      "10": {
+        "id": 96289,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "127 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96289
+        ]
+      },
+      "11": {
+        "id": 96290,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96290
+        ]
+      },
+      "12": {
+        "id": 96291,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96291
+        ]
+      },
+      "13": {
+        "id": 96292,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96292
+        ]
+      },
+      "14": {
+        "id": 96293,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96293
+        ]
+      }
+    }
+  }
+}

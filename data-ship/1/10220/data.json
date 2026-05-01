@@ -1,0 +1,158 @@
+{
+  "id": 391,
+  "gid": 10220,
+  "cid": 1,
+  "sid": [
+    102201,
+    102202,
+    102203,
+    102204
+  ],
+  "name": "Clevelad",
+  "codename": "USS Cleveland",
+  "class": "Unknown",
+  "nationality": 1,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 628,
+    "firepower": 30,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 54,
+    "evasion": 30,
+    "speed": 32.5,
+    "luck": 71,
+    "asw": 24
+  },
+  "growth": {
+    "health": 15563,
+    "firepower": 414,
+    "torpedo": 0,
+    "antiair": 1295,
+    "aviation": 0,
+    "reload": 462,
+    "accuracy": 805,
+    "evasion": 605,
+    "speed": 0,
+    "luck": 0,
+    "asw": 295
+  },
+  "enhance": {
+    "firepower": 30,
+    "reload": 50
+  },
+  "skill": {
+    "12240": {
+      "id": 12240,
+      "parent": 12240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12250": {
+      "id": 12250,
+      "parent": 12250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20141": {
+      "id": 20141,
+      "parent": 20141,
+      "upgrade": 20142,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20142": {
+      "id": 20142,
+      "parent": 20141,
+      "upgrade": null,
+      "downgrade": 20141,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 10600050,
+      "gid": 1060005,
+      "name": "Nagisa",
+      "type": "Default",
+      "desc": "Are you the person who led Misaki to this port? You go by the name... \"Commander\"? Hmm... I don't know how you sweet-talked her into it, but you're not fooling me. The moment you do anything strange... you better be on guard! My name? It's Nagisa. You... silly dog!",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 182,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060005/10600050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060005/10600050/banner.png",
+      "chibi": "img/skin/1060005/10600050/chibi.png",
+      "icon": "img/skin/1060005/10600050/icon.png",
+      "qicon": "img/skin/1060005/10600050/qicon.png",
+      "shipyard": "img/skin/1060005/10600050/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600051,
+      "gid": 1060005,
+      "name": "Blue Skies, Good Vibes",
+      "type": "Swimsuits",
+      "desc": "Whew! The wind feels great! ...What are you staring at me like that for, you silly dog? You're the one who said you wanted to go to the beach, remember? To start with, how about... we take a stroll?",
+      "tag": [
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 182,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa_huanzhuang.ogg",
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/1060005/10600051/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/1060005/10600051/banner.png",
+      "chibi": "img/skin/1060005/10600051/chibi.png",
+      "icon": "img/skin/1060005/10600051/icon.png",
+      "qicon": "img/skin/1060005/10600051/qicon.png",
+      "shipyard": "img/skin/1060005/10600051/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

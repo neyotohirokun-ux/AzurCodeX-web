@@ -1,0 +1,161 @@
+{
+  "id": 435,
+  "gid": 70204,
+  "cid": 1,
+  "sid": [
+    702041,
+    702042,
+    702043,
+    702044
+  ],
+  "name": "Kirov",
+  "codename": "SN Kirov",
+  "class": "Kirov Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Khorovod of Dawn's Rime",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 710,
+    "firepower": 34,
+    "torpedo": 55,
+    "antiair": 65,
+    "aviation": 0,
+    "reload": 69,
+    "accuracy": 54,
+    "evasion": 36,
+    "speed": 36.5,
+    "luck": 52,
+    "asw": 37
+  },
+  "growth": {
+    "health": 4168,
+    "firepower": 185,
+    "torpedo": 300,
+    "antiair": 351,
+    "aviation": 0,
+    "reload": 190,
+    "accuracy": 162,
+    "evasion": 130,
+    "speed": 36.5,
+    "luck": 52,
+    "asw": 156
+  },
+  "enhance": {
+    "firepower": 33,
+    "torpedo": 55,
+    "reload": 51
+  },
+  "skill": {
+    "14170": {
+      "id": 14170,
+      "parent": 14170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14180": {
+      "id": 14180,
+      "parent": 14180,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29681": {
+      "id": 29681,
+      "parent": 29681,
+      "upgrade": 29682,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29682": {
+      "id": 29682,
+      "parent": 29681,
+      "upgrade": null,
+      "downgrade": 29681,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

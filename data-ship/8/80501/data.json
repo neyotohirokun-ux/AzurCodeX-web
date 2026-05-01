@@ -1,0 +1,159 @@
+{
+  "id": 453,
+  "gid": 80501,
+  "cid": 1,
+  "sid": [
+    805011,
+    805012,
+    805013,
+    805014
+  ],
+  "name": "Richelieu",
+  "codename": "FFNF Richelieu",
+  "class": "Richelieu Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Skybound Oratorio",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "C",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1399,
+    "firepower": 86,
+    "torpedo": 0,
+    "antiair": 55,
+    "aviation": 0,
+    "reload": 61,
+    "accuracy": 23,
+    "evasion": 9,
+    "speed": 32,
+    "luck": 19,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8629,
+    "firepower": 452,
+    "torpedo": 0,
+    "antiair": 299,
+    "aviation": 0,
+    "reload": 169,
+    "accuracy": 70,
+    "evasion": 44,
+    "speed": 32,
+    "luck": 19,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 85,
+    "reload": 46
+  },
+  "skill": {
+    "6550": {
+      "id": 6550,
+      "parent": 6550,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Limit Break 3"
+    },
+    "13240": {
+      "id": 13240,
+      "parent": 13240,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13250": {
+      "id": 13250,
+      "parent": 13250,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13260": {
+      "id": 13260,
+      "parent": 13260,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

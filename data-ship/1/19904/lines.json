@@ -1,0 +1,310 @@
+{
+  "songs": [
+      {
+          "name": "",
+          "audio": "audio/songs/",
+          "lyrics": "",
+          "link": ""
+      }
+  ],
+  "lines": {
+    "199040": {
+      "battle": {
+        "link": "audio/voice/199040/battle.ogg",
+        "line": "The advantage is ours! Strike!"
+      },
+      "detail": {
+        "link": "audio/voice/199040/detail.ogg",
+        "line": "...I'm not sleeping, I'm just letting my brain rest a while. While, yes, I did leave the door wide open, you should at least knock before you enter next time, Commander."
+      },
+      "expedition": {
+        "link": "audio/voice/199040/expedition.ogg",
+        "line": "Confirming the commission team has returned. I'll go collect the goods."
+      },
+      "feeling1": {
+        "link": "audio/voice/199040/feeling1.ogg",
+        "line": "Your commanding ability has been evaluated... Simply following your orders is detrimental."
+      },
+      "feeling2": {
+        "link": "audio/voice/199040/feeling2.ogg",
+        "line": "I've determined that establishing mutual trust between us is beneficial to my battlefield performance. So, without further ado, allow me to check your schedule... Hm? Is information-gathering not customary when getting to know someone?"
+      },
+      "feeling3": {
+        "link": "audio/voice/199040/feeling3.ogg",
+        "line": "Your individual tastes and interests... That's a good perspective. I'll ask my acquaintances for basic info later... For now, open your mouth. I made borscht, and this will help me determine your tastes. Come on, say \"ahh.\""
+      },
+      "feeling4": {
+        "link": "audio/voice/199040/feeling4.ogg",
+        "line": "Though calling it a \"date\" is a misnomer, a date does present a great opportunity to learn your habits and savoir-faire. Here is your schedule for today. Give it a quick read, then we'll get started."
+      },
+      "feeling5": {
+        "link": "audio/voice/199040/feeling5.ogg",
+        "line": "I trust you, Commander, and I want to become intimately familiar with you. However, I'm unable to fully determine your feelings towards me due to my own ineptness... Do you trust me the way I trust you? Do you, as others would say, love me?"
+      },
+      "headtouch": {
+        "link": "audio/voice/199040/headtouch.ogg",
+        "line": "...Hm? What are you doing?"
+      },
+      "home": {
+        "link": "audio/voice/199040/home.ogg",
+        "line": "Welcome back, now have a breather. After-action review? Ah, right, you went on a sortie. Would it have been better if I'd joined you?"
+      },
+      "hp_warning": {
+        "link": "audio/voice/199040/hp_warning.ogg",
+        "line": "The operation is going awry... What is this?!"
+      },
+      "login": {
+        "link": "audio/voice/199040/login.ogg",
+        "line": "Ah, Commander. Pardon me for starting work without you. Pay me no mind and begin with your own tasks."
+      },
+      "lose": {
+        "link": "audio/voice/199040/lose.ogg",
+        "line": "Combat appraisal complete. I shall maintain momentum while resuming formation, then launch a counterattack."
+      },
+      "mail": {
+        "link": "audio/voice/199040/mail.ogg",
+        "line": "Confirming that a letter has arrived. Take a look."
+      },
+      "main1": {
+        "link": "audio/voice/199040/main1.ogg",
+        "line": "Save the small talk for after work. I'm concentrating on my secretary duties, so don't disturb me."
+      },
+      "main2": {
+        "link": "audio/voice/199040/main2.ogg",
+        "line": "It doesn't help to always look back on the past – keep moving forward, and don't stop. Even when you want to self-reflect, you must adapt to developments as they happen."
+      },
+      "main3": {
+        "link": "audio/voice/199040/main3.ogg",
+        "line": "On occasion, I neglect your will and prioritize the here and now on the battlefield. While you are the Commander, sometimes you have to let your soldiers handle things – the sooner you accept this, the better."
+      },
+      "main4": {
+        "link": "audio/voice/199040/main4.ogg",
+        "line": "(Kearsarge is sitting upright on the couch with her eyes closed. Is she asleep, or...?)"
+      },
+      "mission": {
+        "link": "audio/voice/199040/mission.ogg",
+        "line": "Confirming there are unfinished missions. If you won't do them, I'll remove them from your schedule as I see fit. You sure you want that?"
+      },
+      "mission_complete": {
+        "link": "audio/voice/199040/mission_complete.ogg",
+        "line": "Confirming that rewards have come in. I'll go collect them."
+      },
+      "profile": {
+        "link": "audio/voice/199040/profile.ogg",
+        "line": "I'm Kearsarge, Eagle Union blueprint ship given form. My design was a hybrid between battleship and aircraft carrier, giving me the ability to deal with almost any situation or battlefield. I hope you'll put my strength to good use, Commander."
+      },
+      "propose": {
+        "link": "audio/voice/199040/propose.ogg",
+        "line": "Confirming vitals all green. Hm? Oh, don't worry, I simply snuck a vital sensor onto you – a return gift for this ring you gave me. It's necessary to keep a regular check on your health, and to know when to come running when you need help. Makes sense, no?"
+      },
+      "skill": {
+        "link": "audio/voice/199040/skill.ogg",
+        "line": "Freeze, then burst!"
+      },
+      "touch": {
+        "link": "audio/voice/199040/touch.ogg",
+        "line": "Yes, I know you're here. What do you need?"
+      },
+      "touch2": {
+        "link": "audio/voice/199040/touch2.ogg",
+        "line": "How much intent is in this act you're committing?"
+      },
+      "unlock": {
+        "link": "audio/voice/199040/unlock.ogg",
+        "line": "Activation sequence complete. I am aviation battleship Kearsarge, Hybrid Idealization X given flesh and blood. Henceforth, I will serve you at this port. So, which division do I belong to, and what's my mission?"
+      },
+      "upgrade": {
+        "link": "audio/voice/199040/upgrade.ogg",
+        "line": "Performance and fleet potential increase confirmed. Keep it up."
+      },
+      "win_mvp": {
+        "link": "audio/voice/199040/win_mvp.ogg",
+        "line": "Combat appraisal complete. Moving on to the next stage of the operation."
+      },
+      "detail_ex": {
+        "link": "audio/voice/199040/detail_ex.ogg",
+        "line": "Vitals check done. All signs clear. I can't guess why else you'd visit, so... You just felt like it? Heheh, what an irrational reason, but that sounds like you alright."
+      },
+      "expedition_ex": {
+        "link": "audio/voice/199040/expedition_ex.ogg",
+        "line": "Confirming the commission team has returned. Hate to rain on your parade, but have you prepared gifts for the girls?"
+      },
+      "feeling5_ex": {
+        "link": "audio/voice/199040/feeling5_ex.ogg",
+        "line": "*smooch*... Yep. You're the same as always, and I'm in love with you. Is that all you wanted to confirm? I thought you would... as my friends have put it, \"do what your heart yearns for.\" Are you really not going to do that?"
+      },
+      "home_ex": {
+        "link": "audio/voice/199040/home_ex.ogg",
+        "line": "How did the sortie go, Commander? I know I don't need to worry about you, but disasters can always happen. Want me to check your vitals?"
+      },
+      "login_ex": {
+        "link": "audio/voice/199040/login_ex.ogg",
+        "line": "This time, you go ahead and set the pace. Don't worry about me, just do whatever feels natural to you. I like it better that way."
+      },
+      "main5_ex": {
+        "link": "audio/voice/199040/main5_ex.ogg",
+        "line": "What is it? Why'd you put your pen down? Your vitals all look fine to me, so... You're just taking a break? Sorry, I didn't mean to heckle you..."
+      },
+      "main6_ex": {
+        "link": "audio/voice/199040/main6_ex.ogg",
+        "line": "Still not finished? Okay, I'll order takeaway. That way I can stay with you until tomorrow if need be– Oh, it won't take that long?"
+      },
+      "main7_ex": {
+        "link": "audio/voice/199040/main7_ex.ogg",
+        "line": "I put my full trust in your ability to lead. Whenever you want to change targets, change course, use and change equipment, or give me tactical advice, just say the word."
+      },
+      "main8_ex": {
+        "link": "audio/voice/199040/main8_ex.ogg",
+        "line": "(Kearsarge's breathing is faintly audible. Is she meditating again, or is she just sleeping?)"
+      },
+      "mission_complete_ex": {
+        "link": "audio/voice/199040/mission_complete_ex.ogg",
+        "line": "Confirming arrival and receipt of rewards. I don't want to dampen your celebration, but... you should go pick up your stuff."
+      },
+      "touch_ex": {
+        "link": "audio/voice/199040/touch_ex.ogg",
+        "line": "...Commander. If you're going to play a prank on someone, you should make sure they're asleep first."
+      },
+      "touch2_ex": {
+        "link": "audio/voice/199040/touch2_ex.ogg",
+        "line": "If you want this, be my guest. I respect your will, and I've reached the conclusion that I'm fine with it, too."
+      },
+      "win_mvp_ex": {
+        "link": "audio/voice/199040/win_mvp_ex.ogg",
+        "line": "Combat appraisal complete... I'm the MVP? It's not like you to get excited about the usual. N-no, I don't mean you can't do that, just..."
+      }
+    },
+    "199041": {
+      "detail": {
+        "link": "audio/voice/199041/detail.ogg",
+        "line": "This pole is a prop to assist with my performance and is installed with a contact circuit to replenish my energy. It's multifunctional and very convenient to... Oh, I shouldn't be explaining this right now."
+      },
+      "expedition": {
+        "link": "audio/voice/199041/expedition.ogg",
+        "line": "The commission team has returned. We'll continue after you've welcomed the girls back."
+      },
+      "home": {
+        "link": "audio/voice/199041/home.ogg",
+        "line": "Confirming activation of energy circuit. I can move more now. You should recharge your batteries as well, Commander. Just give me your order."
+      },
+      "login": {
+        "link": "audio/voice/199041/login.ogg",
+        "line": "Eagle Union bunny girl Kearsarge will charm you tonight. Don't worry, I can keep dancing as long as you're watching my– Oh. I don't recommend staying up all night for it."
+      },
+      "lose": {
+        "link": "audio/voice/199041/lose.ogg",
+        "line": "Combat appraisal complete. Energy consumption exceeds estimated values. Commander, provide additional energy via contact circuit."
+      },
+      "main1": {
+        "link": "audio/voice/199041/main1.ogg",
+        "line": "Confirming rise in vital signs. Heart rate, pulse, body temperature, and... Ahem. Is this what is called a \"state of arousal\"?"
+      },
+      "main2": {
+        "link": "audio/voice/199041/main2.ogg",
+        "line": "This pole was originally installed to suit your needs in all kinds of scenarios. Naturally, this performance will go perfectly... Heh."
+      },
+      "main3": {
+        "link": "audio/voice/199041/main3.ogg",
+        "line": "...Oh. Right, I'm still in the middle of my pop-up store performance. Have you been watching me, Commander?"
+      },
+      "main4": {
+        "link": "audio/voice/199041/main4.ogg",
+        "line": "Let me show you some moves New Jersey taught me. I even made a few original modifications, based on the data from your reactions."
+      },
+      "main5": {
+        "link": "audio/voice/199041/main5.ogg",
+        "line": "(Kearsarge's breathing is faintly audible. Is she meditating again, or is she just pondering what to do for her next performance?)"
+      },
+      "mission": {
+        "link": "audio/voice/199041/mission.ogg",
+        "line": "Confirming there are unfinished missions... but right now, you're meant to enjoy my performance. The missions can wait."
+      },
+      "mission_complete": {
+        "link": "audio/voice/199041/mission_complete.ogg",
+        "line": "Confirming that mission rewards have arrived. Would you mind getting it yourself, Commander?"
+      },
+      "touch": {
+        "link": "audio/voice/199041/touch.ogg",
+        "line": "Mhh... Is that better?"
+      },
+      "touch2": {
+        "link": "audio/voice/199041/touch2.ogg",
+        "line": "Confirming activation of contact circuit... Oh, um, you could increase the contact area for greater efficiency..."
+      },
+      "unlock": {
+        "link": "audio/voice/199041/unlock.ogg",
+        "line": "I am now the Hybrid Idealization given flesh and blood wearing a suit designed with my performance for you in mind. I am ready to receive orders at any time."
+      },
+      "win_mvp": {
+        "link": "audio/voice/199041/win_mvp.ogg",
+        "line": "Combat appraisal complete. Energy consumption is within normal values. Commander, continue with the operation."
+      }
+    },
+    "199042": {
+      "detail": {
+        "link": "audio/voice/199042/detail.ogg",
+        "line": "While these clothes are less flexible than my suit, based on the data I've collected on your preferences, this outfit is the most appropriate under this circumstance. Your expression, likewise, says as much."
+      },
+      "expedition": {
+        "link": "audio/voice/199042/expedition.ogg",
+        "line": "A commission has been completed. Don't forget to bring a treat to thank the team for their hard work."
+      },
+      "feeling5": {
+        "link": "audio/voice/199042/feeling5.ogg",
+        "line": "Today, I recorded large amounts of data about you and further deepened my understanding of love. While this feeling is hard to quantify, I do look forward to spending more time with you over this new year. Not only for logging and analysis purposes, but also to... revel in the happiness of being with you."
+      },
+      "headtouch": {
+        "link": "audio/voice/199042/headtouch.ogg",
+        "line": "...Is this kind of contact equivalent to a blessing? Oh, never mind. Keep doing it."
+      },
+      "home": {
+        "link": "audio/voice/199042/home.ogg",
+        "line": "Vitals are within normal parameters. Presumption: Your sortie went well. Proceeding to preparation of nourishment following completion of current task."
+      },
+      "login": {
+        "link": "audio/voice/199042/login.ogg",
+        "line": "Oh, Commander... Sorry, please stand by for a moment. I need to readjust the fitting of my shoewear."
+      },
+      "mail": {
+        "link": "audio/voice/199042/mail.ogg",
+        "line": "Confirming the arrival of a new letter. You've received a large influx of seasonal greetings. Should I prepare a reply template for you?"
+      },
+      "main1": {
+        "link": "audio/voice/199042/main1.ogg",
+        "line": "I've logged an ample amount of data on dumpling recipes. Shall I make some for you? ...Good cooking takes more than simply knowing the recipe?"
+      },
+      "main2": {
+        "link": "audio/voice/199042/main2.ogg",
+        "line": "New Year's wishes? Mine is as follows: I wish to log more data of you and get to know you better. This answer should be within your expectations."
+      },
+      "main3": {
+        "link": "audio/voice/199042/main3.ogg",
+        "line": "I've heard that the size of a red envelope corresponds to the closeness between the giver and receiver... Oh, no, I wasn't trying to coax you into giving me one. Not at all."
+      },
+      "main4": {
+        "link": "audio/voice/199042/main4.ogg",
+        "line": "(You feel a weight on your shoulder and hear the sound of soft snoring. Kearsarge has a small smile on her lips. She must have logged a lot of data which makes her happy today.)"
+      },
+      "mission": {
+        "link": "audio/voice/199042/mission.ogg",
+        "line": "Confirming the presence of unfinished missions. While it is a holiday, you must still carry out your duty. I am always ready to aid you."
+      },
+      "mission_complete": {
+        "link": "audio/voice/199042/mission_complete.ogg",
+        "line": "Confirming the arrival of mission rewards. Don't worry about me – let me accompany you on your supply retrieval."
+      },
+      "touch": {
+        "link": "audio/voice/199042/touch.ogg",
+        "line": "Oh. Thank you, Commander. I'd like it if you could prop me up for just a moment."
+      },
+      "touch2": {
+        "link": "audio/voice/199042/touch2.ogg",
+        "line": "Mmh... Analyzing your tastes has proven... very worthwhile..."
+      },
+      "unlock": {
+        "link": "audio/voice/199042/unlock.ogg",
+        "line": "This suit is a fusion of tradition and modernity. Your feedback would be appreciated... but first, a small issue must be dealt with. May I request your assistance in the matter, Commander?"
+      }
+    }
+  }
+}

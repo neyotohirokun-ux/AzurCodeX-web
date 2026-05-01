@@ -1,0 +1,151 @@
+{
+  "id": 503,
+  "gid": 60801,
+  "cid": 1,
+  "sid": [
+    608011,
+    608012,
+    608013,
+    608014
+  ],
+  "name": "Torricelli",
+  "codename": "RN Torricelli",
+  "class": "Brin Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Daedalian Hymn ",
+    "Merit Shop"
+  ],
+  "type": 8,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "A",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 245,
+    "firepower": 7,
+    "torpedo": 96,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 31,
+    "accuracy": 61,
+    "evasion": 7,
+    "speed": 14.4,
+    "luck": 16,
+    "asw": 0
+  },
+  "growth": {
+    "health": 1555,
+    "firepower": 39,
+    "torpedo": 505,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 85,
+    "accuracy": 182,
+    "evasion": 38,
+    "speed": 14.4,
+    "luck": 16,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 7,
+    "torpedo": 95,
+    "reload": 23
+  },
+  "skill": {
+    "14460": {
+      "id": 14460,
+      "parent": 14460,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25511": {
+      "id": 25511,
+      "parent": 25511,
+      "upgrade": 25512,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25512": {
+      "id": 25512,
+      "parent": 25511,
+      "upgrade": null,
+      "downgrade": 25511,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

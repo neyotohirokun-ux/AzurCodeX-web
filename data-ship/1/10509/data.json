@@ -1,0 +1,176 @@
+{
+  "id": 60,
+  "gid": 10509,
+  "cid": 1,
+  "sid": [
+    105091,
+    105092,
+    105093,
+    105094,
+    105214
+  ],
+  "name": "Colorado",
+  "codename": "USS Colorado",
+  "class": "Colorado Class",
+  "nationality": 1,
+  "obtain": [
+    "Event: Fallen Wings",
+    "Guild Shop"
+  ],
+  "type": 5,
+  "rarity": 4,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 105214,
+    "level": 85,
+    "bonus": {
+      "health": 240,
+      "accuracy": 20,
+      "equipment_proficiency_1": 0.15,
+      "firepower": 30,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 30,
+      "reload": 25
+    },
+    "skill": 6012,
+    "skin": 105099,
+    "armor": 3,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "D",
+      "B",
+      "A"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1241,
+    "firepower": 78,
+    "torpedo": 0,
+    "antiair": 40,
+    "aviation": 0,
+    "reload": 55,
+    "accuracy": 22,
+    "evasion": 4,
+    "speed": 21,
+    "luck": 67,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7633,
+    "firepower": 415,
+    "torpedo": 0,
+    "antiair": 221,
+    "aviation": 0,
+    "reload": 151,
+    "accuracy": 71,
+    "evasion": 31,
+    "speed": 21,
+    "luck": 67,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 77,
+    "reload": 41
+  },
+  "skill": {
+    "6012": {
+      "id": 6012,
+      "parent": 6012,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "10320": {
+      "id": 10320,
+      "parent": 10320,
+      "upgrade": 17970,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17970": {
+      "id": 17970,
+      "parent": 10320,
+      "upgrade": null,
+      "downgrade": 10320,
+      "requirement": "Retrofit"
+    }
+  }
+}

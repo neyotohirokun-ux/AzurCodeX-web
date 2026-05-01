@@ -1,0 +1,173 @@
+{
+  "id": 210,
+  "gid": 30503,
+  "cid": 1,
+  "sid": [
+    305031,
+    305032,
+    305033,
+    305034,
+    310034
+  ],
+  "name": "Ise",
+  "codename": "IJN Ise",
+  "class": "Ise Class",
+  "nationality": 3,
+  "obtain": [
+    "Requisition (random chance)",
+    "Event: Visitors Dyed in Red",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 3,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 310034,
+    "level": 85,
+    "bonus": {
+      "health": 100,
+      "accuracy": 5,
+      "equipment_proficiency_3": 0.15,
+      "antiair": 80,
+      "aviation": 15,
+      "firepower": 40,
+      "equipment_proficiency_1": 0.15
+    },
+    "skill": 21011,
+    "skin": 305039,
+    "armor": 3,
+    "hexagon": [
+      "B",
+      "E",
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "type": 10
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.65
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        8,
+        9,
+        12
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.8
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1181,
+    "firepower": 76,
+    "torpedo": 0,
+    "antiair": 43,
+    "aviation": 0,
+    "reload": 52,
+    "accuracy": 22,
+    "evasion": 5,
+    "speed": 23,
+    "luck": 60,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7294,
+    "firepower": 403,
+    "torpedo": 0,
+    "antiair": 234,
+    "aviation": 0,
+    "reload": 143,
+    "accuracy": 72,
+    "evasion": 32,
+    "speed": 23,
+    "luck": 60,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 75,
+    "reload": 39
+  },
+  "skill": {
+    "2071": {
+      "id": 2071,
+      "parent": 2071,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11610": {
+      "id": 11610,
+      "parent": 11610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

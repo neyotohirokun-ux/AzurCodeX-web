@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 608030,
+      "gid": 60803,
+      "name": "Maggiore Baracca",
+      "type": "Default",
+      "desc": "Marconi-class submarine – Maggiore Baracca.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 442,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60803/608030/painting.png",
+      "painting_n": "img/skin/60803/608030/painting_n.png",
+      "banner": "img/skin/60803/608030/banner.png",
+      "chibi": "img/skin/60803/608030/chibi.png",
+      "icon": "img/skin/60803/608030/icon.png",
+      "qicon": "img/skin/60803/608030/qicon.png",
+      "shipyard": "img/skin/60803/608030/shipyard.png",
+      "spine_chibi": "spine/chibi/balaka/balaka",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 608031,
+      "gid": 60803,
+      "name": "The God Craves Punishment",
+      "type": "Nile Colors",
+      "desc": "Oh, I wasn't expecting that you'd come here, Commander. As the God of Death, I will have to pass \"judgment\" on you♪",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 442,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/303.png",
+      "background2": null,
+      "painting": "img/skin/60803/608031/painting.png",
+      "painting_n": "img/skin/60803/608031/painting_n.png",
+      "banner": "img/skin/60803/608031/banner.png",
+      "chibi": "img/skin/60803/608031/chibi.png",
+      "icon": "img/skin/60803/608031/icon.png",
+      "qicon": "img/skin/60803/608031/qicon.png",
+      "shipyard": "img/skin/60803/608031/shipyard.png",
+      "spine_chibi": "spine/chibi/balaka/balaka_2",
+      "spine": "spine/ship/balaka/balaka_2",
+      "live2d": null,
+      "cost": 980
+    }
+  ]
+}

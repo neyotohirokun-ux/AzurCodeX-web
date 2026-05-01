@@ -1,0 +1,162 @@
+{
+  "id": 347,
+  "gid": 80101,
+  "cid": 1,
+  "sid": [
+    801011,
+    801012,
+    801013,
+    801014
+  ],
+  "name": "Le Triomphant",
+  "codename": "FFNF Le Triomphant",
+  "class": "Le Fantasque Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Iris of Light and Dark",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 326,
+    "firepower": 24,
+    "torpedo": 49,
+    "antiair": 31,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 68,
+    "evasion": 79,
+    "speed": 54,
+    "luck": 77,
+    "asw": 51
+  },
+  "growth": {
+    "health": 2071,
+    "firepower": 133,
+    "torpedo": 271,
+    "antiair": 170,
+    "aviation": 0,
+    "reload": 210,
+    "accuracy": 210,
+    "evasion": 274,
+    "speed": 54,
+    "luck": 77,
+    "asw": 210
+  },
+  "enhance": {
+    "firepower": 24,
+    "torpedo": 49,
+    "reload": 57
+  },
+  "skill": {
+    "11500": {
+      "id": 11500,
+      "parent": 11500,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11510": {
+      "id": 11510,
+      "parent": 11510,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29331": {
+      "id": 29331,
+      "parent": 29331,
+      "upgrade": 29332,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29332": {
+      "id": 29332,
+      "parent": 29331,
+      "upgrade": null,
+      "downgrade": 29331,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

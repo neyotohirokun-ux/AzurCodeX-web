@@ -1,0 +1,157 @@
+{
+  "id": 402,
+  "gid": 10803,
+  "cid": 1,
+  "sid": [
+    108031,
+    108032,
+    108033,
+    108034
+  ],
+  "name": "Cavalla",
+  "codename": "USS Cavalla",
+  "class": "Gato Class",
+  "nationality": 1,
+  "obtain": [
+    "Event: Ashen Simulacrum"
+  ],
+  "type": 8,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 306,
+    "firepower": 12,
+    "torpedo": 101,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 34,
+    "accuracy": 66,
+    "evasion": 9,
+    "speed": 16.8,
+    "luck": 78,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8720,
+    "firepower": 170,
+    "torpedo": 1212,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 238,
+    "accuracy": 974,
+    "evasion": 257,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 12,
+    "torpedo": 100,
+    "reload": 26
+  },
+  "skill": {
+    "12460": {
+      "id": 12460,
+      "parent": 12460,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12470": {
+      "id": 12470,
+      "parent": 12470,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29441": {
+      "id": 29441,
+      "parent": 29441,
+      "upgrade": 29442,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29442": {
+      "id": 29442,
+      "parent": 29441,
+      "upgrade": null,
+      "downgrade": 29441,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

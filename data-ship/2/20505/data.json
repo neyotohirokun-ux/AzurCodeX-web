@@ -1,0 +1,145 @@
+{
+  "id": 134,
+  "gid": 20505,
+  "cid": 1,
+  "sid": [
+    205051,
+    205052,
+    205053,
+    205054
+  ],
+  "name": "King George V",
+  "codename": "HMS King George V",
+  "class": "King George V Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Scherzo of Iron and Blood",
+    "Merit Shop"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1334,
+    "firepower": 82,
+    "torpedo": 0,
+    "antiair": 49,
+    "aviation": 0,
+    "reload": 57,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 28.3,
+    "luck": 77,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8159,
+    "firepower": 428,
+    "torpedo": 0,
+    "antiair": 270,
+    "aviation": 0,
+    "reload": 158,
+    "accuracy": 72,
+    "evasion": 36,
+    "speed": 28.3,
+    "luck": 77,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 81,
+    "reload": 43
+  },
+  "skill": {
+    "12150": {
+      "id": 12150,
+      "parent": 12150,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12160": {
+      "id": 12160,
+      "parent": 12160,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

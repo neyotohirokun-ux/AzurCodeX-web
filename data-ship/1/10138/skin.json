@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101380,
+      "gid": 10138,
+      "name": "Kimberly",
+      "type": "Default",
+      "desc": "Fletcher-class Destroyer - Kimberly (DD-521)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 168,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10138/101380/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10138/101380/banner.png",
+      "chibi": "img/skin/10138/101380/chibi.png",
+      "icon": "img/skin/10138/101380/icon.png",
+      "qicon": "img/skin/10138/101380/qicon.png",
+      "shipyard": "img/skin/10138/101380/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101382,
+      "gid": 10138,
+      "name": "Style of the East",
+      "type": "Empery'S Fineries",
+      "desc": "While wearing clothes from the Dragon Empery, I can't help but reminisce about those days... Hehe, Commander, do you prefer me in Empery-style clothes, or Union-style clothes?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 168,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/102.png",
+      "background2": null,
+      "painting": "img/skin/10138/101382/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10138/101382/banner.png",
+      "chibi": "img/skin/10138/101382/chibi.png",
+      "icon": "img/skin/10138/101382/icon.png",
+      "qicon": "img/skin/10138/101382/qicon.png",
+      "shipyard": "img/skin/10138/101382/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

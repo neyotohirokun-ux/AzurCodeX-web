@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 801040,
+      "gid": 80104,
+      "name": "L'Opiniâtre",
+      "type": "Default",
+      "desc": "Le Hardi-class destroyer – L'Opiniâtre.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 158,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/80104/801040/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80104/801040/banner.png",
+      "chibi": "img/skin/80104/801040/chibi.png",
+      "icon": "img/skin/80104/801040/icon.png",
+      "qicon": "img/skin/80104/801040/qicon.png",
+      "shipyard": "img/skin/80104/801040/shipyard.png",
+      "spine_chibi": "spine/chibi/juejiang/juejiang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 801041,
+      "gid": 80104,
+      "name": "Beachside Magician",
+      "type": "Swimsuits",
+      "desc": "It is said that the summertime sea holds an extraordinary enchantment over people... but the only supernatural thing I'm feeling is this accursed heat... Am I missing something?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 158,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/80104/801041/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/80104/801041/banner.png",
+      "chibi": "img/skin/80104/801041/chibi.png",
+      "icon": "img/skin/80104/801041/icon.png",
+      "qicon": "img/skin/80104/801041/qicon.png",
+      "shipyard": "img/skin/80104/801041/shipyard.png",
+      "spine_chibi": "spine/chibi/juejiang/juejiang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

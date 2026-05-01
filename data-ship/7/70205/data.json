@@ -1,0 +1,159 @@
+{
+  "id": 577,
+  "gid": 70205,
+  "cid": 1,
+  "sid": [
+    702051,
+    702052,
+    702053,
+    702054
+  ],
+  "name": "Kuybyshev",
+  "codename": "SN Kuybyshev",
+  "class": "Chapayev Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Winter Pathfinder",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 748,
+    "firepower": 33,
+    "torpedo": 0,
+    "antiair": 63,
+    "aviation": 0,
+    "reload": 72,
+    "accuracy": 57,
+    "evasion": 30,
+    "speed": 33.5,
+    "luck": 73,
+    "asw": 36
+  },
+  "growth": {
+    "health": 4392,
+    "firepower": 178,
+    "torpedo": 0,
+    "antiair": 338,
+    "aviation": 0,
+    "reload": 199,
+    "accuracy": 170,
+    "evasion": 110,
+    "speed": 33.5,
+    "luck": 73,
+    "asw": 149
+  },
+  "enhance": {
+    "firepower": 32,
+    "reload": 54
+  },
+  "skill": {
+    "16340": {
+      "id": 16340,
+      "parent": 16340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16350": {
+      "id": 16350,
+      "parent": 16350,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29971": {
+      "id": 29971,
+      "parent": 29971,
+      "upgrade": 29972,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29972": {
+      "id": 29972,
+      "parent": 29971,
+      "upgrade": null,
+      "downgrade": 29971,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

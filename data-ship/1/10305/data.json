@@ -1,0 +1,153 @@
+{
+  "id": 43,
+  "gid": 10305,
+  "cid": 1,
+  "sid": [
+    103051,
+    103052,
+    103053,
+    103054
+  ],
+  "name": "Houston",
+  "codename": "USS Houston",
+  "class": "Northampton Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 3-1",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [
+    10231
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 590,
+    "firepower": 45,
+    "torpedo": 0,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 63,
+    "accuracy": 40,
+    "evasion": 9,
+    "speed": 26.16,
+    "luck": 49,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3525,
+    "firepower": 250,
+    "torpedo": 0,
+    "antiair": 215,
+    "aviation": 0,
+    "reload": 174,
+    "accuracy": 125,
+    "evasion": 55,
+    "speed": 26.16,
+    "luck": 49,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 45,
+    "reload": 47
+  },
+  "skill": {
+    "10100": {
+      "id": 10100,
+      "parent": 10100,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20221": {
+      "id": 20221,
+      "parent": 20221,
+      "upgrade": 20222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20222": {
+      "id": 20222,
+      "parent": 20221,
+      "upgrade": null,
+      "downgrade": 20221,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": 541,
+  "gid": 60107,
+  "cid": 1,
+  "sid": [
+    601071,
+    601072,
+    601073,
+    601074
+  ],
+  "name": "Pompeo Magno",
+  "codename": "RN Pompeo Magno",
+  "class": "Capitani Romani Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Virtual Tower",
+    "Light ship Construction"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Torpedo preload +1",
+      "AA gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 1,
+      "efficiency": 1.35
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 457,
+    "firepower": 21,
+    "torpedo": 64,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 73,
+    "evasion": 59,
+    "speed": 51.6,
+    "luck": 75,
+    "asw": 51
+  },
+  "growth": {
+    "health": 2880,
+    "firepower": 113,
+    "torpedo": 344,
+    "antiair": 160,
+    "aviation": 0,
+    "reload": 210,
+    "accuracy": 225,
+    "evasion": 206,
+    "speed": 51.6,
+    "luck": 75,
+    "asw": 210
+  },
+  "enhance": {
+    "firepower": 20,
+    "torpedo": 63,
+    "reload": 57
+  },
+  "skill": {
+    "15390": {
+      "id": 15390,
+      "parent": 15390,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15410": {
+      "id": 15410,
+      "parent": 15410,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29831": {
+      "id": 29831,
+      "parent": 29831,
+      "upgrade": 29832,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29832": {
+      "id": 29832,
+      "parent": 29831,
+      "upgrade": null,
+      "downgrade": 29831,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

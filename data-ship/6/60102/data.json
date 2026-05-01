@@ -1,0 +1,161 @@
+{
+  "id": 415,
+  "gid": 60102,
+  "cid": 1,
+  "sid": [
+    601021,
+    601022,
+    601023,
+    601024
+  ],
+  "name": "Carabiniere",
+  "codename": "RN Carabiniere",
+  "class": "Soldati Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Empyreal Tragicomedy",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 291,
+    "firepower": 23,
+    "torpedo": 49,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 74,
+    "accuracy": 69,
+    "evasion": 79,
+    "speed": 45.6,
+    "luck": 65,
+    "asw": 50
+  },
+  "growth": {
+    "health": 1831,
+    "firepower": 128,
+    "torpedo": 271,
+    "antiair": 164,
+    "aviation": 0,
+    "reload": 204,
+    "accuracy": 212,
+    "evasion": 275,
+    "speed": 45.6,
+    "luck": 65,
+    "asw": 207
+  },
+  "enhance": {
+    "firepower": 23,
+    "torpedo": 49,
+    "reload": 55
+  },
+  "skill": {
+    "12660": {
+      "id": 12660,
+      "parent": 12660,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12670": {
+      "id": 12670,
+      "parent": 12670,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "25011": {
+      "id": 25011,
+      "parent": 25011,
+      "upgrade": 25012,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25012": {
+      "id": 25012,
+      "parent": 25011,
+      "upgrade": null,
+      "downgrade": 25011,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

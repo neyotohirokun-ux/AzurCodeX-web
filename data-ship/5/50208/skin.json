@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 502080,
+      "gid": 50208,
+      "name": "Hai Chi",
+      "type": "Default",
+      "desc": "Hai Tien-class protected cruiser – Hai Chi.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 301,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/50208/502080/painting.png",
+      "painting_n": "img/skin/50208/502080/painting_n.png",
+      "banner": "img/skin/50208/502080/banner.png",
+      "chibi": "img/skin/50208/502080/chibi.png",
+      "icon": "img/skin/50208/502080/icon.png",
+      "qicon": "img/skin/50208/502080/qicon.png",
+      "shipyard": "img/skin/50208/502080/shipyard.png",
+      "spine_chibi": "spine/chibi/haiqi/haiqi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 502081,
+      "gid": 50208,
+      "name": "A Dance Among the Lotuses",
+      "type": "Empery'S Fineries",
+      "desc": "Look, Commander! I've become a goddess from the Dragon Empery's folklore! Hehehe! Let me perform for you a song and dance number I just learned!",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 301,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/152.png",
+      "background2": null,
+      "painting": "img/skin/50208/502081/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/50208/502081/banner.png",
+      "chibi": "img/skin/50208/502081/chibi.png",
+      "icon": "img/skin/50208/502081/icon.png",
+      "qicon": "img/skin/50208/502081/qicon.png",
+      "shipyard": "img/skin/50208/502081/shipyard.png",
+      "spine_chibi": "spine/chibi/haiqi/haiqi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 900
+    }
+  ]
+}

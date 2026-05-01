@@ -1,0 +1,163 @@
+{
+  "id": 481,
+  "gid": 90112,
+  "cid": 1,
+  "sid": [
+    901121,
+    901122,
+    901123,
+    901124
+  ],
+  "name": "Le Malin μ",
+  "codename": "MNF Le Malin",
+  "class": "Unknown",
+  "nationality": 9,
+  "obtain": [
+    "Event: Universe in Unison",
+    "Merit Shop"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [
+    90111
+  ],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.25
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 326,
+    "firepower": 26,
+    "torpedo": 51,
+    "antiair": 25,
+    "aviation": 0,
+    "reload": 76,
+    "accuracy": 67,
+    "evasion": 79,
+    "speed": 54,
+    "luck": 51,
+    "asw": 47
+  },
+  "growth": {
+    "health": 2071,
+    "firepower": 141,
+    "torpedo": 278,
+    "antiair": 138,
+    "aviation": 0,
+    "reload": 209,
+    "accuracy": 206,
+    "evasion": 274,
+    "speed": 54,
+    "luck": 51,
+    "asw": 195
+  },
+  "enhance": {
+    "firepower": 25,
+    "torpedo": 50,
+    "reload": 56
+  },
+  "skill": {
+    "13770": {
+      "id": 13770,
+      "parent": 13770,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13780": {
+      "id": 13780,
+      "parent": 13780,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29621": {
+      "id": 29621,
+      "parent": 29621,
+      "upgrade": 29622,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29622": {
+      "id": 29622,
+      "parent": 29621,
+      "upgrade": null,
+      "downgrade": 29621,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": 641,
+  "gid": 80503,
+  "cid": 1,
+  "sid": [
+    805031,
+    805032,
+    805033,
+    805034
+  ],
+  "name": "Alsace",
+  "codename": "FFNF Alsace",
+  "class": "Alsace Class",
+  "nationality": 8,
+  "obtain": [
+    "Event: Light of the Martyrium"
+  ],
+  "type": 5,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "C",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Salvo capacity +1",
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 4,
+      "preload": 1,
+      "efficiency": 1.45
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1520,
+    "firepower": 86,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 0,
+    "reload": 64,
+    "accuracy": 24,
+    "evasion": 9,
+    "speed": 32,
+    "luck": 34,
+    "asw": 0
+  },
+  "growth": {
+    "health": 9373,
+    "firepower": 455,
+    "torpedo": 0,
+    "antiair": 315,
+    "aviation": 0,
+    "reload": 177,
+    "accuracy": 71,
+    "evasion": 44,
+    "speed": 32,
+    "luck": 34,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 86,
+    "reload": 48
+  },
+  "skill": {
+    "150020": {
+      "id": 150020,
+      "parent": 150020,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150030": {
+      "id": 150030,
+      "parent": 150030,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "150040": {
+      "id": 150040,
+      "parent": 150040,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

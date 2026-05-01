@@ -1,0 +1,160 @@
+{
+  "id": 722,
+  "gid": 60112,
+  "cid": 1,
+  "sid": [
+    601121,
+    601122,
+    601123,
+    601124
+  ],
+  "name": "Ugolino Vivaldi",
+  "codename": "RN Ugolino Vivaldi",
+  "class": "Navigatori Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Light & Shadow Fashion Shoot!"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "D",
+    "E",
+    "A",
+    "C",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 105,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.85
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 311,
+    "firepower": 21,
+    "torpedo": 61,
+    "antiair": 34,
+    "aviation": 0,
+    "reload": 81,
+    "accuracy": 79,
+    "evasion": 76,
+    "speed": 38.4,
+    "luck": 75,
+    "asw": 61
+  },
+  "growth": {
+    "health": 1976,
+    "firepower": 117,
+    "torpedo": 331,
+    "antiair": 186,
+    "aviation": 0,
+    "reload": 223,
+    "accuracy": 243,
+    "evasion": 266,
+    "speed": 38.4,
+    "luck": 75,
+    "asw": 250
+  },
+  "enhance": {
+    "firepower": 21,
+    "torpedo": 61,
+    "reload": 60
+  },
+  "skill": {
+    "25041": {
+      "id": 25041,
+      "parent": 25041,
+      "upgrade": 25042,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "25042": {
+      "id": 25042,
+      "parent": 25041,
+      "upgrade": null,
+      "downgrade": 25041,
+      "requirement": "Limit Break 3"
+    },
+    "152020": {
+      "id": 152020,
+      "parent": 152020,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152030": {
+      "id": 152030,
+      "parent": 152030,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

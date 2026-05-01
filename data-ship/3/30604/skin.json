@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 306040,
+      "gid": 30604,
+      "name": "Zuihou",
+      "type": "Default",
+      "desc": "Zuihou-class aircraft carrier – Zuihou.",
+      "tag": [],
+      "illustrator": 23,
+      "illustrator2": -1,
+      "voice_actor": 425,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30604/306040/painting.png",
+      "painting_n": "img/skin/30604/306040/painting_n.png",
+      "banner": "img/skin/30604/306040/banner.png",
+      "chibi": "img/skin/30604/306040/chibi.png",
+      "icon": "img/skin/30604/306040/icon.png",
+      "qicon": "img/skin/30604/306040/qicon.png",
+      "shipyard": "img/skin/30604/306040/shipyard.png",
+      "spine_chibi": "spine/chibi/ruifeng/ruifeng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 306041,
+      "gid": 30604,
+      "name": "Joy Comes on Fledgling Wings",
+      "type": "Dreamland Park",
+      "desc": "Commaaaaander~! Over here, over here! I'm right here! Chirp, chirp! Commander, come hand out balloons with me! Did you know these balloons can bring you good fortune? Here you go, the first one's for you!",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": 23,
+      "illustrator2": -1,
+      "voice_actor": 425,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/181.png",
+      "background2": null,
+      "painting": "img/skin/30604/306041/painting.png",
+      "painting_n": "img/skin/30604/306041/painting_n.png",
+      "banner": "img/skin/30604/306041/banner.png",
+      "chibi": "img/skin/30604/306041/chibi.png",
+      "icon": "img/skin/30604/306041/icon.png",
+      "qicon": "img/skin/30604/306041/qicon.png",
+      "shipyard": "img/skin/30604/306041/shipyard.png",
+      "spine_chibi": "spine/chibi/ruifeng/ruifeng_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 900
+    }
+  ]
+}

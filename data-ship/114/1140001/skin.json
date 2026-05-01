@@ -1,0 +1,58 @@
+{
+    "skins": [
+      {
+        "id": 11400010,
+        "gid": 1140001,
+        "name": "Hestia",
+        "type": "Default",
+        "desc": "I'm Hestia, the Patron Goddess of Hestia Familia, believe it or not! What? That doesn't surprise you at all? Hmm. You're nothing like the kiddos I've seen before.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "img/skin/1140001/11400010/painting.png",
+        "painting_n": "img/skin/1140001/11400010/painting_n.png",
+        "banner": "img/skin/1140001/11400010/banner.png",
+        "chibi": "img/skin/1140001/11400010/chibi.png",
+        "icon": "img/skin/1140001/11400010/icon.png",
+        "qicon": "img/skin/1140001/11400010/qicon.png",
+        "shipyard": "img/skin/1140001/11400010/shipyard.png",
+        "spine_chibi": "spine/chibi/hesitiya/hesitiya",
+        "spine": null,
+        "live2d": null
+      },
+      {
+        "id": 11400011,
+        "gid": 1140001,
+        "name": "Godly Vacation!",
+        "type": "Swimsuits",
+        "desc": "Hey-hey, Commander! You're finally here. I've been waiting my butt off! I've already had the full beach experience... Ah, wait, I still have things I wanna do, so do me a solid and stick around!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": "audio/bgm/danmachi-az-story.ogg",
+        "background": "img/bgii/539.png",
+        "background2": null,
+        "painting": "img/skin/1140001/11400011/painting.png",
+        "painting_n": "img/skin/1140001/11400011/painting_n.png",
+        "banner": "img/skin/1140001/11400011/banner.png",
+        "chibi": "img/skin/1140001/11400011/chibi.png",
+        "icon": "img/skin/1140001/11400011/icon.png",
+        "qicon": "img/skin/1140001/11400011/qicon.png",
+        "shipyard": "img/skin/1140001/11400011/shipyard.png",
+        "spine_chibi": "spine/chibi/hesitiya/hesitiya_2",
+        "spine": "spine/ship/hesitiya/hesitiya_2",
+        "live2d": null
+      }
+    ]
+  }

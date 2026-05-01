@@ -1,0 +1,144 @@
+{
+  "id": 621,
+  "gid": 50401,
+  "cid": 1,
+  "sid": [
+    504011,
+    504012,
+    504013,
+    504014
+  ],
+  "name": "Huan Ch'ang",
+  "codename": "Huan Ch'ang",
+  "class": "Huan Ch'ang",
+  "nationality": 5,
+  "obtain": [
+    "Event: Spring Festive Fiasco",
+    "Heavy Ship Construction"
+  ],
+  "type": 4,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1193,
+    "firepower": 66,
+    "torpedo": 0,
+    "antiair": 61,
+    "aviation": 0,
+    "reload": 58,
+    "accuracy": 22,
+    "evasion": 8,
+    "speed": 29,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6940,
+    "firepower": 347,
+    "torpedo": 0,
+    "antiair": 328,
+    "aviation": 0,
+    "reload": 161,
+    "accuracy": 72,
+    "evasion": 36,
+    "speed": 29,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 66,
+    "reload": 44
+  },
+  "skill": {
+    "17570": {
+      "id": 17570,
+      "parent": 17570,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "17580": {
+      "id": 17580,
+      "parent": 17580,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": 390,
+  "gid": 10219,
+  "cid": 1,
+  "sid": [
+    102191,
+    102192,
+    102193,
+    102194
+  ],
+  "name": "Lena",
+  "codename": "USS Helena",
+  "class": "Unknown",
+  "nationality": 1,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 558,
+    "firepower": 31,
+    "torpedo": 0,
+    "antiair": 60,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 59,
+    "evasion": 28,
+    "speed": 32.5,
+    "luck": 33,
+    "asw": 26
+  },
+  "growth": {
+    "health": 14182,
+    "firepower": 426,
+    "torpedo": 0,
+    "antiair": 1269,
+    "aviation": 0,
+    "reload": 475,
+    "accuracy": 872,
+    "evasion": 593,
+    "speed": 0,
+    "luck": 0,
+    "asw": 314
+  },
+  "enhance": {
+    "firepower": 30,
+    "reload": 51
+  },
+  "skill": {
+    "12220": {
+      "id": 12220,
+      "parent": 12220,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "12230": {
+      "id": 12230,
+      "parent": 12230,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20121": {
+      "id": 20121,
+      "parent": 20121,
+      "upgrade": 20122,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20122": {
+      "id": 20122,
+      "parent": 20121,
+      "upgrade": null,
+      "downgrade": 20121,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

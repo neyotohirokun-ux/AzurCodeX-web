@@ -1,0 +1,142 @@
+{
+  "id": 10992,
+  "gid": 1060012,
+  "cid": 1,
+  "sid": [
+    10600121,
+    10600122,
+    10600123,
+    10600124
+  ],
+  "name": "Shandy",
+  "codename": "Shandy",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 797,
+    "firepower": 47,
+    "torpedo": 38,
+    "antiair": 45,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 49,
+    "evasion": 18,
+    "speed": 28,
+    "luck": 85,
+    "asw": 0
+  },
+  "growth": {
+    "health": 22714,
+    "firepower": 643,
+    "torpedo": 523,
+    "antiair": 982,
+    "aviation": 0,
+    "reload": 462,
+    "accuracy": 700,
+    "evasion": 565,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 46,
+    "torpedo": 37,
+    "reload": 50
+  },
+  "skill": {
+    "106530": {
+      "id": 106530,
+      "parent": 106530,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106540": {
+      "id": 106540,
+      "parent": 106540,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

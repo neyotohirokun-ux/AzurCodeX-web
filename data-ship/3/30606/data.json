@@ -1,0 +1,146 @@
+{
+  "id": 223,
+  "gid": 30606,
+  "cid": 1,
+  "sid": [
+    306061,
+    306062,
+    306063,
+    306064
+  ],
+  "name": "Ryuujou",
+  "codename": "IJN Ryuujou",
+  "class": "Ryuujou Class",
+  "nationality": 3,
+  "obtain": [
+    "Event: The Solomon Ranger",
+    "Merit Shop"
+  ],
+  "type": 6,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "C",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All fighters +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 117,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 119,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 707,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 47,
+    "aviation": 65,
+    "reload": 66,
+    "accuracy": 29,
+    "evasion": 24,
+    "speed": 28,
+    "luck": 42,
+    "asw": 17
+  },
+  "growth": {
+    "health": 4381,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 257,
+    "aviation": 352,
+    "reload": 181,
+    "accuracy": 92,
+    "evasion": 85,
+    "speed": 28,
+    "luck": 42,
+    "asw": 73
+  },
+  "enhance": {
+    "aviation": 65,
+    "reload": 49
+  },
+  "skill": {
+    "11750": {
+      "id": 11750,
+      "parent": 11750,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11760": {
+      "id": 11760,
+      "parent": 11760,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

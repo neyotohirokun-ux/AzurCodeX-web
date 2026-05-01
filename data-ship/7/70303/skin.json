@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 703030,
+      "gid": 70303,
+      "name": "Moskva",
+      "type": "Default",
+      "desc": "Project 66 heavy cruiser – Moskva.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 499,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70303/703030/painting.png",
+      "painting_n": "img/skin/70303/703030/painting_n.png",
+      "banner": "img/skin/70303/703030/banner.png",
+      "chibi": "img/skin/70303/703030/chibi.png",
+      "icon": "img/skin/70303/703030/icon.png",
+      "qicon": "img/skin/70303/703030/qicon.png",
+      "shipyard": "img/skin/70303/703030/shipyard.png",
+      "spine_chibi": "spine/chibi/mosike/mosike",
+      "spine": "spine/ship/mosike/mosike",
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 703031,
+      "gid": 70303,
+      "name": "Awaiting the Next Move",
+      "type": "Empery'S Fineries",
+      "desc": "The extent of one's true wit is revealed within the 19 lines on the board. Ever since I began learning to play Go, I've desired a match with you. Observe now, as this next move will determine the outcome of the game.",
+      "tag": [
+        "dynamic",
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 499,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/302.png",
+      "background2": null,
+      "painting": "img/skin/70303/703031/painting.png",
+      "painting_n": "img/skin/70303/703031/painting_n.png",
+      "banner": "img/skin/70303/703031/banner.png",
+      "chibi": "img/skin/70303/703031/chibi.png",
+      "icon": "img/skin/70303/703031/icon.png",
+      "qicon": "img/skin/70303/703031/qicon.png",
+      "shipyard": "img/skin/70303/703031/shipyard.png",
+      "spine_chibi": "spine/chibi/mosike/mosike_2",
+      "spine": "spine/ship/mosike/mosike_2",
+      "live2d": null,
+      "cost": 980
+    }
+  ]
+}

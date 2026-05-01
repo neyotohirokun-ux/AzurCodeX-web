@@ -1,0 +1,150 @@
+{
+  "id": 538,
+  "gid": 70701,
+  "cid": 1,
+  "sid": [
+    707011,
+    707012,
+    707013,
+    707014
+  ],
+  "name": "Volga",
+  "codename": "SN Volga",
+  "class": "Volga.",
+  "nationality": 7,
+  "obtain": [
+    "Event: Abyssal Refrain"
+  ],
+  "type": 7,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "A",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All fighters +1",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "All aircraft +1",
+      "Torpedo Bomber efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 153,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 155,
+      "slot": 2,
+      "type": [
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 154,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1194,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 69,
+    "aviation": 75,
+    "reload": 45,
+    "accuracy": 35,
+    "evasion": 12,
+    "speed": 30,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6944,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 371,
+    "aviation": 401,
+    "reload": 125,
+    "accuracy": 104,
+    "evasion": 46,
+    "speed": 30,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 74,
+    "reload": 34
+  },
+  "skill": {
+    "15320": {
+      "id": 15320,
+      "parent": 15320,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15330": {
+      "id": 15330,
+      "parent": 15330,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15340": {
+      "id": 15340,
+      "parent": 15340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

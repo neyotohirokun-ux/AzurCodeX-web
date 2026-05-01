@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 302040,
+      "gid": 30204,
+      "name": "Nagara",
+      "type": "Default",
+      "desc": "First ship of the Nagara-class light cruisers, Nagara.",
+      "tag": [],
+      "illustrator": 2,
+      "illustrator2": -1,
+      "voice_actor": 82,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30204/302040/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30204/302040/banner.png",
+      "chibi": "img/skin/30204/302040/chibi.png",
+      "icon": "img/skin/30204/302040/icon.png",
+      "qicon": "img/skin/30204/302040/qicon.png",
+      "shipyard": "img/skin/30204/302040/shipyard.png",
+      "spine_chibi": "spine/chibi/changliang/changliang",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 302041,
+      "gid": 30204,
+      "name": "Spring Breeze Leisure",
+      "type": "Empery'S Fineries",
+      "desc": "Good evening, Commander. This room...? Ah, it's a special Dragon Empery-themed set I bought from Akashi's. It looks pretty snazzy and was on sale, so I picked it up. Ehehe~",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": 2,
+      "illustrator2": -1,
+      "voice_actor": 82,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/128.png",
+      "background2": null,
+      "painting": "img/skin/30204/302041/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/30204/302041/banner.png",
+      "chibi": "img/skin/30204/302041/chibi.png",
+      "icon": "img/skin/30204/302041/icon.png",
+      "qicon": "img/skin/30204/302041/qicon.png",
+      "shipyard": "img/skin/30204/302041/shipyard.png",
+      "spine_chibi": "spine/chibi/changliang/changliang_2",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

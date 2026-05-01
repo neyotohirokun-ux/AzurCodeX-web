@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101390,
+      "gid": 10139,
+      "name": "Mullany",
+      "type": "Default",
+      "desc": "Fletcher-class Destroyer - Mullany (DD-528)",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 166,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10139/101390/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10139/101390/banner.png",
+      "chibi": "img/skin/10139/101390/chibi.png",
+      "icon": "img/skin/10139/101390/icon.png",
+      "qicon": "img/skin/10139/101390/qicon.png",
+      "shipyard": "img/skin/10139/101390/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101392,
+      "gid": 10139,
+      "name": "Eastern Etiquette",
+      "type": "Empery'S Fineries",
+      "desc": "What's with the weird look, Commander? Ah, I got this outfit while studying abroad in the Dragon Empery. Umm... does it suit me?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 166,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/102.png",
+      "background2": null,
+      "painting": "img/skin/10139/101392/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10139/101392/banner.png",
+      "chibi": "img/skin/10139/101392/chibi.png",
+      "icon": "img/skin/10139/101392/icon.png",
+      "qicon": "img/skin/10139/101392/qicon.png",
+      "shipyard": "img/skin/10139/101392/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

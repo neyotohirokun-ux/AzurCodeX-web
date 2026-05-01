@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 901020,
+      "gid": 90102,
+      "name": "Tartu",
+      "type": "Default",
+      "desc": "Vauquelin-class destroyer – Tartu.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 234,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90102/901020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/90102/901020/banner.png",
+      "chibi": "img/skin/90102/901020/chibi.png",
+      "icon": "img/skin/90102/901020/icon.png",
+      "qicon": "img/skin/90102/901020/qicon.png",
+      "shipyard": "img/skin/90102/901020/shipyard.png",
+      "spine_chibi": "spine/chibi/taertu/taertu",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 901021,
+      "gid": 90102,
+      "name": "Overthinking Summer",
+      "type": "Swimsuits",
+      "desc": "Commander, you're not going to get into the water? ...Ah, I'm fine right here. To tell you the truth, I once got washed away by the waves, and then got laughed at by Vauquelin... so I'm perfectly fine right here.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 234,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/90102/901021/painting.png",
+      "painting_n": "img/skin/90102/901021/painting_n.png",
+      "banner": "img/skin/90102/901021/banner.png",
+      "chibi": "img/skin/90102/901021/chibi.png",
+      "icon": "img/skin/90102/901021/icon.png",
+      "qicon": "img/skin/90102/901021/qicon.png",
+      "shipyard": "img/skin/90102/901021/shipyard.png",
+      "spine_chibi": "spine/chibi/taertu/taertu_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

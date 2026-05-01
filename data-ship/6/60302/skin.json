@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 603020,
+      "gid": 60302,
+      "name": "Zara",
+      "type": "Default",
+      "desc": "Zara-class heavy cruiser – Zara.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 146,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60302/603020/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60302/603020/banner.png",
+      "chibi": "img/skin/60302/603020/chibi.png",
+      "icon": "img/skin/60302/603020/icon.png",
+      "qicon": "img/skin/60302/603020/qicon.png",
+      "shipyard": "img/skin/60302/603020/shipyard.png",
+      "spine_chibi": "spine/chibi/zhala/zhala",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 603021,
+      "gid": 60302,
+      "name": "Poolside Coincidence",
+      "type": "Swimsuits",
+      "desc": "Phew... It's a perfect day for swimming. Oh my, Commander, did you come to swim too? Or... perhaps you had something else in mind? Ehehe~♪",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 146,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/117.png",
+      "background2": null,
+      "painting": "img/skin/60302/603021/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60302/603021/banner.png",
+      "chibi": "img/skin/60302/603021/chibi.png",
+      "icon": "img/skin/60302/603021/icon.png",
+      "qicon": "img/skin/60302/603021/qicon.png",
+      "shipyard": "img/skin/60302/603021/shipyard.png",
+      "spine_chibi": "spine/chibi/zhala/zhala_2",
+      "spine": null,
+      "live2d": "live2d/zhala/zhala_2",
+      "cost": 1180
+    }
+  ]
+}

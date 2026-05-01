@@ -1,0 +1,146 @@
+{
+  "id": 143,
+  "gid": 20701,
+  "cid": 1,
+  "sid": [
+    207011,
+    207012,
+    207013,
+    207014
+  ],
+  "name": "Eagle",
+  "codename": "HMS Eagle",
+  "class": "Eagle Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Aurora Noctis",
+    "Special Construction"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "E",
+    "A",
+    "C",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "Auxiliary weapon base +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 115,
+      "slot": 3,
+      "type": [
+        2,
+        9
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 0.55
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1024,
+    "firepower": 40,
+    "torpedo": 0,
+    "antiair": 58,
+    "aviation": 70,
+    "reload": 41,
+    "accuracy": 29,
+    "evasion": 10,
+    "speed": 24,
+    "luck": 40,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6341,
+    "firepower": 218,
+    "torpedo": 0,
+    "antiair": 314,
+    "aviation": 375,
+    "reload": 114,
+    "accuracy": 92,
+    "evasion": 48,
+    "speed": 24,
+    "luck": 40,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 39,
+    "aviation": 69,
+    "reload": 31
+  },
+  "skill": {
+    "13520": {
+      "id": 13520,
+      "parent": 13520,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13530": {
+      "id": 13530,
+      "parent": 13530,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

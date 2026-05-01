@@ -1,0 +1,153 @@
+{
+  "id": 366,
+  "gid": 10218,
+  "cid": 1,
+  "sid": [
+    102181,
+    102182,
+    102183,
+    102184
+  ],
+  "name": "Concord",
+  "codename": "USS Concord",
+  "class": "Omaha Class",
+  "nationality": 1,
+  "obtain": [
+    "Light ship Construction"
+  ],
+  "type": 2,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault Ⅰ",
+      "All weapons' efficiency +2%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "All weapons' efficiency +3%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 565,
+    "firepower": 27,
+    "torpedo": 40,
+    "antiair": 55,
+    "aviation": 0,
+    "reload": 68,
+    "accuracy": 52,
+    "evasion": 30,
+    "speed": 35,
+    "luck": 67,
+    "asw": 20
+  },
+  "growth": {
+    "health": 14475,
+    "firepower": 373,
+    "torpedo": 548,
+    "antiair": 1191,
+    "aviation": 0,
+    "reload": 473,
+    "accuracy": 768,
+    "evasion": 672,
+    "speed": 0,
+    "luck": 0,
+    "asw": 244
+  },
+  "enhance": {
+    "firepower": 27,
+    "torpedo": 39,
+    "reload": 51
+  },
+  "skill": {
+    "2001": {
+      "id": 2001,
+      "parent": 2001,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20111": {
+      "id": 20111,
+      "parent": 20111,
+      "upgrade": 20112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20112": {
+      "id": 20112,
+      "parent": 20111,
+      "upgrade": null,
+      "downgrade": 20111,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

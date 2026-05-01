@@ -1,0 +1,144 @@
+{
+  "id": 148,
+  "gid": 20706,
+  "cid": 1,
+  "sid": [
+    207061,
+    207062,
+    207063,
+    207064
+  ],
+  "name": "Glorious",
+  "codename": "HMS Glorious",
+  "class": "Courageous Class",
+  "nationality": 2,
+  "obtain": [
+    "Event: Glorious Battle",
+    "Merit Shop"
+  ],
+  "type": 7,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Fighters +1",
+      "Fighter efficiency +5%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "All fighters +1",
+      "Fighter efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 113,
+      "slot": 1,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "3": {
+      "default": 114,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1062,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 55,
+    "aviation": 68,
+    "reload": 40,
+    "accuracy": 30,
+    "evasion": 12,
+    "speed": 30,
+    "luck": 32,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6462,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 299,
+    "aviation": 365,
+    "reload": 110,
+    "accuracy": 90,
+    "evasion": 53,
+    "speed": 30,
+    "luck": 32,
+    "asw": 0
+  },
+  "enhance": {
+    "aviation": 67,
+    "reload": 30
+  },
+  "skill": {
+    "3021": {
+      "id": 3021,
+      "parent": 3021,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "3051": {
+      "id": 3051,
+      "parent": 3051,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

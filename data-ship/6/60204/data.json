@@ -1,0 +1,160 @@
+{
+  "id": 721,
+  "gid": 60204,
+  "cid": 1,
+  "sid": [
+    602041,
+    602042,
+    602043,
+    602044
+  ],
+  "name": "Alberto di Giussano",
+  "codename": "RN Alberto di Giussano",
+  "class": "Giussano Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Light & Shadow Fashion Shoot!"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "B",
+    "E",
+    "B",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 495,
+    "firepower": 30,
+    "torpedo": 56,
+    "antiair": 69,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 59,
+    "evasion": 34,
+    "speed": 37,
+    "luck": 41,
+    "asw": 22
+  },
+  "growth": {
+    "health": 3148,
+    "firepower": 164,
+    "torpedo": 303,
+    "antiair": 371,
+    "aviation": 0,
+    "reload": 182,
+    "accuracy": 173,
+    "evasion": 114,
+    "speed": 37,
+    "luck": 41,
+    "asw": 94
+  },
+  "enhance": {
+    "firepower": 30,
+    "torpedo": 55,
+    "reload": 49
+  },
+  "skill": {
+    "28271": {
+      "id": 28271,
+      "parent": 28271,
+      "upgrade": 28272,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "28272": {
+      "id": 28272,
+      "parent": 28271,
+      "upgrade": null,
+      "downgrade": 28271,
+      "requirement": "Limit Break 3"
+    },
+    "152040": {
+      "id": 152040,
+      "parent": 152040,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "152050": {
+      "id": 152050,
+      "parent": 152050,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

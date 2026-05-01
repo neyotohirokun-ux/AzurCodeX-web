@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "id": 605080,
+      "gid": 60508,
+      "name": "Raffaello",
+      "type": "Default",
+      "desc": "Type UP41 battleship – Raffaello.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 441,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60508/605080/painting.png",
+      "painting_n": "img/skin/60508/605080/painting_n.png",
+      "banner": "img/skin/60508/605080/banner.png",
+      "chibi": "img/skin/60508/605080/chibi.png",
+      "icon": "img/skin/60508/605080/icon.png",
+      "qicon": "img/skin/60508/605080/qicon.png",
+      "shipyard": "img/skin/60508/605080/shipyard.png",
+      "spine_chibi": "spine/chibi/lafeier/lafeier",
+      "spine": "spine/ship/lafeier/lafeier",
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 605081,
+      "gid": 60508,
+      "name": "Protector of Love and Beauty",
+      "type": "Nile Colors",
+      "desc": "Heheh! You were not invited to this place, and as its guardian, I must punish you by... Oh, wait, wait, stop! This angle... This outline... It's simply perfect! Turning you into stone would be a waste, so just stay here and let me observe you every day!",
+      "tag": [
+        "live2d",
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 441,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/303.png",
+      "background2": null,
+      "painting": "img/skin/60508/605081/painting.png",
+      "painting_n": "img/skin/60508/605081/painting_n.png",
+      "banner": "img/skin/60508/605081/banner.png",
+      "chibi": "img/skin/60508/605081/chibi.png",
+      "icon": "img/skin/60508/605081/icon.png",
+      "qicon": "img/skin/60508/605081/qicon.png",
+      "shipyard": "img/skin/60508/605081/shipyard.png",
+      "spine_chibi": "spine/chibi/lafeier/lafeier_2",
+      "spine": null,
+      "live2d": "live2d/lafeier/lafeier_2",
+      "cost": 1180
+    }
+  ]
+}

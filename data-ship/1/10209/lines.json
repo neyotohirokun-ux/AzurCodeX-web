@@ -1,0 +1,16 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Cleveland Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Cleveland Ver.) - クリーブランド(CV.堀籠沙耶).mp3",
+            "lyrics": "compose/songs/Cleveland Ver.json",
+            "link": "https://soundcloud.com/uss-cleveland/yuukyuu-no-catharsis"
+        },
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - All Cleveland Sisters.",
+            "audio": "audio/songs/Azur Lane Cleveland Sisters Yuukyuu no Catharsis.mp3",
+            "lyrics": "compose/songs/Cleveland Ver.json",
+            "link": "https://soundcloud.com/sakrya8/all-4-clevelands-yuukyuu-no"
+        }
+    ]
+}

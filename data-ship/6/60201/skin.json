@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 602010,
+      "gid": 60201,
+      "name": "Duca degli Abruzzi",
+      "type": "Default",
+      "desc": "Duca degli Abruzzi-class light cruiser – Luigi di Savoia Duca degli Abruzzi.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 270,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60201/602010/painting.png",
+      "painting_n": "img/skin/60201/602010/painting_n.png",
+      "banner": "img/skin/60201/602010/banner.png",
+      "chibi": "img/skin/60201/602010/chibi.png",
+      "icon": "img/skin/60201/602010/icon.png",
+      "qicon": "img/skin/60201/602010/qicon.png",
+      "shipyard": "img/skin/60201/602010/shipyard.png",
+      "spine_chibi": "spine/chibi/abuluqi/abuluqi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 602011,
+      "gid": 60201,
+      "name": "Lustrous Onyx Sirenetta",
+      "type": "Swimsuits",
+      "desc": "Good evening, Commander. Here to unwind after a day's work, I take it? Even dignitaries desire a bit of luxury sometimes. Hahaha.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 270,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/133.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/60201/602011/painting.png",
+      "painting_n": "img/skin/60201/602011/painting_n.png",
+      "banner": "img/skin/60201/602011/banner.png",
+      "chibi": "img/skin/60201/602011/chibi.png",
+      "icon": "img/skin/60201/602011/icon.png",
+      "qicon": "img/skin/60201/602011/qicon.png",
+      "shipyard": "img/skin/60201/602011/shipyard.png",
+      "spine_chibi": "spine/chibi/abuluqi/abuluqi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

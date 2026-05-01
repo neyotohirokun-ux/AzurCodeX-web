@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 107290,
+      "gid": 10729,
+      "name": "Bataan",
+      "type": "Default",
+      "desc": "Independence-class light aircraft carrier – Bataan, Hull Number CVL-29.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 161,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10729/107290/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10729/107290/banner.png",
+      "chibi": "img/skin/10729/107290/chibi.png",
+      "icon": "img/skin/10729/107290/icon.png",
+      "qicon": "img/skin/10729/107290/qicon.png",
+      "shipyard": "img/skin/10729/107290/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 107291,
+      "gid": 10729,
+      "name": "Comfy Cotton Jammies",
+      "type": "Home Relaxation",
+      "desc": "Yaaaaawn... Huh!? Commander!? You scared me... I was just going to lie down and... Um, yes, with little Hellcat here... Goodnight...",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 161,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/109.png",
+      "background2": null,
+      "painting": "img/skin/10729/107291/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10729/107291/banner.png",
+      "chibi": "img/skin/10729/107291/chibi.png",
+      "icon": "img/skin/10729/107291/icon.png",
+      "qicon": "img/skin/10729/107291/qicon.png",
+      "shipyard": "img/skin/10729/107291/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": 243,
+  "gid": 40302,
+  "cid": 1,
+  "sid": [
+    403021,
+    403022,
+    403023,
+    403024
+  ],
+  "name": "Blücher",
+  "codename": "KMS Blücher",
+  "class": "Admiral Hipper Class",
+  "nationality": 4,
+  "obtain": [
+    "Event: Operation Convergence"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 811,
+    "firepower": 54,
+    "torpedo": 44,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 44,
+    "evasion": 9,
+    "speed": 25.6,
+    "luck": 17,
+    "asw": 0
+  },
+  "growth": {
+    "health": 4717,
+    "firepower": 293,
+    "torpedo": 244,
+    "antiair": 213,
+    "aviation": 0,
+    "reload": 185,
+    "accuracy": 131,
+    "evasion": 63,
+    "speed": 25.6,
+    "luck": 17,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 53,
+    "torpedo": 44,
+    "reload": 50
+  },
+  "skill": {
+    "15930": {
+      "id": 15930,
+      "parent": 15930,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "15940": {
+      "id": 15940,
+      "parent": 15940,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23211": {
+      "id": 23211,
+      "parent": 23211,
+      "upgrade": 23212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23212": {
+      "id": 23212,
+      "parent": 23211,
+      "upgrade": null,
+      "downgrade": 23211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601040,
+      "gid": 60104,
+      "name": "Maestrale",
+      "type": "Default",
+      "desc": "Maestrale-class destroyer – Maestrale.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 268,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60104/601040/painting.png",
+      "painting_n": "img/skin/60104/601040/painting_n.png",
+      "banner": "img/skin/60104/601040/banner.png",
+      "chibi": "img/skin/60104/601040/chibi.png",
+      "icon": "img/skin/60104/601040/icon.png",
+      "qicon": "img/skin/60104/601040/qicon.png",
+      "shipyard": "img/skin/60104/601040/shipyard.png",
+      "spine_chibi": "spine/chibi/xibeifeng/xibeifeng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601041,
+      "gid": 60104,
+      "name": "Lonesome Beachfarer",
+      "type": "Swimsuits",
+      "desc": "It's way too crowded on the beach... I'd much rather be– Oh, Commander? Are you not good with crowded places either...?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 268,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/60104/601041/painting.png",
+      "painting_n": "img/skin/60104/601041/painting_n.png",
+      "banner": "img/skin/60104/601041/banner.png",
+      "chibi": "img/skin/60104/601041/chibi.png",
+      "icon": "img/skin/60104/601041/icon.png",
+      "qicon": "img/skin/60104/601041/qicon.png",
+      "shipyard": "img/skin/60104/601041/shipyard.png",
+      "spine_chibi": "spine/chibi/xibeifeng/xibeifeng_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

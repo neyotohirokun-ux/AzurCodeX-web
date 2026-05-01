@@ -1,0 +1,137 @@
+{
+  "id": 352,
+  "gid": 90401,
+  "cid": 1,
+  "sid": [
+    904011,
+    904012,
+    904013,
+    904014
+  ],
+  "name": "Dunkerque",
+  "codename": "MNF Dunkerque",
+  "class": "Dunkerque Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: Iris of Light and Dark",
+    "Heavy Ship Construction"
+  ],
+  "type": 4,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "C",
+    "D",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.5
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1127,
+    "firepower": 67,
+    "torpedo": 0,
+    "antiair": 42,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 24,
+    "evasion": 9,
+    "speed": 31,
+    "luck": 35,
+    "asw": 0
+  },
+  "growth": {
+    "health": 6950,
+    "firepower": 362,
+    "torpedo": 0,
+    "antiair": 232,
+    "aviation": 0,
+    "reload": 166,
+    "accuracy": 73,
+    "evasion": 43,
+    "speed": 31,
+    "luck": 35,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 67,
+    "reload": 45
+  },
+  "skill": {
+    "11490": {
+      "id": 11490,
+      "parent": 11490,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

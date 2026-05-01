@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 901050,
+      "gid": 90105,
+      "name": "Fleuret",
+      "type": "Default",
+      "desc": "Le Hardi-class destroyer – Fleuret.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 408,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90105/901050/painting.png",
+      "painting_n": "img/skin/90105/901050/painting_n.png",
+      "banner": "img/skin/90105/901050/banner.png",
+      "chibi": "img/skin/90105/901050/chibi.png",
+      "icon": "img/skin/90105/901050/icon.png",
+      "qicon": "img/skin/90105/901050/qicon.png",
+      "shipyard": "img/skin/90105/901050/shipyard.png",
+      "spine_chibi": "spine/chibi/huajian/huajian",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 901051,
+      "gid": 90105,
+      "name": "Up All Knight to Get Lucky",
+      "type": "Bunny Girl",
+      "desc": "Welcome, welcome! I'm Fleuret, your game master. Are you ready to make a wager? Heehee!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 408,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/180.png",
+      "background2": null,
+      "painting": "img/skin/90105/901051/painting.png",
+      "painting_n": "img/skin/90105/901051/painting_n.png",
+      "banner": "img/skin/90105/901051/banner.png",
+      "chibi": "img/skin/90105/901051/chibi.png",
+      "icon": "img/skin/90105/901051/icon.png",
+      "qicon": "img/skin/90105/901051/qicon.png",
+      "shipyard": "img/skin/90105/901051/shipyard.png",
+      "spine_chibi": "spine/chibi/huajian/huajian_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

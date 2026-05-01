@@ -1,0 +1,159 @@
+{
+  "id": 688,
+  "gid": 70208,
+  "cid": 1,
+  "sid": [
+    702081,
+    702082,
+    702083,
+    702084
+  ],
+  "name": "Oleg",
+  "codename": "SN Oleg",
+  "class": "Bogatyr Class",
+  "nationality": 7,
+  "obtain": [
+    "Event: Toward Tulipa's Seas"
+  ],
+  "type": 2,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "D",
+    "D",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 668,
+    "firepower": 15,
+    "torpedo": 26,
+    "antiair": 32,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 47,
+    "evasion": 27,
+    "speed": 23,
+    "luck": 70,
+    "asw": 13
+  },
+  "growth": {
+    "health": 4246,
+    "firepower": 84,
+    "torpedo": 144,
+    "antiair": 175,
+    "aviation": 0,
+    "reload": 147,
+    "accuracy": 140,
+    "evasion": 103,
+    "speed": 23,
+    "luck": 70,
+    "asw": 56
+  },
+  "enhance": {
+    "firepower": 15,
+    "torpedo": 26,
+    "reload": 40
+  },
+  "skill": {
+    "26111": {
+      "id": 26111,
+      "parent": 26111,
+      "upgrade": 26112,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "26112": {
+      "id": 26112,
+      "parent": 26111,
+      "upgrade": null,
+      "downgrade": 26111,
+      "requirement": "Limit Break 3"
+    },
+    "151100": {
+      "id": 151100,
+      "parent": 151100,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151110": {
+      "id": 151110,
+      "parent": 151110,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

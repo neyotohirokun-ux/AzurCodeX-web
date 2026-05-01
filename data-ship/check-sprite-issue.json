@@ -1,0 +1,78 @@
+[
+    "Retrofit Skill as of now needs structure rework",
+    "Missing Idol muse chibi",
+
+
+    "Hamman |Hammanyan Pawnch! | WB, WTB",
+    "Cleveland |Gentry Knight | Live2d",
+    "Columbia |Across the Vast Prairies | WB, WTB",
+    "NorthamptonII |Swimming Star {beianpudunII} | Live2d",
+    "LexingtonII |An Evening's Companionship | Dynamic(Display issue)",
+    "Saratoga |Silent Night Songstress | WB, WTB",
+    "Ajax |Party Queen | WB",
+    "London |The Sterling Secretary | Dynamic(Broken Display)",
+    "Prince of Wales |A Knight's Song, a Lady's Night | WB, WTB (Censored) ",
+    "Illustrious |Sweet Afternoon Tea Time | WB(Wrong Image), WTB(Censored)",
+    "Formidable |The Lover's Heart Flutters On Duty | Live2d ",
+    "Fubuki |Stormy Waitress-in-Training | WB",
+    "Shirayuki |Bunny Breeder | WB, WTB",
+    "Takao |Divine Exorcist's Blade | Dynamic(Background)",
+    "Kaga |Dusk-Simurgh's Vigil | Dynamic(missing)",
+    "Z23 |Fries, and smile! | missing in skin.json",
+    "Z23 |Inky Antics | Chibi(wrong chibi)",
+    "Admiral Gaf Spee |World's♥Cutest | WB",
+    "Avrora |Mellow Seaspray | missing in skin.json ",
+    "Mutsuki |Mutsuki (Retrofit) | Chibi(region attachment issue)",
+    "Fumuzuki |Default | WB(stretch issue)",
+    "Nagatsuki |Dangerous Kitty Maid? | Chibi(region attachment issue)",
+    "Yamakaze |Default |WB, WTB | Now for a Magic Trick! | WB, WTB",
+    "Noshiro |Unwinding in the Sunshine | Live2d(missing)",
+    "Ying Swei | Blue Waves, Limpid Summer | Dynamic(missing)",
+    "Huan Ch'ang |Dnace Beneath the Moonlight |Dynamic(must fix the scale)",
+    "Hu Pen |Prancing Tiger Welcomes the Spring |Dynamic(must fix the scale)",
+    "Chien Wu |All-Nighter Masterpiece | Chibi(wrong chibi)",
+    "Forbin |Fleur de Mariée (wEDDING) | WB,WTB",
+    "Surcouf |Shopping Time! | WB",
+    "Tashkent |The Bound Cruiser | WB",
+    "Murmansk |Sceneries of Pure Snow | WB,WTB",
+    "Sovetsky Soyuz | Stringed Interrogation | Dynamic(Region not found in atlas)",
+    "Nicoloso da Recco | Base | WB, WTB",
+    "Vincenzo Gioberti |Vincenzo Gioberti | WB",
+    "Zara |Poolside Coincidence | Live2d(broken display)",
+    "Kersaint |Reverent Runner | Live2d(background issue)",
+    "Le Malin μ |Le Malin μ | Chibi(missing chibi)",
+    "Marseillaise | Fighting Angel's Regimen | Dynamic(BG issue)",
+    "Foch | Rainbow Rendezvous | WB, WTB",
+    "Dunkerque |Afternoon Venus | WB, WTB",
+    "Gascogne μ | Base | Chibi(missing chibi)",
+
+
+    "Dynamic, or Live2d that is already in assets",
+    "Langley II, Lexington II", "Yorktown II, Hornet II, Bismarck Zwei",
+
+
+    "Addons hx are censored versions | censored feature will be added later for system build2. Additionally same goes with CN, TW, JP versions",
+    "New Jersey, Yorktown II, Enterprise, Hornet II, Cygnet, Javelin, Victorious, Illustrious, Ayanami, Yuudachi, Yuugure, Chikuma, Takao, Agato, Musashi, Taihou, Z23, Admiral Hipper, Blucher, Prinz Eugen, Bismarck, Tirptiz, Ning Hai, Ping Hai, Shimakaze, St.Louis, Chao Ho, Chen Hai, Hwah Jah, Ting An, Hai Yung, Émile Bertin, Duguay-Trouin, Masséna, Alsace, Painlevé, Surcouf, Grozny, Voroshilov, Kursk, Sovetsky Soyuz, Sevastopol, Volgar, Duca degli Abruzzi, Giuseppe Garibaldi, Trieste, Vittorio Veneto, Littorio, Giulio Cesare, Nicoloso da Recco, Aquila, Torricelli, Leonardo Da Vinci, Tartu, Vauquelin, Kersaint, Mogador, L'Audacieux, La Galissonnière, Foch, Strasbourg",
+
+
+    "Some chibi such as alter, ghost, young and µ(idol) are already added on said shipgirl",
+
+
+    "Ship thats has Original art chibi, special skin or extra",
+    "Colorado, Maryland, West Virginia, Rodney, Yuudachi, An Shan",
+
+    "Chibi added: huobi",
+
+    "has JP Version: shuixingjinian",
+
+
+    "Skipped Reason: Pinyin cannot be found thus update is stopped",
+    "Hardy, Juno, Kako, Kinugasa, Stremitelny, Ozornoy, Krasny Kavkaz ",
+
+
+    " Asashio - Arashio | Sakura Empire | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Asashio - Arashio  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data",
+
+    " Dace - Bataan | Eagle Union | needs to adjust the data, skin/price, animations(spine and live2d)",
+    "Target: Dace - Bataan  | Adding: pinyin, assets(Chibi), Retrofit Skill, Data"
+]

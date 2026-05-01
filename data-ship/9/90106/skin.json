@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 901060,
+      "gid": 90106,
+      "name": "Épée",
+      "type": "Default",
+      "desc": "Le Hardi-class destroyer – Épée.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 409,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90106/901060/painting.png",
+      "painting_n": "img/skin/90106/901060/painting_n.png",
+      "banner": "img/skin/90106/901060/banner.png",
+      "chibi": "img/skin/90106/901060/chibi.png",
+      "icon": "img/skin/90106/901060/icon.png",
+      "qicon": "img/skin/90106/901060/qicon.png",
+      "shipyard": "img/skin/90106/901060/shipyard.png",
+      "spine_chibi": "spine/chibi/zhongjian/zhongjian",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 901061,
+      "gid": 90106,
+      "name": "Poor, Lonely Knight",
+      "type": "Bunny Girl",
+      "desc": "Oh, wh-what do I do now... Fleur and the others are doing so well, and I can't even clean a table without messing up... If I worry the Commander, then... Whah?! C-Commander?!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 409,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/150.png",
+      "background2": null,
+      "painting": "img/skin/90106/901061/painting.png",
+      "painting_n": "img/skin/90106/901061/painting_n.png",
+      "banner": "img/skin/90106/901061/banner.png",
+      "chibi": "img/skin/90106/901061/chibi.png",
+      "icon": "img/skin/90106/901061/icon.png",
+      "qicon": "img/skin/90106/901061/qicon.png",
+      "shipyard": "img/skin/90106/901061/shipyard.png",
+      "spine_chibi": "spine/chibi/zhongjian/zhongjian_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

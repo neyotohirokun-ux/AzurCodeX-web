@@ -1,0 +1,144 @@
+{
+  "id": 685,
+  "gid": 70509,
+  "cid": 1,
+  "sid": [
+    705091,
+    705092,
+    705093,
+    705094
+  ],
+  "name": "Kazan",
+  "codename": "SN Kazan",
+  "class": "Kazan",
+  "nationality": 7,
+  "obtain": [
+    "Event: Toward Tulipa's Seas"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "D",
+    "C",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1428,
+    "firepower": 83,
+    "torpedo": 0,
+    "antiair": 47,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 24,
+    "evasion": 8,
+    "speed": 28,
+    "luck": 50,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8807,
+    "firepower": 438,
+    "torpedo": 0,
+    "antiair": 257,
+    "aviation": 0,
+    "reload": 147,
+    "accuracy": 75,
+    "evasion": 37,
+    "speed": 28,
+    "luck": 50,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 82,
+    "reload": 40
+  },
+  "skill": {
+    "151120": {
+      "id": 151120,
+      "parent": 151120,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151130": {
+      "id": 151130,
+      "parent": 151130,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

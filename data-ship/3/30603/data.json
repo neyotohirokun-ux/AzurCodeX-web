@@ -1,0 +1,145 @@
+{
+  "id": 220,
+  "gid": 30603,
+  "cid": 1,
+  "sid": [
+    306031,
+    306032,
+    306033,
+    306034
+  ],
+  "name": "Houshou",
+  "codename": "IJN Houshou",
+  "class": "Houshou Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 7-4"
+  ],
+  "type": 6,
+  "rarity": 4,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All fighters +1",
+      "Aircraft efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "All Torpedo Bombers +1",
+      "Aircraft efficiency +5%"
+    ],
+    [
+      "All aircraft +1",
+      "Aircraft efficiency +7%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "2": {
+      "default": 117,
+      "slot": 2,
+      "type": [
+        7
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 118,
+      "slot": 3,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 599,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 48,
+    "aviation": 53,
+    "reload": 65,
+    "accuracy": 26,
+    "evasion": 18,
+    "speed": 25,
+    "luck": 79,
+    "asw": 22
+  },
+  "growth": {
+    "health": 3708,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 263,
+    "aviation": 290,
+    "reload": 178,
+    "accuracy": 83,
+    "evasion": 69,
+    "speed": 25,
+    "luck": 79,
+    "asw": 94
+  },
+  "enhance": {
+    "aviation": 53,
+    "reload": 48
+  },
+  "skill": {
+    "3041": {
+      "id": 3041,
+      "parent": 3041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "10170": {
+      "id": 10170,
+      "parent": 10170,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

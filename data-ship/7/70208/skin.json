@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 702080,
+      "gid": 70208,
+      "name": "Oleg",
+      "type": "Default",
+      "desc": "Bogatyr-class protected cruiser – Oleg.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 450,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70208/702080/painting.png",
+      "painting_n": "img/skin/70208/702080/painting_n.png",
+      "banner": "img/skin/70208/702080/banner.png",
+      "chibi": "img/skin/70208/702080/chibi.png",
+      "icon": "img/skin/70208/702080/icon.png",
+      "qicon": "img/skin/70208/702080/qicon.png",
+      "shipyard": "img/skin/70208/702080/shipyard.png",
+      "spine_chibi": "spine/chibi/aoliege/aoliege",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 702081,
+      "gid": 70208,
+      "name": "Repose by the Fireplace",
+      "type": "Home Relaxation",
+      "desc": "*yaaawn*... Nothing beats relaxing after a nice bath! Now that I've changed into my warm pajamas, what should we do next? Hm? Go to sleep? No, no, it's too early. I only yawned because I was getting comfortable!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 450,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/606.png",
+      "background2": null,
+      "painting": "img/skin/70208/702081/painting.png",
+      "painting_n": "img/skin/70208/702081/painting_n.png",
+      "banner": "img/skin/70208/702081/banner.png",
+      "chibi": "img/skin/70208/702081/chibi.png",
+      "icon": "img/skin/70208/702081/icon.png",
+      "qicon": "img/skin/70208/702081/qicon.png",
+      "shipyard": "img/skin/70208/702081/shipyard.png",
+      "spine_chibi": "spine/chibi/aoliege/aoliege_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

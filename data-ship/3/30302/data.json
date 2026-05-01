@@ -1,0 +1,183 @@
+{
+  "id": 191,
+  "gid": 30302,
+  "cid": 1,
+  "sid": [
+    303021,
+    303022,
+    303023,
+    303024
+  ],
+  "name": "Kako",
+  "codename": "IJN Kako",
+  "class": "Furutaka Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 3-3"
+  ],
+  "type": 3,
+  "rarity": 2,
+  "armor": 2,
+  "hexagon": [
+    "C",
+    "C",
+    "E",
+    "C",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "retrofit": {
+    "id": 303024,
+    "level": 80,
+    "bonus": {
+      "health": 280,
+      "reload": 5,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 15,
+      "equipment_proficiency_1": 0.05,
+      "firepower": 30,
+      "equipment_proficiency_2": 0.1,
+      "torpedo": 45
+    },
+    "skill": 19108,
+    "skin": 303029,
+    "armor": 2,
+    "hexagon": [
+      "B",
+      "B",
+      "E",
+      "C",
+      "C",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 589,
+    "firepower": 40,
+    "torpedo": 35,
+    "antiair": 30,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 38,
+    "evasion": 13,
+    "speed": 31.05,
+    "luck": 34,
+    "asw": 0
+  },
+  "growth": {
+    "health": 15079,
+    "firepower": 548,
+    "torpedo": 487,
+    "antiair": 656,
+    "aviation": 0,
+    "reload": 417,
+    "accuracy": 564,
+    "evasion": 490,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 39,
+    "torpedo": 35,
+    "reload": 45
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "19108": {
+      "id": 19108,
+      "parent": 19108,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    },
+    "22211": {
+      "id": 22211,
+      "parent": 22211,
+      "upgrade": 22212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22212": {
+      "id": 22212,
+      "parent": 22211,
+      "upgrade": null,
+      "downgrade": 22211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

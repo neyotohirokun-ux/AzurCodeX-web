@@ -1,0 +1,212 @@
+{
+  "id": 20028,
+  "gid": 19904,
+  "cid": 2,
+  "sid": [
+    199041,
+    199042,
+    199043,
+    199044
+  ],
+  "name": "Kearsarge",
+  "codename": "USS Kearsarge",
+  "class": "Kearsarge",
+  "nationality": 1,
+  "obtain": [
+    "Research and Development"
+  ],
+  "type": 10,
+  "rarity": 6,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "A",
+    "D",
+    "B",
+    "S"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%",
+      "Gains special secondary gun"
+    ],
+    [
+      "All Fighters +1",
+      "Main gun efficiency +10%",
+      "Fighter efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%",
+      "Fighter efficiency +10%"
+    ]
+  ],
+  "devs": {
+    "1": [
+      "Unlocks playback for: Log in, Return to port, Biography"
+    ],
+    "5": [
+      "HP +383",
+      "AA +15",
+      "Main Gun efficiency +5%",
+      "Unlocks playback for: Main screen 1, Flagship fight, Mission reminder"
+    ],
+    "10": [
+      "Limit Breaks to 4 Stars",
+      "Unlocks playback for: Main screen 2, Victory, Defeat"
+    ],
+    "15": [
+      "HP +766",
+      "AA +31",
+      "Fighter efficiency +20%",
+      "Unlocks playback for: Main screen 3, Normal touch, Mission complete"
+    ],
+    "20": [
+      "Limit Breaks to 5 Stars",
+      "Unlocks playback for: Skills, Mail reminder, Commission complete"
+    ],
+    "25": [
+      "HP +1195",
+      "AA +33",
+      "Main Gun efficiency +5%",
+      "All fighters +1",
+      "Unlocks playback for: Low HP"
+    ],
+    "30": [
+      "Limit Breaks to 6 Stars"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.4
+    },
+    "2": {
+      "default": 109,
+      "slot": 2,
+      "type": [
+        7
+      ],
+      "mount": 4,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1571,
+    "firepower": 83,
+    "torpedo": 0,
+    "antiair": 63,
+    "aviation": 70,
+    "reload": 56,
+    "accuracy": 28,
+    "evasion": 8,
+    "speed": 30,
+    "luck": 0,
+    "asw": 0
+  },
+  "growth": {
+    "health": 9389,
+    "firepower": 441,
+    "torpedo": 0,
+    "antiair": 340,
+    "aviation": 401,
+    "reload": 155,
+    "accuracy": 81,
+    "evasion": 39,
+    "speed": 30,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "health": 2298,
+    "antiair": 93,
+    "firepower": 123,
+    "aviation": 103,
+    "reload": 42
+  },
+  "skill": {
+    "19000": {
+      "id": 19000,
+      "parent": 19000,
+      "upgrade": 19001,
+      "downgrade": null,
+      "requirement": "Devs 10"
+    },
+    "19001": {
+      "id": 19001,
+      "parent": 19000,
+      "upgrade": 19002,
+      "downgrade": 19000,
+      "requirement": "Devs 20"
+    },
+    "19002": {
+      "id": 19002,
+      "parent": 19000,
+      "upgrade": null,
+      "downgrade": 19001,
+      "requirement": "Devs 30"
+    },
+    "19660": {
+      "id": 19660,
+      "parent": 19660,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "19670": {
+      "id": 19670,
+      "parent": 19670,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "19680": {
+      "id": 19680,
+      "parent": 19680,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

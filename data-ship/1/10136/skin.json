@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 101360,
+      "gid": 10136,
+      "name": "Hobby",
+      "type": "Default",
+      "desc": "Benson class Destroyer— Hobby, hull number DD-610.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 151,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10136/101360/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10136/101360/banner.png",
+      "chibi": "img/skin/10136/101360/chibi.png",
+      "icon": "img/skin/10136/101360/icon.png",
+      "qicon": "img/skin/10136/101360/qicon.png",
+      "shipyard": "img/skin/10136/101360/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 101361,
+      "gid": 10136,
+      "name": "Little Idol Schoolgirl",
+      "type": "School Girl",
+      "desc": "Here comes the debut of school uniform Hobby~ Commander, how do I look? Hobby is all grown up~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 151,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/103.png",
+      "background2": null,
+      "painting": "img/skin/10136/101361/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10136/101361/banner.png",
+      "chibi": "img/skin/10136/101361/chibi.png",
+      "icon": "img/skin/10136/101361/icon.png",
+      "qicon": "img/skin/10136/101361/qicon.png",
+      "shipyard": "img/skin/10136/101361/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 205050,
+      "gid": 20505,
+      "name": "King George V",
+      "type": "Default",
+      "desc": "King George V-class battleship – King George V.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 183,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20505/205050/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20505/205050/banner.png",
+      "chibi": "img/skin/20505/205050/chibi.png",
+      "icon": "img/skin/20505/205050/icon.png",
+      "qicon": "img/skin/20505/205050/qicon.png",
+      "shipyard": "img/skin/20505/205050/shipyard.png",
+      "spine_chibi": "spine/chibi/qiaozhiwushi/qiaozhiwushi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 205051,
+      "gid": 20505,
+      "name": "Rose's Regalia",
+      "type": "Party Dress",
+      "desc": "Sorry to keep you waiting, Commander... I don't get to wear a dress very often, so it took me a bit longer. Let's get going, then. Remember, you'll be the lead tonight. Haha~",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 183,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/115.png",
+      "background2": null,
+      "painting": "img/skin/20505/205051/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20505/205051/banner.png",
+      "chibi": "img/skin/20505/205051/chibi.png",
+      "icon": "img/skin/20505/205051/icon.png",
+      "qicon": "img/skin/20505/205051/qicon.png",
+      "shipyard": "img/skin/20505/205051/shipyard.png",
+      "spine_chibi": "spine/chibi/qiaozhiwushi/qiaozhiwushi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

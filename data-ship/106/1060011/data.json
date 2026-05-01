@@ -1,0 +1,144 @@
+{
+  "id": 10991,
+  "gid": 1060011,
+  "cid": 1,
+  "sid": [
+    10600111,
+    10600112,
+    10600113,
+    10600114
+  ],
+  "name": "Shizuku",
+  "codename": "Shizuku",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "E",
+    "E",
+    "D",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1315,
+    "firepower": 78,
+    "torpedo": 0,
+    "antiair": 41,
+    "aviation": 0,
+    "reload": 51,
+    "accuracy": 22,
+    "evasion": 4,
+    "speed": 20,
+    "luck": 86,
+    "asw": 0
+  },
+  "growth": {
+    "health": 37454,
+    "firepower": 967,
+    "torpedo": 0,
+    "antiair": 891,
+    "aviation": 0,
+    "reload": 353,
+    "accuracy": 311,
+    "evasion": 51,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 77,
+    "reload": 38
+  },
+  "skill": {
+    "106370": {
+      "id": 106370,
+      "parent": 106370,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106380": {
+      "id": 106380,
+      "parent": 106380,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

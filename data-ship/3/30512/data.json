@@ -1,0 +1,146 @@
+{
+  "id": 214,
+  "gid": 30512,
+  "cid": 1,
+  "sid": [
+    305121,
+    305122,
+    305123,
+    305124
+  ],
+  "name": "Kii",
+  "codename": "IJN Kii",
+  "class": "Kii Class ",
+  "nationality": 3,
+  "obtain": [
+    "Event: Dreamwaker's Butterfly",
+    "Heavy Ship Construction"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "D",
+    "C",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun base +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.35
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1317,
+    "firepower": 80,
+    "torpedo": 53,
+    "antiair": 70,
+    "aviation": 0,
+    "reload": 53,
+    "accuracy": 22,
+    "evasion": 7,
+    "speed": 28.5,
+    "luck": 39,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8134,
+    "firepower": 426,
+    "torpedo": 287,
+    "antiair": 375,
+    "aviation": 0,
+    "reload": 147,
+    "accuracy": 73,
+    "evasion": 38,
+    "speed": 28.5,
+    "luck": 39,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 80,
+    "torpedo": 52,
+    "reload": 40
+  },
+  "skill": {
+    "13610": {
+      "id": 13610,
+      "parent": 13610,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "13620": {
+      "id": 13620,
+      "parent": 13620,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

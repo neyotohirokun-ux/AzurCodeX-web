@@ -1,0 +1,141 @@
+{
+  "id": 10994,
+  "gid": 1060014,
+  "cid": 1,
+  "sid": [
+    10600141,
+    10600142,
+    10600143,
+    10600144
+  ],
+  "name": "Patty",
+  "codename": "Patty",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 8,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve hunting range"
+    ],
+    [
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 276,
+    "firepower": 11,
+    "torpedo": 107,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 38,
+    "accuracy": 71,
+    "evasion": 11,
+    "speed": 28,
+    "luck": 86,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7866,
+    "firepower": 154,
+    "torpedo": 1278,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 263,
+    "accuracy": 1042,
+    "evasion": 297,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 11,
+    "torpedo": 106,
+    "reload": 28
+  },
+  "skill": {
+    "106450": {
+      "id": 106450,
+      "parent": 106450,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106470": {
+      "id": 106470,
+      "parent": 106470,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

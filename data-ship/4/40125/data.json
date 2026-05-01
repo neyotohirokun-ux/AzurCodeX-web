@@ -1,0 +1,163 @@
+{
+  "id": 237,
+  "gid": 40125,
+  "cid": 1,
+  "sid": [
+    401251,
+    401252,
+    401253,
+    401254
+  ],
+  "name": "Z25",
+  "codename": "KMS Z25",
+  "class": "Type 1936A",
+  "nationality": 4,
+  "obtain": [
+    "Event: Divergent Chessboard",
+    "Requisition (random chance)",
+    "Guild Shop"
+  ],
+  "type": 1,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "B",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.75
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 344,
+    "firepower": 22,
+    "torpedo": 61,
+    "antiair": 29,
+    "aviation": 0,
+    "reload": 70,
+    "accuracy": 62,
+    "evasion": 58,
+    "speed": 43.2,
+    "luck": 72,
+    "asw": 49
+  },
+  "growth": {
+    "health": 2167,
+    "firepower": 122,
+    "torpedo": 331,
+    "antiair": 157,
+    "aviation": 0,
+    "reload": 193,
+    "accuracy": 190,
+    "evasion": 201,
+    "speed": 43.2,
+    "luck": 72,
+    "asw": 204
+  },
+  "enhance": {
+    "firepower": 22,
+    "torpedo": 61,
+    "reload": 52
+  },
+  "skill": {
+    "2011": {
+      "id": 2011,
+      "parent": 2011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "5051": {
+      "id": 5051,
+      "parent": 5051,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "23041": {
+      "id": 23041,
+      "parent": 23041,
+      "upgrade": 23042,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "23042": {
+      "id": 23042,
+      "parent": 23041,
+      "upgrade": null,
+      "downgrade": 23041,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "songs": [
+        {
+            "name": "\"Yuukyuu no Catharsis\" (Everlasting Catharsis) - Belfast Ver.",
+            "audio": "audio/songs/Yuukyuu no Catharsis (Belfast Ver.) - ベルファスト(CV.堀江由衣).mp3",
+            "lyrics": "compose/songs/Belfast Ver.json",
+            "link": "https://soundcloud.com/hms_belfast/yuukyuu-no-catharsis"
+        }
+    ]
+}

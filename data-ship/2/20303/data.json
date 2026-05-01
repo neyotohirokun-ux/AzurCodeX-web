@@ -1,0 +1,153 @@
+{
+  "id": 121,
+  "gid": 20303,
+  "cid": 1,
+  "sid": [
+    203031,
+    203032,
+    203033,
+    203034
+  ],
+  "name": "Kent",
+  "codename": "HMS Kent",
+  "class": "Kent Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-4",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 1,
+  "hexagon": [
+    "A",
+    "C",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.45
+    },
+    "2": {
+      "default": 107,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 598,
+    "firepower": 40,
+    "torpedo": 40,
+    "antiair": 39,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 38,
+    "evasion": 8,
+    "speed": 25.2,
+    "luck": 71,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3589,
+    "firepower": 221,
+    "torpedo": 218,
+    "antiair": 212,
+    "aviation": 0,
+    "reload": 162,
+    "accuracy": 120,
+    "evasion": 67,
+    "speed": 25.2,
+    "luck": 71,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 40,
+    "torpedo": 39,
+    "reload": 44
+  },
+  "skill": {
+    "2031": {
+      "id": 2031,
+      "parent": 2031,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "21221": {
+      "id": 21221,
+      "parent": 21221,
+      "upgrade": 21222,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "21222": {
+      "id": 21222,
+      "parent": 21221,
+      "upgrade": null,
+      "downgrade": 21221,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

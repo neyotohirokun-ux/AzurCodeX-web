@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600140,
+      "gid": 1060014,
+      "name": "Patty",
+      "type": "Default",
+      "desc": "Mmm... The wind, sea, and sun all smell wonderful! *sniff*... What's that smell? Wait, who are you? A... Commander? Hello hello! Hm? Me? I'm Patty, of course. By the way, what is this place? ...Ooh, okay. I'll trust you, then! I'm not worried, since you smell like such a good person...",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 52,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060014/10600140/painting.png",
+      "painting_n": "img/skin/1060014/10600140/painting_n.png",
+      "banner": "img/skin/1060014/10600140/banner.png",
+      "chibi": "img/skin/1060014/10600140/chibi.png",
+      "icon": "img/skin/1060014/10600140/icon.png",
+      "qicon": "img/skin/1060014/10600140/qicon.png",
+      "shipyard": "img/skin/1060014/10600140/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600141,
+      "gid": 1060014,
+      "name": "Fluffy-Wuffy Paradise",
+      "type": "Swimsuits",
+      "desc": "Oh, Commander! Hello hello! *sniff*... Huh? You smell like you're plotting something... Is it my bunny-like softness you're after? Well... If you can catch me, you can fluff me all you want! Hahaha!",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 52,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/145.png",
+      "background2": null,
+      "painting": "img/skin/1060014/10600141/painting.png",
+      "painting_n": "img/skin/1060014/10600141/painting_n.png",
+      "banner": "img/skin/1060014/10600141/banner.png",
+      "chibi": "img/skin/1060014/10600141/chibi.png",
+      "icon": "img/skin/1060014/10600141/icon.png",
+      "qicon": "img/skin/1060014/10600141/qicon.png",
+      "shipyard": "img/skin/1060014/10600141/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

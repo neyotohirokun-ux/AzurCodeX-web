@@ -1,0 +1,151 @@
+{
+  "id": 39,
+  "gid": 10301,
+  "cid": 1,
+  "sid": [
+    103011,
+    103012,
+    103013,
+    103014
+  ],
+  "name": "Pensacola",
+  "codename": "USS Pensacola",
+  "class": "Pensacola Class",
+  "nationality": 1,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-1",
+    "Heavy/Special Construction"
+  ],
+  "type": 3,
+  "rarity": 2,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "C",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.45
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.05
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 563,
+    "firepower": 43,
+    "torpedo": 0,
+    "antiair": 37,
+    "aviation": 0,
+    "reload": 59,
+    "accuracy": 39,
+    "evasion": 9,
+    "speed": 26.16,
+    "luck": 75,
+    "asw": 0
+  },
+  "growth": {
+    "health": 3366,
+    "firepower": 235,
+    "torpedo": 0,
+    "antiair": 202,
+    "aviation": 0,
+    "reload": 162,
+    "accuracy": 121,
+    "evasion": 57,
+    "speed": 26.16,
+    "luck": 75,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 42,
+    "reload": 44
+  },
+  "skill": {
+    "2021": {
+      "id": 2021,
+      "parent": 2021,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20211": {
+      "id": 20211,
+      "parent": 20211,
+      "upgrade": 20212,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20212": {
+      "id": 20212,
+      "parent": 20211,
+      "upgrade": null,
+      "downgrade": 20211,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

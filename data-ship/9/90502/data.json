@@ -1,0 +1,151 @@
+{
+  "id": 604,
+  "gid": 90502,
+  "cid": 1,
+  "sid": [
+    905021,
+    905022,
+    905023,
+    905024
+  ],
+  "name": "Clemenceau",
+  "codename": "MNF Clemenceau",
+  "class": "Richelieu Class",
+  "nationality": 9,
+  "obtain": [
+    "Event: The Fool's Scales"
+  ],
+  "type": 5,
+  "rarity": 5,
+  "armor": 3,
+  "hexagon": [
+    "S",
+    "E",
+    "E",
+    "C",
+    "D",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Main gun preload +1",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Secondary Gun base +2",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 103,
+      "slot": 1,
+      "type": [
+        4
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "2": {
+      "default": 101,
+      "slot": 2,
+      "type": [
+        1,
+        2
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 2
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6,
+        21
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 1353,
+    "firepower": 86,
+    "torpedo": 0,
+    "antiair": 57,
+    "aviation": 0,
+    "reload": 62,
+    "accuracy": 24,
+    "evasion": 9,
+    "speed": 32,
+    "luck": 10,
+    "asw": 0
+  },
+  "growth": {
+    "health": 8344,
+    "firepower": 455,
+    "torpedo": 0,
+    "antiair": 310,
+    "aviation": 0,
+    "reload": 171,
+    "accuracy": 71,
+    "evasion": 44,
+    "speed": 32,
+    "luck": 10,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 86,
+    "reload": 46
+  },
+  "skill": {
+    "16960": {
+      "id": 16960,
+      "parent": 16960,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16970": {
+      "id": 16970,
+      "parent": 16970,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "16980": {
+      "id": 16980,
+      "parent": 16980,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 10600100,
+      "gid": 1060010,
+      "name": "Elise",
+      "type": "Default",
+      "desc": "Hm? Where am I... and who are YOU? The... Commander? My name is Elise. I came here to play the role of instructor, but it looks like there have been some complications. Apologies for my forwardness, but would you allow me to stay here for a spell?",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 106,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/1060010/10600100/painting.png",
+      "painting_n": "img/skin/1060010/10600100/painting_n.png",
+      "banner": "img/skin/1060010/10600100/banner.png",
+      "chibi": "img/skin/1060010/10600100/chibi.png",
+      "icon": "img/skin/1060010/10600100/icon.png",
+      "qicon": "img/skin/1060010/10600100/qicon.png",
+      "shipyard": "img/skin/1060010/10600100/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 10600101,
+      "gid": 1060010,
+      "name": "One Divine Afternoon",
+      "type": "Swimsuits",
+      "desc": "What's the matter? You look like you're spacing out... Huh? You think I'm charming? You always know just what to say. If that's how you feel, then... why don't you come and keep me company?",
+      "tag": [
+        "dynamic",
+        "bg",
+        "bgm"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 106,
+      "voice_actor2": -1,
+      "bgm": "audio/bgm/doa-az-story-1.ogg",
+      "background": "img/bgii/701.png",
+      "background2": null,
+      "painting": "img/skin/1060010/10600101/painting.png",
+      "painting_n": "img/skin/1060010/10600101/painting_n.png",
+      "banner": "img/skin/1060010/10600101/banner.png",
+      "chibi": "img/skin/1060010/10600101/chibi.png",
+      "icon": "img/skin/1060010/10600101/icon.png",
+      "qicon": "img/skin/1060010/10600101/qicon.png",
+      "shipyard": "img/skin/1060010/10600101/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

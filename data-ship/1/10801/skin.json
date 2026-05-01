@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 108010,
+      "gid": 10801,
+      "name": "Dace",
+      "type": "Default",
+      "desc": "Gato-class submarine - Dace (SS-247)",
+      "tag": [],
+      "illustrator": 14,
+      "illustrator2": -1,
+      "voice_actor": 124,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10801/108010/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10801/108010/banner.png",
+      "chibi": "img/skin/10801/108010/chibi.png",
+      "icon": "img/skin/10801/108010/icon.png",
+      "qicon": "img/skin/10801/108010/qicon.png",
+      "shipyard": "img/skin/10801/108010/shipyard.png",
+      "spine_chibi": null,
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

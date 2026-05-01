@@ -1,0 +1,170 @@
+{
+  "id": 140,
+  "gid": 20601,
+  "cid": 1,
+  "sid": [
+    206011,
+    206012,
+    206013,
+    206014
+  ],
+  "name": "Hermes",
+  "codename": "HMS Hermes",
+  "class": "Hermes Class",
+  "nationality": 2,
+  "obtain": [
+    "Requisition (random chance)",
+    "Explore Chapter 2-1",
+    "Light/Special Construction"
+  ],
+  "type": 6,
+  "rarity": 2,
+  "armor": 2,
+  "hexagon": [
+    "E",
+    "E",
+    "B",
+    "D",
+    "B",
+    "C"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +3%"
+    ],
+    [
+      "Hangar capacity +1",
+      "Torpedo Bomber efficiency +5%"
+    ],
+    [
+      "All Torpedo Bombers +1",
+      "Torpedo Bomber efficiency +7%"
+    ]
+  ],
+  "retrofit": {
+    "id": 206014,
+    "level": 80,
+    "bonus": {
+      "health": 210,
+      "aviation": 20,
+      "equipment_proficiency_1": 0.1,
+      "equipment_proficiency_2": 0.1,
+      "reload": 20,
+      "equipment_proficiency_3": 0.05,
+      "antiair": 50
+    },
+    "skill": 14008,
+    "skin": 206019,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "B",
+      "D",
+      "B",
+      "B"
+    ]
+  },
+  "equipment": {
+    "1": {
+      "default": 114,
+      "slot": 1,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 114,
+      "slot": 2,
+      "type": [
+        8
+      ],
+      "mount": 3,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.8
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        15
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 687,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 52,
+    "reload": 64,
+    "accuracy": 26,
+    "evasion": 18,
+    "speed": 25,
+    "luck": 41,
+    "asw": 25
+  },
+  "growth": {
+    "health": 4257,
+    "firepower": 0,
+    "torpedo": 0,
+    "antiair": 253,
+    "aviation": 284,
+    "reload": 175,
+    "accuracy": 83,
+    "evasion": 69,
+    "speed": 25,
+    "luck": 41,
+    "asw": 105
+  },
+  "enhance": {
+    "aviation": 52,
+    "reload": 47
+  },
+  "skill": {
+    "3011": {
+      "id": 3011,
+      "parent": 3011,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14008": {
+      "id": 14008,
+      "parent": 14008,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Retrofit"
+    }
+  }
+}

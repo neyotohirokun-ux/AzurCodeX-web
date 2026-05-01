@@ -1,0 +1,157 @@
+{
+  "id": 342,
+  "gid": 10801,
+  "cid": 1,
+  "sid": [
+    108011,
+    108012,
+    108013,
+    108014
+  ],
+  "name": "Dace",
+  "codename": "USS Dace",
+  "class": "Gato Class",
+  "nationality": 1,
+  "obtain": [
+    "Guild Shop"
+  ],
+  "type": 8,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "D",
+    "S",
+    "E",
+    "D",
+    "E",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +10%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 140,
+      "slot": 1,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 140,
+      "slot": 2,
+      "type": [
+        13
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.9
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 273,
+    "firepower": 13,
+    "torpedo": 97,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 33,
+    "accuracy": 61,
+    "evasion": 9,
+    "speed": 16.8,
+    "luck": 68,
+    "asw": 0
+  },
+  "growth": {
+    "health": 7768,
+    "firepower": 182,
+    "torpedo": 1162,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 230,
+    "accuracy": 905,
+    "evasion": 257,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 13,
+    "torpedo": 96,
+    "reload": 25
+  },
+  "skill": {
+    "3511": {
+      "id": 3511,
+      "parent": 3511,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "3581": {
+      "id": 3581,
+      "parent": 3581,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20311": {
+      "id": 20311,
+      "parent": 20311,
+      "upgrade": 20312,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20312": {
+      "id": 20312,
+      "parent": 20311,
+      "upgrade": null,
+      "downgrade": 20311,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

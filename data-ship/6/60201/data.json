@@ -1,0 +1,168 @@
+{
+  "id": 501,
+  "gid": 60201,
+  "cid": 1,
+  "sid": [
+    602011,
+    602012,
+    602013,
+    602014
+  ],
+  "name": "Duca degli Abruzzi",
+  "codename": "RN Duca degli Abruzzi",
+  "class": "Duca degli Abruzzi Class",
+  "nationality": 6,
+  "obtain": [
+    "Event: Daedalian Hymn ",
+    "Light Ship Construction"
+  ],
+  "type": 2,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "B",
+    "B",
+    "E",
+    "B",
+    "B",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 101,
+      "slot": 1,
+      "type": [
+        2
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.6
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 760,
+    "firepower": 29,
+    "torpedo": 60,
+    "antiair": 71,
+    "aviation": 0,
+    "reload": 66,
+    "accuracy": 59,
+    "evasion": 31,
+    "speed": 35.56,
+    "luck": 85,
+    "asw": 23
+  },
+  "growth": {
+    "health": 4460,
+    "firepower": 161,
+    "torpedo": 324,
+    "antiair": 379,
+    "aviation": 0,
+    "reload": 183,
+    "accuracy": 177,
+    "evasion": 113,
+    "speed": 35.56,
+    "luck": 85,
+    "asw": 99
+  },
+  "enhance": {
+    "firepower": 29,
+    "torpedo": 59,
+    "reload": 50
+  },
+  "skill": {
+    "14340": {
+      "id": 14340,
+      "parent": 14340,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14350": {
+      "id": 14350,
+      "parent": 14350,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "14360": {
+      "id": 14360,
+      "parent": 14360,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "29701": {
+      "id": 29701,
+      "parent": 29701,
+      "upgrade": 29702,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "29702": {
+      "id": 29702,
+      "parent": 29701,
+      "upgrade": null,
+      "downgrade": 29701,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

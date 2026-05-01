@@ -1,0 +1,9902 @@
+{
+  "3680": {
+    "name": "12-Pounder Long Gun",
+    "desc": "No description",
+    "label": [
+      "MOT",
+      "SF",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 96,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/3680.png",
+    "stats": {
+      "1": {
+        "id": 3680,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3680
+        ]
+      },
+      "2": {
+        "id": 3681,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3681
+        ]
+      },
+      "3": {
+        "id": 3682,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3682
+        ]
+      },
+      "4": {
+        "id": 3683,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3683
+        ]
+      },
+      "5": {
+        "id": 3684,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3684
+        ]
+      },
+      "6": {
+        "id": 3685,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3685
+        ]
+      },
+      "7": {
+        "id": 3686,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          3686
+        ]
+      }
+    }
+  },
+  "3700": {
+    "name": "12-Pounder Long Gun",
+    "desc": "No description",
+    "label": [
+      "MOT",
+      "SF",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 96,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/3680.png",
+    "stats": {
+      "1": {
+        "id": 3700,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3700
+        ]
+      },
+      "2": {
+        "id": 3701,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3701
+        ]
+      },
+      "3": {
+        "id": 3702,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3702
+        ]
+      },
+      "4": {
+        "id": 3703,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3703
+        ]
+      },
+      "5": {
+        "id": 3704,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3704
+        ]
+      },
+      "6": {
+        "id": 3705,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3705
+        ]
+      },
+      "7": {
+        "id": 3706,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3706
+        ]
+      },
+      "8": {
+        "id": 3707,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3707
+        ]
+      },
+      "9": {
+        "id": 3708,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3708
+        ]
+      },
+      "10": {
+        "id": 3709,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3709
+        ]
+      },
+      "11": {
+        "id": 3710,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          3710
+        ]
+      }
+    }
+  },
+  "3720": {
+    "name": "12-Pounder Long Gun",
+    "desc": "A medium-sized cannon. Capable of firing a wide range of shells, it strikes fear into the hearts of your foes.",
+    "label": [
+      "MOT",
+      "SF",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 96,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/3680.png",
+    "stats": {
+      "1": {
+        "id": 3720,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3720
+        ]
+      },
+      "2": {
+        "id": 3721,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3721
+        ]
+      },
+      "3": {
+        "id": 3722,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3722
+        ]
+      },
+      "4": {
+        "id": 3723,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3723
+        ]
+      },
+      "5": {
+        "id": 3724,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3724
+        ]
+      },
+      "6": {
+        "id": 3725,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3725
+        ]
+      },
+      "7": {
+        "id": 3726,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3726
+        ]
+      },
+      "8": {
+        "id": 3727,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3727
+        ]
+      },
+      "9": {
+        "id": 3728,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "14 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3728
+        ]
+      },
+      "10": {
+        "id": 3729,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3729
+        ]
+      },
+      "11": {
+        "id": 3730,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "16 x 3",
+        "cannon": 35,
+        "weapon_id": [
+          3730
+        ]
+      },
+      "12": {
+        "id": 3731,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "16 x 3",
+        "cannon": 35,
+        "anti_siren": 1,
+        "weapon_id": [
+          3731
+        ]
+      },
+      "13": {
+        "id": 3732,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "16 x 3",
+        "cannon": 35,
+        "anti_siren": 2,
+        "weapon_id": [
+          3732
+        ]
+      },
+      "14": {
+        "id": 3733,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "16 x 3",
+        "cannon": 35,
+        "anti_siren": 3,
+        "weapon_id": [
+          3733
+        ]
+      }
+    }
+  },
+  "7200": {
+    "name": "Single 130mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/7200.png",
+    "stats": {
+      "1": {
+        "id": 7200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7200
+        ]
+      },
+      "2": {
+        "id": 7201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7201
+        ]
+      },
+      "3": {
+        "id": 7202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7202
+        ]
+      },
+      "4": {
+        "id": 7203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          7203
+        ]
+      }
+    }
+  },
+  "7220": {
+    "name": "Single 130mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/7200.png",
+    "stats": {
+      "1": {
+        "id": 7220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7220
+        ]
+      },
+      "2": {
+        "id": 7221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7221
+        ]
+      },
+      "3": {
+        "id": 7222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7222
+        ]
+      },
+      "4": {
+        "id": 7223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7223
+        ]
+      },
+      "5": {
+        "id": 7224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7224
+        ]
+      },
+      "6": {
+        "id": 7225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7225
+        ]
+      },
+      "7": {
+        "id": 7226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          7226
+        ]
+      }
+    }
+  },
+  "7240": {
+    "name": "Single 130mm Naval Gun",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/7200.png",
+    "stats": {
+      "1": {
+        "id": 7240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7240
+        ]
+      },
+      "2": {
+        "id": 7241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7241
+        ]
+      },
+      "3": {
+        "id": 7242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7242
+        ]
+      },
+      "4": {
+        "id": 7243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7243
+        ]
+      },
+      "5": {
+        "id": 7244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7244
+        ]
+      },
+      "6": {
+        "id": 7245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7245
+        ]
+      },
+      "7": {
+        "id": 7246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7246
+        ]
+      },
+      "8": {
+        "id": 7247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7247
+        ]
+      },
+      "9": {
+        "id": 7248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7248
+        ]
+      },
+      "10": {
+        "id": 7249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7249
+        ]
+      },
+      "11": {
+        "id": 7250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          7250
+        ]
+      },
+      "12": {
+        "id": 7251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "17 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          7251
+        ]
+      }
+    }
+  },
+  "7320": {
+    "name": "Quadruple 130mm Mle 1932 Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/7320.png",
+    "stats": {
+      "1": {
+        "id": 7320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7320
+        ]
+      },
+      "2": {
+        "id": 7321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7321
+        ]
+      },
+      "3": {
+        "id": 7322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7322
+        ]
+      },
+      "4": {
+        "id": 7323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7323
+        ]
+      },
+      "5": {
+        "id": 7324,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7324
+        ]
+      },
+      "6": {
+        "id": 7325,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7325
+        ]
+      },
+      "7": {
+        "id": 7326,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7326
+        ]
+      },
+      "8": {
+        "id": 7327,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          7327
+        ]
+      }
+    }
+  },
+  "11000": {
+    "name": "76mm AA Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11000.png",
+    "stats": {
+      "1": {
+        "id": 11000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "weapon_id": [
+          11000
+        ]
+      },
+      "2": {
+        "id": 11001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          11001
+        ]
+      },
+      "3": {
+        "id": 11002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "weapon_id": [
+          11002
+        ]
+      },
+      "4": {
+        "id": 11003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "weapon_id": [
+          11003
+        ]
+      }
+    }
+  },
+  "11020": {
+    "name": "76mm AA Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11000.png",
+    "stats": {
+      "1": {
+        "id": 11020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          11020
+        ]
+      },
+      "2": {
+        "id": 11021,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          11021
+        ]
+      },
+      "3": {
+        "id": 11022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          11022
+        ]
+      },
+      "4": {
+        "id": 11023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          11023
+        ]
+      }
+    }
+  },
+  "11040": {
+    "name": "76mm AA Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11000.png",
+    "stats": {
+      "1": {
+        "id": 11040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11040
+        ]
+      },
+      "2": {
+        "id": 11041,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          11041
+        ]
+      },
+      "3": {
+        "id": 11042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11042
+        ]
+      },
+      "4": {
+        "id": 11043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11043
+        ]
+      },
+      "5": {
+        "id": 11044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11044
+        ]
+      },
+      "6": {
+        "id": 11045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11045
+        ]
+      },
+      "7": {
+        "id": 11046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11046
+        ]
+      },
+      "8": {
+        "id": 11047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          11047
+        ]
+      }
+    }
+  },
+  "11060": {
+    "name": "Early Model Single 127mm Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11060.png",
+    "stats": {
+      "1": {
+        "id": 11060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11060
+        ]
+      },
+      "2": {
+        "id": 11061,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          11061
+        ]
+      },
+      "3": {
+        "id": 11062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11062
+        ]
+      },
+      "4": {
+        "id": 11063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11063
+        ]
+      },
+      "5": {
+        "id": 11064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11064
+        ]
+      },
+      "6": {
+        "id": 11065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11065
+        ]
+      },
+      "7": {
+        "id": 11066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11066
+        ]
+      },
+      "8": {
+        "id": 11067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          11067
+        ]
+      }
+    }
+  },
+  "11100": {
+    "name": "Single 127mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11100.png",
+    "stats": {
+      "1": {
+        "id": 11100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          11100
+        ]
+      },
+      "2": {
+        "id": 11101,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          11101
+        ]
+      },
+      "3": {
+        "id": 11102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          11102
+        ]
+      },
+      "4": {
+        "id": 11103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          11103
+        ]
+      }
+    }
+  },
+  "11120": {
+    "name": "Single 127mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11100.png",
+    "stats": {
+      "1": {
+        "id": 11120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11120
+        ]
+      },
+      "2": {
+        "id": 11121,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          11121
+        ]
+      },
+      "3": {
+        "id": 11122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11122
+        ]
+      },
+      "4": {
+        "id": 11123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11123
+        ]
+      },
+      "5": {
+        "id": 11124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11124
+        ]
+      },
+      "6": {
+        "id": 11125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11125
+        ]
+      },
+      "7": {
+        "id": 11126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          11126
+        ]
+      }
+    }
+  },
+  "11140": {
+    "name": "Single 127mm Main Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11100.png",
+    "stats": {
+      "1": {
+        "id": 11140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11140
+        ]
+      },
+      "2": {
+        "id": 11141,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          11141
+        ]
+      },
+      "3": {
+        "id": 11142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11142
+        ]
+      },
+      "4": {
+        "id": 11143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11143
+        ]
+      },
+      "5": {
+        "id": 11144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11144
+        ]
+      },
+      "6": {
+        "id": 11145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11145
+        ]
+      },
+      "7": {
+        "id": 11146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11146
+        ]
+      },
+      "8": {
+        "id": 11147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11147
+        ]
+      },
+      "9": {
+        "id": 11148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11148
+        ]
+      },
+      "10": {
+        "id": 11149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11149
+        ]
+      },
+      "11": {
+        "id": 11150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          11150
+        ]
+      },
+      "12": {
+        "id": 11151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          11151
+        ]
+      }
+    }
+  },
+  "11160": {
+    "name": "Twin 127mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11160.png",
+    "stats": {
+      "1": {
+        "id": 11160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11160
+        ]
+      },
+      "2": {
+        "id": 11161,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          11161
+        ]
+      },
+      "3": {
+        "id": 11162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11162
+        ]
+      },
+      "4": {
+        "id": 11163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11163
+        ]
+      },
+      "5": {
+        "id": 11164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11164
+        ]
+      },
+      "6": {
+        "id": 11165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11165
+        ]
+      },
+      "7": {
+        "id": 11166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11166
+        ]
+      },
+      "8": {
+        "id": 11167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11167
+        ]
+      },
+      "9": {
+        "id": 11168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11168
+        ]
+      },
+      "10": {
+        "id": 11169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11169
+        ]
+      },
+      "11": {
+        "id": 11170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          11170
+        ]
+      },
+      "12": {
+        "id": 11171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          11171
+        ]
+      }
+    }
+  },
+  "11200": {
+    "name": "Twin 127mm Mk 12 Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11200.png",
+    "stats": {
+      "1": {
+        "id": 11200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11200
+        ]
+      },
+      "2": {
+        "id": 11201,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11201
+        ]
+      },
+      "3": {
+        "id": 11202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11202
+        ]
+      },
+      "4": {
+        "id": 11203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11203
+        ]
+      },
+      "5": {
+        "id": 11204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11204
+        ]
+      },
+      "6": {
+        "id": 11205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11205
+        ]
+      },
+      "7": {
+        "id": 11206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          11206
+        ]
+      }
+    }
+  },
+  "11220": {
+    "name": "Twin 127mm Mk 12 Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11200.png",
+    "stats": {
+      "1": {
+        "id": 11220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11220
+        ]
+      },
+      "2": {
+        "id": 11221,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11221
+        ]
+      },
+      "3": {
+        "id": 11222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11222
+        ]
+      },
+      "4": {
+        "id": 11223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11223
+        ]
+      },
+      "5": {
+        "id": 11224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11224
+        ]
+      },
+      "6": {
+        "id": 11225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11225
+        ]
+      },
+      "7": {
+        "id": 11226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11226
+        ]
+      },
+      "8": {
+        "id": 11227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11227
+        ]
+      },
+      "9": {
+        "id": 11228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "12 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11228
+        ]
+      },
+      "10": {
+        "id": 11229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "13 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11229
+        ]
+      },
+      "11": {
+        "id": 11230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "14 x 4",
+        "cannon": 11,
+        "antiaircraft": 14,
+        "weapon_id": [
+          11230
+        ]
+      }
+    }
+  },
+  "11240": {
+    "name": "Twin 127mm Mk 12 Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11200.png",
+    "stats": {
+      "1": {
+        "id": 11240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11240
+        ]
+      },
+      "2": {
+        "id": 11241,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11241
+        ]
+      },
+      "3": {
+        "id": 11242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11242
+        ]
+      },
+      "4": {
+        "id": 11243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11243
+        ]
+      },
+      "5": {
+        "id": 11244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11244
+        ]
+      },
+      "6": {
+        "id": 11245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11245
+        ]
+      },
+      "7": {
+        "id": 11246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11246
+        ]
+      },
+      "8": {
+        "id": 11247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11247
+        ]
+      },
+      "9": {
+        "id": 11248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11248
+        ]
+      },
+      "10": {
+        "id": 11249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11249
+        ]
+      },
+      "11": {
+        "id": 11250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          11250
+        ]
+      },
+      "12": {
+        "id": 11251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          11251
+        ]
+      },
+      "13": {
+        "id": 11252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "15 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 2,
+        "weapon_id": [
+          11252
+        ]
+      },
+      "14": {
+        "id": 11253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "15 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 3,
+        "weapon_id": [
+          11253
+        ]
+      }
+    }
+  },
+  "11260": {
+    "name": "Prototype Twin 137mm Mk 1 Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/11260.png",
+    "stats": {
+      "1": {
+        "id": 11260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "8 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11260
+        ]
+      },
+      "2": {
+        "id": 11261,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "9 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11261
+        ]
+      },
+      "3": {
+        "id": 11262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11262
+        ]
+      },
+      "4": {
+        "id": 11263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11263
+        ]
+      },
+      "5": {
+        "id": 11264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11264
+        ]
+      },
+      "6": {
+        "id": 11265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11265
+        ]
+      },
+      "7": {
+        "id": 11266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11266
+        ]
+      },
+      "8": {
+        "id": 11267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11267
+        ]
+      },
+      "9": {
+        "id": 11268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11268
+        ]
+      },
+      "10": {
+        "id": 11269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11269
+        ]
+      },
+      "11": {
+        "id": 11270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          11270
+        ]
+      },
+      "12": {
+        "id": 11271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 1,
+        "weapon_id": [
+          11271
+        ]
+      },
+      "13": {
+        "id": 11272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "18 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 2,
+        "weapon_id": [
+          11272
+        ]
+      },
+      "14": {
+        "id": 11273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "18 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 3,
+        "weapon_id": [
+          11273
+        ]
+      }
+    }
+  },
+  "21000": {
+    "name": "Single 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21000.png",
+    "stats": {
+      "1": {
+        "id": 21000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "weapon_id": [
+          21000
+        ]
+      },
+      "2": {
+        "id": 21001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          21001
+        ]
+      },
+      "3": {
+        "id": 21002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "weapon_id": [
+          21002
+        ]
+      },
+      "4": {
+        "id": 21003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "weapon_id": [
+          21003
+        ]
+      }
+    }
+  },
+  "21020": {
+    "name": "Single 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21000.png",
+    "stats": {
+      "1": {
+        "id": 21020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21020
+        ]
+      },
+      "2": {
+        "id": 21021,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          21021
+        ]
+      },
+      "3": {
+        "id": 21022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21022
+        ]
+      },
+      "4": {
+        "id": 21023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21023
+        ]
+      }
+    }
+  },
+  "21040": {
+    "name": "Single 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21000.png",
+    "stats": {
+      "1": {
+        "id": 21040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21040
+        ]
+      },
+      "2": {
+        "id": 21041,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          21041
+        ]
+      },
+      "3": {
+        "id": 21042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21042
+        ]
+      },
+      "4": {
+        "id": 21043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21043
+        ]
+      },
+      "5": {
+        "id": 21044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21044
+        ]
+      },
+      "6": {
+        "id": 21045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21045
+        ]
+      },
+      "7": {
+        "id": 21046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21046
+        ]
+      },
+      "8": {
+        "id": 21047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21047
+        ]
+      }
+    }
+  },
+  "21100": {
+    "name": "Twin 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21100.png",
+    "stats": {
+      "1": {
+        "id": 21100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "weapon_id": [
+          21100
+        ]
+      },
+      "2": {
+        "id": 21101,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          21101
+        ]
+      },
+      "3": {
+        "id": 21102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "weapon_id": [
+          21102
+        ]
+      },
+      "4": {
+        "id": 21103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "weapon_id": [
+          21103
+        ]
+      }
+    }
+  },
+  "21120": {
+    "name": "Twin 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21100.png",
+    "stats": {
+      "1": {
+        "id": 21120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          21120
+        ]
+      },
+      "2": {
+        "id": 21121,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          21121
+        ]
+      },
+      "3": {
+        "id": 21122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          21122
+        ]
+      },
+      "4": {
+        "id": 21123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          21123
+        ]
+      }
+    }
+  },
+  "21140": {
+    "name": "Twin 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21100.png",
+    "stats": {
+      "1": {
+        "id": 21140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21140
+        ]
+      },
+      "2": {
+        "id": 21141,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          21141
+        ]
+      },
+      "3": {
+        "id": 21142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21142
+        ]
+      },
+      "4": {
+        "id": 21143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21143
+        ]
+      },
+      "5": {
+        "id": 21144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21144
+        ]
+      },
+      "6": {
+        "id": 21145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21145
+        ]
+      },
+      "7": {
+        "id": 21146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21146
+        ]
+      },
+      "8": {
+        "id": 21147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "7 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          21147
+        ]
+      }
+    }
+  },
+  "21160": {
+    "name": "Twin 102mm Mk XVI Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21160.png",
+    "stats": {
+      "1": {
+        "id": 21160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21160
+        ]
+      },
+      "2": {
+        "id": 21161,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          21161
+        ]
+      },
+      "3": {
+        "id": 21162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21162
+        ]
+      },
+      "4": {
+        "id": 21163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21163
+        ]
+      },
+      "5": {
+        "id": 21164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21164
+        ]
+      },
+      "6": {
+        "id": 21165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21165
+        ]
+      },
+      "7": {
+        "id": 21166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21166
+        ]
+      },
+      "8": {
+        "id": 21167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21167
+        ]
+      },
+      "9": {
+        "id": 21168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "9 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21168
+        ]
+      },
+      "10": {
+        "id": 21169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "9 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21169
+        ]
+      },
+      "11": {
+        "id": 21170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "10 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          21170
+        ]
+      },
+      "12": {
+        "id": 21171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "10 x 2",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          21171
+        ]
+      }
+    }
+  },
+  "21200": {
+    "name": "Triple 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21200.png",
+    "stats": {
+      "1": {
+        "id": 21200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          21200
+        ]
+      },
+      "2": {
+        "id": 21201,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          21201
+        ]
+      },
+      "3": {
+        "id": 21202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          21202
+        ]
+      },
+      "4": {
+        "id": 21203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 3",
+        "cannon": 5,
+        "weapon_id": [
+          21203
+        ]
+      }
+    }
+  },
+  "21220": {
+    "name": "Triple 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21200.png",
+    "stats": {
+      "1": {
+        "id": 21220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21220
+        ]
+      },
+      "2": {
+        "id": 21221,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          21221
+        ]
+      },
+      "3": {
+        "id": 21222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21222
+        ]
+      },
+      "4": {
+        "id": 21223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21223
+        ]
+      },
+      "5": {
+        "id": 21224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21224
+        ]
+      },
+      "6": {
+        "id": 21225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21225
+        ]
+      },
+      "7": {
+        "id": 21226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          21226
+        ]
+      }
+    }
+  },
+  "21240": {
+    "name": "Triple 102mm Secondary Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21200.png",
+    "stats": {
+      "1": {
+        "id": 21240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21240
+        ]
+      },
+      "2": {
+        "id": 21241,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          21241
+        ]
+      },
+      "3": {
+        "id": 21242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21242
+        ]
+      },
+      "4": {
+        "id": 21243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21243
+        ]
+      },
+      "5": {
+        "id": 21244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21244
+        ]
+      },
+      "6": {
+        "id": 21245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "5 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21245
+        ]
+      },
+      "7": {
+        "id": 21246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21246
+        ]
+      },
+      "8": {
+        "id": 21247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21247
+        ]
+      },
+      "9": {
+        "id": 21248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21248
+        ]
+      },
+      "10": {
+        "id": 21249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "9 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21249
+        ]
+      },
+      "11": {
+        "id": 21250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          21250
+        ]
+      },
+      "12": {
+        "id": 21251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "10 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          21251
+        ]
+      }
+    }
+  },
+  "21300": {
+    "name": "Single 120mm QF Mark IX Naval Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21300.png",
+    "stats": {
+      "1": {
+        "id": 21300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "weapon_id": [
+          21300
+        ]
+      },
+      "2": {
+        "id": 21301,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          21301
+        ]
+      },
+      "3": {
+        "id": 21302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 1",
+        "weapon_id": [
+          21302
+        ]
+      },
+      "4": {
+        "id": 21303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 1",
+        "weapon_id": [
+          21303
+        ]
+      }
+    }
+  },
+  "21320": {
+    "name": "Single 120mm QF Mark IX Naval Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21300.png",
+    "stats": {
+      "1": {
+        "id": 21320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21320
+        ]
+      },
+      "2": {
+        "id": 21321,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          21321
+        ]
+      },
+      "3": {
+        "id": 21322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21322
+        ]
+      },
+      "4": {
+        "id": 21323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          21323
+        ]
+      }
+    }
+  },
+  "21340": {
+    "name": "Single 120mm QF Mark IX Naval Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21300.png",
+    "stats": {
+      "1": {
+        "id": 21340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21340
+        ]
+      },
+      "2": {
+        "id": 21341,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          21341
+        ]
+      },
+      "3": {
+        "id": 21342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21342
+        ]
+      },
+      "4": {
+        "id": 21343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21343
+        ]
+      },
+      "5": {
+        "id": 21344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21344
+        ]
+      },
+      "6": {
+        "id": 21345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21345
+        ]
+      },
+      "7": {
+        "id": 21346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21346
+        ]
+      },
+      "8": {
+        "id": 21347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          21347
+        ]
+      }
+    }
+  },
+  "21400": {
+    "name": "Twin 120mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21400.png",
+    "stats": {
+      "1": {
+        "id": 21400,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          21400
+        ]
+      },
+      "2": {
+        "id": 21401,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          21401
+        ]
+      },
+      "3": {
+        "id": 21402,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          21402
+        ]
+      },
+      "4": {
+        "id": 21403,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          21403
+        ]
+      }
+    }
+  },
+  "21420": {
+    "name": "Twin 120mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21400.png",
+    "stats": {
+      "1": {
+        "id": 21420,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21420
+        ]
+      },
+      "2": {
+        "id": 21421,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          21421
+        ]
+      },
+      "3": {
+        "id": 21422,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21422
+        ]
+      },
+      "4": {
+        "id": 21423,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21423
+        ]
+      },
+      "5": {
+        "id": 21424,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21424
+        ]
+      },
+      "6": {
+        "id": 21425,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21425
+        ]
+      },
+      "7": {
+        "id": 21426,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          21426
+        ]
+      }
+    }
+  },
+  "21440": {
+    "name": "Twin 120mm Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21400.png",
+    "stats": {
+      "1": {
+        "id": 21440,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21440
+        ]
+      },
+      "2": {
+        "id": 21441,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          21441
+        ]
+      },
+      "3": {
+        "id": 21442,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21442
+        ]
+      },
+      "4": {
+        "id": 21443,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21443
+        ]
+      },
+      "5": {
+        "id": 21444,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21444
+        ]
+      },
+      "6": {
+        "id": 21445,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21445
+        ]
+      },
+      "7": {
+        "id": 21446,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21446
+        ]
+      },
+      "8": {
+        "id": 21447,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21447
+        ]
+      },
+      "9": {
+        "id": 21448,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21448
+        ]
+      },
+      "10": {
+        "id": 21449,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21449
+        ]
+      },
+      "11": {
+        "id": 21450,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          21450
+        ]
+      },
+      "12": {
+        "id": 21451,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          21451
+        ]
+      }
+    }
+  },
+  "21460": {
+    "name": "Twin 120mm Mk XI Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21460.png",
+    "stats": {
+      "1": {
+        "id": 21460,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21460
+        ]
+      },
+      "2": {
+        "id": 21461,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21461
+        ]
+      },
+      "3": {
+        "id": 21462,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21462
+        ]
+      },
+      "4": {
+        "id": 21463,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21463
+        ]
+      },
+      "5": {
+        "id": 21464,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21464
+        ]
+      },
+      "6": {
+        "id": 21465,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21465
+        ]
+      },
+      "7": {
+        "id": 21466,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21466
+        ]
+      },
+      "8": {
+        "id": 21467,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21467
+        ]
+      },
+      "9": {
+        "id": 21468,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "14 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21468
+        ]
+      },
+      "10": {
+        "id": 21469,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21469
+        ]
+      },
+      "11": {
+        "id": 21470,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "weapon_id": [
+          21470
+        ]
+      },
+      "12": {
+        "id": 21471,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "17 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          21471
+        ]
+      },
+      "13": {
+        "id": 21472,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "17 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 2,
+        "weapon_id": [
+          21472
+        ]
+      },
+      "14": {
+        "id": 21473,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "17 x 4",
+        "cannon": 20,
+        "antiaircraft": 25,
+        "anti_siren": 3,
+        "weapon_id": [
+          21473
+        ]
+      }
+    }
+  },
+  "21500": {
+    "name": "Twin 134mm High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21500.png",
+    "stats": {
+      "1": {
+        "id": 21500,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 2",
+        "cannon": 2,
+        "antiaircraft": 3,
+        "weapon_id": [
+          21500
+        ]
+      },
+      "2": {
+        "id": 21501,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 2,
+        "antiaircraft": 3,
+        "weapon_id": [
+          21501
+        ]
+      },
+      "3": {
+        "id": 21502,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 2",
+        "cannon": 2,
+        "antiaircraft": 3,
+        "weapon_id": [
+          21502
+        ]
+      },
+      "4": {
+        "id": 21503,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 2",
+        "cannon": 2,
+        "antiaircraft": 3,
+        "weapon_id": [
+          21503
+        ]
+      }
+    }
+  },
+  "21520": {
+    "name": "Twin 134mm High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21500.png",
+    "stats": {
+      "1": {
+        "id": 21520,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21520
+        ]
+      },
+      "2": {
+        "id": 21521,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21521
+        ]
+      },
+      "3": {
+        "id": 21522,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21522
+        ]
+      },
+      "4": {
+        "id": 21523,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21523
+        ]
+      },
+      "5": {
+        "id": 21524,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21524
+        ]
+      },
+      "6": {
+        "id": 21525,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21525
+        ]
+      },
+      "7": {
+        "id": 21526,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          21526
+        ]
+      }
+    }
+  },
+  "21540": {
+    "name": "Twin 134mm High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21500.png",
+    "stats": {
+      "1": {
+        "id": 21540,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21540
+        ]
+      },
+      "2": {
+        "id": 21541,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21541
+        ]
+      },
+      "3": {
+        "id": 21542,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21542
+        ]
+      },
+      "4": {
+        "id": 21543,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21543
+        ]
+      },
+      "5": {
+        "id": 21544,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21544
+        ]
+      },
+      "6": {
+        "id": 21545,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21545
+        ]
+      },
+      "7": {
+        "id": 21546,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21546
+        ]
+      },
+      "8": {
+        "id": 21547,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21547
+        ]
+      },
+      "9": {
+        "id": 21548,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "10 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21548
+        ]
+      },
+      "10": {
+        "id": 21549,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "10 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21549
+        ]
+      },
+      "11": {
+        "id": 21550,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "11 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          21550
+        ]
+      },
+      "12": {
+        "id": 21551,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "11 x 2",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          21551
+        ]
+      }
+    }
+  },
+  "21600": {
+    "name": "Twin 114mm Dual-Purpose Mark IV",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21600.png",
+    "stats": {
+      "1": {
+        "id": 21600,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21600
+        ]
+      },
+      "2": {
+        "id": 21601,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21601
+        ]
+      },
+      "3": {
+        "id": 21602,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21602
+        ]
+      },
+      "4": {
+        "id": 21603,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21603
+        ]
+      },
+      "5": {
+        "id": 21604,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21604
+        ]
+      },
+      "6": {
+        "id": 21605,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21605
+        ]
+      },
+      "7": {
+        "id": 21606,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21606
+        ]
+      },
+      "8": {
+        "id": 21607,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21607
+        ]
+      },
+      "9": {
+        "id": 21608,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21608
+        ]
+      },
+      "10": {
+        "id": 21609,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21609
+        ]
+      },
+      "11": {
+        "id": 21610,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21610
+        ]
+      },
+      "12": {
+        "id": 21611,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 1,
+        "weapon_id": [
+          21611
+        ]
+      },
+      "13": {
+        "id": 21612,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 2,
+        "weapon_id": [
+          21612
+        ]
+      },
+      "14": {
+        "id": 21613,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 3,
+        "weapon_id": [
+          21613
+        ]
+      }
+    }
+  },
+  "21620": {
+    "name": "Single 113mm Dual-Purpose Mark IV Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/21620.png",
+    "stats": {
+      "1": {
+        "id": 21620,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21620
+        ]
+      },
+      "2": {
+        "id": 21621,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21621
+        ]
+      },
+      "3": {
+        "id": 21622,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21622
+        ]
+      },
+      "4": {
+        "id": 21623,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21623
+        ]
+      },
+      "5": {
+        "id": 21624,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21624
+        ]
+      },
+      "6": {
+        "id": 21625,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21625
+        ]
+      },
+      "7": {
+        "id": 21626,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21626
+        ]
+      },
+      "8": {
+        "id": 21627,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21627
+        ]
+      },
+      "9": {
+        "id": 21628,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "11 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21628
+        ]
+      },
+      "10": {
+        "id": 21629,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "12 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21629
+        ]
+      },
+      "11": {
+        "id": 21630,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "13 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "weapon_id": [
+          21630
+        ]
+      },
+      "12": {
+        "id": 21631,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "13 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 1,
+        "weapon_id": [
+          21631
+        ]
+      },
+      "13": {
+        "id": 21632,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "13 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 2,
+        "weapon_id": [
+          21632
+        ]
+      },
+      "14": {
+        "id": 21633,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "13 x 1",
+        "cannon": 25,
+        "antiaircraft": 20,
+        "anti_siren": 3,
+        "weapon_id": [
+          21633
+        ]
+      }
+    }
+  },
+  "31000": {
+    "name": "Twin 100mm Type 98 High-Angle Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31000.png",
+    "stats": {
+      "1": {
+        "id": 31000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31000
+        ]
+      },
+      "2": {
+        "id": 31001,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31001
+        ]
+      },
+      "3": {
+        "id": 31002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31002
+        ]
+      },
+      "4": {
+        "id": 31003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31003
+        ]
+      },
+      "5": {
+        "id": 31004,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "6 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31004
+        ]
+      },
+      "6": {
+        "id": 31005,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31005
+        ]
+      },
+      "7": {
+        "id": 31006,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 4",
+        "cannon": 4,
+        "antiaircraft": 8,
+        "weapon_id": [
+          31006
+        ]
+      }
+    }
+  },
+  "31020": {
+    "name": "Twin 100mm Type 98 High-Angle Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31000.png",
+    "stats": {
+      "1": {
+        "id": 31020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31020
+        ]
+      },
+      "2": {
+        "id": 31021,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31021
+        ]
+      },
+      "3": {
+        "id": 31022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31022
+        ]
+      },
+      "4": {
+        "id": 31023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31023
+        ]
+      },
+      "5": {
+        "id": 31024,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31024
+        ]
+      },
+      "6": {
+        "id": 31025,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31025
+        ]
+      },
+      "7": {
+        "id": 31026,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31026
+        ]
+      },
+      "8": {
+        "id": 31027,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31027
+        ]
+      },
+      "9": {
+        "id": 31028,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "9 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31028
+        ]
+      },
+      "10": {
+        "id": 31029,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "10 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31029
+        ]
+      },
+      "11": {
+        "id": 31030,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "11 x 4",
+        "cannon": 9,
+        "antiaircraft": 16,
+        "weapon_id": [
+          31030
+        ]
+      }
+    }
+  },
+  "31040": {
+    "name": "Twin 100mm Type 98 High-Angle Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31000.png",
+    "stats": {
+      "1": {
+        "id": 31040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31040
+        ]
+      },
+      "2": {
+        "id": 31041,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31041
+        ]
+      },
+      "3": {
+        "id": 31042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31042
+        ]
+      },
+      "4": {
+        "id": 31043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31043
+        ]
+      },
+      "5": {
+        "id": 31044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31044
+        ]
+      },
+      "6": {
+        "id": 31045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31045
+        ]
+      },
+      "7": {
+        "id": 31046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31046
+        ]
+      },
+      "8": {
+        "id": 31047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31047
+        ]
+      },
+      "9": {
+        "id": 31048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "10 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31048
+        ]
+      },
+      "10": {
+        "id": 31049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "11 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31049
+        ]
+      },
+      "11": {
+        "id": 31050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "12 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "weapon_id": [
+          31050
+        ]
+      },
+      "12": {
+        "id": 31051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "12 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "anti_siren": 1,
+        "weapon_id": [
+          31051
+        ]
+      },
+      "13": {
+        "id": 31052,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "12 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "anti_siren": 2,
+        "weapon_id": [
+          31052
+        ]
+      },
+      "14": {
+        "id": 31053,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "12 x 4",
+        "cannon": 15,
+        "antiaircraft": 30,
+        "anti_siren": 3,
+        "weapon_id": [
+          31053
+        ]
+      }
+    }
+  },
+  "31060": {
+    "name": "Single 100mm Type 88 Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31060.png",
+    "stats": {
+      "1": {
+        "id": 31060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31060
+        ]
+      },
+      "2": {
+        "id": 31061,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 10,
+        "weapon_id": [
+          31061
+        ]
+      },
+      "3": {
+        "id": 31062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31062
+        ]
+      },
+      "4": {
+        "id": 31063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31063
+        ]
+      },
+      "5": {
+        "id": 31064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "6 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31064
+        ]
+      },
+      "6": {
+        "id": 31065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "6 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31065
+        ]
+      },
+      "7": {
+        "id": 31066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31066
+        ]
+      },
+      "8": {
+        "id": 31067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "7 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31067
+        ]
+      },
+      "9": {
+        "id": 31068,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "8 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31068
+        ]
+      },
+      "10": {
+        "id": 31069,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "8 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31069
+        ]
+      },
+      "11": {
+        "id": 31070,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "9 x 4",
+        "cannon": 10,
+        "weapon_id": [
+          31070
+        ]
+      },
+      "12": {
+        "id": 31071,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "9 x 4",
+        "cannon": 10,
+        "anti_siren": 1,
+        "weapon_id": [
+          31071
+        ]
+      }
+    }
+  },
+  "31080": {
+    "name": "Twin 100mm Type 98 Kai High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 6,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31080.png",
+    "stats": {
+      "1": {
+        "id": 31080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31080
+        ]
+      },
+      "2": {
+        "id": 31081,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31081
+        ]
+      },
+      "3": {
+        "id": 31082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31082
+        ]
+      },
+      "4": {
+        "id": 31083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31083
+        ]
+      },
+      "5": {
+        "id": 31084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31084
+        ]
+      },
+      "6": {
+        "id": 31085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31085
+        ]
+      },
+      "7": {
+        "id": 31086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31086
+        ]
+      },
+      "8": {
+        "id": 31087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31087
+        ]
+      },
+      "9": {
+        "id": 31088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31088
+        ]
+      },
+      "10": {
+        "id": 31089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31089
+        ]
+      },
+      "11": {
+        "id": 31090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "weapon_id": [
+          31090
+        ]
+      },
+      "12": {
+        "id": 31091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "anti_siren": 1,
+        "weapon_id": [
+          31091
+        ]
+      },
+      "13": {
+        "id": 31092,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "anti_siren": 2,
+        "weapon_id": [
+          31092
+        ]
+      },
+      "14": {
+        "id": 31093,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "antiaircraft": 40,
+        "anti_siren": 3,
+        "weapon_id": [
+          31093
+        ]
+      }
+    }
+  },
+  "31100": {
+    "name": "Single 120mm Type 3 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31100.png",
+    "stats": {
+      "1": {
+        "id": 31100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "weapon_id": [
+          31100
+        ]
+      },
+      "2": {
+        "id": 31101,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          31101
+        ]
+      },
+      "3": {
+        "id": 31102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "weapon_id": [
+          31102
+        ]
+      },
+      "4": {
+        "id": 31103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "weapon_id": [
+          31103
+        ]
+      }
+    }
+  },
+  "31120": {
+    "name": "Single 120mm Type 3 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31100.png",
+    "stats": {
+      "1": {
+        "id": 31120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          31120
+        ]
+      },
+      "2": {
+        "id": 31121,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          31121
+        ]
+      },
+      "3": {
+        "id": 31122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          31122
+        ]
+      },
+      "4": {
+        "id": 31123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          31123
+        ]
+      }
+    }
+  },
+  "31140": {
+    "name": "Single 120mm Type 3 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31100.png",
+    "stats": {
+      "1": {
+        "id": 31140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31140
+        ]
+      },
+      "2": {
+        "id": 31141,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          31141
+        ]
+      },
+      "3": {
+        "id": 31142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31142
+        ]
+      },
+      "4": {
+        "id": 31143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31143
+        ]
+      },
+      "5": {
+        "id": 31144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31144
+        ]
+      },
+      "6": {
+        "id": 31145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31145
+        ]
+      },
+      "7": {
+        "id": 31146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31146
+        ]
+      },
+      "8": {
+        "id": 31147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          31147
+        ]
+      }
+    }
+  },
+  "31160": {
+    "name": "Single 120mm 11th Year Type Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31160.png",
+    "stats": {
+      "1": {
+        "id": 31160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31160
+        ]
+      },
+      "2": {
+        "id": 31161,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          31161
+        ]
+      },
+      "3": {
+        "id": 31162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31162
+        ]
+      },
+      "4": {
+        "id": 31163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31163
+        ]
+      },
+      "5": {
+        "id": 31164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31164
+        ]
+      },
+      "6": {
+        "id": 31165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31165
+        ]
+      },
+      "7": {
+        "id": 31166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31166
+        ]
+      },
+      "8": {
+        "id": 31167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          31167
+        ]
+      }
+    }
+  },
+  "31180": {
+    "name": "Single 120mm High-Angle Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31180.png",
+    "stats": {
+      "1": {
+        "id": 31180,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31180
+        ]
+      },
+      "2": {
+        "id": 31181,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31181
+        ]
+      },
+      "3": {
+        "id": 31182,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31182
+        ]
+      },
+      "4": {
+        "id": 31183,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31183
+        ]
+      },
+      "5": {
+        "id": 31184,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31184
+        ]
+      },
+      "6": {
+        "id": 31185,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31185
+        ]
+      },
+      "7": {
+        "id": 31186,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31186
+        ]
+      },
+      "8": {
+        "id": 31187,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31187
+        ]
+      },
+      "9": {
+        "id": 31188,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "9 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31188
+        ]
+      },
+      "10": {
+        "id": 31189,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "10 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31189
+        ]
+      },
+      "11": {
+        "id": 31190,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "11 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31190
+        ]
+      },
+      "12": {
+        "id": 31191,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "11 x 3",
+        "cannon": 10,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          31191
+        ]
+      }
+    }
+  },
+  "31200": {
+    "name": "Twin 127mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31200.png",
+    "stats": {
+      "1": {
+        "id": 31200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          31200
+        ]
+      },
+      "2": {
+        "id": 31201,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          31201
+        ]
+      },
+      "3": {
+        "id": 31202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          31202
+        ]
+      },
+      "4": {
+        "id": 31203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          31203
+        ]
+      }
+    }
+  },
+  "31220": {
+    "name": "Twin 127mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31200.png",
+    "stats": {
+      "1": {
+        "id": 31220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31220
+        ]
+      },
+      "2": {
+        "id": 31221,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          31221
+        ]
+      },
+      "3": {
+        "id": 31222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31222
+        ]
+      },
+      "4": {
+        "id": 31223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31223
+        ]
+      },
+      "5": {
+        "id": 31224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31224
+        ]
+      },
+      "6": {
+        "id": 31225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31225
+        ]
+      },
+      "7": {
+        "id": 31226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          31226
+        ]
+      }
+    }
+  },
+  "31240": {
+    "name": "Twin 127mm Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31200.png",
+    "stats": {
+      "1": {
+        "id": 31240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31240
+        ]
+      },
+      "2": {
+        "id": 31241,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          31241
+        ]
+      },
+      "3": {
+        "id": 31242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31242
+        ]
+      },
+      "4": {
+        "id": 31243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31243
+        ]
+      },
+      "5": {
+        "id": 31244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31244
+        ]
+      },
+      "6": {
+        "id": 31245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31245
+        ]
+      },
+      "7": {
+        "id": 31246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31246
+        ]
+      },
+      "8": {
+        "id": 31247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31247
+        ]
+      },
+      "9": {
+        "id": 31248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31248
+        ]
+      },
+      "10": {
+        "id": 31249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31249
+        ]
+      },
+      "11": {
+        "id": 31250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31250
+        ]
+      },
+      "12": {
+        "id": 31251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          31251
+        ]
+      }
+    }
+  },
+  "31260": {
+    "name": "Single 127mm Dual-Purpose Gun",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31260.png",
+    "stats": {
+      "1": {
+        "id": 31260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31260
+        ]
+      },
+      "2": {
+        "id": 31261,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31261
+        ]
+      },
+      "3": {
+        "id": 31262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31262
+        ]
+      },
+      "4": {
+        "id": 31263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31263
+        ]
+      },
+      "5": {
+        "id": 31264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31264
+        ]
+      },
+      "6": {
+        "id": 31265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31265
+        ]
+      },
+      "7": {
+        "id": 31266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31266
+        ]
+      },
+      "8": {
+        "id": 31267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 2",
+        "cannon": 5,
+        "antiaircraft": 7,
+        "weapon_id": [
+          31267
+        ]
+      }
+    }
+  },
+  "31280": {
+    "name": "Twin 127mm Type 3 Kai Naval Gun Mount",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31280.png",
+    "stats": {
+      "1": {
+        "id": 31280,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31280
+        ]
+      },
+      "2": {
+        "id": 31281,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31281
+        ]
+      },
+      "3": {
+        "id": 31282,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31282
+        ]
+      },
+      "4": {
+        "id": 31283,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31283
+        ]
+      },
+      "5": {
+        "id": 31284,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31284
+        ]
+      },
+      "6": {
+        "id": 31285,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31285
+        ]
+      },
+      "7": {
+        "id": 31286,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31286
+        ]
+      },
+      "8": {
+        "id": 31287,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31287
+        ]
+      },
+      "9": {
+        "id": 31288,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31288
+        ]
+      },
+      "10": {
+        "id": 31289,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31289
+        ]
+      },
+      "11": {
+        "id": 31290,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          31290
+        ]
+      },
+      "12": {
+        "id": 31291,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          31291
+        ]
+      }
+    }
+  },
+  "31300": {
+    "name": "Twin 127mm Gun Mount (Type D)",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/31300.png",
+    "stats": {
+      "1": {
+        "id": 31300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31300
+        ]
+      },
+      "2": {
+        "id": 31301,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31301
+        ]
+      },
+      "3": {
+        "id": 31302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31302
+        ]
+      },
+      "4": {
+        "id": 31303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31303
+        ]
+      },
+      "5": {
+        "id": 31304,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31304
+        ]
+      },
+      "6": {
+        "id": 31305,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31305
+        ]
+      },
+      "7": {
+        "id": 31306,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31306
+        ]
+      },
+      "8": {
+        "id": 31307,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31307
+        ]
+      },
+      "9": {
+        "id": 31308,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31308
+        ]
+      },
+      "10": {
+        "id": 31309,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31309
+        ]
+      },
+      "11": {
+        "id": 31310,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31310
+        ]
+      },
+      "12": {
+        "id": 31311,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          31311
+        ]
+      },
+      "13": {
+        "id": 31312,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          31312
+        ]
+      },
+      "14": {
+        "id": 31313,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          31313
+        ]
+      }
+    }
+  },
+  "41000": {
+    "name": "Single 127mm Main Gun",
+    "desc": "Single 127mm Main Guns may be used by most destroyers.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 1,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41000.png",
+    "stats": {
+      "1": {
+        "id": 41000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "weapon_id": [
+          41000
+        ]
+      },
+      "2": {
+        "id": 41001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          41001
+        ]
+      },
+      "3": {
+        "id": 41002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 1",
+        "weapon_id": [
+          41002
+        ]
+      },
+      "4": {
+        "id": 41003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 1",
+        "weapon_id": [
+          41003
+        ]
+      }
+    }
+  },
+  "41020": {
+    "name": "Single 127mm Main Gun",
+    "desc": "Single 127mm Main Guns may be used by most destroyers.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41000.png",
+    "stats": {
+      "1": {
+        "id": 41020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          41020
+        ]
+      },
+      "2": {
+        "id": 41021,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          41021
+        ]
+      },
+      "3": {
+        "id": 41022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          41022
+        ]
+      },
+      "4": {
+        "id": 41023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 1",
+        "cannon": 5,
+        "weapon_id": [
+          41023
+        ]
+      }
+    }
+  },
+  "41040": {
+    "name": "Single 127mm Main Gun",
+    "desc": "Single 127mm Main Guns may be used by most destroyers.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41000.png",
+    "stats": {
+      "1": {
+        "id": 41040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41040
+        ]
+      },
+      "2": {
+        "id": 41041,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          41041
+        ]
+      },
+      "3": {
+        "id": 41042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41042
+        ]
+      },
+      "4": {
+        "id": 41043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41043
+        ]
+      },
+      "5": {
+        "id": 41044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41044
+        ]
+      },
+      "6": {
+        "id": 41045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41045
+        ]
+      },
+      "7": {
+        "id": 41046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41046
+        ]
+      },
+      "8": {
+        "id": 41047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 1",
+        "cannon": 12,
+        "weapon_id": [
+          41047
+        ]
+      }
+    }
+  },
+  "41060": {
+    "name": "Twin 127mm KM40 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41060.png",
+    "stats": {
+      "1": {
+        "id": 41060,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41060
+        ]
+      },
+      "2": {
+        "id": 41061,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41061
+        ]
+      },
+      "3": {
+        "id": 41062,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41062
+        ]
+      },
+      "4": {
+        "id": 41063,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41063
+        ]
+      },
+      "5": {
+        "id": 41064,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41064
+        ]
+      },
+      "6": {
+        "id": 41065,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41065
+        ]
+      },
+      "7": {
+        "id": 41066,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41066
+        ]
+      },
+      "8": {
+        "id": 41067,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41067
+        ]
+      },
+      "9": {
+        "id": 41068,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41068
+        ]
+      },
+      "10": {
+        "id": 41069,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41069
+        ]
+      },
+      "11": {
+        "id": 41070,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          41070
+        ]
+      },
+      "12": {
+        "id": 41071,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          41071
+        ]
+      }
+    }
+  },
+  "41100": {
+    "name": "Twin 128mm SK C/41 Dual-Purpose Gun Mount",
+    "desc": "The Twin 128mm SK C/41 Dual-Purpose Gun Mount was developed by Vickers Engineering for enhanced anti-aircraft capabilities.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 2,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41100.png",
+    "stats": {
+      "1": {
+        "id": 41100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 3,
+        "antiaircraft": 2,
+        "weapon_id": [
+          41100
+        ]
+      },
+      "2": {
+        "id": 41101,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 3,
+        "antiaircraft": 2,
+        "weapon_id": [
+          41101
+        ]
+      },
+      "3": {
+        "id": 41102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 3,
+        "antiaircraft": 2,
+        "weapon_id": [
+          41102
+        ]
+      },
+      "4": {
+        "id": 41103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 3,
+        "antiaircraft": 2,
+        "weapon_id": [
+          41103
+        ]
+      }
+    }
+  },
+  "41120": {
+    "name": "Twin 128mm SK C/41 Dual-Purpose Gun Mount",
+    "desc": "The Twin 128mm SK C/41 Dual-Purpose Gun Mount was developed by Vickers Engineering for enhanced anti-aircraft capabilities.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41100.png",
+    "stats": {
+      "1": {
+        "id": 41120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41120
+        ]
+      },
+      "2": {
+        "id": 41121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41121
+        ]
+      },
+      "3": {
+        "id": 41122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41122
+        ]
+      },
+      "4": {
+        "id": 41123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41123
+        ]
+      },
+      "5": {
+        "id": 41124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "6 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41124
+        ]
+      },
+      "6": {
+        "id": 41125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41125
+        ]
+      },
+      "7": {
+        "id": 41126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          41126
+        ]
+      }
+    }
+  },
+  "41140": {
+    "name": "Twin 128mm SK C/41 Dual-Purpose Gun Mount",
+    "desc": "The Twin 128mm SK C/41 Dual-Purpose Gun Mount was developed by Vickers Engineering for enhanced anti-aircraft capabilities.",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41100.png",
+    "stats": {
+      "1": {
+        "id": 41140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41140
+        ]
+      },
+      "2": {
+        "id": 41141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41141
+        ]
+      },
+      "3": {
+        "id": 41142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41142
+        ]
+      },
+      "4": {
+        "id": 41143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41143
+        ]
+      },
+      "5": {
+        "id": 41144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41144
+        ]
+      },
+      "6": {
+        "id": 41145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41145
+        ]
+      },
+      "7": {
+        "id": 41146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41146
+        ]
+      },
+      "8": {
+        "id": 41147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41147
+        ]
+      },
+      "9": {
+        "id": 41148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "9 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41148
+        ]
+      },
+      "10": {
+        "id": 41149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "10 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41149
+        ]
+      },
+      "11": {
+        "id": 41150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "11 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          41150
+        ]
+      },
+      "12": {
+        "id": 41151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "11 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "anti_siren": 1,
+        "weapon_id": [
+          41151
+        ]
+      }
+    }
+  },
+  "41160": {
+    "name": "Twin 128mm/45 SK C/41 Dual-Purpose Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/41160.png",
+    "stats": {
+      "1": {
+        "id": 41160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41160
+        ]
+      },
+      "2": {
+        "id": 41161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41161
+        ]
+      },
+      "3": {
+        "id": 41162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41162
+        ]
+      },
+      "4": {
+        "id": 41163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41163
+        ]
+      },
+      "5": {
+        "id": 41164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41164
+        ]
+      },
+      "6": {
+        "id": 41165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41165
+        ]
+      },
+      "7": {
+        "id": 41166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41166
+        ]
+      },
+      "8": {
+        "id": 41167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41167
+        ]
+      },
+      "9": {
+        "id": 41168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "14 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41168
+        ]
+      },
+      "10": {
+        "id": 41169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41169
+        ]
+      },
+      "11": {
+        "id": 41170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "16 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          41170
+        ]
+      },
+      "12": {
+        "id": 41171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "16 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          41171
+        ]
+      },
+      "13": {
+        "id": 41172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "16 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          41172
+        ]
+      },
+      "14": {
+        "id": 41173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "16 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          41173
+        ]
+      }
+    }
+  },
+  "85000": {
+    "name": "B-13 Twin 130mm B-2LM Main Gun",
+    "desc": "A 130mm naval artillery turret developed by the Northern Parliament that boasts superior performance in surface combat.",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/85000.png",
+    "stats": {
+      "1": {
+        "id": 85000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85000
+        ]
+      },
+      "2": {
+        "id": 85001,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          85001
+        ]
+      },
+      "3": {
+        "id": 85002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85002
+        ]
+      },
+      "4": {
+        "id": 85003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85003
+        ]
+      },
+      "5": {
+        "id": 85004,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "5 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85004
+        ]
+      },
+      "6": {
+        "id": 85005,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "6 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85005
+        ]
+      },
+      "7": {
+        "id": 85006,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "7 x 6",
+        "cannon": 12,
+        "weapon_id": [
+          85006
+        ]
+      }
+    }
+  },
+  "85040": {
+    "name": "B-13 Twin 130mm B-2LM Main Gun",
+    "desc": "A 130mm naval artillery turret developed by the Northern Parliament that boasts superior performance in surface combat.",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/85000.png",
+    "stats": {
+      "1": {
+        "id": 85040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85040
+        ]
+      },
+      "2": {
+        "id": 85041,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 35,
+        "weapon_id": [
+          85041
+        ]
+      },
+      "3": {
+        "id": 85042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85042
+        ]
+      },
+      "4": {
+        "id": 85043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85043
+        ]
+      },
+      "5": {
+        "id": 85044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85044
+        ]
+      },
+      "6": {
+        "id": 85045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85045
+        ]
+      },
+      "7": {
+        "id": 85046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85046
+        ]
+      },
+      "8": {
+        "id": 85047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85047
+        ]
+      },
+      "9": {
+        "id": 85048,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85048
+        ]
+      },
+      "10": {
+        "id": 85049,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85049
+        ]
+      },
+      "11": {
+        "id": 85050,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 6",
+        "cannon": 35,
+        "weapon_id": [
+          85050
+        ]
+      },
+      "12": {
+        "id": 85051,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 6",
+        "cannon": 35,
+        "anti_siren": 1,
+        "weapon_id": [
+          85051
+        ]
+      },
+      "13": {
+        "id": 85052,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "15 x 6",
+        "cannon": 35,
+        "anti_siren": 2,
+        "weapon_id": [
+          85052
+        ]
+      },
+      "14": {
+        "id": 85053,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "15 x 6",
+        "cannon": 35,
+        "anti_siren": 3,
+        "weapon_id": [
+          85053
+        ]
+      }
+    }
+  },
+  "85720": {
+    "name": "Single 130mm Model 1913 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/85720.png",
+    "stats": {
+      "1": {
+        "id": 85720,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85720
+        ]
+      },
+      "2": {
+        "id": 85721,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85721
+        ]
+      },
+      "3": {
+        "id": 85722,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85722
+        ]
+      },
+      "4": {
+        "id": 85723,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85723
+        ]
+      },
+      "5": {
+        "id": 85724,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85724
+        ]
+      },
+      "6": {
+        "id": 85725,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85725
+        ]
+      },
+      "7": {
+        "id": 85726,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85726
+        ]
+      },
+      "8": {
+        "id": 85727,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85727
+        ]
+      }
+    }
+  },
+  "90000": {
+    "name": "Single 130mm Mle 1924 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 1,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50000.png",
+    "stats": {
+      "1": {
+        "id": 90000,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 5",
+        "weapon_id": [
+          90000
+        ]
+      },
+      "2": {
+        "id": 90001,
+        "level": 2,
+        "enhance": "+1",
+        "weapon_id": [
+          90001
+        ]
+      },
+      "3": {
+        "id": 90002,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 5",
+        "weapon_id": [
+          90002
+        ]
+      },
+      "4": {
+        "id": 90003,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "4 x 5",
+        "weapon_id": [
+          90003
+        ]
+      }
+    }
+  },
+  "90020": {
+    "name": "Single 130mm Mle 1924 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50000.png",
+    "stats": {
+      "1": {
+        "id": 90020,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "3 x 5",
+        "cannon": 5,
+        "weapon_id": [
+          90020
+        ]
+      },
+      "2": {
+        "id": 90021,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "4 x 5",
+        "cannon": 5,
+        "weapon_id": [
+          90021
+        ]
+      },
+      "3": {
+        "id": 90022,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "4 x 5",
+        "cannon": 5,
+        "weapon_id": [
+          90022
+        ]
+      },
+      "4": {
+        "id": 90023,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "5 x 5",
+        "cannon": 5,
+        "weapon_id": [
+          90023
+        ]
+      }
+    }
+  },
+  "90040": {
+    "name": "Single 130mm Mle 1924 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50000.png",
+    "stats": {
+      "1": {
+        "id": 90040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90040
+        ]
+      },
+      "2": {
+        "id": 90041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90041
+        ]
+      },
+      "3": {
+        "id": 90042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90042
+        ]
+      },
+      "4": {
+        "id": 90043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90043
+        ]
+      },
+      "5": {
+        "id": 90044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "6 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90044
+        ]
+      },
+      "6": {
+        "id": 90045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "7 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90045
+        ]
+      },
+      "7": {
+        "id": 90046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "8 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90046
+        ]
+      },
+      "8": {
+        "id": 90047,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "8 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90047
+        ]
+      }
+    }
+  },
+  "90100": {
+    "name": "Single 138.6mm Mle 1929 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50100.png",
+    "stats": {
+      "1": {
+        "id": 90100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90100
+        ]
+      },
+      "2": {
+        "id": 90101,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          90101
+        ]
+      },
+      "3": {
+        "id": 90102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90102
+        ]
+      },
+      "4": {
+        "id": 90103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90103
+        ]
+      },
+      "5": {
+        "id": 90104,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90104
+        ]
+      },
+      "6": {
+        "id": 90105,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90105
+        ]
+      },
+      "7": {
+        "id": 90106,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 5",
+        "cannon": 12,
+        "weapon_id": [
+          90106
+        ]
+      }
+    }
+  },
+  "90120": {
+    "name": "Single 138.6mm Mle 1929 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50100.png",
+    "stats": {
+      "1": {
+        "id": 90120,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90120
+        ]
+      },
+      "2": {
+        "id": 90121,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90121
+        ]
+      },
+      "3": {
+        "id": 90122,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90122
+        ]
+      },
+      "4": {
+        "id": 90123,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90123
+        ]
+      },
+      "5": {
+        "id": 90124,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90124
+        ]
+      },
+      "6": {
+        "id": 90125,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90125
+        ]
+      },
+      "7": {
+        "id": 90126,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90126
+        ]
+      },
+      "8": {
+        "id": 90127,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90127
+        ]
+      },
+      "9": {
+        "id": 90128,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "12 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90128
+        ]
+      },
+      "10": {
+        "id": 90129,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "13 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90129
+        ]
+      },
+      "11": {
+        "id": 90130,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "14 x 5",
+        "cannon": 25,
+        "weapon_id": [
+          90130
+        ]
+      }
+    }
+  },
+  "90140": {
+    "name": "Single 138.6mm Mle 1929 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50100.png",
+    "stats": {
+      "1": {
+        "id": 90140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90140
+        ]
+      },
+      "2": {
+        "id": 90141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90141
+        ]
+      },
+      "3": {
+        "id": 90142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90142
+        ]
+      },
+      "4": {
+        "id": 90143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90143
+        ]
+      },
+      "5": {
+        "id": 90144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90144
+        ]
+      },
+      "6": {
+        "id": 90145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90145
+        ]
+      },
+      "7": {
+        "id": 90146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90146
+        ]
+      },
+      "8": {
+        "id": 90147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90147
+        ]
+      },
+      "9": {
+        "id": 90148,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90148
+        ]
+      },
+      "10": {
+        "id": 90149,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90149
+        ]
+      },
+      "11": {
+        "id": 90150,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 5",
+        "cannon": 35,
+        "weapon_id": [
+          90150
+        ]
+      },
+      "12": {
+        "id": 90151,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 5",
+        "cannon": 35,
+        "anti_siren": 1,
+        "weapon_id": [
+          90151
+        ]
+      },
+      "13": {
+        "id": 90152,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "15 x 5",
+        "cannon": 35,
+        "anti_siren": 2,
+        "weapon_id": [
+          90152
+        ]
+      },
+      "14": {
+        "id": 90153,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "15 x 5",
+        "cannon": 35,
+        "anti_siren": 3,
+        "weapon_id": [
+          90153
+        ]
+      }
+    }
+  },
+  "90160": {
+    "name": "Twin 138.6mm Mle 1934 Naval Gun",
+    "desc": "The twin 138.6mm guns that were mounted on the Mogador class of destroyers.",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50160.png",
+    "stats": {
+      "1": {
+        "id": 90160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "7 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90160
+        ]
+      },
+      "2": {
+        "id": 90161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "8 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90161
+        ]
+      },
+      "3": {
+        "id": 90162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "9 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90162
+        ]
+      },
+      "4": {
+        "id": 90163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "10 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90163
+        ]
+      },
+      "5": {
+        "id": 90164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "11 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90164
+        ]
+      },
+      "6": {
+        "id": 90165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "12 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90165
+        ]
+      },
+      "7": {
+        "id": 90166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "13 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90166
+        ]
+      },
+      "8": {
+        "id": 90167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "14 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90167
+        ]
+      },
+      "9": {
+        "id": 90168,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "15 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90168
+        ]
+      },
+      "10": {
+        "id": 90169,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "16 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90169
+        ]
+      },
+      "11": {
+        "id": 90170,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 6",
+        "cannon": 55,
+        "weapon_id": [
+          90170
+        ]
+      },
+      "12": {
+        "id": 90171,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "17 x 6",
+        "cannon": 55,
+        "anti_siren": 1,
+        "weapon_id": [
+          90171
+        ]
+      },
+      "13": {
+        "id": 90172,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "17 x 6",
+        "cannon": 55,
+        "anti_siren": 2,
+        "weapon_id": [
+          90172
+        ]
+      },
+      "14": {
+        "id": 90173,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "17 x 6",
+        "cannon": 55,
+        "anti_siren": 3,
+        "weapon_id": [
+          90173
+        ]
+      }
+    }
+  },
+  "90500": {
+    "name": "Twin 130mm Mle 1935 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50500.png",
+    "stats": {
+      "1": {
+        "id": 90500,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          90500
+        ]
+      },
+      "2": {
+        "id": 90501,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          90501
+        ]
+      },
+      "3": {
+        "id": 90502,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          90502
+        ]
+      },
+      "4": {
+        "id": 90503,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "10 x 2",
+        "cannon": 5,
+        "weapon_id": [
+          90503
+        ]
+      }
+    }
+  },
+  "90540": {
+    "name": "Twin 130mm Mle 1935 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50500.png",
+    "stats": {
+      "1": {
+        "id": 90540,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90540
+        ]
+      },
+      "2": {
+        "id": 90541,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          90541
+        ]
+      },
+      "3": {
+        "id": 90542,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90542
+        ]
+      },
+      "4": {
+        "id": 90543,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90543
+        ]
+      },
+      "5": {
+        "id": 90544,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90544
+        ]
+      },
+      "6": {
+        "id": 90545,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90545
+        ]
+      },
+      "7": {
+        "id": 90546,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90546
+        ]
+      },
+      "8": {
+        "id": 90547,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90547
+        ]
+      },
+      "9": {
+        "id": 90548,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90548
+        ]
+      },
+      "10": {
+        "id": 90549,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90549
+        ]
+      },
+      "11": {
+        "id": 90550,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 2",
+        "cannon": 25,
+        "weapon_id": [
+          90550
+        ]
+      },
+      "12": {
+        "id": 90551,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 2",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          90551
+        ]
+      }
+    }
+  },
+  "90700": {
+    "name": "Single 138.6mm Mle 1927 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50700.png",
+    "stats": {
+      "1": {
+        "id": 90700,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          90700
+        ]
+      },
+      "2": {
+        "id": 90701,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          90701
+        ]
+      },
+      "3": {
+        "id": 90702,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          90702
+        ]
+      },
+      "4": {
+        "id": 90703,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          90703
+        ]
+      }
+    }
+  },
+  "90720": {
+    "name": "Single 138.6mm Mle 1927 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50700.png",
+    "stats": {
+      "1": {
+        "id": 90720,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90720
+        ]
+      },
+      "2": {
+        "id": 90721,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90721
+        ]
+      },
+      "3": {
+        "id": 90722,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90722
+        ]
+      },
+      "4": {
+        "id": 90723,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90723
+        ]
+      },
+      "5": {
+        "id": 90724,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90724
+        ]
+      },
+      "6": {
+        "id": 90725,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "12 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90725
+        ]
+      },
+      "7": {
+        "id": 90726,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90726
+        ]
+      }
+    }
+  },
+  "90740": {
+    "name": "Single 138.6mm Mle 1927 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/50700.png",
+    "stats": {
+      "1": {
+        "id": 90740,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90740
+        ]
+      },
+      "2": {
+        "id": 90741,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90741
+        ]
+      },
+      "3": {
+        "id": 90742,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90742
+        ]
+      },
+      "4": {
+        "id": 90743,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90743
+        ]
+      },
+      "5": {
+        "id": 90744,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90744
+        ]
+      },
+      "6": {
+        "id": 90745,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90745
+        ]
+      },
+      "7": {
+        "id": 90746,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90746
+        ]
+      },
+      "8": {
+        "id": 90747,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90747
+        ]
+      },
+      "9": {
+        "id": 90748,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90748
+        ]
+      },
+      "10": {
+        "id": 90749,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90749
+        ]
+      },
+      "11": {
+        "id": 90750,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          90750
+        ]
+      },
+      "12": {
+        "id": 90751,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "19 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          90751
+        ]
+      }
+    }
+  },
+  "90760": {
+    "name": "Single 138.6mm Mle 1923 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/90760.png",
+    "stats": {
+      "1": {
+        "id": 90760,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90760
+        ]
+      },
+      "2": {
+        "id": 90761,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90761
+        ]
+      },
+      "3": {
+        "id": 90762,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90762
+        ]
+      },
+      "4": {
+        "id": 90763,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90763
+        ]
+      },
+      "5": {
+        "id": 90764,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90764
+        ]
+      },
+      "6": {
+        "id": 90765,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90765
+        ]
+      },
+      "7": {
+        "id": 90766,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          90766
+        ]
+      },
+      "8": {
+        "id": 90767,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "anti_siren": 1,
+        "weapon_id": [
+          90767
+        ]
+      }
+    }
+  },
+  "95400": {
+    "name": "Twin 120mm M1936 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55400.png",
+    "stats": {
+      "1": {
+        "id": 95400,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95400
+        ]
+      },
+      "2": {
+        "id": 95401,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          95401
+        ]
+      },
+      "3": {
+        "id": 95402,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95402
+        ]
+      },
+      "4": {
+        "id": 95403,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95403
+        ]
+      }
+    }
+  },
+  "95420": {
+    "name": "Twin 120mm M1936 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55400.png",
+    "stats": {
+      "1": {
+        "id": 95420,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95420
+        ]
+      },
+      "2": {
+        "id": 95421,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          95421
+        ]
+      },
+      "3": {
+        "id": 95422,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95422
+        ]
+      },
+      "4": {
+        "id": 95423,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95423
+        ]
+      },
+      "5": {
+        "id": 95424,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95424
+        ]
+      },
+      "6": {
+        "id": 95425,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95425
+        ]
+      },
+      "7": {
+        "id": 95426,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95426
+        ]
+      }
+    }
+  },
+  "95440": {
+    "name": "Twin 120mm M1936 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55400.png",
+    "stats": {
+      "1": {
+        "id": 95440,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95440
+        ]
+      },
+      "2": {
+        "id": 95441,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95441
+        ]
+      },
+      "3": {
+        "id": 95442,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95442
+        ]
+      },
+      "4": {
+        "id": 95443,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95443
+        ]
+      },
+      "5": {
+        "id": 95444,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95444
+        ]
+      },
+      "6": {
+        "id": 95445,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95445
+        ]
+      },
+      "7": {
+        "id": 95446,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95446
+        ]
+      },
+      "8": {
+        "id": 95447,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95447
+        ]
+      },
+      "9": {
+        "id": 95448,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95448
+        ]
+      },
+      "10": {
+        "id": 95449,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95449
+        ]
+      },
+      "11": {
+        "id": 95450,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95450
+        ]
+      },
+      "12": {
+        "id": 95451,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          95451
+        ]
+      }
+    }
+  },
+  "95460": {
+    "name": "Twin 120mm M1933 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55460.png",
+    "stats": {
+      "1": {
+        "id": 95460,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95460
+        ]
+      },
+      "2": {
+        "id": 95461,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12,
+        "weapon_id": [
+          95461
+        ]
+      },
+      "3": {
+        "id": 95462,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "5 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95462
+        ]
+      },
+      "4": {
+        "id": 95463,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95463
+        ]
+      },
+      "5": {
+        "id": 95464,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95464
+        ]
+      },
+      "6": {
+        "id": 95465,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95465
+        ]
+      },
+      "7": {
+        "id": 95466,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95466
+        ]
+      },
+      "8": {
+        "id": 95467,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "9 x 4",
+        "cannon": 12,
+        "weapon_id": [
+          95467
+        ]
+      }
+    }
+  },
+  "95560": {
+    "name": "Twin 120mm Main Gun Mount",
+    "desc": "说明未填写",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 2,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55560.png",
+    "stats": {
+      "1": {
+        "id": 95560,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95560
+        ]
+      },
+      "2": {
+        "id": 95561,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "weapon_id": [
+          95561
+        ]
+      },
+      "3": {
+        "id": 95562,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95562
+        ]
+      },
+      "4": {
+        "id": 95563,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 5,
+        "weapon_id": [
+          95563
+        ]
+      }
+    }
+  },
+  "95580": {
+    "name": "Twin 120mm Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55560.png",
+    "stats": {
+      "1": {
+        "id": 95580,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95580
+        ]
+      },
+      "2": {
+        "id": 95581,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95581
+        ]
+      },
+      "3": {
+        "id": 95582,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95582
+        ]
+      },
+      "4": {
+        "id": 95583,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95583
+        ]
+      },
+      "5": {
+        "id": 95584,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95584
+        ]
+      },
+      "6": {
+        "id": 95585,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95585
+        ]
+      },
+      "7": {
+        "id": 95586,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95586
+        ]
+      },
+      "8": {
+        "id": 95587,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95587
+        ]
+      },
+      "9": {
+        "id": 95588,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95588
+        ]
+      },
+      "10": {
+        "id": 95589,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95589
+        ]
+      },
+      "11": {
+        "id": 95590,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95590
+        ]
+      },
+      "12": {
+        "id": 95591,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          95591
+        ]
+      }
+    }
+  },
+  "95920": {
+    "name": "135mm Twin Main Gun Mount Model 1938",
+    "desc": "A 135mm twin main gun mount used by the Capitani Romani class.",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55920.png",
+    "stats": {
+      "1": {
+        "id": 95920,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95920
+        ]
+      },
+      "2": {
+        "id": 95921,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95921
+        ]
+      },
+      "3": {
+        "id": 95922,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95922
+        ]
+      },
+      "4": {
+        "id": 95923,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "6 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95923
+        ]
+      },
+      "5": {
+        "id": 95924,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "7 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95924
+        ]
+      },
+      "6": {
+        "id": 95925,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "8 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95925
+        ]
+      },
+      "7": {
+        "id": 95926,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "9 x 4",
+        "cannon": 7,
+        "antiaircraft": 5,
+        "weapon_id": [
+          95926
+        ]
+      }
+    }
+  },
+  "95940": {
+    "name": "135mm Twin Main Gun Mount Model 1938",
+    "desc": "A 135mm twin main gun mount used by the Capitani Romani class.",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55920.png",
+    "stats": {
+      "1": {
+        "id": 95940,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95940
+        ]
+      },
+      "2": {
+        "id": 95941,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95941
+        ]
+      },
+      "3": {
+        "id": 95942,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95942
+        ]
+      },
+      "4": {
+        "id": 95943,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95943
+        ]
+      },
+      "5": {
+        "id": 95944,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95944
+        ]
+      },
+      "6": {
+        "id": 95945,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95945
+        ]
+      },
+      "7": {
+        "id": 95946,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95946
+        ]
+      },
+      "8": {
+        "id": 95947,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95947
+        ]
+      },
+      "9": {
+        "id": 95948,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "12 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95948
+        ]
+      },
+      "10": {
+        "id": 95949,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "13 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95949
+        ]
+      },
+      "11": {
+        "id": 95950,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "14 x 4",
+        "cannon": 15,
+        "antiaircraft": 10,
+        "weapon_id": [
+          95950
+        ]
+      }
+    }
+  },
+  "95960": {
+    "name": "135mm Twin Main Gun Mount Model 1938",
+    "desc": "A 135mm twin main gun mount used by the Capitani Romani class.",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/55920.png",
+    "stats": {
+      "1": {
+        "id": 95960,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "4 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95960
+        ]
+      },
+      "2": {
+        "id": 95961,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "5 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95961
+        ]
+      },
+      "3": {
+        "id": 95962,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95962
+        ]
+      },
+      "4": {
+        "id": 95963,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95963
+        ]
+      },
+      "5": {
+        "id": 95964,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95964
+        ]
+      },
+      "6": {
+        "id": 95965,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95965
+        ]
+      },
+      "7": {
+        "id": 95966,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95966
+        ]
+      },
+      "8": {
+        "id": 95967,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95967
+        ]
+      },
+      "9": {
+        "id": 95968,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95968
+        ]
+      },
+      "10": {
+        "id": 95969,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "15 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95969
+        ]
+      },
+      "11": {
+        "id": 95970,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "17 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          95970
+        ]
+      },
+      "12": {
+        "id": 95971,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "17 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          95971
+        ]
+      },
+      "13": {
+        "id": 95972,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "17 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          95972
+        ]
+      },
+      "14": {
+        "id": 95973,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "17 x 4",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          95973
+        ]
+      }
+    }
+  },
+  "96100": {
+    "name": "Prototype Twin 130mm Model 1936 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "PRAN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 5,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/56100.png",
+    "stats": {
+      "1": {
+        "id": 96100,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96100
+        ]
+      },
+      "2": {
+        "id": 96101,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96101
+        ]
+      },
+      "3": {
+        "id": 96102,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "6 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96102
+        ]
+      },
+      "4": {
+        "id": 96103,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "7 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96103
+        ]
+      },
+      "5": {
+        "id": 96104,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "8 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96104
+        ]
+      },
+      "6": {
+        "id": 96105,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "9 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96105
+        ]
+      },
+      "7": {
+        "id": 96106,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "10 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96106
+        ]
+      },
+      "8": {
+        "id": 96107,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96107
+        ]
+      },
+      "9": {
+        "id": 96108,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "12 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96108
+        ]
+      },
+      "10": {
+        "id": 96109,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "13 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96109
+        ]
+      },
+      "11": {
+        "id": 96110,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "weapon_id": [
+          96110
+        ]
+      },
+      "12": {
+        "id": 96111,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 1,
+        "weapon_id": [
+          96111
+        ]
+      },
+      "13": {
+        "id": 96112,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 2,
+        "weapon_id": [
+          96112
+        ]
+      },
+      "14": {
+        "id": 96113,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "14 x 6",
+        "cannon": 35,
+        "antiaircraft": 10,
+        "anti_siren": 3,
+        "weapon_id": [
+          96113
+        ]
+      }
+    }
+  },
+  "150040": {
+    "name": "Old Heavy Cannon",
+    "desc": "A heavy Age of Sail cannon imbued with a strange power.",
+    "label": [
+      "MOT",
+      "SF",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 96,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/150040.png",
+    "stats": {
+      "1": {
+        "id": 150040,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150040
+        ]
+      },
+      "2": {
+        "id": 150041,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150041
+        ]
+      },
+      "3": {
+        "id": 150042,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150042
+        ]
+      },
+      "4": {
+        "id": 150043,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150043
+        ]
+      },
+      "5": {
+        "id": 150044,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150044
+        ]
+      },
+      "6": {
+        "id": 150045,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "20 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150045
+        ]
+      },
+      "7": {
+        "id": 150046,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "22 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          150046
+        ]
+      }
+    }
+  },
+  "150080": {
+    "name": "Old Heavy Cannon",
+    "desc": "A heavy Age of Sail cannon imbued with a strange power.",
+    "label": [
+      "MOT",
+      "SF",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 96,
+    "type": 1,
+    "skill": {},
+    "icon": "img/equipment/150040.png",
+    "stats": {
+      "1": {
+        "id": 150080,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "10 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150080
+        ]
+      },
+      "2": {
+        "id": 150081,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "12 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150081
+        ]
+      },
+      "3": {
+        "id": 150082,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "14 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150082
+        ]
+      },
+      "4": {
+        "id": 150083,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "16 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150083
+        ]
+      },
+      "5": {
+        "id": 150084,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "18 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150084
+        ]
+      },
+      "6": {
+        "id": 150085,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "20 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150085
+        ]
+      },
+      "7": {
+        "id": 150086,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "22 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150086
+        ]
+      },
+      "8": {
+        "id": 150087,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "24 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150087
+        ]
+      },
+      "9": {
+        "id": 150088,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "26 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150088
+        ]
+      },
+      "10": {
+        "id": 150089,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150089
+        ]
+      },
+      "11": {
+        "id": 150090,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          150090
+        ]
+      },
+      "12": {
+        "id": 150091,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          150091
+        ]
+      },
+      "13": {
+        "id": 150092,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          150092
+        ]
+      },
+      "14": {
+        "id": 150093,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          150093
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 301480,
+      "gid": 30148,
+      "name": "Yamakaze",
+      "type": "Default",
+      "desc": "Shiratsuyu-class destroyer number eight – Yamakaze.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 285,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/30148/301480/painting.png",
+      "painting_n": "img/skin/30148/301480/painting_n.png",
+      "banner": "img/skin/30148/301480/banner.png",
+      "chibi": "img/skin/30148/301480/chibi.png",
+      "icon": "img/skin/30148/301480/icon.png",
+      "qicon": "img/skin/30148/301480/qicon.png",
+      "shipyard": "img/skin/30148/301480/shipyard.png",
+      "spine_chibi": "spine/chibi/shanfeng/shanfeng",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 301481,
+      "gid": 30148,
+      "name": "Now for a Magic Trick!",
+      "type": "Bunny Girl",
+      "desc": "Voilà! Don't go anywhere, Commander! My magic show will start in just a sec! To start with, let's hear a roar! Roooaar!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 285,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/145.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/30148/301481/painting.png",
+      "painting_n": "img/skin/30148/301481/painting_n.png",
+      "banner": "img/skin/30148/301481/banner.png",
+      "chibi": "img/skin/30148/301481/chibi.png",
+      "icon": "img/skin/30148/301481/icon.png",
+      "qicon": "img/skin/30148/301481/qicon.png",
+      "shipyard": "img/skin/30148/301481/shipyard.png",
+      "spine_chibi": "spine/chibi/shanfeng/shanfeng_2",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": 201250,
+      "gid": 20125,
+      "name": "Jersey",
+      "type": "Default",
+      "desc": "J-class destroyer – Jersey, Hull Number F72!",
+      "tag": [],
+      "illustrator": 40,
+      "illustrator2": -1,
+      "voice_actor": 177,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/20125/201250/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/20125/201250/banner.png",
+      "chibi": "img/skin/20125/201250/chibi.png",
+      "icon": "img/skin/20125/201250/icon.png",
+      "qicon": "img/skin/20125/201250/qicon.png",
+      "shipyard": "img/skin/20125/201250/shipyard.png",
+      "spine_chibi": "spine/chibi/zexi/zexi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    }
+  ]
+}

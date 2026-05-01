@@ -1,0 +1,151 @@
+{
+  "id": 196,
+  "gid": 30307,
+  "cid": 1,
+  "sid": [
+    303071,
+    303072,
+    303073,
+    303074
+  ],
+  "name": "Myoukou",
+  "codename": "IJN Myoukou",
+  "class": "Myoukou Class",
+  "nationality": 3,
+  "obtain": [
+    "Explore Chapter 5-1"
+  ],
+  "type": 3,
+  "rarity": 3,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "C",
+    "E",
+    "C",
+    "C",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "Torpedo efficiency +15%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.3
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.65
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 918,
+    "firepower": 36,
+    "torpedo": 28,
+    "antiair": 36,
+    "aviation": 0,
+    "reload": 60,
+    "accuracy": 43,
+    "evasion": 14,
+    "speed": 32.4,
+    "luck": 62,
+    "asw": 0
+  },
+  "growth": {
+    "health": 5339,
+    "firepower": 199,
+    "torpedo": 152,
+    "antiair": 198,
+    "aviation": 0,
+    "reload": 166,
+    "accuracy": 128,
+    "evasion": 80,
+    "speed": 32.4,
+    "luck": 62,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 36,
+    "torpedo": 27,
+    "reload": 45
+  },
+  "skill": {
+    "4041": {
+      "id": 4041,
+      "parent": 4041,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "22231": {
+      "id": 22231,
+      "parent": 22231,
+      "upgrade": 22232,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "22232": {
+      "id": 22232,
+      "parent": 22231,
+      "upgrade": null,
+      "downgrade": 22231,
+      "requirement": "Limit Break 3"
+    }
+  }
+}

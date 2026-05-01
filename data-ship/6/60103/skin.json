@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601030,
+      "gid": 60103,
+      "name": "Vincenzo Gioberti",
+      "type": "Default",
+      "desc": "Alfredo Oriani-class destroyer – Vincenzo Gioberti.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 262,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60103/601030/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/60103/601030/banner.png",
+      "chibi": "img/skin/60103/601030/chibi.png",
+      "icon": "img/skin/60103/601030/icon.png",
+      "qicon": "img/skin/60103/601030/qicon.png",
+      "shipyard": "img/skin/60103/601030/shipyard.png",
+      "spine_chibi": "spine/chibi/wenqinzuojiaobeidi/wenqinzuojiaobeidi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601032,
+      "gid": 60103,
+      "name": "Fair Lady's Invitation",
+      "type": "Party Dress",
+      "desc": "\"To refuse a fair signorina's invitation would be most uncouth\"... Hehe~ Now, Commander, would you like to partake in some refreshments? Rest assured, they're all non-alcoholic♪",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 262,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/146.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/60103/601032/painting.png",
+      "painting_n": "img/skin/60103/601032/painting_n.png",
+      "banner": "img/skin/60103/601032/banner.png",
+      "chibi": "img/skin/60103/601032/chibi.png",
+      "icon": "img/skin/60103/601032/icon.png",
+      "qicon": "img/skin/60103/601032/qicon.png",
+      "shipyard": "img/skin/60103/601032/shipyard.png",
+      "spine_chibi": "spine/chibi/wenqinzuojiaobeidi/wenqinzuojiaobeidi_3",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

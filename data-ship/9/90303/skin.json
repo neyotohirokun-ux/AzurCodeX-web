@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 903030,
+      "gid": 90303,
+      "name": "Dupleix",
+      "type": "Default",
+      "desc": "Suffren-class heavy cruiser – Dupleix.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 420,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/90303/903030/painting.png",
+      "painting_n": "img/skin/90303/903030/painting_n.png",
+      "banner": "img/skin/90303/903030/banner.png",
+      "chibi": "img/skin/90303/903030/chibi.png",
+      "icon": "img/skin/90303/903030/icon.png",
+      "qicon": "img/skin/90303/903030/qicon.png",
+      "shipyard": "img/skin/90303/903030/shipyard.png",
+      "spine_chibi": "spine/chibi/dipulaikesi/dipulaikesi",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 903031,
+      "gid": 90303,
+      "name": "Final Check",
+      "type": "Race Queen",
+      "desc": "Good timing, Commander. There are some parameters I need you to check... Come on, this is safety we're talking about. As an inspector, I can't just ignore them. Anyway, come sit next to me so we can get started.",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 420,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/186.png",
+      "background2": null,
+      "painting": "img/skin/90303/903031/painting.png",
+      "painting_n": "img/skin/90303/903031/painting_n.png",
+      "banner": "img/skin/90303/903031/banner.png",
+      "chibi": "img/skin/90303/903031/chibi.png",
+      "icon": "img/skin/90303/903031/icon.png",
+      "qicon": "img/skin/90303/903031/qicon.png",
+      "shipyard": "img/skin/90303/903031/shipyard.png",
+      "spine_chibi": "spine/chibi/dipulaikesi/dipulaikesi_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

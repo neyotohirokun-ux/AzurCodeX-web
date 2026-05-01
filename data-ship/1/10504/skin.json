@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 105040,
+      "gid": 10504,
+      "name": "Arizona",
+      "type": "Default",
+      "desc": "Pennsylvania-class Battleship – Arizona, Hull Number BB-39!",
+      "tag": [],
+      "illustrator": 11,
+      "illustrator2": -1,
+      "voice_actor": 37,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/10504/105040/painting.png",
+      "painting_n": null,
+      "banner": "img/skin/10504/105040/banner.png",
+      "chibi": "img/skin/10504/105040/chibi.png",
+      "icon": "img/skin/10504/105040/icon.png",
+      "qicon": "img/skin/10504/105040/qicon.png",
+      "shipyard": "img/skin/10504/105040/shipyard.png",
+      "spine_chibi": "spine/chibi/yalisangna/yalisangna",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 105041,
+      "gid": 10504,
+      "name": "Enchantress from Afar",
+      "type": "Empery'S Fineries",
+      "desc": "I heard these clothes are from the Dragon Empery, but they're a bit... Umm, it's not that I dislike them, but the thought of you seeing me in them is rather embarrassing... B-but it's not like I'm going to start crying...",
+      "tag": [
+        "dynamicbg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 37,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/144.png",
+      "background2": "img/bgii/1102.png",
+      "painting": "img/skin/10504/105041/painting.png",
+      "painting_n": "img/skin/10504/105041/painting_n.png",
+      "banner": "img/skin/10504/105041/banner.png",
+      "chibi": "img/skin/10504/105041/chibi.png",
+      "icon": "img/skin/10504/105041/icon.png",
+      "qicon": "img/skin/10504/105041/qicon.png",
+      "shipyard": "img/skin/10504/105041/shipyard.png",
+      "spine_chibi": "spine/chibi/yalisangna/yalisangna_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 800
+    }
+  ]
+}

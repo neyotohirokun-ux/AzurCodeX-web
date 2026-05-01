@@ -1,0 +1,158 @@
+{
+  "id": 713,
+  "gid": 960016,
+  "cid": 1,
+  "sid": [
+    9600161,
+    9600162,
+    9600163,
+    9600164
+  ],
+  "name": "Adventure",
+  "codename": "MOT Adventure",
+  "class": "Adventure",
+  "nationality": 96,
+  "obtain": [
+    "Event: Tempesta and Islas de Libertád"
+  ],
+  "type": 22,
+  "rarity": 4,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "E",
+    "E",
+    "C",
+    "E",
+    "B"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun efficiency +10%",
+      "Improve Hunting Range"
+    ],
+    [
+      "Improve All Out Assault",
+      "Main gun efficiency +10%",
+      "Main gun base +1",
+      "Improve Hunting Range"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.2
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "3": {
+      "default": 100,
+      "slot": 3,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 334,
+    "firepower": 33,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 61,
+    "evasion": 28,
+    "speed": 18,
+    "luck": 22,
+    "asw": 0
+  },
+  "growth": {
+    "health": 9503,
+    "firepower": 459,
+    "torpedo": 0,
+    "antiair": 0,
+    "aviation": 0,
+    "reload": 465,
+    "accuracy": 875,
+    "evasion": 532,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 33,
+    "reload": 50
+  },
+  "skill": {
+    "30541": {
+      "id": 30541,
+      "parent": 30541,
+      "upgrade": 30542,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "30542": {
+      "id": 30542,
+      "parent": 30541,
+      "upgrade": null,
+      "downgrade": 30541,
+      "requirement": "Limit Break 3"
+    },
+    "151700": {
+      "id": 151700,
+      "parent": 151700,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "151720": {
+      "id": 151720,
+      "parent": 151720,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

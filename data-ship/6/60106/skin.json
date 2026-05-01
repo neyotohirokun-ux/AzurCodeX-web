@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 601060,
+      "gid": 60106,
+      "name": "Nicoloso da Recco",
+      "type": "Default",
+      "desc": "Navigatori-class destroyer – Nicoloso da Recco.",
+      "tag": [],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 269,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/60106/601060/painting.png",
+      "painting_n": "img/skin/60106/601060/painting_n.png",
+      "banner": "img/skin/60106/601060/banner.png",
+      "chibi": "img/skin/60106/601060/chibi.png",
+      "icon": "img/skin/60106/601060/icon.png",
+      "qicon": "img/skin/60106/601060/qicon.png",
+      "shipyard": "img/skin/60106/601060/shipyard.png",
+      "spine_chibi": "spine/chibi/daleike/daleike",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 601061,
+      "gid": 60106,
+      "name": "To a Smashing Voyage!",
+      "type": "Swimsuits",
+      "desc": "I know this one! It's that Sakura Empire watermelon-smashing game! Just put the melon over there, Commander! ...Relax, it'll be fine! Have some faith in my navigator's intuition! Ready? Then let's go!",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": -1,
+      "illustrator2": -1,
+      "voice_actor": 269,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/106.png",
+      "background2": null,
+      "painting": "img/skin/60106/601061/painting.png",
+      "painting_n": "img/skin/60106/601061/painting_n.png",
+      "banner": "img/skin/60106/601061/banner.png",
+      "chibi": "img/skin/60106/601061/chibi.png",
+      "icon": "img/skin/60106/601061/icon.png",
+      "qicon": "img/skin/60106/601061/qicon.png",
+      "shipyard": "img/skin/60106/601061/shipyard.png",
+      "spine_chibi": "spine/chibi/daleike/daleike_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 780
+    }
+  ]
+}

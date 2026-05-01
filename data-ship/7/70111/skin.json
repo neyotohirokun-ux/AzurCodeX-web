@@ -1,0 +1,58 @@
+{
+  "skins": [
+    {
+      "id": 701110,
+      "gid": 70111,
+      "name": "Ognevoy",
+      "type": "Default",
+      "desc": "Project 30K Ognevoy-class destroyer – Ognevoy.",
+      "tag": [],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 399,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": null,
+      "background2": null,
+      "painting": "img/skin/70111/701110/painting.png",
+      "painting_n": "img/skin/70111/701110/painting_n.png",
+      "banner": "img/skin/70111/701110/banner.png",
+      "chibi": "img/skin/70111/701110/chibi.png",
+      "icon": "img/skin/70111/701110/icon.png",
+      "qicon": "img/skin/70111/701110/qicon.png",
+      "shipyard": "img/skin/70111/701110/shipyard.png",
+      "spine_chibi": "spine/chibi/huoli/huoli",
+      "spine": null,
+      "live2d": null,
+      "cost": null
+    },
+    {
+      "id": 701111,
+      "gid": 70111,
+      "name": "Blue Nova",
+      "type": "Special Exercise",
+      "desc": "I'm Ognevoy, the newest policewoman on the block! I've come to arrest you, fugitive! Give yourself up now! I'm going to– Ah! Oh gosh! ...Can I please get a cuter role instead?",
+      "tag": [
+        "bg"
+      ],
+      "illustrator": 1,
+      "illustrator2": -1,
+      "voice_actor": 399,
+      "voice_actor2": -1,
+      "bgm": null,
+      "background": "img/bgii/154.png",
+      "background2": null,
+      "painting": "img/skin/70111/701111/painting.png",
+      "painting_n": "img/skin/70111/701111/painting_n.png",
+      "banner": "img/skin/70111/701111/banner.png",
+      "chibi": "img/skin/70111/701111/chibi.png",
+      "icon": "img/skin/70111/701111/icon.png",
+      "qicon": "img/skin/70111/701111/qicon.png",
+      "shipyard": "img/skin/70111/701111/shipyard.png",
+      "spine_chibi": "spine/chibi/huoli/huoli_2",
+      "spine": null,
+      "live2d": null,
+      "cost": 880
+    }
+  ]
+}

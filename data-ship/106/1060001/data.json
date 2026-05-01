@@ -1,0 +1,144 @@
+{
+  "id": 10061,
+  "gid": 1060001,
+  "cid": 1,
+  "sid": [
+    10600011,
+    10600012,
+    10600013,
+    10600014
+  ],
+  "name": "Marie Rose",
+  "codename": "Marie Rose",
+  "class": "Unknown",
+  "nationality": 106,
+  "obtain": [
+    "Event: Vacation Lane"
+  ],
+  "type": 1,
+  "rarity": 5,
+  "armor": 1,
+  "hexagon": [
+    "C",
+    "A",
+    "E",
+    "A",
+    "D",
+    "D"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Torpedo efficiency +5%"
+    ],
+    [
+      "Torpedo base +1",
+      "Torpedo preload +1",
+      "Torpedo efficiency +10%"
+    ],
+    [
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 100,
+      "slot": 1,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 106,
+      "slot": 2,
+      "type": [
+        5
+      ],
+      "mount": 2,
+      "preload": 1,
+      "efficiency": 1.4
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.15
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10,
+        14
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 329,
+    "firepower": 17,
+    "torpedo": 98,
+    "antiair": 33,
+    "aviation": 0,
+    "reload": 82,
+    "accuracy": 71,
+    "evasion": 71,
+    "speed": 42.6,
+    "luck": 78,
+    "asw": 52
+  },
+  "growth": {
+    "health": 9370,
+    "firepower": 227,
+    "torpedo": 1169,
+    "antiair": 723,
+    "aviation": 0,
+    "reload": 564,
+    "accuracy": 1093,
+    "evasion": 1320,
+    "speed": 0,
+    "luck": 0,
+    "asw": 580
+  },
+  "enhance": {
+    "firepower": 17,
+    "torpedo": 97,
+    "reload": 61
+  },
+  "skill": {
+    "106010": {
+      "id": 106010,
+      "parent": 106010,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "106020": {
+      "id": 106020,
+      "parent": 106020,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    }
+  }
+}

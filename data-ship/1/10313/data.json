@@ -1,0 +1,158 @@
+{
+  "id": 364,
+  "gid": 10313,
+  "cid": 1,
+  "sid": [
+    103131,
+    103132,
+    103133,
+    103134
+  ],
+  "name": "Minneapolis",
+  "codename": "USS Minneapolis",
+  "class": "New Orleans Class",
+  "nationality": 1,
+  "obtain": [
+    "Event: Fallen Wings",
+    "Medal Shop (when listed)",
+    "Requisition (random chance)"
+  ],
+  "type": 3,
+  "rarity": 5,
+  "armor": 2,
+  "hexagon": [
+    "B",
+    "E",
+    "E",
+    "C",
+    "B",
+    "A"
+  ],
+  "share_group": [],
+  "breakout": [
+    [
+      "Unlock All Out Assault I",
+      "Main gun efficiency +5%"
+    ],
+    [
+      "Main gun base +1",
+      "Main gun efficiency +10%"
+    ],
+    [
+      "Improve All Out Assault",
+      "All weapons' efficiency +5%"
+    ]
+  ],
+  "equipment": {
+    "1": {
+      "default": 102,
+      "slot": 1,
+      "type": [
+        3
+      ],
+      "mount": 2,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "2": {
+      "default": 100,
+      "slot": 2,
+      "type": [
+        1
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 0.7
+    },
+    "3": {
+      "default": 104,
+      "slot": 3,
+      "type": [
+        6
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1.25
+    },
+    "4": {
+      "default": null,
+      "slot": 4,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    },
+    "5": {
+      "default": null,
+      "slot": 5,
+      "type": [
+        10
+      ],
+      "mount": 1,
+      "preload": 0,
+      "efficiency": 1
+    }
+  },
+  "base": {
+    "health": 717,
+    "firepower": 48,
+    "torpedo": 0,
+    "antiair": 46,
+    "aviation": 0,
+    "reload": 67,
+    "accuracy": 42,
+    "evasion": 9,
+    "speed": 26.16,
+    "luck": 76,
+    "asw": 0
+  },
+  "growth": {
+    "health": 18078,
+    "firepower": 657,
+    "torpedo": 0,
+    "antiair": 1011,
+    "aviation": 0,
+    "reload": 467,
+    "accuracy": 665,
+    "evasion": 377,
+    "speed": 0,
+    "luck": 0,
+    "asw": 0
+  },
+  "enhance": {
+    "firepower": 47,
+    "reload": 50
+  },
+  "skill": {
+    "11690": {
+      "id": 11690,
+      "parent": 11690,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "11710": {
+      "id": 11710,
+      "parent": 11710,
+      "upgrade": null,
+      "downgrade": null,
+      "requirement": "Default"
+    },
+    "20241": {
+      "id": 20241,
+      "parent": 20241,
+      "upgrade": 20242,
+      "downgrade": null,
+      "requirement": "Limit Break 1"
+    },
+    "20242": {
+      "id": 20242,
+      "parent": 20241,
+      "upgrade": null,
+      "downgrade": 20241,
+      "requirement": "Limit Break 3"
+    }
+  }
+}
